@@ -48,8 +48,13 @@ namespace VirtualChem.Forms
             this.LogoPanelBottomMargin_Panel = new System.Windows.Forms.Panel();
             this.LogoPanelTopMargin_Panel = new System.Windows.Forms.Panel();
             this.Logo_Panel = new System.Windows.Forms.Panel();
+            this.Logo_PictureBox = new System.Windows.Forms.PictureBox();
+            this.LogoHeader_PictureBox = new System.Windows.Forms.PictureBox();
             this.Main_Panel.SuspendLayout();
             this.Inner_Panel.SuspendLayout();
+            this.Logo_Panel.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo_PictureBox)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.LogoHeader_PictureBox)).BeginInit();
             this.SuspendLayout();
             // 
             // Main_Panel
@@ -226,11 +231,35 @@ namespace VirtualChem.Forms
             // 
             // Logo_Panel
             // 
+            this.Logo_Panel.Controls.Add(this.LogoHeader_PictureBox);
+            this.Logo_Panel.Controls.Add(this.Logo_PictureBox);
             this.Logo_Panel.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Logo_Panel.Location = new System.Drawing.Point(50, 50);
             this.Logo_Panel.Name = "Logo_Panel";
             this.Logo_Panel.Size = new System.Drawing.Size(192, 192);
             this.Logo_Panel.TabIndex = 12;
+            // 
+            // Logo_PictureBox
+            // 
+            this.Logo_PictureBox.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Logo_PictureBox.Image = global::VirtualChem.VirtualChem_Resources.VirtualChem_LogoDrawingIcon;
+            this.Logo_PictureBox.Location = new System.Drawing.Point(0, 0);
+            this.Logo_PictureBox.Name = "Logo_PictureBox";
+            this.Logo_PictureBox.Size = new System.Drawing.Size(192, 149);
+            this.Logo_PictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.Logo_PictureBox.TabIndex = 0;
+            this.Logo_PictureBox.TabStop = false;
+            // 
+            // LogoHeader_PictureBox
+            // 
+            this.LogoHeader_PictureBox.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.LogoHeader_PictureBox.Image = global::VirtualChem.VirtualChem_Resources.VirtualChem_LogoIcon;
+            this.LogoHeader_PictureBox.Location = new System.Drawing.Point(0, 149);
+            this.LogoHeader_PictureBox.Name = "LogoHeader_PictureBox";
+            this.LogoHeader_PictureBox.Size = new System.Drawing.Size(192, 43);
+            this.LogoHeader_PictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.LogoHeader_PictureBox.TabIndex = 1;
+            this.LogoHeader_PictureBox.TabStop = false;
             // 
             // VirtualChem_AwakeMenu
             // 
@@ -244,6 +273,9 @@ namespace VirtualChem.Forms
             this.Text = "VirtualChem";
             this.Main_Panel.ResumeLayout(false);
             this.Inner_Panel.ResumeLayout(false);
+            this.Logo_Panel.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.Logo_PictureBox)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.LogoHeader_PictureBox)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -269,5 +301,7 @@ namespace VirtualChem.Forms
         private System.Windows.Forms.Panel LogoPanelTopMargin_Panel;
         private System.Windows.Forms.Panel LogoPanelLeftMargin_Panel;
         private System.Windows.Forms.Panel LogoPanelRightMargin_Panel;
+        private System.Windows.Forms.PictureBox LogoHeader_PictureBox;
+        private System.Windows.Forms.PictureBox Logo_PictureBox;
     }
 }

@@ -63,9 +63,19 @@ namespace VirtualChem {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap VirtualChem {
+        internal static System.Drawing.Bitmap VirtualChem_LogoDrawingIcon {
             get {
-                object obj = ResourceManager.GetObject("VirtualChem", resourceCulture);
+                object obj = ResourceManager.GetObject("VirtualChem_LogoDrawingIcon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap VirtualChem_LogoIcon {
+            get {
+                object obj = ResourceManager.GetObject("VirtualChem_LogoIcon", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
