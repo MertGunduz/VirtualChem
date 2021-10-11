@@ -1,0 +1,16 @@
+C:\Users\u\source\repos\VirtualChem\obj\Debug\netcoreapp3.1\VirtualChem.csproj.AssemblyReference.cache
+C:\Users\u\source\repos\VirtualChem\obj\Debug\netcoreapp3.1\VirtualChem.Forms.VirtualChem_AwakeMenu.resources
+C:\Users\u\source\repos\VirtualChem\obj\Debug\netcoreapp3.1\VirtualChem.csproj.GenerateResource.cache
+C:\Users\u\source\repos\VirtualChem\obj\Debug\netcoreapp3.1\VirtualChem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u\source\repos\VirtualChem\obj\Debug\netcoreapp3.1\VirtualChem.AssemblyInfoInputs.cache
+C:\Users\u\source\repos\VirtualChem\obj\Debug\netcoreapp3.1\VirtualChem.AssemblyInfo.cs
+C:\Users\u\source\repos\VirtualChem\obj\Debug\netcoreapp3.1\VirtualChem.csproj.CoreCompileInputs.cache
+C:\Users\u\source\repos\VirtualChem\bin\Debug\netcoreapp3.1\VirtualChem.exe
+C:\Users\u\source\repos\VirtualChem\bin\Debug\netcoreapp3.1\VirtualChem.deps.json
+C:\Users\u\source\repos\VirtualChem\bin\Debug\netcoreapp3.1\VirtualChem.runtimeconfig.json
+C:\Users\u\source\repos\VirtualChem\bin\Debug\netcoreapp3.1\VirtualChem.runtimeconfig.dev.json
+C:\Users\u\source\repos\VirtualChem\bin\Debug\netcoreapp3.1\VirtualChem.dll
+C:\Users\u\source\repos\VirtualChem\bin\Debug\netcoreapp3.1\VirtualChem.pdb
+C:\Users\u\source\repos\VirtualChem\obj\Debug\netcoreapp3.1\VirtualChem.dll
+C:\Users\u\source\repos\VirtualChem\obj\Debug\netcoreapp3.1\VirtualChem.pdb
+C:\Users\u\source\repos\VirtualChem\obj\Debug\netcoreapp3.1\VirtualChem.genruntimeconfig.cache
