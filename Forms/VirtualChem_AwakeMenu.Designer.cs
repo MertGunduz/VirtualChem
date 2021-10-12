@@ -29,7 +29,16 @@ namespace VirtualChem.Forms
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(VirtualChem_AwakeMenu));
             this.Main_Panel = new System.Windows.Forms.Panel();
+            this.Inner_Panel = new System.Windows.Forms.Panel();
+            this.Logo_Panel = new System.Windows.Forms.Panel();
+            this.LogoHeader_PictureBox = new System.Windows.Forms.PictureBox();
+            this.Logo_PictureBox = new System.Windows.Forms.PictureBox();
+            this.LogoPanelBottomMargin_Panel = new System.Windows.Forms.Panel();
+            this.LogoPanelTopMargin_Panel = new System.Windows.Forms.Panel();
+            this.LogoPanelLeftMargin_Panel = new System.Windows.Forms.Panel();
+            this.LogoPanelRightMargin_Panel = new System.Windows.Forms.Panel();
             this.RightMarginBorder_Panel = new System.Windows.Forms.Panel();
             this.LeftMarginBorder_Panel = new System.Windows.Forms.Panel();
             this.BottomMarginBorder_Panel = new System.Windows.Forms.Panel();
@@ -42,19 +51,11 @@ namespace VirtualChem.Forms
             this.TopBorder_Panel = new System.Windows.Forms.Panel();
             this.LeftBorder_Panel = new System.Windows.Forms.Panel();
             this.RightBorder_Panel = new System.Windows.Forms.Panel();
-            this.Inner_Panel = new System.Windows.Forms.Panel();
-            this.LogoPanelLeftMargin_Panel = new System.Windows.Forms.Panel();
-            this.LogoPanelRightMargin_Panel = new System.Windows.Forms.Panel();
-            this.LogoPanelBottomMargin_Panel = new System.Windows.Forms.Panel();
-            this.LogoPanelTopMargin_Panel = new System.Windows.Forms.Panel();
-            this.Logo_Panel = new System.Windows.Forms.Panel();
-            this.Logo_PictureBox = new System.Windows.Forms.PictureBox();
-            this.LogoHeader_PictureBox = new System.Windows.Forms.PictureBox();
             this.Main_Panel.SuspendLayout();
             this.Inner_Panel.SuspendLayout();
             this.Logo_Panel.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Logo_PictureBox)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.LogoHeader_PictureBox)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo_PictureBox)).BeginInit();
             this.SuspendLayout();
             // 
             // Main_Panel
@@ -78,6 +79,84 @@ namespace VirtualChem.Forms
             this.Main_Panel.Name = "Main_Panel";
             this.Main_Panel.Size = new System.Drawing.Size(400, 400);
             this.Main_Panel.TabIndex = 0;
+            // 
+            // Inner_Panel
+            // 
+            this.Inner_Panel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Inner_Panel.Controls.Add(this.Logo_Panel);
+            this.Inner_Panel.Controls.Add(this.LogoPanelBottomMargin_Panel);
+            this.Inner_Panel.Controls.Add(this.LogoPanelTopMargin_Panel);
+            this.Inner_Panel.Controls.Add(this.LogoPanelLeftMargin_Panel);
+            this.Inner_Panel.Controls.Add(this.LogoPanelRightMargin_Panel);
+            this.Inner_Panel.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Inner_Panel.Location = new System.Drawing.Point(54, 54);
+            this.Inner_Panel.Name = "Inner_Panel";
+            this.Inner_Panel.Size = new System.Drawing.Size(292, 292);
+            this.Inner_Panel.TabIndex = 12;
+            // 
+            // Logo_Panel
+            // 
+            this.Logo_Panel.Controls.Add(this.LogoHeader_PictureBox);
+            this.Logo_Panel.Controls.Add(this.Logo_PictureBox);
+            this.Logo_Panel.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Logo_Panel.Location = new System.Drawing.Point(50, 50);
+            this.Logo_Panel.Name = "Logo_Panel";
+            this.Logo_Panel.Size = new System.Drawing.Size(192, 192);
+            this.Logo_Panel.TabIndex = 12;
+            // 
+            // LogoHeader_PictureBox
+            // 
+            this.LogoHeader_PictureBox.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.LogoHeader_PictureBox.Image = global::VirtualChem.VirtualChem_Resources.VirtualChem_LogoIcon;
+            this.LogoHeader_PictureBox.Location = new System.Drawing.Point(0, 149);
+            this.LogoHeader_PictureBox.Name = "LogoHeader_PictureBox";
+            this.LogoHeader_PictureBox.Size = new System.Drawing.Size(192, 43);
+            this.LogoHeader_PictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.LogoHeader_PictureBox.TabIndex = 1;
+            this.LogoHeader_PictureBox.TabStop = false;
+            // 
+            // Logo_PictureBox
+            // 
+            this.Logo_PictureBox.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Logo_PictureBox.Image = global::VirtualChem.VirtualChem_Resources.VirtualChem_LogoDrawingIcon;
+            this.Logo_PictureBox.Location = new System.Drawing.Point(0, 0);
+            this.Logo_PictureBox.Name = "Logo_PictureBox";
+            this.Logo_PictureBox.Size = new System.Drawing.Size(192, 149);
+            this.Logo_PictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.Logo_PictureBox.TabIndex = 0;
+            this.Logo_PictureBox.TabStop = false;
+            // 
+            // LogoPanelBottomMargin_Panel
+            // 
+            this.LogoPanelBottomMargin_Panel.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.LogoPanelBottomMargin_Panel.Location = new System.Drawing.Point(50, 242);
+            this.LogoPanelBottomMargin_Panel.Name = "LogoPanelBottomMargin_Panel";
+            this.LogoPanelBottomMargin_Panel.Size = new System.Drawing.Size(192, 50);
+            this.LogoPanelBottomMargin_Panel.TabIndex = 11;
+            // 
+            // LogoPanelTopMargin_Panel
+            // 
+            this.LogoPanelTopMargin_Panel.Dock = System.Windows.Forms.DockStyle.Top;
+            this.LogoPanelTopMargin_Panel.Location = new System.Drawing.Point(50, 0);
+            this.LogoPanelTopMargin_Panel.Name = "LogoPanelTopMargin_Panel";
+            this.LogoPanelTopMargin_Panel.Size = new System.Drawing.Size(192, 50);
+            this.LogoPanelTopMargin_Panel.TabIndex = 10;
+            // 
+            // LogoPanelLeftMargin_Panel
+            // 
+            this.LogoPanelLeftMargin_Panel.Dock = System.Windows.Forms.DockStyle.Left;
+            this.LogoPanelLeftMargin_Panel.Location = new System.Drawing.Point(0, 0);
+            this.LogoPanelLeftMargin_Panel.Name = "LogoPanelLeftMargin_Panel";
+            this.LogoPanelLeftMargin_Panel.Size = new System.Drawing.Size(50, 292);
+            this.LogoPanelLeftMargin_Panel.TabIndex = 9;
+            // 
+            // LogoPanelRightMargin_Panel
+            // 
+            this.LogoPanelRightMargin_Panel.Dock = System.Windows.Forms.DockStyle.Right;
+            this.LogoPanelRightMargin_Panel.Location = new System.Drawing.Point(242, 0);
+            this.LogoPanelRightMargin_Panel.Name = "LogoPanelRightMargin_Panel";
+            this.LogoPanelRightMargin_Panel.Size = new System.Drawing.Size(50, 292);
+            this.LogoPanelRightMargin_Panel.TabIndex = 8;
             // 
             // RightMarginBorder_Panel
             // 
@@ -183,84 +262,6 @@ namespace VirtualChem.Forms
             this.RightBorder_Panel.Size = new System.Drawing.Size(2, 400);
             this.RightBorder_Panel.TabIndex = 0;
             // 
-            // Inner_Panel
-            // 
-            this.Inner_Panel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.Inner_Panel.Controls.Add(this.Logo_Panel);
-            this.Inner_Panel.Controls.Add(this.LogoPanelBottomMargin_Panel);
-            this.Inner_Panel.Controls.Add(this.LogoPanelTopMargin_Panel);
-            this.Inner_Panel.Controls.Add(this.LogoPanelLeftMargin_Panel);
-            this.Inner_Panel.Controls.Add(this.LogoPanelRightMargin_Panel);
-            this.Inner_Panel.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.Inner_Panel.Location = new System.Drawing.Point(54, 54);
-            this.Inner_Panel.Name = "Inner_Panel";
-            this.Inner_Panel.Size = new System.Drawing.Size(292, 292);
-            this.Inner_Panel.TabIndex = 12;
-            // 
-            // LogoPanelLeftMargin_Panel
-            // 
-            this.LogoPanelLeftMargin_Panel.Dock = System.Windows.Forms.DockStyle.Left;
-            this.LogoPanelLeftMargin_Panel.Location = new System.Drawing.Point(0, 0);
-            this.LogoPanelLeftMargin_Panel.Name = "LogoPanelLeftMargin_Panel";
-            this.LogoPanelLeftMargin_Panel.Size = new System.Drawing.Size(50, 292);
-            this.LogoPanelLeftMargin_Panel.TabIndex = 9;
-            // 
-            // LogoPanelRightMargin_Panel
-            // 
-            this.LogoPanelRightMargin_Panel.Dock = System.Windows.Forms.DockStyle.Right;
-            this.LogoPanelRightMargin_Panel.Location = new System.Drawing.Point(242, 0);
-            this.LogoPanelRightMargin_Panel.Name = "LogoPanelRightMargin_Panel";
-            this.LogoPanelRightMargin_Panel.Size = new System.Drawing.Size(50, 292);
-            this.LogoPanelRightMargin_Panel.TabIndex = 8;
-            // 
-            // LogoPanelBottomMargin_Panel
-            // 
-            this.LogoPanelBottomMargin_Panel.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.LogoPanelBottomMargin_Panel.Location = new System.Drawing.Point(50, 242);
-            this.LogoPanelBottomMargin_Panel.Name = "LogoPanelBottomMargin_Panel";
-            this.LogoPanelBottomMargin_Panel.Size = new System.Drawing.Size(192, 50);
-            this.LogoPanelBottomMargin_Panel.TabIndex = 11;
-            // 
-            // LogoPanelTopMargin_Panel
-            // 
-            this.LogoPanelTopMargin_Panel.Dock = System.Windows.Forms.DockStyle.Top;
-            this.LogoPanelTopMargin_Panel.Location = new System.Drawing.Point(50, 0);
-            this.LogoPanelTopMargin_Panel.Name = "LogoPanelTopMargin_Panel";
-            this.LogoPanelTopMargin_Panel.Size = new System.Drawing.Size(192, 50);
-            this.LogoPanelTopMargin_Panel.TabIndex = 10;
-            // 
-            // Logo_Panel
-            // 
-            this.Logo_Panel.Controls.Add(this.LogoHeader_PictureBox);
-            this.Logo_Panel.Controls.Add(this.Logo_PictureBox);
-            this.Logo_Panel.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.Logo_Panel.Location = new System.Drawing.Point(50, 50);
-            this.Logo_Panel.Name = "Logo_Panel";
-            this.Logo_Panel.Size = new System.Drawing.Size(192, 192);
-            this.Logo_Panel.TabIndex = 12;
-            // 
-            // Logo_PictureBox
-            // 
-            this.Logo_PictureBox.Dock = System.Windows.Forms.DockStyle.Top;
-            this.Logo_PictureBox.Image = global::VirtualChem.VirtualChem_Resources.VirtualChem_LogoDrawingIcon;
-            this.Logo_PictureBox.Location = new System.Drawing.Point(0, 0);
-            this.Logo_PictureBox.Name = "Logo_PictureBox";
-            this.Logo_PictureBox.Size = new System.Drawing.Size(192, 149);
-            this.Logo_PictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.Logo_PictureBox.TabIndex = 0;
-            this.Logo_PictureBox.TabStop = false;
-            // 
-            // LogoHeader_PictureBox
-            // 
-            this.LogoHeader_PictureBox.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.LogoHeader_PictureBox.Image = global::VirtualChem.VirtualChem_Resources.VirtualChem_LogoIcon;
-            this.LogoHeader_PictureBox.Location = new System.Drawing.Point(0, 149);
-            this.LogoHeader_PictureBox.Name = "LogoHeader_PictureBox";
-            this.LogoHeader_PictureBox.Size = new System.Drawing.Size(192, 43);
-            this.LogoHeader_PictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.LogoHeader_PictureBox.TabIndex = 1;
-            this.LogoHeader_PictureBox.TabStop = false;
-            // 
             // VirtualChem_AwakeMenu
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
@@ -268,14 +269,15 @@ namespace VirtualChem.Forms
             this.Controls.Add(this.Main_Panel);
             this.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "VirtualChem_AwakeMenu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "VirtualChem";
             this.Main_Panel.ResumeLayout(false);
             this.Inner_Panel.ResumeLayout(false);
             this.Logo_Panel.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Logo_PictureBox)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.LogoHeader_PictureBox)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Logo_PictureBox)).EndInit();
             this.ResumeLayout(false);
 
         }
