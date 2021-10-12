@@ -29,6 +29,7 @@ namespace VirtualChem.Forms
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(VirtualChem_AwakeMenu));
             this.Main_Panel = new System.Windows.Forms.Panel();
             this.Inner_Panel = new System.Windows.Forms.Panel();
@@ -51,6 +52,7 @@ namespace VirtualChem.Forms
             this.TopBorder_Panel = new System.Windows.Forms.Panel();
             this.LeftBorder_Panel = new System.Windows.Forms.Panel();
             this.RightBorder_Panel = new System.Windows.Forms.Panel();
+            this.Menu_Timer = new System.Windows.Forms.Timer(this.components);
             this.Main_Panel.SuspendLayout();
             this.Inner_Panel.SuspendLayout();
             this.Logo_Panel.SuspendLayout();
@@ -262,6 +264,11 @@ namespace VirtualChem.Forms
             this.RightBorder_Panel.Size = new System.Drawing.Size(2, 400);
             this.RightBorder_Panel.TabIndex = 0;
             // 
+            // Menu_Timer
+            // 
+            this.Menu_Timer.Interval = 10;
+            this.Menu_Timer.Tick += new System.EventHandler(this.Menu_Timer_Tick);
+            // 
             // VirtualChem_AwakeMenu
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
@@ -273,6 +280,7 @@ namespace VirtualChem.Forms
             this.Name = "VirtualChem_AwakeMenu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "VirtualChem";
+            this.Load += new System.EventHandler(this.VirtualChem_AwakeMenu_Load);
             this.Main_Panel.ResumeLayout(false);
             this.Inner_Panel.ResumeLayout(false);
             this.Logo_Panel.ResumeLayout(false);
@@ -305,5 +313,6 @@ namespace VirtualChem.Forms
         private System.Windows.Forms.Panel LogoPanelRightMargin_Panel;
         private System.Windows.Forms.PictureBox LogoHeader_PictureBox;
         private System.Windows.Forms.PictureBox Logo_PictureBox;
+        private System.Windows.Forms.Timer Menu_Timer;
     }
 }

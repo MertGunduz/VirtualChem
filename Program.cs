@@ -17,7 +17,7 @@ namespace VirtualChem
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Forms.VirtualChem_MainMenu());
+            Application.Run(new Forms.VirtualChem_AwakeMenu());
         }
     }
 }
