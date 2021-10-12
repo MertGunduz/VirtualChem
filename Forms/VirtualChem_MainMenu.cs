@@ -14,5 +14,20 @@ namespace VirtualChem.Forms
         {
             InitializeComponent();
         }
+
+        private void Minimize_Button_Click(object sender, EventArgs e)
+        {
+            WindowState = FormWindowState.Minimized;
+        }
+
+        private void Exit_Button_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void Hydrogen_Label_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

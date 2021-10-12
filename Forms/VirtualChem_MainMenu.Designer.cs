@@ -39,81 +39,16 @@ namespace VirtualChem.Forms
             this.panel724 = new System.Windows.Forms.Panel();
             this.panel725 = new System.Windows.Forms.Panel();
             this.panel726 = new System.Windows.Forms.Panel();
-            this.panel727 = new System.Windows.Forms.Panel();
-            this.panel728 = new System.Windows.Forms.Panel();
-            this.panel729 = new System.Windows.Forms.Panel();
-            this.panel730 = new System.Windows.Forms.Panel();
-            this.panel731 = new System.Windows.Forms.Panel();
-            this.panel732 = new System.Windows.Forms.Panel();
-            this.panel733 = new System.Windows.Forms.Panel();
-            this.panel734 = new System.Windows.Forms.Panel();
-            this.panel735 = new System.Windows.Forms.Panel();
-            this.panel736 = new System.Windows.Forms.Panel();
-            this.panel737 = new System.Windows.Forms.Panel();
-            this.panel738 = new System.Windows.Forms.Panel();
-            this.panel739 = new System.Windows.Forms.Panel();
-            this.panel740 = new System.Windows.Forms.Panel();
-            this.panel741 = new System.Windows.Forms.Panel();
-            this.panel742 = new System.Windows.Forms.Panel();
-            this.panel743 = new System.Windows.Forms.Panel();
-            this.panel744 = new System.Windows.Forms.Panel();
-            this.panel745 = new System.Windows.Forms.Panel();
-            this.panel746 = new System.Windows.Forms.Panel();
             this.panel747 = new System.Windows.Forms.Panel();
             this.panel748 = new System.Windows.Forms.Panel();
             this.panel749 = new System.Windows.Forms.Panel();
             this.panel750 = new System.Windows.Forms.Panel();
             this.panel751 = new System.Windows.Forms.Panel();
-            this.panel752 = new System.Windows.Forms.Panel();
-            this.panel753 = new System.Windows.Forms.Panel();
-            this.panel754 = new System.Windows.Forms.Panel();
-            this.panel755 = new System.Windows.Forms.Panel();
-            this.panel756 = new System.Windows.Forms.Panel();
-            this.panel757 = new System.Windows.Forms.Panel();
-            this.panel758 = new System.Windows.Forms.Panel();
-            this.panel759 = new System.Windows.Forms.Panel();
-            this.panel760 = new System.Windows.Forms.Panel();
-            this.panel761 = new System.Windows.Forms.Panel();
-            this.panel762 = new System.Windows.Forms.Panel();
-            this.panel763 = new System.Windows.Forms.Panel();
-            this.panel764 = new System.Windows.Forms.Panel();
-            this.panel765 = new System.Windows.Forms.Panel();
-            this.panel766 = new System.Windows.Forms.Panel();
-            this.panel767 = new System.Windows.Forms.Panel();
-            this.panel768 = new System.Windows.Forms.Panel();
-            this.panel769 = new System.Windows.Forms.Panel();
-            this.panel770 = new System.Windows.Forms.Panel();
-            this.panel771 = new System.Windows.Forms.Panel();
-            this.panel772 = new System.Windows.Forms.Panel();
-            this.panel773 = new System.Windows.Forms.Panel();
-            this.panel774 = new System.Windows.Forms.Panel();
-            this.panel775 = new System.Windows.Forms.Panel();
-            this.panel776 = new System.Windows.Forms.Panel();
-            this.panel777 = new System.Windows.Forms.Panel();
-            this.panel778 = new System.Windows.Forms.Panel();
-            this.panel779 = new System.Windows.Forms.Panel();
-            this.panel780 = new System.Windows.Forms.Panel();
-            this.panel781 = new System.Windows.Forms.Panel();
             this.panel782 = new System.Windows.Forms.Panel();
             this.panel783 = new System.Windows.Forms.Panel();
             this.panel784 = new System.Windows.Forms.Panel();
             this.panel785 = new System.Windows.Forms.Panel();
             this.panel786 = new System.Windows.Forms.Panel();
-            this.panel787 = new System.Windows.Forms.Panel();
-            this.panel788 = new System.Windows.Forms.Panel();
-            this.panel789 = new System.Windows.Forms.Panel();
-            this.panel790 = new System.Windows.Forms.Panel();
-            this.panel791 = new System.Windows.Forms.Panel();
-            this.panel792 = new System.Windows.Forms.Panel();
-            this.panel793 = new System.Windows.Forms.Panel();
-            this.panel794 = new System.Windows.Forms.Panel();
-            this.panel795 = new System.Windows.Forms.Panel();
-            this.panel796 = new System.Windows.Forms.Panel();
-            this.panel797 = new System.Windows.Forms.Panel();
-            this.panel798 = new System.Windows.Forms.Panel();
-            this.panel799 = new System.Windows.Forms.Panel();
-            this.panel800 = new System.Windows.Forms.Panel();
-            this.panel801 = new System.Windows.Forms.Panel();
             this.panel802 = new System.Windows.Forms.Panel();
             this.panel803 = new System.Windows.Forms.Panel();
             this.panel804 = new System.Windows.Forms.Panel();
@@ -169,41 +104,12 @@ namespace VirtualChem.Forms
             this.panel659 = new System.Windows.Forms.Panel();
             this.panel660 = new System.Windows.Forms.Panel();
             this.panel661 = new System.Windows.Forms.Panel();
-            this.panel662 = new System.Windows.Forms.Panel();
-            this.panel663 = new System.Windows.Forms.Panel();
-            this.panel664 = new System.Windows.Forms.Panel();
-            this.panel665 = new System.Windows.Forms.Panel();
-            this.panel666 = new System.Windows.Forms.Panel();
             this.panel667 = new System.Windows.Forms.Panel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel668 = new System.Windows.Forms.Panel();
             this.panel669 = new System.Windows.Forms.Panel();
             this.panel670 = new System.Windows.Forms.Panel();
             this.panel671 = new System.Windows.Forms.Panel();
-            this.panel672 = new System.Windows.Forms.Panel();
-            this.panel673 = new System.Windows.Forms.Panel();
-            this.panel674 = new System.Windows.Forms.Panel();
-            this.panel675 = new System.Windows.Forms.Panel();
-            this.panel676 = new System.Windows.Forms.Panel();
-            this.panel677 = new System.Windows.Forms.Panel();
-            this.panel678 = new System.Windows.Forms.Panel();
-            this.panel679 = new System.Windows.Forms.Panel();
-            this.panel680 = new System.Windows.Forms.Panel();
-            this.panel681 = new System.Windows.Forms.Panel();
-            this.panel682 = new System.Windows.Forms.Panel();
-            this.panel683 = new System.Windows.Forms.Panel();
-            this.panel684 = new System.Windows.Forms.Panel();
-            this.panel685 = new System.Windows.Forms.Panel();
-            this.panel686 = new System.Windows.Forms.Panel();
-            this.panel687 = new System.Windows.Forms.Panel();
-            this.panel688 = new System.Windows.Forms.Panel();
-            this.panel689 = new System.Windows.Forms.Panel();
-            this.panel690 = new System.Windows.Forms.Panel();
-            this.panel691 = new System.Windows.Forms.Panel();
-            this.panel692 = new System.Windows.Forms.Panel();
-            this.panel693 = new System.Windows.Forms.Panel();
-            this.panel694 = new System.Windows.Forms.Panel();
-            this.panel695 = new System.Windows.Forms.Panel();
-            this.panel696 = new System.Windows.Forms.Panel();
             this.panel712 = new System.Windows.Forms.Panel();
             this.Beryllium_Button = new System.Windows.Forms.Button();
             this.Beryllium_Label = new System.Windows.Forms.Label();
@@ -266,51 +172,6 @@ namespace VirtualChem.Forms
             this.panel574 = new System.Windows.Forms.Panel();
             this.panel575 = new System.Windows.Forms.Panel();
             this.panel576 = new System.Windows.Forms.Panel();
-            this.panel577 = new System.Windows.Forms.Panel();
-            this.panel578 = new System.Windows.Forms.Panel();
-            this.panel579 = new System.Windows.Forms.Panel();
-            this.panel580 = new System.Windows.Forms.Panel();
-            this.panel581 = new System.Windows.Forms.Panel();
-            this.panel582 = new System.Windows.Forms.Panel();
-            this.panel583 = new System.Windows.Forms.Panel();
-            this.panel584 = new System.Windows.Forms.Panel();
-            this.panel585 = new System.Windows.Forms.Panel();
-            this.panel586 = new System.Windows.Forms.Panel();
-            this.panel587 = new System.Windows.Forms.Panel();
-            this.panel588 = new System.Windows.Forms.Panel();
-            this.panel589 = new System.Windows.Forms.Panel();
-            this.panel590 = new System.Windows.Forms.Panel();
-            this.panel591 = new System.Windows.Forms.Panel();
-            this.panel592 = new System.Windows.Forms.Panel();
-            this.panel593 = new System.Windows.Forms.Panel();
-            this.panel594 = new System.Windows.Forms.Panel();
-            this.panel595 = new System.Windows.Forms.Panel();
-            this.panel596 = new System.Windows.Forms.Panel();
-            this.panel597 = new System.Windows.Forms.Panel();
-            this.panel598 = new System.Windows.Forms.Panel();
-            this.panel599 = new System.Windows.Forms.Panel();
-            this.panel600 = new System.Windows.Forms.Panel();
-            this.panel601 = new System.Windows.Forms.Panel();
-            this.panel602 = new System.Windows.Forms.Panel();
-            this.panel603 = new System.Windows.Forms.Panel();
-            this.panel604 = new System.Windows.Forms.Panel();
-            this.panel605 = new System.Windows.Forms.Panel();
-            this.panel606 = new System.Windows.Forms.Panel();
-            this.panel607 = new System.Windows.Forms.Panel();
-            this.panel608 = new System.Windows.Forms.Panel();
-            this.panel609 = new System.Windows.Forms.Panel();
-            this.panel610 = new System.Windows.Forms.Panel();
-            this.panel611 = new System.Windows.Forms.Panel();
-            this.panel612 = new System.Windows.Forms.Panel();
-            this.panel613 = new System.Windows.Forms.Panel();
-            this.panel614 = new System.Windows.Forms.Panel();
-            this.panel615 = new System.Windows.Forms.Panel();
-            this.panel616 = new System.Windows.Forms.Panel();
-            this.panel617 = new System.Windows.Forms.Panel();
-            this.panel618 = new System.Windows.Forms.Panel();
-            this.panel619 = new System.Windows.Forms.Panel();
-            this.panel620 = new System.Windows.Forms.Panel();
-            this.panel621 = new System.Windows.Forms.Panel();
             this.panel622 = new System.Windows.Forms.Panel();
             this.Magnesium_Button = new System.Windows.Forms.Button();
             this.Magnesium_Label = new System.Windows.Forms.Label();
@@ -1080,43 +941,20 @@ namespace VirtualChem.Forms
             this.RightMargin_Panel = new System.Windows.Forms.Panel();
             this.BottomMargin_Panel = new System.Windows.Forms.Panel();
             this.TopMargin_Panel = new System.Windows.Forms.Panel();
+            this.panel812 = new System.Windows.Forms.Panel();
+            this.Minimize_Button = new System.Windows.Forms.Button();
+            this.panel814 = new System.Windows.Forms.Panel();
+            this.Exit_Button = new System.Windows.Forms.Button();
+            this.panel813 = new System.Windows.Forms.Panel();
             this.BottomBorder_Panel = new System.Windows.Forms.Panel();
             this.TopBorder_Panel = new System.Windows.Forms.Panel();
             this.LeftBorder_Panel = new System.Windows.Forms.Panel();
             this.RightBorder_Panel = new System.Windows.Forms.Panel();
-            this.panel706 = new System.Windows.Forms.Panel();
-            this.panel705 = new System.Windows.Forms.Panel();
-            this.panel704 = new System.Windows.Forms.Panel();
-            this.panel703 = new System.Windows.Forms.Panel();
-            this.panel702 = new System.Windows.Forms.Panel();
-            this.panel711 = new System.Windows.Forms.Panel();
-            this.panel710 = new System.Windows.Forms.Panel();
-            this.panel709 = new System.Windows.Forms.Panel();
-            this.panel708 = new System.Windows.Forms.Panel();
-            this.panel707 = new System.Windows.Forms.Panel();
-            this.panel701 = new System.Windows.Forms.Panel();
-            this.panel700 = new System.Windows.Forms.Panel();
-            this.panel699 = new System.Windows.Forms.Panel();
-            this.panel698 = new System.Windows.Forms.Panel();
-            this.panel697 = new System.Windows.Forms.Panel();
             this.Main_Panel.SuspendLayout();
             this.FirstRow_Panel.SuspendLayout();
             this.panel722.SuspendLayout();
-            this.panel727.SuspendLayout();
-            this.panel732.SuspendLayout();
-            this.panel737.SuspendLayout();
-            this.panel742.SuspendLayout();
             this.panel747.SuspendLayout();
-            this.panel752.SuspendLayout();
-            this.panel757.SuspendLayout();
-            this.panel762.SuspendLayout();
-            this.panel767.SuspendLayout();
-            this.panel772.SuspendLayout();
-            this.panel777.SuspendLayout();
             this.panel782.SuspendLayout();
-            this.panel787.SuspendLayout();
-            this.panel792.SuspendLayout();
-            this.panel797.SuspendLayout();
             this.panel802.SuspendLayout();
             this.panel807.SuspendLayout();
             this.SecondRow_Panel.SuspendLayout();
@@ -1126,13 +964,8 @@ namespace VirtualChem.Forms
             this.panel647.SuspendLayout();
             this.panel652.SuspendLayout();
             this.panel657.SuspendLayout();
-            this.panel662.SuspendLayout();
             this.panel667.SuspendLayout();
-            this.panel672.SuspendLayout();
-            this.panel677.SuspendLayout();
-            this.panel682.SuspendLayout();
-            this.panel687.SuspendLayout();
-            this.panel692.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel712.SuspendLayout();
             this.panel717.SuspendLayout();
             this.ThirdRow_Panel.SuspendLayout();
@@ -1143,15 +976,6 @@ namespace VirtualChem.Forms
             this.panel562.SuspendLayout();
             this.panel567.SuspendLayout();
             this.panel572.SuspendLayout();
-            this.panel577.SuspendLayout();
-            this.panel582.SuspendLayout();
-            this.panel587.SuspendLayout();
-            this.panel592.SuspendLayout();
-            this.panel597.SuspendLayout();
-            this.panel602.SuspendLayout();
-            this.panel607.SuspendLayout();
-            this.panel612.SuspendLayout();
-            this.panel617.SuspendLayout();
             this.panel622.SuspendLayout();
             this.panel627.SuspendLayout();
             this.FourthRow_Panel.SuspendLayout();
@@ -1268,9 +1092,8 @@ namespace VirtualChem.Forms
             this.panel12.SuspendLayout();
             this.panel6.SuspendLayout();
             this.panel11.SuspendLayout();
-            this.panel702.SuspendLayout();
-            this.panel707.SuspendLayout();
-            this.panel697.SuspendLayout();
+            this.TopMargin_Panel.SuspendLayout();
+            this.panel812.SuspendLayout();
             this.SuspendLayout();
             // 
             // Main_Panel
@@ -1303,21 +1126,8 @@ namespace VirtualChem.Forms
             // FirstRow_Panel
             // 
             this.FirstRow_Panel.Controls.Add(this.panel722);
-            this.FirstRow_Panel.Controls.Add(this.panel727);
-            this.FirstRow_Panel.Controls.Add(this.panel732);
-            this.FirstRow_Panel.Controls.Add(this.panel737);
-            this.FirstRow_Panel.Controls.Add(this.panel742);
             this.FirstRow_Panel.Controls.Add(this.panel747);
-            this.FirstRow_Panel.Controls.Add(this.panel752);
-            this.FirstRow_Panel.Controls.Add(this.panel757);
-            this.FirstRow_Panel.Controls.Add(this.panel762);
-            this.FirstRow_Panel.Controls.Add(this.panel767);
-            this.FirstRow_Panel.Controls.Add(this.panel772);
-            this.FirstRow_Panel.Controls.Add(this.panel777);
             this.FirstRow_Panel.Controls.Add(this.panel782);
-            this.FirstRow_Panel.Controls.Add(this.panel787);
-            this.FirstRow_Panel.Controls.Add(this.panel792);
-            this.FirstRow_Panel.Controls.Add(this.panel797);
             this.FirstRow_Panel.Controls.Add(this.panel802);
             this.FirstRow_Panel.Controls.Add(this.panel807);
             this.FirstRow_Panel.Dock = System.Windows.Forms.DockStyle.Bottom;
@@ -1408,202 +1218,6 @@ namespace VirtualChem.Forms
             this.panel726.Size = new System.Drawing.Size(2, 65);
             this.panel726.TabIndex = 0;
             // 
-            // panel727
-            // 
-            this.panel727.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel727.Controls.Add(this.panel728);
-            this.panel727.Controls.Add(this.panel729);
-            this.panel727.Controls.Add(this.panel730);
-            this.panel727.Controls.Add(this.panel731);
-            this.panel727.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel727.Location = new System.Drawing.Point(880, 0);
-            this.panel727.Name = "panel727";
-            this.panel727.Size = new System.Drawing.Size(55, 65);
-            this.panel727.TabIndex = 52;
-            // 
-            // panel728
-            // 
-            this.panel728.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel728.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel728.Location = new System.Drawing.Point(2, 63);
-            this.panel728.Name = "panel728";
-            this.panel728.Size = new System.Drawing.Size(51, 2);
-            this.panel728.TabIndex = 3;
-            // 
-            // panel729
-            // 
-            this.panel729.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel729.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel729.Location = new System.Drawing.Point(2, 0);
-            this.panel729.Name = "panel729";
-            this.panel729.Size = new System.Drawing.Size(51, 2);
-            this.panel729.TabIndex = 2;
-            // 
-            // panel730
-            // 
-            this.panel730.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel730.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel730.Location = new System.Drawing.Point(0, 0);
-            this.panel730.Name = "panel730";
-            this.panel730.Size = new System.Drawing.Size(2, 65);
-            this.panel730.TabIndex = 1;
-            // 
-            // panel731
-            // 
-            this.panel731.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel731.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel731.Location = new System.Drawing.Point(53, 0);
-            this.panel731.Name = "panel731";
-            this.panel731.Size = new System.Drawing.Size(2, 65);
-            this.panel731.TabIndex = 0;
-            // 
-            // panel732
-            // 
-            this.panel732.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel732.Controls.Add(this.panel733);
-            this.panel732.Controls.Add(this.panel734);
-            this.panel732.Controls.Add(this.panel735);
-            this.panel732.Controls.Add(this.panel736);
-            this.panel732.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel732.Location = new System.Drawing.Point(825, 0);
-            this.panel732.Name = "panel732";
-            this.panel732.Size = new System.Drawing.Size(55, 65);
-            this.panel732.TabIndex = 51;
-            // 
-            // panel733
-            // 
-            this.panel733.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel733.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel733.Location = new System.Drawing.Point(2, 63);
-            this.panel733.Name = "panel733";
-            this.panel733.Size = new System.Drawing.Size(51, 2);
-            this.panel733.TabIndex = 3;
-            // 
-            // panel734
-            // 
-            this.panel734.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel734.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel734.Location = new System.Drawing.Point(2, 0);
-            this.panel734.Name = "panel734";
-            this.panel734.Size = new System.Drawing.Size(51, 2);
-            this.panel734.TabIndex = 2;
-            // 
-            // panel735
-            // 
-            this.panel735.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel735.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel735.Location = new System.Drawing.Point(0, 0);
-            this.panel735.Name = "panel735";
-            this.panel735.Size = new System.Drawing.Size(2, 65);
-            this.panel735.TabIndex = 1;
-            // 
-            // panel736
-            // 
-            this.panel736.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel736.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel736.Location = new System.Drawing.Point(53, 0);
-            this.panel736.Name = "panel736";
-            this.panel736.Size = new System.Drawing.Size(2, 65);
-            this.panel736.TabIndex = 0;
-            // 
-            // panel737
-            // 
-            this.panel737.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel737.Controls.Add(this.panel738);
-            this.panel737.Controls.Add(this.panel739);
-            this.panel737.Controls.Add(this.panel740);
-            this.panel737.Controls.Add(this.panel741);
-            this.panel737.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel737.Location = new System.Drawing.Point(770, 0);
-            this.panel737.Name = "panel737";
-            this.panel737.Size = new System.Drawing.Size(55, 65);
-            this.panel737.TabIndex = 50;
-            // 
-            // panel738
-            // 
-            this.panel738.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel738.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel738.Location = new System.Drawing.Point(2, 63);
-            this.panel738.Name = "panel738";
-            this.panel738.Size = new System.Drawing.Size(51, 2);
-            this.panel738.TabIndex = 3;
-            // 
-            // panel739
-            // 
-            this.panel739.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel739.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel739.Location = new System.Drawing.Point(2, 0);
-            this.panel739.Name = "panel739";
-            this.panel739.Size = new System.Drawing.Size(51, 2);
-            this.panel739.TabIndex = 2;
-            // 
-            // panel740
-            // 
-            this.panel740.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel740.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel740.Location = new System.Drawing.Point(0, 0);
-            this.panel740.Name = "panel740";
-            this.panel740.Size = new System.Drawing.Size(2, 65);
-            this.panel740.TabIndex = 1;
-            // 
-            // panel741
-            // 
-            this.panel741.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel741.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel741.Location = new System.Drawing.Point(53, 0);
-            this.panel741.Name = "panel741";
-            this.panel741.Size = new System.Drawing.Size(2, 65);
-            this.panel741.TabIndex = 0;
-            // 
-            // panel742
-            // 
-            this.panel742.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel742.Controls.Add(this.panel743);
-            this.panel742.Controls.Add(this.panel744);
-            this.panel742.Controls.Add(this.panel745);
-            this.panel742.Controls.Add(this.panel746);
-            this.panel742.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel742.Location = new System.Drawing.Point(715, 0);
-            this.panel742.Name = "panel742";
-            this.panel742.Size = new System.Drawing.Size(55, 65);
-            this.panel742.TabIndex = 49;
-            // 
-            // panel743
-            // 
-            this.panel743.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel743.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel743.Location = new System.Drawing.Point(2, 63);
-            this.panel743.Name = "panel743";
-            this.panel743.Size = new System.Drawing.Size(51, 2);
-            this.panel743.TabIndex = 3;
-            // 
-            // panel744
-            // 
-            this.panel744.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel744.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel744.Location = new System.Drawing.Point(2, 0);
-            this.panel744.Name = "panel744";
-            this.panel744.Size = new System.Drawing.Size(51, 2);
-            this.panel744.TabIndex = 2;
-            // 
-            // panel745
-            // 
-            this.panel745.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel745.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel745.Location = new System.Drawing.Point(0, 0);
-            this.panel745.Name = "panel745";
-            this.panel745.Size = new System.Drawing.Size(2, 65);
-            this.panel745.TabIndex = 1;
-            // 
-            // panel746
-            // 
-            this.panel746.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel746.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel746.Location = new System.Drawing.Point(53, 0);
-            this.panel746.Name = "panel746";
-            this.panel746.Size = new System.Drawing.Size(2, 65);
-            this.panel746.TabIndex = 0;
-            // 
             // panel747
             // 
             this.panel747.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
@@ -1614,7 +1228,7 @@ namespace VirtualChem.Forms
             this.panel747.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel747.Location = new System.Drawing.Point(660, 0);
             this.panel747.Name = "panel747";
-            this.panel747.Size = new System.Drawing.Size(55, 65);
+            this.panel747.Size = new System.Drawing.Size(275, 65);
             this.panel747.TabIndex = 48;
             // 
             // panel748
@@ -1623,7 +1237,7 @@ namespace VirtualChem.Forms
             this.panel748.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.panel748.Location = new System.Drawing.Point(2, 63);
             this.panel748.Name = "panel748";
-            this.panel748.Size = new System.Drawing.Size(51, 2);
+            this.panel748.Size = new System.Drawing.Size(271, 2);
             this.panel748.TabIndex = 3;
             // 
             // panel749
@@ -1632,7 +1246,7 @@ namespace VirtualChem.Forms
             this.panel749.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel749.Location = new System.Drawing.Point(2, 0);
             this.panel749.Name = "panel749";
-            this.panel749.Size = new System.Drawing.Size(51, 2);
+            this.panel749.Size = new System.Drawing.Size(271, 2);
             this.panel749.TabIndex = 2;
             // 
             // panel750
@@ -1648,304 +1262,10 @@ namespace VirtualChem.Forms
             // 
             this.panel751.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
             this.panel751.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel751.Location = new System.Drawing.Point(53, 0);
+            this.panel751.Location = new System.Drawing.Point(273, 0);
             this.panel751.Name = "panel751";
             this.panel751.Size = new System.Drawing.Size(2, 65);
             this.panel751.TabIndex = 0;
-            // 
-            // panel752
-            // 
-            this.panel752.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel752.Controls.Add(this.panel753);
-            this.panel752.Controls.Add(this.panel754);
-            this.panel752.Controls.Add(this.panel755);
-            this.panel752.Controls.Add(this.panel756);
-            this.panel752.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel752.Location = new System.Drawing.Point(605, 0);
-            this.panel752.Name = "panel752";
-            this.panel752.Size = new System.Drawing.Size(55, 65);
-            this.panel752.TabIndex = 47;
-            // 
-            // panel753
-            // 
-            this.panel753.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel753.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel753.Location = new System.Drawing.Point(2, 63);
-            this.panel753.Name = "panel753";
-            this.panel753.Size = new System.Drawing.Size(51, 2);
-            this.panel753.TabIndex = 3;
-            // 
-            // panel754
-            // 
-            this.panel754.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel754.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel754.Location = new System.Drawing.Point(2, 0);
-            this.panel754.Name = "panel754";
-            this.panel754.Size = new System.Drawing.Size(51, 2);
-            this.panel754.TabIndex = 2;
-            // 
-            // panel755
-            // 
-            this.panel755.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel755.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel755.Location = new System.Drawing.Point(0, 0);
-            this.panel755.Name = "panel755";
-            this.panel755.Size = new System.Drawing.Size(2, 65);
-            this.panel755.TabIndex = 1;
-            // 
-            // panel756
-            // 
-            this.panel756.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel756.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel756.Location = new System.Drawing.Point(53, 0);
-            this.panel756.Name = "panel756";
-            this.panel756.Size = new System.Drawing.Size(2, 65);
-            this.panel756.TabIndex = 0;
-            // 
-            // panel757
-            // 
-            this.panel757.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel757.Controls.Add(this.panel758);
-            this.panel757.Controls.Add(this.panel759);
-            this.panel757.Controls.Add(this.panel760);
-            this.panel757.Controls.Add(this.panel761);
-            this.panel757.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel757.Location = new System.Drawing.Point(550, 0);
-            this.panel757.Name = "panel757";
-            this.panel757.Size = new System.Drawing.Size(55, 65);
-            this.panel757.TabIndex = 46;
-            // 
-            // panel758
-            // 
-            this.panel758.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel758.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel758.Location = new System.Drawing.Point(2, 63);
-            this.panel758.Name = "panel758";
-            this.panel758.Size = new System.Drawing.Size(51, 2);
-            this.panel758.TabIndex = 3;
-            // 
-            // panel759
-            // 
-            this.panel759.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel759.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel759.Location = new System.Drawing.Point(2, 0);
-            this.panel759.Name = "panel759";
-            this.panel759.Size = new System.Drawing.Size(51, 2);
-            this.panel759.TabIndex = 2;
-            // 
-            // panel760
-            // 
-            this.panel760.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel760.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel760.Location = new System.Drawing.Point(0, 0);
-            this.panel760.Name = "panel760";
-            this.panel760.Size = new System.Drawing.Size(2, 65);
-            this.panel760.TabIndex = 1;
-            // 
-            // panel761
-            // 
-            this.panel761.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel761.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel761.Location = new System.Drawing.Point(53, 0);
-            this.panel761.Name = "panel761";
-            this.panel761.Size = new System.Drawing.Size(2, 65);
-            this.panel761.TabIndex = 0;
-            // 
-            // panel762
-            // 
-            this.panel762.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel762.Controls.Add(this.panel763);
-            this.panel762.Controls.Add(this.panel764);
-            this.panel762.Controls.Add(this.panel765);
-            this.panel762.Controls.Add(this.panel766);
-            this.panel762.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel762.Location = new System.Drawing.Point(495, 0);
-            this.panel762.Name = "panel762";
-            this.panel762.Size = new System.Drawing.Size(55, 65);
-            this.panel762.TabIndex = 45;
-            // 
-            // panel763
-            // 
-            this.panel763.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel763.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel763.Location = new System.Drawing.Point(2, 63);
-            this.panel763.Name = "panel763";
-            this.panel763.Size = new System.Drawing.Size(51, 2);
-            this.panel763.TabIndex = 3;
-            // 
-            // panel764
-            // 
-            this.panel764.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel764.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel764.Location = new System.Drawing.Point(2, 0);
-            this.panel764.Name = "panel764";
-            this.panel764.Size = new System.Drawing.Size(51, 2);
-            this.panel764.TabIndex = 2;
-            // 
-            // panel765
-            // 
-            this.panel765.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel765.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel765.Location = new System.Drawing.Point(0, 0);
-            this.panel765.Name = "panel765";
-            this.panel765.Size = new System.Drawing.Size(2, 65);
-            this.panel765.TabIndex = 1;
-            // 
-            // panel766
-            // 
-            this.panel766.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel766.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel766.Location = new System.Drawing.Point(53, 0);
-            this.panel766.Name = "panel766";
-            this.panel766.Size = new System.Drawing.Size(2, 65);
-            this.panel766.TabIndex = 0;
-            // 
-            // panel767
-            // 
-            this.panel767.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel767.Controls.Add(this.panel768);
-            this.panel767.Controls.Add(this.panel769);
-            this.panel767.Controls.Add(this.panel770);
-            this.panel767.Controls.Add(this.panel771);
-            this.panel767.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel767.Location = new System.Drawing.Point(440, 0);
-            this.panel767.Name = "panel767";
-            this.panel767.Size = new System.Drawing.Size(55, 65);
-            this.panel767.TabIndex = 44;
-            // 
-            // panel768
-            // 
-            this.panel768.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel768.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel768.Location = new System.Drawing.Point(2, 63);
-            this.panel768.Name = "panel768";
-            this.panel768.Size = new System.Drawing.Size(51, 2);
-            this.panel768.TabIndex = 3;
-            // 
-            // panel769
-            // 
-            this.panel769.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel769.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel769.Location = new System.Drawing.Point(2, 0);
-            this.panel769.Name = "panel769";
-            this.panel769.Size = new System.Drawing.Size(51, 2);
-            this.panel769.TabIndex = 2;
-            // 
-            // panel770
-            // 
-            this.panel770.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel770.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel770.Location = new System.Drawing.Point(0, 0);
-            this.panel770.Name = "panel770";
-            this.panel770.Size = new System.Drawing.Size(2, 65);
-            this.panel770.TabIndex = 1;
-            // 
-            // panel771
-            // 
-            this.panel771.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel771.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel771.Location = new System.Drawing.Point(53, 0);
-            this.panel771.Name = "panel771";
-            this.panel771.Size = new System.Drawing.Size(2, 65);
-            this.panel771.TabIndex = 0;
-            // 
-            // panel772
-            // 
-            this.panel772.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel772.Controls.Add(this.panel773);
-            this.panel772.Controls.Add(this.panel774);
-            this.panel772.Controls.Add(this.panel775);
-            this.panel772.Controls.Add(this.panel776);
-            this.panel772.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel772.Location = new System.Drawing.Point(385, 0);
-            this.panel772.Name = "panel772";
-            this.panel772.Size = new System.Drawing.Size(55, 65);
-            this.panel772.TabIndex = 43;
-            // 
-            // panel773
-            // 
-            this.panel773.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel773.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel773.Location = new System.Drawing.Point(2, 63);
-            this.panel773.Name = "panel773";
-            this.panel773.Size = new System.Drawing.Size(51, 2);
-            this.panel773.TabIndex = 3;
-            // 
-            // panel774
-            // 
-            this.panel774.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel774.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel774.Location = new System.Drawing.Point(2, 0);
-            this.panel774.Name = "panel774";
-            this.panel774.Size = new System.Drawing.Size(51, 2);
-            this.panel774.TabIndex = 2;
-            // 
-            // panel775
-            // 
-            this.panel775.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel775.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel775.Location = new System.Drawing.Point(0, 0);
-            this.panel775.Name = "panel775";
-            this.panel775.Size = new System.Drawing.Size(2, 65);
-            this.panel775.TabIndex = 1;
-            // 
-            // panel776
-            // 
-            this.panel776.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel776.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel776.Location = new System.Drawing.Point(53, 0);
-            this.panel776.Name = "panel776";
-            this.panel776.Size = new System.Drawing.Size(2, 65);
-            this.panel776.TabIndex = 0;
-            // 
-            // panel777
-            // 
-            this.panel777.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel777.Controls.Add(this.panel778);
-            this.panel777.Controls.Add(this.panel779);
-            this.panel777.Controls.Add(this.panel780);
-            this.panel777.Controls.Add(this.panel781);
-            this.panel777.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel777.Location = new System.Drawing.Point(330, 0);
-            this.panel777.Name = "panel777";
-            this.panel777.Size = new System.Drawing.Size(55, 65);
-            this.panel777.TabIndex = 42;
-            // 
-            // panel778
-            // 
-            this.panel778.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel778.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel778.Location = new System.Drawing.Point(2, 63);
-            this.panel778.Name = "panel778";
-            this.panel778.Size = new System.Drawing.Size(51, 2);
-            this.panel778.TabIndex = 3;
-            // 
-            // panel779
-            // 
-            this.panel779.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel779.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel779.Location = new System.Drawing.Point(2, 0);
-            this.panel779.Name = "panel779";
-            this.panel779.Size = new System.Drawing.Size(51, 2);
-            this.panel779.TabIndex = 2;
-            // 
-            // panel780
-            // 
-            this.panel780.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel780.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel780.Location = new System.Drawing.Point(0, 0);
-            this.panel780.Name = "panel780";
-            this.panel780.Size = new System.Drawing.Size(2, 65);
-            this.panel780.TabIndex = 1;
-            // 
-            // panel781
-            // 
-            this.panel781.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel781.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel781.Location = new System.Drawing.Point(53, 0);
-            this.panel781.Name = "panel781";
-            this.panel781.Size = new System.Drawing.Size(2, 65);
-            this.panel781.TabIndex = 0;
             // 
             // panel782
             // 
@@ -1955,9 +1275,9 @@ namespace VirtualChem.Forms
             this.panel782.Controls.Add(this.panel785);
             this.panel782.Controls.Add(this.panel786);
             this.panel782.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel782.Location = new System.Drawing.Point(275, 0);
+            this.panel782.Location = new System.Drawing.Point(110, 0);
             this.panel782.Name = "panel782";
-            this.panel782.Size = new System.Drawing.Size(55, 65);
+            this.panel782.Size = new System.Drawing.Size(550, 65);
             this.panel782.TabIndex = 41;
             // 
             // panel783
@@ -1966,7 +1286,7 @@ namespace VirtualChem.Forms
             this.panel783.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.panel783.Location = new System.Drawing.Point(2, 63);
             this.panel783.Name = "panel783";
-            this.panel783.Size = new System.Drawing.Size(51, 2);
+            this.panel783.Size = new System.Drawing.Size(546, 2);
             this.panel783.TabIndex = 3;
             // 
             // panel784
@@ -1975,7 +1295,7 @@ namespace VirtualChem.Forms
             this.panel784.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel784.Location = new System.Drawing.Point(2, 0);
             this.panel784.Name = "panel784";
-            this.panel784.Size = new System.Drawing.Size(51, 2);
+            this.panel784.Size = new System.Drawing.Size(546, 2);
             this.panel784.TabIndex = 2;
             // 
             // panel785
@@ -1991,157 +1311,10 @@ namespace VirtualChem.Forms
             // 
             this.panel786.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
             this.panel786.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel786.Location = new System.Drawing.Point(53, 0);
+            this.panel786.Location = new System.Drawing.Point(548, 0);
             this.panel786.Name = "panel786";
             this.panel786.Size = new System.Drawing.Size(2, 65);
             this.panel786.TabIndex = 0;
-            // 
-            // panel787
-            // 
-            this.panel787.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel787.Controls.Add(this.panel788);
-            this.panel787.Controls.Add(this.panel789);
-            this.panel787.Controls.Add(this.panel790);
-            this.panel787.Controls.Add(this.panel791);
-            this.panel787.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel787.Location = new System.Drawing.Point(220, 0);
-            this.panel787.Name = "panel787";
-            this.panel787.Size = new System.Drawing.Size(55, 65);
-            this.panel787.TabIndex = 40;
-            // 
-            // panel788
-            // 
-            this.panel788.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel788.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel788.Location = new System.Drawing.Point(2, 63);
-            this.panel788.Name = "panel788";
-            this.panel788.Size = new System.Drawing.Size(51, 2);
-            this.panel788.TabIndex = 3;
-            // 
-            // panel789
-            // 
-            this.panel789.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel789.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel789.Location = new System.Drawing.Point(2, 0);
-            this.panel789.Name = "panel789";
-            this.panel789.Size = new System.Drawing.Size(51, 2);
-            this.panel789.TabIndex = 2;
-            // 
-            // panel790
-            // 
-            this.panel790.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel790.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel790.Location = new System.Drawing.Point(0, 0);
-            this.panel790.Name = "panel790";
-            this.panel790.Size = new System.Drawing.Size(2, 65);
-            this.panel790.TabIndex = 1;
-            // 
-            // panel791
-            // 
-            this.panel791.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel791.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel791.Location = new System.Drawing.Point(53, 0);
-            this.panel791.Name = "panel791";
-            this.panel791.Size = new System.Drawing.Size(2, 65);
-            this.panel791.TabIndex = 0;
-            // 
-            // panel792
-            // 
-            this.panel792.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel792.Controls.Add(this.panel793);
-            this.panel792.Controls.Add(this.panel794);
-            this.panel792.Controls.Add(this.panel795);
-            this.panel792.Controls.Add(this.panel796);
-            this.panel792.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel792.Location = new System.Drawing.Point(165, 0);
-            this.panel792.Name = "panel792";
-            this.panel792.Size = new System.Drawing.Size(55, 65);
-            this.panel792.TabIndex = 39;
-            // 
-            // panel793
-            // 
-            this.panel793.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel793.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel793.Location = new System.Drawing.Point(2, 63);
-            this.panel793.Name = "panel793";
-            this.panel793.Size = new System.Drawing.Size(51, 2);
-            this.panel793.TabIndex = 3;
-            // 
-            // panel794
-            // 
-            this.panel794.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel794.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel794.Location = new System.Drawing.Point(2, 0);
-            this.panel794.Name = "panel794";
-            this.panel794.Size = new System.Drawing.Size(51, 2);
-            this.panel794.TabIndex = 2;
-            // 
-            // panel795
-            // 
-            this.panel795.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel795.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel795.Location = new System.Drawing.Point(0, 0);
-            this.panel795.Name = "panel795";
-            this.panel795.Size = new System.Drawing.Size(2, 65);
-            this.panel795.TabIndex = 1;
-            // 
-            // panel796
-            // 
-            this.panel796.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel796.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel796.Location = new System.Drawing.Point(53, 0);
-            this.panel796.Name = "panel796";
-            this.panel796.Size = new System.Drawing.Size(2, 65);
-            this.panel796.TabIndex = 0;
-            // 
-            // panel797
-            // 
-            this.panel797.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel797.Controls.Add(this.panel798);
-            this.panel797.Controls.Add(this.panel799);
-            this.panel797.Controls.Add(this.panel800);
-            this.panel797.Controls.Add(this.panel801);
-            this.panel797.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel797.Location = new System.Drawing.Point(110, 0);
-            this.panel797.Name = "panel797";
-            this.panel797.Size = new System.Drawing.Size(55, 65);
-            this.panel797.TabIndex = 38;
-            // 
-            // panel798
-            // 
-            this.panel798.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel798.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel798.Location = new System.Drawing.Point(2, 63);
-            this.panel798.Name = "panel798";
-            this.panel798.Size = new System.Drawing.Size(51, 2);
-            this.panel798.TabIndex = 3;
-            // 
-            // panel799
-            // 
-            this.panel799.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel799.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel799.Location = new System.Drawing.Point(2, 0);
-            this.panel799.Name = "panel799";
-            this.panel799.Size = new System.Drawing.Size(51, 2);
-            this.panel799.TabIndex = 2;
-            // 
-            // panel800
-            // 
-            this.panel800.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel800.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel800.Location = new System.Drawing.Point(0, 0);
-            this.panel800.Name = "panel800";
-            this.panel800.Size = new System.Drawing.Size(2, 65);
-            this.panel800.TabIndex = 1;
-            // 
-            // panel801
-            // 
-            this.panel801.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel801.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel801.Location = new System.Drawing.Point(53, 0);
-            this.panel801.Name = "panel801";
-            this.panel801.Size = new System.Drawing.Size(2, 65);
-            this.panel801.TabIndex = 0;
             // 
             // panel802
             // 
@@ -2225,6 +1398,7 @@ namespace VirtualChem.Forms
             this.Hydrogen_Button.TabIndex = 5;
             this.Hydrogen_Button.Text = "H";
             this.Hydrogen_Button.UseVisualStyleBackColor = true;
+            this.Hydrogen_Button.Click += new System.EventHandler(this.Hydrogen_Label_Click);
             // 
             // Hydrogen_Label
             // 
@@ -2237,6 +1411,7 @@ namespace VirtualChem.Forms
             this.Hydrogen_Label.Size = new System.Drawing.Size(51, 15);
             this.Hydrogen_Label.TabIndex = 4;
             this.Hydrogen_Label.Text = "1";
+            this.Hydrogen_Label.Click += new System.EventHandler(this.Hydrogen_Label_Click);
             // 
             // panel808
             // 
@@ -2282,16 +1457,7 @@ namespace VirtualChem.Forms
             this.SecondRow_Panel.Controls.Add(this.panel647);
             this.SecondRow_Panel.Controls.Add(this.panel652);
             this.SecondRow_Panel.Controls.Add(this.panel657);
-            this.SecondRow_Panel.Controls.Add(this.panel662);
             this.SecondRow_Panel.Controls.Add(this.panel667);
-            this.SecondRow_Panel.Controls.Add(this.panel672);
-            this.SecondRow_Panel.Controls.Add(this.panel677);
-            this.SecondRow_Panel.Controls.Add(this.panel682);
-            this.SecondRow_Panel.Controls.Add(this.panel687);
-            this.SecondRow_Panel.Controls.Add(this.panel692);
-            this.SecondRow_Panel.Controls.Add(this.panel697);
-            this.SecondRow_Panel.Controls.Add(this.panel702);
-            this.SecondRow_Panel.Controls.Add(this.panel707);
             this.SecondRow_Panel.Controls.Add(this.panel712);
             this.SecondRow_Panel.Controls.Add(this.panel717);
             this.SecondRow_Panel.Dock = System.Windows.Forms.DockStyle.Bottom;
@@ -2792,67 +1958,30 @@ namespace VirtualChem.Forms
             this.panel661.Size = new System.Drawing.Size(2, 65);
             this.panel661.TabIndex = 0;
             // 
-            // panel662
-            // 
-            this.panel662.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel662.Controls.Add(this.panel663);
-            this.panel662.Controls.Add(this.panel664);
-            this.panel662.Controls.Add(this.panel665);
-            this.panel662.Controls.Add(this.panel666);
-            this.panel662.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel662.Location = new System.Drawing.Point(605, 0);
-            this.panel662.Name = "panel662";
-            this.panel662.Size = new System.Drawing.Size(55, 65);
-            this.panel662.TabIndex = 47;
-            // 
-            // panel663
-            // 
-            this.panel663.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel663.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel663.Location = new System.Drawing.Point(2, 63);
-            this.panel663.Name = "panel663";
-            this.panel663.Size = new System.Drawing.Size(51, 2);
-            this.panel663.TabIndex = 3;
-            // 
-            // panel664
-            // 
-            this.panel664.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel664.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel664.Location = new System.Drawing.Point(2, 0);
-            this.panel664.Name = "panel664";
-            this.panel664.Size = new System.Drawing.Size(51, 2);
-            this.panel664.TabIndex = 2;
-            // 
-            // panel665
-            // 
-            this.panel665.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel665.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel665.Location = new System.Drawing.Point(0, 0);
-            this.panel665.Name = "panel665";
-            this.panel665.Size = new System.Drawing.Size(2, 65);
-            this.panel665.TabIndex = 1;
-            // 
-            // panel666
-            // 
-            this.panel666.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel666.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel666.Location = new System.Drawing.Point(53, 0);
-            this.panel666.Name = "panel666";
-            this.panel666.Size = new System.Drawing.Size(2, 65);
-            this.panel666.TabIndex = 0;
-            // 
             // panel667
             // 
             this.panel667.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
+            this.panel667.Controls.Add(this.pictureBox1);
             this.panel667.Controls.Add(this.panel668);
             this.panel667.Controls.Add(this.panel669);
             this.panel667.Controls.Add(this.panel670);
             this.panel667.Controls.Add(this.panel671);
             this.panel667.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel667.Location = new System.Drawing.Point(550, 0);
+            this.panel667.Location = new System.Drawing.Point(110, 0);
             this.panel667.Name = "panel667";
-            this.panel667.Size = new System.Drawing.Size(55, 65);
+            this.panel667.Size = new System.Drawing.Size(550, 65);
             this.panel667.TabIndex = 46;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pictureBox1.Image = global::VirtualChem.VirtualChem_Resources.VirtualChem_MainHeaderLogoIcon;
+            this.pictureBox1.Location = new System.Drawing.Point(2, 2);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(546, 61);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.pictureBox1.TabIndex = 5;
+            this.pictureBox1.TabStop = false;
             // 
             // panel668
             // 
@@ -2860,7 +1989,7 @@ namespace VirtualChem.Forms
             this.panel668.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.panel668.Location = new System.Drawing.Point(2, 63);
             this.panel668.Name = "panel668";
-            this.panel668.Size = new System.Drawing.Size(51, 2);
+            this.panel668.Size = new System.Drawing.Size(546, 2);
             this.panel668.TabIndex = 3;
             // 
             // panel669
@@ -2869,7 +1998,7 @@ namespace VirtualChem.Forms
             this.panel669.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel669.Location = new System.Drawing.Point(2, 0);
             this.panel669.Name = "panel669";
-            this.panel669.Size = new System.Drawing.Size(51, 2);
+            this.panel669.Size = new System.Drawing.Size(546, 2);
             this.panel669.TabIndex = 2;
             // 
             // panel670
@@ -2885,255 +2014,10 @@ namespace VirtualChem.Forms
             // 
             this.panel671.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
             this.panel671.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel671.Location = new System.Drawing.Point(53, 0);
+            this.panel671.Location = new System.Drawing.Point(548, 0);
             this.panel671.Name = "panel671";
             this.panel671.Size = new System.Drawing.Size(2, 65);
             this.panel671.TabIndex = 0;
-            // 
-            // panel672
-            // 
-            this.panel672.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel672.Controls.Add(this.panel673);
-            this.panel672.Controls.Add(this.panel674);
-            this.panel672.Controls.Add(this.panel675);
-            this.panel672.Controls.Add(this.panel676);
-            this.panel672.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel672.Location = new System.Drawing.Point(495, 0);
-            this.panel672.Name = "panel672";
-            this.panel672.Size = new System.Drawing.Size(55, 65);
-            this.panel672.TabIndex = 45;
-            // 
-            // panel673
-            // 
-            this.panel673.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel673.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel673.Location = new System.Drawing.Point(2, 63);
-            this.panel673.Name = "panel673";
-            this.panel673.Size = new System.Drawing.Size(51, 2);
-            this.panel673.TabIndex = 3;
-            // 
-            // panel674
-            // 
-            this.panel674.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel674.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel674.Location = new System.Drawing.Point(2, 0);
-            this.panel674.Name = "panel674";
-            this.panel674.Size = new System.Drawing.Size(51, 2);
-            this.panel674.TabIndex = 2;
-            // 
-            // panel675
-            // 
-            this.panel675.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel675.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel675.Location = new System.Drawing.Point(0, 0);
-            this.panel675.Name = "panel675";
-            this.panel675.Size = new System.Drawing.Size(2, 65);
-            this.panel675.TabIndex = 1;
-            // 
-            // panel676
-            // 
-            this.panel676.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel676.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel676.Location = new System.Drawing.Point(53, 0);
-            this.panel676.Name = "panel676";
-            this.panel676.Size = new System.Drawing.Size(2, 65);
-            this.panel676.TabIndex = 0;
-            // 
-            // panel677
-            // 
-            this.panel677.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel677.Controls.Add(this.panel678);
-            this.panel677.Controls.Add(this.panel679);
-            this.panel677.Controls.Add(this.panel680);
-            this.panel677.Controls.Add(this.panel681);
-            this.panel677.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel677.Location = new System.Drawing.Point(440, 0);
-            this.panel677.Name = "panel677";
-            this.panel677.Size = new System.Drawing.Size(55, 65);
-            this.panel677.TabIndex = 44;
-            // 
-            // panel678
-            // 
-            this.panel678.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel678.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel678.Location = new System.Drawing.Point(2, 63);
-            this.panel678.Name = "panel678";
-            this.panel678.Size = new System.Drawing.Size(51, 2);
-            this.panel678.TabIndex = 3;
-            // 
-            // panel679
-            // 
-            this.panel679.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel679.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel679.Location = new System.Drawing.Point(2, 0);
-            this.panel679.Name = "panel679";
-            this.panel679.Size = new System.Drawing.Size(51, 2);
-            this.panel679.TabIndex = 2;
-            // 
-            // panel680
-            // 
-            this.panel680.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel680.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel680.Location = new System.Drawing.Point(0, 0);
-            this.panel680.Name = "panel680";
-            this.panel680.Size = new System.Drawing.Size(2, 65);
-            this.panel680.TabIndex = 1;
-            // 
-            // panel681
-            // 
-            this.panel681.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel681.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel681.Location = new System.Drawing.Point(53, 0);
-            this.panel681.Name = "panel681";
-            this.panel681.Size = new System.Drawing.Size(2, 65);
-            this.panel681.TabIndex = 0;
-            // 
-            // panel682
-            // 
-            this.panel682.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel682.Controls.Add(this.panel683);
-            this.panel682.Controls.Add(this.panel684);
-            this.panel682.Controls.Add(this.panel685);
-            this.panel682.Controls.Add(this.panel686);
-            this.panel682.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel682.Location = new System.Drawing.Point(385, 0);
-            this.panel682.Name = "panel682";
-            this.panel682.Size = new System.Drawing.Size(55, 65);
-            this.panel682.TabIndex = 43;
-            // 
-            // panel683
-            // 
-            this.panel683.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel683.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel683.Location = new System.Drawing.Point(2, 63);
-            this.panel683.Name = "panel683";
-            this.panel683.Size = new System.Drawing.Size(51, 2);
-            this.panel683.TabIndex = 3;
-            // 
-            // panel684
-            // 
-            this.panel684.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel684.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel684.Location = new System.Drawing.Point(2, 0);
-            this.panel684.Name = "panel684";
-            this.panel684.Size = new System.Drawing.Size(51, 2);
-            this.panel684.TabIndex = 2;
-            // 
-            // panel685
-            // 
-            this.panel685.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel685.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel685.Location = new System.Drawing.Point(0, 0);
-            this.panel685.Name = "panel685";
-            this.panel685.Size = new System.Drawing.Size(2, 65);
-            this.panel685.TabIndex = 1;
-            // 
-            // panel686
-            // 
-            this.panel686.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel686.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel686.Location = new System.Drawing.Point(53, 0);
-            this.panel686.Name = "panel686";
-            this.panel686.Size = new System.Drawing.Size(2, 65);
-            this.panel686.TabIndex = 0;
-            // 
-            // panel687
-            // 
-            this.panel687.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel687.Controls.Add(this.panel688);
-            this.panel687.Controls.Add(this.panel689);
-            this.panel687.Controls.Add(this.panel690);
-            this.panel687.Controls.Add(this.panel691);
-            this.panel687.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel687.Location = new System.Drawing.Point(330, 0);
-            this.panel687.Name = "panel687";
-            this.panel687.Size = new System.Drawing.Size(55, 65);
-            this.panel687.TabIndex = 42;
-            // 
-            // panel688
-            // 
-            this.panel688.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel688.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel688.Location = new System.Drawing.Point(2, 63);
-            this.panel688.Name = "panel688";
-            this.panel688.Size = new System.Drawing.Size(51, 2);
-            this.panel688.TabIndex = 3;
-            // 
-            // panel689
-            // 
-            this.panel689.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel689.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel689.Location = new System.Drawing.Point(2, 0);
-            this.panel689.Name = "panel689";
-            this.panel689.Size = new System.Drawing.Size(51, 2);
-            this.panel689.TabIndex = 2;
-            // 
-            // panel690
-            // 
-            this.panel690.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel690.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel690.Location = new System.Drawing.Point(0, 0);
-            this.panel690.Name = "panel690";
-            this.panel690.Size = new System.Drawing.Size(2, 65);
-            this.panel690.TabIndex = 1;
-            // 
-            // panel691
-            // 
-            this.panel691.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel691.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel691.Location = new System.Drawing.Point(53, 0);
-            this.panel691.Name = "panel691";
-            this.panel691.Size = new System.Drawing.Size(2, 65);
-            this.panel691.TabIndex = 0;
-            // 
-            // panel692
-            // 
-            this.panel692.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel692.Controls.Add(this.panel693);
-            this.panel692.Controls.Add(this.panel694);
-            this.panel692.Controls.Add(this.panel695);
-            this.panel692.Controls.Add(this.panel696);
-            this.panel692.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel692.Location = new System.Drawing.Point(275, 0);
-            this.panel692.Name = "panel692";
-            this.panel692.Size = new System.Drawing.Size(55, 65);
-            this.panel692.TabIndex = 41;
-            // 
-            // panel693
-            // 
-            this.panel693.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel693.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel693.Location = new System.Drawing.Point(2, 63);
-            this.panel693.Name = "panel693";
-            this.panel693.Size = new System.Drawing.Size(51, 2);
-            this.panel693.TabIndex = 3;
-            // 
-            // panel694
-            // 
-            this.panel694.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel694.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel694.Location = new System.Drawing.Point(2, 0);
-            this.panel694.Name = "panel694";
-            this.panel694.Size = new System.Drawing.Size(51, 2);
-            this.panel694.TabIndex = 2;
-            // 
-            // panel695
-            // 
-            this.panel695.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel695.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel695.Location = new System.Drawing.Point(0, 0);
-            this.panel695.Name = "panel695";
-            this.panel695.Size = new System.Drawing.Size(2, 65);
-            this.panel695.TabIndex = 1;
-            // 
-            // panel696
-            // 
-            this.panel696.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel696.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel696.Location = new System.Drawing.Point(53, 0);
-            this.panel696.Name = "panel696";
-            this.panel696.Size = new System.Drawing.Size(2, 65);
-            this.panel696.TabIndex = 0;
             // 
             // panel712
             // 
@@ -3308,15 +2192,6 @@ namespace VirtualChem.Forms
             this.ThirdRow_Panel.Controls.Add(this.panel562);
             this.ThirdRow_Panel.Controls.Add(this.panel567);
             this.ThirdRow_Panel.Controls.Add(this.panel572);
-            this.ThirdRow_Panel.Controls.Add(this.panel577);
-            this.ThirdRow_Panel.Controls.Add(this.panel582);
-            this.ThirdRow_Panel.Controls.Add(this.panel587);
-            this.ThirdRow_Panel.Controls.Add(this.panel592);
-            this.ThirdRow_Panel.Controls.Add(this.panel597);
-            this.ThirdRow_Panel.Controls.Add(this.panel602);
-            this.ThirdRow_Panel.Controls.Add(this.panel607);
-            this.ThirdRow_Panel.Controls.Add(this.panel612);
-            this.ThirdRow_Panel.Controls.Add(this.panel617);
             this.ThirdRow_Panel.Controls.Add(this.panel622);
             this.ThirdRow_Panel.Controls.Add(this.panel627);
             this.ThirdRow_Panel.Dock = System.Windows.Forms.DockStyle.Bottom;
@@ -3825,9 +2700,9 @@ namespace VirtualChem.Forms
             this.panel572.Controls.Add(this.panel575);
             this.panel572.Controls.Add(this.panel576);
             this.panel572.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel572.Location = new System.Drawing.Point(605, 0);
+            this.panel572.Location = new System.Drawing.Point(110, 0);
             this.panel572.Name = "panel572";
-            this.panel572.Size = new System.Drawing.Size(55, 65);
+            this.panel572.Size = new System.Drawing.Size(550, 65);
             this.panel572.TabIndex = 47;
             // 
             // panel573
@@ -3836,7 +2711,7 @@ namespace VirtualChem.Forms
             this.panel573.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.panel573.Location = new System.Drawing.Point(2, 63);
             this.panel573.Name = "panel573";
-            this.panel573.Size = new System.Drawing.Size(51, 2);
+            this.panel573.Size = new System.Drawing.Size(546, 2);
             this.panel573.TabIndex = 3;
             // 
             // panel574
@@ -3845,7 +2720,7 @@ namespace VirtualChem.Forms
             this.panel574.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel574.Location = new System.Drawing.Point(2, 0);
             this.panel574.Name = "panel574";
-            this.panel574.Size = new System.Drawing.Size(51, 2);
+            this.panel574.Size = new System.Drawing.Size(546, 2);
             this.panel574.TabIndex = 2;
             // 
             // panel575
@@ -3861,451 +2736,10 @@ namespace VirtualChem.Forms
             // 
             this.panel576.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
             this.panel576.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel576.Location = new System.Drawing.Point(53, 0);
+            this.panel576.Location = new System.Drawing.Point(548, 0);
             this.panel576.Name = "panel576";
             this.panel576.Size = new System.Drawing.Size(2, 65);
             this.panel576.TabIndex = 0;
-            // 
-            // panel577
-            // 
-            this.panel577.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel577.Controls.Add(this.panel578);
-            this.panel577.Controls.Add(this.panel579);
-            this.panel577.Controls.Add(this.panel580);
-            this.panel577.Controls.Add(this.panel581);
-            this.panel577.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel577.Location = new System.Drawing.Point(550, 0);
-            this.panel577.Name = "panel577";
-            this.panel577.Size = new System.Drawing.Size(55, 65);
-            this.panel577.TabIndex = 46;
-            // 
-            // panel578
-            // 
-            this.panel578.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel578.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel578.Location = new System.Drawing.Point(2, 63);
-            this.panel578.Name = "panel578";
-            this.panel578.Size = new System.Drawing.Size(51, 2);
-            this.panel578.TabIndex = 3;
-            // 
-            // panel579
-            // 
-            this.panel579.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel579.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel579.Location = new System.Drawing.Point(2, 0);
-            this.panel579.Name = "panel579";
-            this.panel579.Size = new System.Drawing.Size(51, 2);
-            this.panel579.TabIndex = 2;
-            // 
-            // panel580
-            // 
-            this.panel580.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel580.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel580.Location = new System.Drawing.Point(0, 0);
-            this.panel580.Name = "panel580";
-            this.panel580.Size = new System.Drawing.Size(2, 65);
-            this.panel580.TabIndex = 1;
-            // 
-            // panel581
-            // 
-            this.panel581.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel581.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel581.Location = new System.Drawing.Point(53, 0);
-            this.panel581.Name = "panel581";
-            this.panel581.Size = new System.Drawing.Size(2, 65);
-            this.panel581.TabIndex = 0;
-            // 
-            // panel582
-            // 
-            this.panel582.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel582.Controls.Add(this.panel583);
-            this.panel582.Controls.Add(this.panel584);
-            this.panel582.Controls.Add(this.panel585);
-            this.panel582.Controls.Add(this.panel586);
-            this.panel582.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel582.Location = new System.Drawing.Point(495, 0);
-            this.panel582.Name = "panel582";
-            this.panel582.Size = new System.Drawing.Size(55, 65);
-            this.panel582.TabIndex = 45;
-            // 
-            // panel583
-            // 
-            this.panel583.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel583.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel583.Location = new System.Drawing.Point(2, 63);
-            this.panel583.Name = "panel583";
-            this.panel583.Size = new System.Drawing.Size(51, 2);
-            this.panel583.TabIndex = 3;
-            // 
-            // panel584
-            // 
-            this.panel584.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel584.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel584.Location = new System.Drawing.Point(2, 0);
-            this.panel584.Name = "panel584";
-            this.panel584.Size = new System.Drawing.Size(51, 2);
-            this.panel584.TabIndex = 2;
-            // 
-            // panel585
-            // 
-            this.panel585.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel585.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel585.Location = new System.Drawing.Point(0, 0);
-            this.panel585.Name = "panel585";
-            this.panel585.Size = new System.Drawing.Size(2, 65);
-            this.panel585.TabIndex = 1;
-            // 
-            // panel586
-            // 
-            this.panel586.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel586.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel586.Location = new System.Drawing.Point(53, 0);
-            this.panel586.Name = "panel586";
-            this.panel586.Size = new System.Drawing.Size(2, 65);
-            this.panel586.TabIndex = 0;
-            // 
-            // panel587
-            // 
-            this.panel587.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel587.Controls.Add(this.panel588);
-            this.panel587.Controls.Add(this.panel589);
-            this.panel587.Controls.Add(this.panel590);
-            this.panel587.Controls.Add(this.panel591);
-            this.panel587.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel587.Location = new System.Drawing.Point(440, 0);
-            this.panel587.Name = "panel587";
-            this.panel587.Size = new System.Drawing.Size(55, 65);
-            this.panel587.TabIndex = 44;
-            // 
-            // panel588
-            // 
-            this.panel588.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel588.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel588.Location = new System.Drawing.Point(2, 63);
-            this.panel588.Name = "panel588";
-            this.panel588.Size = new System.Drawing.Size(51, 2);
-            this.panel588.TabIndex = 3;
-            // 
-            // panel589
-            // 
-            this.panel589.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel589.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel589.Location = new System.Drawing.Point(2, 0);
-            this.panel589.Name = "panel589";
-            this.panel589.Size = new System.Drawing.Size(51, 2);
-            this.panel589.TabIndex = 2;
-            // 
-            // panel590
-            // 
-            this.panel590.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel590.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel590.Location = new System.Drawing.Point(0, 0);
-            this.panel590.Name = "panel590";
-            this.panel590.Size = new System.Drawing.Size(2, 65);
-            this.panel590.TabIndex = 1;
-            // 
-            // panel591
-            // 
-            this.panel591.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel591.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel591.Location = new System.Drawing.Point(53, 0);
-            this.panel591.Name = "panel591";
-            this.panel591.Size = new System.Drawing.Size(2, 65);
-            this.panel591.TabIndex = 0;
-            // 
-            // panel592
-            // 
-            this.panel592.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel592.Controls.Add(this.panel593);
-            this.panel592.Controls.Add(this.panel594);
-            this.panel592.Controls.Add(this.panel595);
-            this.panel592.Controls.Add(this.panel596);
-            this.panel592.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel592.Location = new System.Drawing.Point(385, 0);
-            this.panel592.Name = "panel592";
-            this.panel592.Size = new System.Drawing.Size(55, 65);
-            this.panel592.TabIndex = 43;
-            // 
-            // panel593
-            // 
-            this.panel593.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel593.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel593.Location = new System.Drawing.Point(2, 63);
-            this.panel593.Name = "panel593";
-            this.panel593.Size = new System.Drawing.Size(51, 2);
-            this.panel593.TabIndex = 3;
-            // 
-            // panel594
-            // 
-            this.panel594.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel594.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel594.Location = new System.Drawing.Point(2, 0);
-            this.panel594.Name = "panel594";
-            this.panel594.Size = new System.Drawing.Size(51, 2);
-            this.panel594.TabIndex = 2;
-            // 
-            // panel595
-            // 
-            this.panel595.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel595.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel595.Location = new System.Drawing.Point(0, 0);
-            this.panel595.Name = "panel595";
-            this.panel595.Size = new System.Drawing.Size(2, 65);
-            this.panel595.TabIndex = 1;
-            // 
-            // panel596
-            // 
-            this.panel596.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel596.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel596.Location = new System.Drawing.Point(53, 0);
-            this.panel596.Name = "panel596";
-            this.panel596.Size = new System.Drawing.Size(2, 65);
-            this.panel596.TabIndex = 0;
-            // 
-            // panel597
-            // 
-            this.panel597.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel597.Controls.Add(this.panel598);
-            this.panel597.Controls.Add(this.panel599);
-            this.panel597.Controls.Add(this.panel600);
-            this.panel597.Controls.Add(this.panel601);
-            this.panel597.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel597.Location = new System.Drawing.Point(330, 0);
-            this.panel597.Name = "panel597";
-            this.panel597.Size = new System.Drawing.Size(55, 65);
-            this.panel597.TabIndex = 42;
-            // 
-            // panel598
-            // 
-            this.panel598.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel598.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel598.Location = new System.Drawing.Point(2, 63);
-            this.panel598.Name = "panel598";
-            this.panel598.Size = new System.Drawing.Size(51, 2);
-            this.panel598.TabIndex = 3;
-            // 
-            // panel599
-            // 
-            this.panel599.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel599.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel599.Location = new System.Drawing.Point(2, 0);
-            this.panel599.Name = "panel599";
-            this.panel599.Size = new System.Drawing.Size(51, 2);
-            this.panel599.TabIndex = 2;
-            // 
-            // panel600
-            // 
-            this.panel600.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel600.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel600.Location = new System.Drawing.Point(0, 0);
-            this.panel600.Name = "panel600";
-            this.panel600.Size = new System.Drawing.Size(2, 65);
-            this.panel600.TabIndex = 1;
-            // 
-            // panel601
-            // 
-            this.panel601.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel601.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel601.Location = new System.Drawing.Point(53, 0);
-            this.panel601.Name = "panel601";
-            this.panel601.Size = new System.Drawing.Size(2, 65);
-            this.panel601.TabIndex = 0;
-            // 
-            // panel602
-            // 
-            this.panel602.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel602.Controls.Add(this.panel603);
-            this.panel602.Controls.Add(this.panel604);
-            this.panel602.Controls.Add(this.panel605);
-            this.panel602.Controls.Add(this.panel606);
-            this.panel602.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel602.Location = new System.Drawing.Point(275, 0);
-            this.panel602.Name = "panel602";
-            this.panel602.Size = new System.Drawing.Size(55, 65);
-            this.panel602.TabIndex = 41;
-            // 
-            // panel603
-            // 
-            this.panel603.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel603.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel603.Location = new System.Drawing.Point(2, 63);
-            this.panel603.Name = "panel603";
-            this.panel603.Size = new System.Drawing.Size(51, 2);
-            this.panel603.TabIndex = 3;
-            // 
-            // panel604
-            // 
-            this.panel604.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel604.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel604.Location = new System.Drawing.Point(2, 0);
-            this.panel604.Name = "panel604";
-            this.panel604.Size = new System.Drawing.Size(51, 2);
-            this.panel604.TabIndex = 2;
-            // 
-            // panel605
-            // 
-            this.panel605.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel605.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel605.Location = new System.Drawing.Point(0, 0);
-            this.panel605.Name = "panel605";
-            this.panel605.Size = new System.Drawing.Size(2, 65);
-            this.panel605.TabIndex = 1;
-            // 
-            // panel606
-            // 
-            this.panel606.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel606.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel606.Location = new System.Drawing.Point(53, 0);
-            this.panel606.Name = "panel606";
-            this.panel606.Size = new System.Drawing.Size(2, 65);
-            this.panel606.TabIndex = 0;
-            // 
-            // panel607
-            // 
-            this.panel607.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel607.Controls.Add(this.panel608);
-            this.panel607.Controls.Add(this.panel609);
-            this.panel607.Controls.Add(this.panel610);
-            this.panel607.Controls.Add(this.panel611);
-            this.panel607.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel607.Location = new System.Drawing.Point(220, 0);
-            this.panel607.Name = "panel607";
-            this.panel607.Size = new System.Drawing.Size(55, 65);
-            this.panel607.TabIndex = 40;
-            // 
-            // panel608
-            // 
-            this.panel608.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel608.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel608.Location = new System.Drawing.Point(2, 63);
-            this.panel608.Name = "panel608";
-            this.panel608.Size = new System.Drawing.Size(51, 2);
-            this.panel608.TabIndex = 3;
-            // 
-            // panel609
-            // 
-            this.panel609.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel609.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel609.Location = new System.Drawing.Point(2, 0);
-            this.panel609.Name = "panel609";
-            this.panel609.Size = new System.Drawing.Size(51, 2);
-            this.panel609.TabIndex = 2;
-            // 
-            // panel610
-            // 
-            this.panel610.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel610.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel610.Location = new System.Drawing.Point(0, 0);
-            this.panel610.Name = "panel610";
-            this.panel610.Size = new System.Drawing.Size(2, 65);
-            this.panel610.TabIndex = 1;
-            // 
-            // panel611
-            // 
-            this.panel611.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel611.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel611.Location = new System.Drawing.Point(53, 0);
-            this.panel611.Name = "panel611";
-            this.panel611.Size = new System.Drawing.Size(2, 65);
-            this.panel611.TabIndex = 0;
-            // 
-            // panel612
-            // 
-            this.panel612.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel612.Controls.Add(this.panel613);
-            this.panel612.Controls.Add(this.panel614);
-            this.panel612.Controls.Add(this.panel615);
-            this.panel612.Controls.Add(this.panel616);
-            this.panel612.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel612.Location = new System.Drawing.Point(165, 0);
-            this.panel612.Name = "panel612";
-            this.panel612.Size = new System.Drawing.Size(55, 65);
-            this.panel612.TabIndex = 39;
-            // 
-            // panel613
-            // 
-            this.panel613.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel613.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel613.Location = new System.Drawing.Point(2, 63);
-            this.panel613.Name = "panel613";
-            this.panel613.Size = new System.Drawing.Size(51, 2);
-            this.panel613.TabIndex = 3;
-            // 
-            // panel614
-            // 
-            this.panel614.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel614.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel614.Location = new System.Drawing.Point(2, 0);
-            this.panel614.Name = "panel614";
-            this.panel614.Size = new System.Drawing.Size(51, 2);
-            this.panel614.TabIndex = 2;
-            // 
-            // panel615
-            // 
-            this.panel615.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel615.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel615.Location = new System.Drawing.Point(0, 0);
-            this.panel615.Name = "panel615";
-            this.panel615.Size = new System.Drawing.Size(2, 65);
-            this.panel615.TabIndex = 1;
-            // 
-            // panel616
-            // 
-            this.panel616.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel616.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel616.Location = new System.Drawing.Point(53, 0);
-            this.panel616.Name = "panel616";
-            this.panel616.Size = new System.Drawing.Size(2, 65);
-            this.panel616.TabIndex = 0;
-            // 
-            // panel617
-            // 
-            this.panel617.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel617.Controls.Add(this.panel618);
-            this.panel617.Controls.Add(this.panel619);
-            this.panel617.Controls.Add(this.panel620);
-            this.panel617.Controls.Add(this.panel621);
-            this.panel617.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel617.Location = new System.Drawing.Point(110, 0);
-            this.panel617.Name = "panel617";
-            this.panel617.Size = new System.Drawing.Size(55, 65);
-            this.panel617.TabIndex = 38;
-            // 
-            // panel618
-            // 
-            this.panel618.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel618.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel618.Location = new System.Drawing.Point(2, 63);
-            this.panel618.Name = "panel618";
-            this.panel618.Size = new System.Drawing.Size(51, 2);
-            this.panel618.TabIndex = 3;
-            // 
-            // panel619
-            // 
-            this.panel619.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel619.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel619.Location = new System.Drawing.Point(2, 0);
-            this.panel619.Name = "panel619";
-            this.panel619.Size = new System.Drawing.Size(51, 2);
-            this.panel619.TabIndex = 2;
-            // 
-            // panel620
-            // 
-            this.panel620.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel620.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel620.Location = new System.Drawing.Point(0, 0);
-            this.panel620.Name = "panel620";
-            this.panel620.Size = new System.Drawing.Size(2, 65);
-            this.panel620.TabIndex = 1;
-            // 
-            // panel621
-            // 
-            this.panel621.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel621.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel621.Location = new System.Drawing.Point(53, 0);
-            this.panel621.Name = "panel621";
-            this.panel621.Size = new System.Drawing.Size(2, 65);
-            this.panel621.TabIndex = 0;
             // 
             // panel622
             // 
@@ -13319,11 +11753,76 @@ namespace VirtualChem.Forms
             // 
             // TopMargin_Panel
             // 
+            this.TopMargin_Panel.Controls.Add(this.panel812);
             this.TopMargin_Panel.Dock = System.Windows.Forms.DockStyle.Top;
             this.TopMargin_Panel.Location = new System.Drawing.Point(2, 2);
             this.TopMargin_Panel.Name = "TopMargin_Panel";
             this.TopMargin_Panel.Size = new System.Drawing.Size(1090, 50);
             this.TopMargin_Panel.TabIndex = 8;
+            // 
+            // panel812
+            // 
+            this.panel812.Controls.Add(this.Minimize_Button);
+            this.panel812.Controls.Add(this.panel814);
+            this.panel812.Controls.Add(this.Exit_Button);
+            this.panel812.Controls.Add(this.panel813);
+            this.panel812.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel812.Location = new System.Drawing.Point(0, 0);
+            this.panel812.Name = "panel812";
+            this.panel812.Size = new System.Drawing.Size(1090, 30);
+            this.panel812.TabIndex = 0;
+            // 
+            // Minimize_Button
+            // 
+            this.Minimize_Button.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Minimize_Button.Dock = System.Windows.Forms.DockStyle.Right;
+            this.Minimize_Button.FlatAppearance.BorderSize = 0;
+            this.Minimize_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
+            this.Minimize_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
+            this.Minimize_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
+            this.Minimize_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Minimize_Button.Image = global::VirtualChem.VirtualChem_Resources.VirtualChem_MinimizeIcon;
+            this.Minimize_Button.Location = new System.Drawing.Point(1028, 0);
+            this.Minimize_Button.Name = "Minimize_Button";
+            this.Minimize_Button.Padding = new System.Windows.Forms.Padding(0, 6, 0, 0);
+            this.Minimize_Button.Size = new System.Drawing.Size(25, 30);
+            this.Minimize_Button.TabIndex = 3;
+            this.Minimize_Button.UseVisualStyleBackColor = true;
+            this.Minimize_Button.Click += new System.EventHandler(this.Minimize_Button_Click);
+            // 
+            // panel814
+            // 
+            this.panel814.Dock = System.Windows.Forms.DockStyle.Right;
+            this.panel814.Location = new System.Drawing.Point(1053, 0);
+            this.panel814.Name = "panel814";
+            this.panel814.Size = new System.Drawing.Size(6, 30);
+            this.panel814.TabIndex = 2;
+            // 
+            // Exit_Button
+            // 
+            this.Exit_Button.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Exit_Button.Dock = System.Windows.Forms.DockStyle.Right;
+            this.Exit_Button.FlatAppearance.BorderSize = 0;
+            this.Exit_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
+            this.Exit_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
+            this.Exit_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
+            this.Exit_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Exit_Button.Image = global::VirtualChem.VirtualChem_Resources.VirtualChem_ExitIcon;
+            this.Exit_Button.Location = new System.Drawing.Point(1059, 0);
+            this.Exit_Button.Name = "Exit_Button";
+            this.Exit_Button.Padding = new System.Windows.Forms.Padding(0, 6, 0, 0);
+            this.Exit_Button.Size = new System.Drawing.Size(25, 30);
+            this.Exit_Button.TabIndex = 1;
+            this.Exit_Button.UseVisualStyleBackColor = true;
+            this.Exit_Button.Click += new System.EventHandler(this.Exit_Button_Click);
+            // 
+            // panel813
+            // 
+            this.panel813.Dock = System.Windows.Forms.DockStyle.Right;
+            this.panel813.Location = new System.Drawing.Point(1084, 0);
+            this.panel813.Name = "panel813";
+            this.panel813.Size = new System.Drawing.Size(6, 30);
+            this.panel813.TabIndex = 0;
             // 
             // BottomBorder_Panel
             // 
@@ -13361,153 +11860,6 @@ namespace VirtualChem.Forms
             this.RightBorder_Panel.Size = new System.Drawing.Size(2, 700);
             this.RightBorder_Panel.TabIndex = 4;
             // 
-            // panel706
-            // 
-            this.panel706.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel706.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel706.Location = new System.Drawing.Point(53, 0);
-            this.panel706.Name = "panel706";
-            this.panel706.Size = new System.Drawing.Size(2, 65);
-            this.panel706.TabIndex = 0;
-            // 
-            // panel705
-            // 
-            this.panel705.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel705.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel705.Location = new System.Drawing.Point(0, 0);
-            this.panel705.Name = "panel705";
-            this.panel705.Size = new System.Drawing.Size(2, 65);
-            this.panel705.TabIndex = 1;
-            // 
-            // panel704
-            // 
-            this.panel704.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel704.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel704.Location = new System.Drawing.Point(2, 0);
-            this.panel704.Name = "panel704";
-            this.panel704.Size = new System.Drawing.Size(51, 2);
-            this.panel704.TabIndex = 2;
-            // 
-            // panel703
-            // 
-            this.panel703.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel703.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel703.Location = new System.Drawing.Point(2, 63);
-            this.panel703.Name = "panel703";
-            this.panel703.Size = new System.Drawing.Size(51, 2);
-            this.panel703.TabIndex = 3;
-            // 
-            // panel702
-            // 
-            this.panel702.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel702.Controls.Add(this.panel703);
-            this.panel702.Controls.Add(this.panel704);
-            this.panel702.Controls.Add(this.panel705);
-            this.panel702.Controls.Add(this.panel706);
-            this.panel702.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel702.Location = new System.Drawing.Point(165, 0);
-            this.panel702.Name = "panel702";
-            this.panel702.Size = new System.Drawing.Size(55, 65);
-            this.panel702.TabIndex = 39;
-            // 
-            // panel711
-            // 
-            this.panel711.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel711.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel711.Location = new System.Drawing.Point(53, 0);
-            this.panel711.Name = "panel711";
-            this.panel711.Size = new System.Drawing.Size(2, 65);
-            this.panel711.TabIndex = 0;
-            // 
-            // panel710
-            // 
-            this.panel710.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel710.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel710.Location = new System.Drawing.Point(0, 0);
-            this.panel710.Name = "panel710";
-            this.panel710.Size = new System.Drawing.Size(2, 65);
-            this.panel710.TabIndex = 1;
-            // 
-            // panel709
-            // 
-            this.panel709.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel709.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel709.Location = new System.Drawing.Point(2, 0);
-            this.panel709.Name = "panel709";
-            this.panel709.Size = new System.Drawing.Size(51, 2);
-            this.panel709.TabIndex = 2;
-            // 
-            // panel708
-            // 
-            this.panel708.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel708.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel708.Location = new System.Drawing.Point(2, 63);
-            this.panel708.Name = "panel708";
-            this.panel708.Size = new System.Drawing.Size(51, 2);
-            this.panel708.TabIndex = 3;
-            // 
-            // panel707
-            // 
-            this.panel707.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel707.Controls.Add(this.panel708);
-            this.panel707.Controls.Add(this.panel709);
-            this.panel707.Controls.Add(this.panel710);
-            this.panel707.Controls.Add(this.panel711);
-            this.panel707.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel707.Location = new System.Drawing.Point(110, 0);
-            this.panel707.Name = "panel707";
-            this.panel707.Size = new System.Drawing.Size(55, 65);
-            this.panel707.TabIndex = 38;
-            // 
-            // panel701
-            // 
-            this.panel701.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel701.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel701.Location = new System.Drawing.Point(53, 0);
-            this.panel701.Name = "panel701";
-            this.panel701.Size = new System.Drawing.Size(2, 65);
-            this.panel701.TabIndex = 0;
-            // 
-            // panel700
-            // 
-            this.panel700.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel700.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel700.Location = new System.Drawing.Point(0, 0);
-            this.panel700.Name = "panel700";
-            this.panel700.Size = new System.Drawing.Size(2, 65);
-            this.panel700.TabIndex = 1;
-            // 
-            // panel699
-            // 
-            this.panel699.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel699.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel699.Location = new System.Drawing.Point(2, 0);
-            this.panel699.Name = "panel699";
-            this.panel699.Size = new System.Drawing.Size(51, 2);
-            this.panel699.TabIndex = 2;
-            // 
-            // panel698
-            // 
-            this.panel698.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel698.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel698.Location = new System.Drawing.Point(2, 63);
-            this.panel698.Name = "panel698";
-            this.panel698.Size = new System.Drawing.Size(51, 2);
-            this.panel698.TabIndex = 3;
-            // 
-            // panel697
-            // 
-            this.panel697.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel697.Controls.Add(this.panel698);
-            this.panel697.Controls.Add(this.panel699);
-            this.panel697.Controls.Add(this.panel700);
-            this.panel697.Controls.Add(this.panel701);
-            this.panel697.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel697.Location = new System.Drawing.Point(220, 0);
-            this.panel697.Name = "panel697";
-            this.panel697.Size = new System.Drawing.Size(55, 65);
-            this.panel697.TabIndex = 40;
-            // 
             // VirtualChem_MainMenu
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
@@ -13522,21 +11874,8 @@ namespace VirtualChem.Forms
             this.Main_Panel.ResumeLayout(false);
             this.FirstRow_Panel.ResumeLayout(false);
             this.panel722.ResumeLayout(false);
-            this.panel727.ResumeLayout(false);
-            this.panel732.ResumeLayout(false);
-            this.panel737.ResumeLayout(false);
-            this.panel742.ResumeLayout(false);
             this.panel747.ResumeLayout(false);
-            this.panel752.ResumeLayout(false);
-            this.panel757.ResumeLayout(false);
-            this.panel762.ResumeLayout(false);
-            this.panel767.ResumeLayout(false);
-            this.panel772.ResumeLayout(false);
-            this.panel777.ResumeLayout(false);
             this.panel782.ResumeLayout(false);
-            this.panel787.ResumeLayout(false);
-            this.panel792.ResumeLayout(false);
-            this.panel797.ResumeLayout(false);
             this.panel802.ResumeLayout(false);
             this.panel807.ResumeLayout(false);
             this.SecondRow_Panel.ResumeLayout(false);
@@ -13546,13 +11885,8 @@ namespace VirtualChem.Forms
             this.panel647.ResumeLayout(false);
             this.panel652.ResumeLayout(false);
             this.panel657.ResumeLayout(false);
-            this.panel662.ResumeLayout(false);
             this.panel667.ResumeLayout(false);
-            this.panel672.ResumeLayout(false);
-            this.panel677.ResumeLayout(false);
-            this.panel682.ResumeLayout(false);
-            this.panel687.ResumeLayout(false);
-            this.panel692.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panel712.ResumeLayout(false);
             this.panel717.ResumeLayout(false);
             this.ThirdRow_Panel.ResumeLayout(false);
@@ -13563,15 +11897,6 @@ namespace VirtualChem.Forms
             this.panel562.ResumeLayout(false);
             this.panel567.ResumeLayout(false);
             this.panel572.ResumeLayout(false);
-            this.panel577.ResumeLayout(false);
-            this.panel582.ResumeLayout(false);
-            this.panel587.ResumeLayout(false);
-            this.panel592.ResumeLayout(false);
-            this.panel597.ResumeLayout(false);
-            this.panel602.ResumeLayout(false);
-            this.panel607.ResumeLayout(false);
-            this.panel612.ResumeLayout(false);
-            this.panel617.ResumeLayout(false);
             this.panel622.ResumeLayout(false);
             this.panel627.ResumeLayout(false);
             this.FourthRow_Panel.ResumeLayout(false);
@@ -13688,9 +12013,8 @@ namespace VirtualChem.Forms
             this.panel12.ResumeLayout(false);
             this.panel6.ResumeLayout(false);
             this.panel11.ResumeLayout(false);
-            this.panel702.ResumeLayout(false);
-            this.panel707.ResumeLayout(false);
-            this.panel697.ResumeLayout(false);
+            this.TopMargin_Panel.ResumeLayout(false);
+            this.panel812.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -13811,81 +12135,16 @@ namespace VirtualChem.Forms
         private System.Windows.Forms.Panel panel724;
         private System.Windows.Forms.Panel panel725;
         private System.Windows.Forms.Panel panel726;
-        private System.Windows.Forms.Panel panel727;
-        private System.Windows.Forms.Panel panel728;
-        private System.Windows.Forms.Panel panel729;
-        private System.Windows.Forms.Panel panel730;
-        private System.Windows.Forms.Panel panel731;
-        private System.Windows.Forms.Panel panel732;
-        private System.Windows.Forms.Panel panel733;
-        private System.Windows.Forms.Panel panel734;
-        private System.Windows.Forms.Panel panel735;
-        private System.Windows.Forms.Panel panel736;
-        private System.Windows.Forms.Panel panel737;
-        private System.Windows.Forms.Panel panel738;
-        private System.Windows.Forms.Panel panel739;
-        private System.Windows.Forms.Panel panel740;
-        private System.Windows.Forms.Panel panel741;
-        private System.Windows.Forms.Panel panel742;
-        private System.Windows.Forms.Panel panel743;
-        private System.Windows.Forms.Panel panel744;
-        private System.Windows.Forms.Panel panel745;
-        private System.Windows.Forms.Panel panel746;
         private System.Windows.Forms.Panel panel747;
         private System.Windows.Forms.Panel panel748;
         private System.Windows.Forms.Panel panel749;
         private System.Windows.Forms.Panel panel750;
         private System.Windows.Forms.Panel panel751;
-        private System.Windows.Forms.Panel panel752;
-        private System.Windows.Forms.Panel panel753;
-        private System.Windows.Forms.Panel panel754;
-        private System.Windows.Forms.Panel panel755;
-        private System.Windows.Forms.Panel panel756;
-        private System.Windows.Forms.Panel panel757;
-        private System.Windows.Forms.Panel panel758;
-        private System.Windows.Forms.Panel panel759;
-        private System.Windows.Forms.Panel panel760;
-        private System.Windows.Forms.Panel panel761;
-        private System.Windows.Forms.Panel panel762;
-        private System.Windows.Forms.Panel panel763;
-        private System.Windows.Forms.Panel panel764;
-        private System.Windows.Forms.Panel panel765;
-        private System.Windows.Forms.Panel panel766;
-        private System.Windows.Forms.Panel panel767;
-        private System.Windows.Forms.Panel panel768;
-        private System.Windows.Forms.Panel panel769;
-        private System.Windows.Forms.Panel panel770;
-        private System.Windows.Forms.Panel panel771;
-        private System.Windows.Forms.Panel panel772;
-        private System.Windows.Forms.Panel panel773;
-        private System.Windows.Forms.Panel panel774;
-        private System.Windows.Forms.Panel panel775;
-        private System.Windows.Forms.Panel panel776;
-        private System.Windows.Forms.Panel panel777;
-        private System.Windows.Forms.Panel panel778;
-        private System.Windows.Forms.Panel panel779;
-        private System.Windows.Forms.Panel panel780;
-        private System.Windows.Forms.Panel panel781;
         private System.Windows.Forms.Panel panel782;
         private System.Windows.Forms.Panel panel783;
         private System.Windows.Forms.Panel panel784;
         private System.Windows.Forms.Panel panel785;
         private System.Windows.Forms.Panel panel786;
-        private System.Windows.Forms.Panel panel787;
-        private System.Windows.Forms.Panel panel788;
-        private System.Windows.Forms.Panel panel789;
-        private System.Windows.Forms.Panel panel790;
-        private System.Windows.Forms.Panel panel791;
-        private System.Windows.Forms.Panel panel792;
-        private System.Windows.Forms.Panel panel793;
-        private System.Windows.Forms.Panel panel794;
-        private System.Windows.Forms.Panel panel795;
-        private System.Windows.Forms.Panel panel796;
-        private System.Windows.Forms.Panel panel797;
-        private System.Windows.Forms.Panel panel798;
-        private System.Windows.Forms.Panel panel799;
-        private System.Windows.Forms.Panel panel800;
-        private System.Windows.Forms.Panel panel801;
         private System.Windows.Forms.Panel panel802;
         private System.Windows.Forms.Panel panel803;
         private System.Windows.Forms.Panel panel804;
@@ -13926,41 +12185,11 @@ namespace VirtualChem.Forms
         private System.Windows.Forms.Panel panel659;
         private System.Windows.Forms.Panel panel660;
         private System.Windows.Forms.Panel panel661;
-        private System.Windows.Forms.Panel panel662;
-        private System.Windows.Forms.Panel panel663;
-        private System.Windows.Forms.Panel panel664;
-        private System.Windows.Forms.Panel panel665;
-        private System.Windows.Forms.Panel panel666;
         private System.Windows.Forms.Panel panel667;
         private System.Windows.Forms.Panel panel668;
         private System.Windows.Forms.Panel panel669;
         private System.Windows.Forms.Panel panel670;
         private System.Windows.Forms.Panel panel671;
-        private System.Windows.Forms.Panel panel672;
-        private System.Windows.Forms.Panel panel673;
-        private System.Windows.Forms.Panel panel674;
-        private System.Windows.Forms.Panel panel675;
-        private System.Windows.Forms.Panel panel676;
-        private System.Windows.Forms.Panel panel677;
-        private System.Windows.Forms.Panel panel678;
-        private System.Windows.Forms.Panel panel679;
-        private System.Windows.Forms.Panel panel680;
-        private System.Windows.Forms.Panel panel681;
-        private System.Windows.Forms.Panel panel682;
-        private System.Windows.Forms.Panel panel683;
-        private System.Windows.Forms.Panel panel684;
-        private System.Windows.Forms.Panel panel685;
-        private System.Windows.Forms.Panel panel686;
-        private System.Windows.Forms.Panel panel687;
-        private System.Windows.Forms.Panel panel688;
-        private System.Windows.Forms.Panel panel689;
-        private System.Windows.Forms.Panel panel690;
-        private System.Windows.Forms.Panel panel691;
-        private System.Windows.Forms.Panel panel692;
-        private System.Windows.Forms.Panel panel693;
-        private System.Windows.Forms.Panel panel694;
-        private System.Windows.Forms.Panel panel695;
-        private System.Windows.Forms.Panel panel696;
         private System.Windows.Forms.Panel panel712;
         private System.Windows.Forms.Panel panel713;
         private System.Windows.Forms.Panel panel714;
@@ -14006,51 +12235,6 @@ namespace VirtualChem.Forms
         private System.Windows.Forms.Panel panel574;
         private System.Windows.Forms.Panel panel575;
         private System.Windows.Forms.Panel panel576;
-        private System.Windows.Forms.Panel panel577;
-        private System.Windows.Forms.Panel panel578;
-        private System.Windows.Forms.Panel panel579;
-        private System.Windows.Forms.Panel panel580;
-        private System.Windows.Forms.Panel panel581;
-        private System.Windows.Forms.Panel panel582;
-        private System.Windows.Forms.Panel panel583;
-        private System.Windows.Forms.Panel panel584;
-        private System.Windows.Forms.Panel panel585;
-        private System.Windows.Forms.Panel panel586;
-        private System.Windows.Forms.Panel panel587;
-        private System.Windows.Forms.Panel panel588;
-        private System.Windows.Forms.Panel panel589;
-        private System.Windows.Forms.Panel panel590;
-        private System.Windows.Forms.Panel panel591;
-        private System.Windows.Forms.Panel panel592;
-        private System.Windows.Forms.Panel panel593;
-        private System.Windows.Forms.Panel panel594;
-        private System.Windows.Forms.Panel panel595;
-        private System.Windows.Forms.Panel panel596;
-        private System.Windows.Forms.Panel panel597;
-        private System.Windows.Forms.Panel panel598;
-        private System.Windows.Forms.Panel panel599;
-        private System.Windows.Forms.Panel panel600;
-        private System.Windows.Forms.Panel panel601;
-        private System.Windows.Forms.Panel panel602;
-        private System.Windows.Forms.Panel panel603;
-        private System.Windows.Forms.Panel panel604;
-        private System.Windows.Forms.Panel panel605;
-        private System.Windows.Forms.Panel panel606;
-        private System.Windows.Forms.Panel panel607;
-        private System.Windows.Forms.Panel panel608;
-        private System.Windows.Forms.Panel panel609;
-        private System.Windows.Forms.Panel panel610;
-        private System.Windows.Forms.Panel panel611;
-        private System.Windows.Forms.Panel panel612;
-        private System.Windows.Forms.Panel panel613;
-        private System.Windows.Forms.Panel panel614;
-        private System.Windows.Forms.Panel panel615;
-        private System.Windows.Forms.Panel panel616;
-        private System.Windows.Forms.Panel panel617;
-        private System.Windows.Forms.Panel panel618;
-        private System.Windows.Forms.Panel panel619;
-        private System.Windows.Forms.Panel panel620;
-        private System.Windows.Forms.Panel panel621;
         private System.Windows.Forms.Panel panel622;
         private System.Windows.Forms.Panel panel623;
         private System.Windows.Forms.Panel panel624;
@@ -14751,20 +12935,11 @@ namespace VirtualChem.Forms
         private System.Windows.Forms.Label Thorium_Label;
         private System.Windows.Forms.Button Actinium_Button;
         private System.Windows.Forms.Label Actinium_Label;
-        private System.Windows.Forms.Panel panel697;
-        private System.Windows.Forms.Panel panel698;
-        private System.Windows.Forms.Panel panel699;
-        private System.Windows.Forms.Panel panel700;
-        private System.Windows.Forms.Panel panel701;
-        private System.Windows.Forms.Panel panel702;
-        private System.Windows.Forms.Panel panel703;
-        private System.Windows.Forms.Panel panel704;
-        private System.Windows.Forms.Panel panel705;
-        private System.Windows.Forms.Panel panel706;
-        private System.Windows.Forms.Panel panel707;
-        private System.Windows.Forms.Panel panel708;
-        private System.Windows.Forms.Panel panel709;
-        private System.Windows.Forms.Panel panel710;
-        private System.Windows.Forms.Panel panel711;
+        private System.Windows.Forms.Panel panel812;
+        private System.Windows.Forms.Button Minimize_Button;
+        private System.Windows.Forms.Panel panel814;
+        private System.Windows.Forms.Button Exit_Button;
+        private System.Windows.Forms.Panel panel813;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
