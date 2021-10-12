@@ -33,6 +33,8 @@ namespace VirtualChem.Forms
             this.Main_Panel = new System.Windows.Forms.Panel();
             this.FirstRow_Panel = new System.Windows.Forms.Panel();
             this.panel722 = new System.Windows.Forms.Panel();
+            this.Helium_Button = new System.Windows.Forms.Button();
+            this.Helium_Label = new System.Windows.Forms.Label();
             this.panel723 = new System.Windows.Forms.Panel();
             this.panel724 = new System.Windows.Forms.Panel();
             this.panel725 = new System.Windows.Forms.Panel();
@@ -118,37 +120,51 @@ namespace VirtualChem.Forms
             this.panel805 = new System.Windows.Forms.Panel();
             this.panel806 = new System.Windows.Forms.Panel();
             this.panel807 = new System.Windows.Forms.Panel();
+            this.Hydrogen_Button = new System.Windows.Forms.Button();
+            this.Hydrogen_Label = new System.Windows.Forms.Label();
             this.panel808 = new System.Windows.Forms.Panel();
             this.panel809 = new System.Windows.Forms.Panel();
             this.panel810 = new System.Windows.Forms.Panel();
             this.panel811 = new System.Windows.Forms.Panel();
             this.SecondRow_Panel = new System.Windows.Forms.Panel();
             this.panel632 = new System.Windows.Forms.Panel();
+            this.Neon_Button = new System.Windows.Forms.Button();
+            this.Neon_Label = new System.Windows.Forms.Label();
             this.panel633 = new System.Windows.Forms.Panel();
             this.panel634 = new System.Windows.Forms.Panel();
             this.panel635 = new System.Windows.Forms.Panel();
             this.panel636 = new System.Windows.Forms.Panel();
             this.panel637 = new System.Windows.Forms.Panel();
+            this.Flor_Button = new System.Windows.Forms.Button();
+            this.Flor_Label = new System.Windows.Forms.Label();
             this.panel638 = new System.Windows.Forms.Panel();
             this.panel639 = new System.Windows.Forms.Panel();
             this.panel640 = new System.Windows.Forms.Panel();
             this.panel641 = new System.Windows.Forms.Panel();
             this.panel642 = new System.Windows.Forms.Panel();
+            this.Oxygen_Button = new System.Windows.Forms.Button();
+            this.Oxygen_Label = new System.Windows.Forms.Label();
             this.panel643 = new System.Windows.Forms.Panel();
             this.panel644 = new System.Windows.Forms.Panel();
             this.panel645 = new System.Windows.Forms.Panel();
             this.panel646 = new System.Windows.Forms.Panel();
             this.panel647 = new System.Windows.Forms.Panel();
+            this.Nitrogen_Button = new System.Windows.Forms.Button();
+            this.Nitrogen_Label = new System.Windows.Forms.Label();
             this.panel648 = new System.Windows.Forms.Panel();
             this.panel649 = new System.Windows.Forms.Panel();
             this.panel650 = new System.Windows.Forms.Panel();
             this.panel651 = new System.Windows.Forms.Panel();
             this.panel652 = new System.Windows.Forms.Panel();
+            this.Carbon_Button = new System.Windows.Forms.Button();
+            this.Carbon_Label = new System.Windows.Forms.Label();
             this.panel653 = new System.Windows.Forms.Panel();
             this.panel654 = new System.Windows.Forms.Panel();
             this.panel655 = new System.Windows.Forms.Panel();
             this.panel656 = new System.Windows.Forms.Panel();
             this.panel657 = new System.Windows.Forms.Panel();
+            this.Bor_Button = new System.Windows.Forms.Button();
+            this.Bor_Label = new System.Windows.Forms.Label();
             this.panel658 = new System.Windows.Forms.Panel();
             this.panel659 = new System.Windows.Forms.Panel();
             this.panel660 = new System.Windows.Forms.Panel();
@@ -204,42 +220,58 @@ namespace VirtualChem.Forms
             this.panel710 = new System.Windows.Forms.Panel();
             this.panel711 = new System.Windows.Forms.Panel();
             this.panel712 = new System.Windows.Forms.Panel();
+            this.Beryllium_Button = new System.Windows.Forms.Button();
+            this.Beryllium_Label = new System.Windows.Forms.Label();
             this.panel713 = new System.Windows.Forms.Panel();
             this.panel714 = new System.Windows.Forms.Panel();
             this.panel715 = new System.Windows.Forms.Panel();
             this.panel716 = new System.Windows.Forms.Panel();
             this.panel717 = new System.Windows.Forms.Panel();
+            this.Lithium_Button = new System.Windows.Forms.Button();
+            this.Lithium_Label = new System.Windows.Forms.Label();
             this.panel718 = new System.Windows.Forms.Panel();
             this.panel719 = new System.Windows.Forms.Panel();
             this.panel720 = new System.Windows.Forms.Panel();
             this.panel721 = new System.Windows.Forms.Panel();
             this.ThirdRow_Panel = new System.Windows.Forms.Panel();
             this.panel542 = new System.Windows.Forms.Panel();
+            this.Argon_Button = new System.Windows.Forms.Button();
+            this.Argon_Label = new System.Windows.Forms.Label();
             this.panel543 = new System.Windows.Forms.Panel();
             this.panel544 = new System.Windows.Forms.Panel();
             this.panel545 = new System.Windows.Forms.Panel();
             this.panel546 = new System.Windows.Forms.Panel();
             this.panel547 = new System.Windows.Forms.Panel();
+            this.Chlorine_Button = new System.Windows.Forms.Button();
+            this.Chlorine_Label = new System.Windows.Forms.Label();
             this.panel548 = new System.Windows.Forms.Panel();
             this.panel549 = new System.Windows.Forms.Panel();
             this.panel550 = new System.Windows.Forms.Panel();
             this.panel551 = new System.Windows.Forms.Panel();
             this.panel552 = new System.Windows.Forms.Panel();
+            this.Sulfur_Button = new System.Windows.Forms.Button();
+            this.Sulfur_Label = new System.Windows.Forms.Label();
             this.panel553 = new System.Windows.Forms.Panel();
             this.panel554 = new System.Windows.Forms.Panel();
             this.panel555 = new System.Windows.Forms.Panel();
             this.panel556 = new System.Windows.Forms.Panel();
             this.panel557 = new System.Windows.Forms.Panel();
+            this.Phosphorus_Button = new System.Windows.Forms.Button();
+            this.Phosphorus_Label = new System.Windows.Forms.Label();
             this.panel558 = new System.Windows.Forms.Panel();
             this.panel559 = new System.Windows.Forms.Panel();
             this.panel560 = new System.Windows.Forms.Panel();
             this.panel561 = new System.Windows.Forms.Panel();
             this.panel562 = new System.Windows.Forms.Panel();
+            this.Silisium_Button = new System.Windows.Forms.Button();
+            this.Silisium_Label = new System.Windows.Forms.Label();
             this.panel563 = new System.Windows.Forms.Panel();
             this.panel564 = new System.Windows.Forms.Panel();
             this.panel565 = new System.Windows.Forms.Panel();
             this.panel566 = new System.Windows.Forms.Panel();
             this.panel567 = new System.Windows.Forms.Panel();
+            this.Aluminum_Button = new System.Windows.Forms.Button();
+            this.Aluminum_Label = new System.Windows.Forms.Label();
             this.panel568 = new System.Windows.Forms.Panel();
             this.panel569 = new System.Windows.Forms.Panel();
             this.panel570 = new System.Windows.Forms.Panel();
@@ -295,375 +327,523 @@ namespace VirtualChem.Forms
             this.panel620 = new System.Windows.Forms.Panel();
             this.panel621 = new System.Windows.Forms.Panel();
             this.panel622 = new System.Windows.Forms.Panel();
+            this.Magnesium_Button = new System.Windows.Forms.Button();
+            this.Magnesium_Label = new System.Windows.Forms.Label();
             this.panel623 = new System.Windows.Forms.Panel();
             this.panel624 = new System.Windows.Forms.Panel();
             this.panel625 = new System.Windows.Forms.Panel();
             this.panel626 = new System.Windows.Forms.Panel();
             this.panel627 = new System.Windows.Forms.Panel();
+            this.Natrium_Button = new System.Windows.Forms.Button();
+            this.Natrium_Label = new System.Windows.Forms.Label();
             this.panel628 = new System.Windows.Forms.Panel();
             this.panel629 = new System.Windows.Forms.Panel();
             this.panel630 = new System.Windows.Forms.Panel();
             this.panel631 = new System.Windows.Forms.Panel();
             this.FourthRow_Panel = new System.Windows.Forms.Panel();
             this.panel452 = new System.Windows.Forms.Panel();
+            this.Krypton_Button = new System.Windows.Forms.Button();
+            this.Krypton_Label = new System.Windows.Forms.Label();
             this.panel453 = new System.Windows.Forms.Panel();
             this.panel454 = new System.Windows.Forms.Panel();
             this.panel455 = new System.Windows.Forms.Panel();
             this.panel456 = new System.Windows.Forms.Panel();
             this.panel457 = new System.Windows.Forms.Panel();
+            this.Bromine_Button = new System.Windows.Forms.Button();
+            this.Bromine_Label = new System.Windows.Forms.Label();
             this.panel458 = new System.Windows.Forms.Panel();
             this.panel459 = new System.Windows.Forms.Panel();
             this.panel460 = new System.Windows.Forms.Panel();
             this.panel461 = new System.Windows.Forms.Panel();
             this.panel462 = new System.Windows.Forms.Panel();
+            this.Selenium_Button = new System.Windows.Forms.Button();
+            this.Selenium_Label = new System.Windows.Forms.Label();
             this.panel463 = new System.Windows.Forms.Panel();
             this.panel464 = new System.Windows.Forms.Panel();
             this.panel465 = new System.Windows.Forms.Panel();
             this.panel466 = new System.Windows.Forms.Panel();
             this.panel467 = new System.Windows.Forms.Panel();
+            this.Arsenic_Button = new System.Windows.Forms.Button();
+            this.Arsenic_Label = new System.Windows.Forms.Label();
             this.panel468 = new System.Windows.Forms.Panel();
             this.panel469 = new System.Windows.Forms.Panel();
             this.panel470 = new System.Windows.Forms.Panel();
             this.panel471 = new System.Windows.Forms.Panel();
             this.panel472 = new System.Windows.Forms.Panel();
+            this.Germanium_Button = new System.Windows.Forms.Button();
+            this.Germanium_Label = new System.Windows.Forms.Label();
             this.panel473 = new System.Windows.Forms.Panel();
             this.panel474 = new System.Windows.Forms.Panel();
             this.panel475 = new System.Windows.Forms.Panel();
             this.panel476 = new System.Windows.Forms.Panel();
             this.panel477 = new System.Windows.Forms.Panel();
+            this.Gallium_Button = new System.Windows.Forms.Button();
+            this.Gallium_Label = new System.Windows.Forms.Label();
             this.panel478 = new System.Windows.Forms.Panel();
             this.panel479 = new System.Windows.Forms.Panel();
             this.panel480 = new System.Windows.Forms.Panel();
             this.panel481 = new System.Windows.Forms.Panel();
             this.panel482 = new System.Windows.Forms.Panel();
+            this.Zinc_Button = new System.Windows.Forms.Button();
+            this.Zinc_Label = new System.Windows.Forms.Label();
             this.panel483 = new System.Windows.Forms.Panel();
             this.panel484 = new System.Windows.Forms.Panel();
             this.panel485 = new System.Windows.Forms.Panel();
             this.panel486 = new System.Windows.Forms.Panel();
             this.panel487 = new System.Windows.Forms.Panel();
+            this.Copper_Button = new System.Windows.Forms.Button();
+            this.Copper_Label = new System.Windows.Forms.Label();
             this.panel488 = new System.Windows.Forms.Panel();
             this.panel489 = new System.Windows.Forms.Panel();
             this.panel490 = new System.Windows.Forms.Panel();
             this.panel491 = new System.Windows.Forms.Panel();
             this.panel492 = new System.Windows.Forms.Panel();
+            this.Nickel_Button = new System.Windows.Forms.Button();
+            this.Nickel_Label = new System.Windows.Forms.Label();
             this.panel493 = new System.Windows.Forms.Panel();
             this.panel494 = new System.Windows.Forms.Panel();
             this.panel495 = new System.Windows.Forms.Panel();
             this.panel496 = new System.Windows.Forms.Panel();
             this.panel497 = new System.Windows.Forms.Panel();
+            this.Cobalt_Button = new System.Windows.Forms.Button();
+            this.Cobalt_Label = new System.Windows.Forms.Label();
             this.panel498 = new System.Windows.Forms.Panel();
             this.panel499 = new System.Windows.Forms.Panel();
             this.panel500 = new System.Windows.Forms.Panel();
             this.panel501 = new System.Windows.Forms.Panel();
             this.panel502 = new System.Windows.Forms.Panel();
+            this.Iron_Button = new System.Windows.Forms.Button();
+            this.Iron_Label = new System.Windows.Forms.Label();
             this.panel503 = new System.Windows.Forms.Panel();
             this.panel504 = new System.Windows.Forms.Panel();
             this.panel505 = new System.Windows.Forms.Panel();
             this.panel506 = new System.Windows.Forms.Panel();
             this.panel507 = new System.Windows.Forms.Panel();
+            this.Manganese_Button = new System.Windows.Forms.Button();
+            this.Manganese_Label = new System.Windows.Forms.Label();
             this.panel508 = new System.Windows.Forms.Panel();
             this.panel509 = new System.Windows.Forms.Panel();
             this.panel510 = new System.Windows.Forms.Panel();
             this.panel511 = new System.Windows.Forms.Panel();
             this.panel512 = new System.Windows.Forms.Panel();
+            this.Chromium_Button = new System.Windows.Forms.Button();
+            this.Chromium_Label = new System.Windows.Forms.Label();
             this.panel513 = new System.Windows.Forms.Panel();
             this.panel514 = new System.Windows.Forms.Panel();
             this.panel515 = new System.Windows.Forms.Panel();
             this.panel516 = new System.Windows.Forms.Panel();
             this.panel517 = new System.Windows.Forms.Panel();
+            this.Vanadium_Button = new System.Windows.Forms.Button();
+            this.Vanadium_Label = new System.Windows.Forms.Label();
             this.panel518 = new System.Windows.Forms.Panel();
             this.panel519 = new System.Windows.Forms.Panel();
             this.panel520 = new System.Windows.Forms.Panel();
             this.panel521 = new System.Windows.Forms.Panel();
             this.panel522 = new System.Windows.Forms.Panel();
+            this.Titanium_Button = new System.Windows.Forms.Button();
+            this.Titanium_Label = new System.Windows.Forms.Label();
             this.panel523 = new System.Windows.Forms.Panel();
             this.panel524 = new System.Windows.Forms.Panel();
             this.panel525 = new System.Windows.Forms.Panel();
             this.panel526 = new System.Windows.Forms.Panel();
             this.panel527 = new System.Windows.Forms.Panel();
+            this.Scandium_Button = new System.Windows.Forms.Button();
+            this.Scandium_Label = new System.Windows.Forms.Label();
             this.panel528 = new System.Windows.Forms.Panel();
             this.panel529 = new System.Windows.Forms.Panel();
             this.panel530 = new System.Windows.Forms.Panel();
             this.panel531 = new System.Windows.Forms.Panel();
             this.panel532 = new System.Windows.Forms.Panel();
+            this.Calcium_Button = new System.Windows.Forms.Button();
+            this.Calcium_Label = new System.Windows.Forms.Label();
             this.panel533 = new System.Windows.Forms.Panel();
             this.panel534 = new System.Windows.Forms.Panel();
             this.panel535 = new System.Windows.Forms.Panel();
             this.panel536 = new System.Windows.Forms.Panel();
             this.panel537 = new System.Windows.Forms.Panel();
+            this.Potassium_Button = new System.Windows.Forms.Button();
+            this.Potassium_Label = new System.Windows.Forms.Label();
             this.panel538 = new System.Windows.Forms.Panel();
             this.panel539 = new System.Windows.Forms.Panel();
             this.panel540 = new System.Windows.Forms.Panel();
             this.panel541 = new System.Windows.Forms.Panel();
             this.FifthRow_Panel = new System.Windows.Forms.Panel();
             this.panel362 = new System.Windows.Forms.Panel();
+            this.Xenon_Button = new System.Windows.Forms.Button();
+            this.Xenon_Label = new System.Windows.Forms.Label();
             this.panel363 = new System.Windows.Forms.Panel();
             this.panel364 = new System.Windows.Forms.Panel();
             this.panel365 = new System.Windows.Forms.Panel();
             this.panel366 = new System.Windows.Forms.Panel();
             this.panel367 = new System.Windows.Forms.Panel();
+            this.Iodine_Button = new System.Windows.Forms.Button();
+            this.Iodine_Label = new System.Windows.Forms.Label();
             this.panel368 = new System.Windows.Forms.Panel();
             this.panel369 = new System.Windows.Forms.Panel();
             this.panel370 = new System.Windows.Forms.Panel();
             this.panel371 = new System.Windows.Forms.Panel();
             this.panel372 = new System.Windows.Forms.Panel();
+            this.Tellurium_Button = new System.Windows.Forms.Button();
+            this.Tellurium_Label = new System.Windows.Forms.Label();
             this.panel373 = new System.Windows.Forms.Panel();
             this.panel374 = new System.Windows.Forms.Panel();
             this.panel375 = new System.Windows.Forms.Panel();
             this.panel376 = new System.Windows.Forms.Panel();
             this.panel377 = new System.Windows.Forms.Panel();
+            this.Antimony_Button = new System.Windows.Forms.Button();
+            this.Antimony_Label = new System.Windows.Forms.Label();
             this.panel378 = new System.Windows.Forms.Panel();
             this.panel379 = new System.Windows.Forms.Panel();
             this.panel380 = new System.Windows.Forms.Panel();
             this.panel381 = new System.Windows.Forms.Panel();
             this.panel382 = new System.Windows.Forms.Panel();
+            this.Tin_Button = new System.Windows.Forms.Button();
+            this.Tin_Label = new System.Windows.Forms.Label();
             this.panel383 = new System.Windows.Forms.Panel();
             this.panel384 = new System.Windows.Forms.Panel();
             this.panel385 = new System.Windows.Forms.Panel();
             this.panel386 = new System.Windows.Forms.Panel();
             this.panel387 = new System.Windows.Forms.Panel();
+            this.Indium_Button = new System.Windows.Forms.Button();
+            this.Indium_Label = new System.Windows.Forms.Label();
             this.panel388 = new System.Windows.Forms.Panel();
             this.panel389 = new System.Windows.Forms.Panel();
             this.panel390 = new System.Windows.Forms.Panel();
             this.panel391 = new System.Windows.Forms.Panel();
             this.panel392 = new System.Windows.Forms.Panel();
+            this.Cadmium_Button = new System.Windows.Forms.Button();
+            this.Cadmium_Label = new System.Windows.Forms.Label();
             this.panel393 = new System.Windows.Forms.Panel();
             this.panel394 = new System.Windows.Forms.Panel();
             this.panel395 = new System.Windows.Forms.Panel();
             this.panel396 = new System.Windows.Forms.Panel();
             this.panel397 = new System.Windows.Forms.Panel();
+            this.Silver_Button = new System.Windows.Forms.Button();
+            this.Silver_Label = new System.Windows.Forms.Label();
             this.panel398 = new System.Windows.Forms.Panel();
             this.panel399 = new System.Windows.Forms.Panel();
             this.panel400 = new System.Windows.Forms.Panel();
             this.panel401 = new System.Windows.Forms.Panel();
             this.panel402 = new System.Windows.Forms.Panel();
+            this.Palladium_Button = new System.Windows.Forms.Button();
+            this.Palladium_Label = new System.Windows.Forms.Label();
             this.panel403 = new System.Windows.Forms.Panel();
             this.panel404 = new System.Windows.Forms.Panel();
             this.panel405 = new System.Windows.Forms.Panel();
             this.panel406 = new System.Windows.Forms.Panel();
             this.panel407 = new System.Windows.Forms.Panel();
+            this.Rhodium_Button = new System.Windows.Forms.Button();
+            this.Rhodium_Label = new System.Windows.Forms.Label();
             this.panel408 = new System.Windows.Forms.Panel();
             this.panel409 = new System.Windows.Forms.Panel();
             this.panel410 = new System.Windows.Forms.Panel();
             this.panel411 = new System.Windows.Forms.Panel();
             this.panel412 = new System.Windows.Forms.Panel();
+            this.Ruthenium_Button = new System.Windows.Forms.Button();
+            this.Ruthenium_Label = new System.Windows.Forms.Label();
             this.panel413 = new System.Windows.Forms.Panel();
             this.panel414 = new System.Windows.Forms.Panel();
             this.panel415 = new System.Windows.Forms.Panel();
             this.panel416 = new System.Windows.Forms.Panel();
             this.panel417 = new System.Windows.Forms.Panel();
+            this.Technetium_Button = new System.Windows.Forms.Button();
+            this.Technetium_Label = new System.Windows.Forms.Label();
             this.panel418 = new System.Windows.Forms.Panel();
             this.panel419 = new System.Windows.Forms.Panel();
             this.panel420 = new System.Windows.Forms.Panel();
             this.panel421 = new System.Windows.Forms.Panel();
             this.panel422 = new System.Windows.Forms.Panel();
+            this.Molybdenum_Button = new System.Windows.Forms.Button();
+            this.Molybdenum_Label = new System.Windows.Forms.Label();
             this.panel423 = new System.Windows.Forms.Panel();
             this.panel424 = new System.Windows.Forms.Panel();
             this.panel425 = new System.Windows.Forms.Panel();
             this.panel426 = new System.Windows.Forms.Panel();
             this.panel427 = new System.Windows.Forms.Panel();
+            this.Niobium_Button = new System.Windows.Forms.Button();
+            this.Niobium_Label = new System.Windows.Forms.Label();
             this.panel428 = new System.Windows.Forms.Panel();
             this.panel429 = new System.Windows.Forms.Panel();
             this.panel430 = new System.Windows.Forms.Panel();
             this.panel431 = new System.Windows.Forms.Panel();
             this.panel432 = new System.Windows.Forms.Panel();
+            this.Zirconium_Button = new System.Windows.Forms.Button();
+            this.Zirconium_Label = new System.Windows.Forms.Label();
             this.panel433 = new System.Windows.Forms.Panel();
             this.panel434 = new System.Windows.Forms.Panel();
             this.panel435 = new System.Windows.Forms.Panel();
             this.panel436 = new System.Windows.Forms.Panel();
             this.panel437 = new System.Windows.Forms.Panel();
+            this.Yttrium_Button = new System.Windows.Forms.Button();
+            this.Yttrium_Label = new System.Windows.Forms.Label();
             this.panel438 = new System.Windows.Forms.Panel();
             this.panel439 = new System.Windows.Forms.Panel();
             this.panel440 = new System.Windows.Forms.Panel();
             this.panel441 = new System.Windows.Forms.Panel();
             this.panel442 = new System.Windows.Forms.Panel();
+            this.Strontium_Button = new System.Windows.Forms.Button();
+            this.Strontium_Label = new System.Windows.Forms.Label();
             this.panel443 = new System.Windows.Forms.Panel();
             this.panel444 = new System.Windows.Forms.Panel();
             this.panel445 = new System.Windows.Forms.Panel();
             this.panel446 = new System.Windows.Forms.Panel();
             this.panel447 = new System.Windows.Forms.Panel();
+            this.Rubidium_Button = new System.Windows.Forms.Button();
+            this.Rubidium_Label = new System.Windows.Forms.Label();
             this.panel448 = new System.Windows.Forms.Panel();
             this.panel449 = new System.Windows.Forms.Panel();
             this.panel450 = new System.Windows.Forms.Panel();
             this.panel451 = new System.Windows.Forms.Panel();
             this.SixthRow_Panel = new System.Windows.Forms.Panel();
             this.panel272 = new System.Windows.Forms.Panel();
+            this.Radon_Button = new System.Windows.Forms.Button();
+            this.Radon_Label = new System.Windows.Forms.Label();
             this.panel273 = new System.Windows.Forms.Panel();
             this.panel274 = new System.Windows.Forms.Panel();
             this.panel275 = new System.Windows.Forms.Panel();
             this.panel276 = new System.Windows.Forms.Panel();
             this.panel277 = new System.Windows.Forms.Panel();
+            this.Astatine_Button = new System.Windows.Forms.Button();
+            this.Astatine_Label = new System.Windows.Forms.Label();
             this.panel278 = new System.Windows.Forms.Panel();
             this.panel279 = new System.Windows.Forms.Panel();
             this.panel280 = new System.Windows.Forms.Panel();
             this.panel281 = new System.Windows.Forms.Panel();
             this.panel282 = new System.Windows.Forms.Panel();
+            this.Polonium_Button = new System.Windows.Forms.Button();
+            this.Polonium_Label = new System.Windows.Forms.Label();
             this.panel283 = new System.Windows.Forms.Panel();
             this.panel284 = new System.Windows.Forms.Panel();
             this.panel285 = new System.Windows.Forms.Panel();
             this.panel286 = new System.Windows.Forms.Panel();
             this.panel287 = new System.Windows.Forms.Panel();
+            this.Bismuth_Button = new System.Windows.Forms.Button();
+            this.Bismuth_Label = new System.Windows.Forms.Label();
             this.panel288 = new System.Windows.Forms.Panel();
             this.panel289 = new System.Windows.Forms.Panel();
             this.panel290 = new System.Windows.Forms.Panel();
             this.panel291 = new System.Windows.Forms.Panel();
             this.panel292 = new System.Windows.Forms.Panel();
+            this.Lead_Button = new System.Windows.Forms.Button();
+            this.Lead_Label = new System.Windows.Forms.Label();
             this.panel293 = new System.Windows.Forms.Panel();
             this.panel294 = new System.Windows.Forms.Panel();
             this.panel295 = new System.Windows.Forms.Panel();
             this.panel296 = new System.Windows.Forms.Panel();
             this.panel297 = new System.Windows.Forms.Panel();
+            this.Thallium_Button = new System.Windows.Forms.Button();
+            this.Thallium_Label = new System.Windows.Forms.Label();
             this.panel298 = new System.Windows.Forms.Panel();
             this.panel299 = new System.Windows.Forms.Panel();
             this.panel300 = new System.Windows.Forms.Panel();
             this.panel301 = new System.Windows.Forms.Panel();
             this.panel302 = new System.Windows.Forms.Panel();
+            this.Mercury_Button = new System.Windows.Forms.Button();
+            this.Mercury_Label = new System.Windows.Forms.Label();
             this.panel303 = new System.Windows.Forms.Panel();
             this.panel304 = new System.Windows.Forms.Panel();
             this.panel305 = new System.Windows.Forms.Panel();
             this.panel306 = new System.Windows.Forms.Panel();
             this.panel307 = new System.Windows.Forms.Panel();
+            this.Gold_Button = new System.Windows.Forms.Button();
+            this.Gold_Label = new System.Windows.Forms.Label();
             this.panel308 = new System.Windows.Forms.Panel();
             this.panel309 = new System.Windows.Forms.Panel();
             this.panel310 = new System.Windows.Forms.Panel();
             this.panel311 = new System.Windows.Forms.Panel();
             this.panel312 = new System.Windows.Forms.Panel();
+            this.Platinum_Button = new System.Windows.Forms.Button();
+            this.Platinum_Label = new System.Windows.Forms.Label();
             this.panel313 = new System.Windows.Forms.Panel();
             this.panel314 = new System.Windows.Forms.Panel();
             this.panel315 = new System.Windows.Forms.Panel();
             this.panel316 = new System.Windows.Forms.Panel();
             this.panel317 = new System.Windows.Forms.Panel();
+            this.Iridium_Button = new System.Windows.Forms.Button();
+            this.Iridium_Label = new System.Windows.Forms.Label();
             this.panel318 = new System.Windows.Forms.Panel();
             this.panel319 = new System.Windows.Forms.Panel();
             this.panel320 = new System.Windows.Forms.Panel();
             this.panel321 = new System.Windows.Forms.Panel();
             this.panel322 = new System.Windows.Forms.Panel();
+            this.Osmium_Button = new System.Windows.Forms.Button();
+            this.Osmium_Label = new System.Windows.Forms.Label();
             this.panel323 = new System.Windows.Forms.Panel();
             this.panel324 = new System.Windows.Forms.Panel();
             this.panel325 = new System.Windows.Forms.Panel();
             this.panel326 = new System.Windows.Forms.Panel();
             this.panel327 = new System.Windows.Forms.Panel();
+            this.Rhenium_Button = new System.Windows.Forms.Button();
+            this.Rhenium_Label = new System.Windows.Forms.Label();
             this.panel328 = new System.Windows.Forms.Panel();
             this.panel329 = new System.Windows.Forms.Panel();
             this.panel330 = new System.Windows.Forms.Panel();
             this.panel331 = new System.Windows.Forms.Panel();
             this.panel332 = new System.Windows.Forms.Panel();
+            this.Tungsten_Button = new System.Windows.Forms.Button();
+            this.Tungsten_Label = new System.Windows.Forms.Label();
             this.panel333 = new System.Windows.Forms.Panel();
             this.panel334 = new System.Windows.Forms.Panel();
             this.panel335 = new System.Windows.Forms.Panel();
             this.panel336 = new System.Windows.Forms.Panel();
             this.panel337 = new System.Windows.Forms.Panel();
+            this.Tantalum_Button = new System.Windows.Forms.Button();
+            this.Tantalum_Label = new System.Windows.Forms.Label();
             this.panel338 = new System.Windows.Forms.Panel();
             this.panel339 = new System.Windows.Forms.Panel();
             this.panel340 = new System.Windows.Forms.Panel();
             this.panel341 = new System.Windows.Forms.Panel();
             this.panel342 = new System.Windows.Forms.Panel();
+            this.Hafnium_Button = new System.Windows.Forms.Button();
+            this.Hafnium_Label = new System.Windows.Forms.Label();
             this.panel343 = new System.Windows.Forms.Panel();
             this.panel344 = new System.Windows.Forms.Panel();
             this.panel345 = new System.Windows.Forms.Panel();
             this.panel346 = new System.Windows.Forms.Panel();
             this.panel347 = new System.Windows.Forms.Panel();
+            this.Lant_Button = new System.Windows.Forms.Button();
+            this.Lant_Label = new System.Windows.Forms.Label();
             this.panel348 = new System.Windows.Forms.Panel();
             this.panel349 = new System.Windows.Forms.Panel();
             this.panel350 = new System.Windows.Forms.Panel();
             this.panel351 = new System.Windows.Forms.Panel();
             this.panel352 = new System.Windows.Forms.Panel();
+            this.Barium_Button = new System.Windows.Forms.Button();
+            this.Barium_Label = new System.Windows.Forms.Label();
             this.panel353 = new System.Windows.Forms.Panel();
             this.panel354 = new System.Windows.Forms.Panel();
             this.panel355 = new System.Windows.Forms.Panel();
             this.panel356 = new System.Windows.Forms.Panel();
             this.panel357 = new System.Windows.Forms.Panel();
+            this.Caesium_Button = new System.Windows.Forms.Button();
+            this.Caesium_Label = new System.Windows.Forms.Label();
             this.panel358 = new System.Windows.Forms.Panel();
             this.panel359 = new System.Windows.Forms.Panel();
             this.panel360 = new System.Windows.Forms.Panel();
             this.panel361 = new System.Windows.Forms.Panel();
             this.SeventhRow_Panel = new System.Windows.Forms.Panel();
             this.panel182 = new System.Windows.Forms.Panel();
+            this.Oganesson_Button = new System.Windows.Forms.Button();
+            this.Oganesson_Label = new System.Windows.Forms.Label();
             this.panel183 = new System.Windows.Forms.Panel();
             this.panel184 = new System.Windows.Forms.Panel();
             this.panel185 = new System.Windows.Forms.Panel();
             this.panel186 = new System.Windows.Forms.Panel();
             this.panel187 = new System.Windows.Forms.Panel();
+            this.Tennessine_Button = new System.Windows.Forms.Button();
+            this.Tennessine_Label = new System.Windows.Forms.Label();
             this.panel188 = new System.Windows.Forms.Panel();
             this.panel189 = new System.Windows.Forms.Panel();
             this.panel190 = new System.Windows.Forms.Panel();
             this.panel191 = new System.Windows.Forms.Panel();
             this.panel192 = new System.Windows.Forms.Panel();
+            this.Livermorium_Button = new System.Windows.Forms.Button();
+            this.Livermorium_Label = new System.Windows.Forms.Label();
             this.panel193 = new System.Windows.Forms.Panel();
             this.panel194 = new System.Windows.Forms.Panel();
             this.panel195 = new System.Windows.Forms.Panel();
             this.panel196 = new System.Windows.Forms.Panel();
             this.panel197 = new System.Windows.Forms.Panel();
+            this.Moscovium_Button = new System.Windows.Forms.Button();
+            this.Moscovium_Label = new System.Windows.Forms.Label();
             this.panel198 = new System.Windows.Forms.Panel();
             this.panel199 = new System.Windows.Forms.Panel();
             this.panel200 = new System.Windows.Forms.Panel();
             this.panel201 = new System.Windows.Forms.Panel();
             this.panel202 = new System.Windows.Forms.Panel();
+            this.Flerovium_Button = new System.Windows.Forms.Button();
+            this.Flerovium_Label = new System.Windows.Forms.Label();
             this.panel203 = new System.Windows.Forms.Panel();
             this.panel204 = new System.Windows.Forms.Panel();
             this.panel205 = new System.Windows.Forms.Panel();
             this.panel206 = new System.Windows.Forms.Panel();
             this.panel207 = new System.Windows.Forms.Panel();
+            this.Nihonium_Button = new System.Windows.Forms.Button();
+            this.Nihonium_Label = new System.Windows.Forms.Label();
             this.panel208 = new System.Windows.Forms.Panel();
             this.panel209 = new System.Windows.Forms.Panel();
             this.panel210 = new System.Windows.Forms.Panel();
             this.panel211 = new System.Windows.Forms.Panel();
             this.panel212 = new System.Windows.Forms.Panel();
+            this.Copernicium_Button = new System.Windows.Forms.Button();
+            this.Copernicium_Label = new System.Windows.Forms.Label();
             this.panel213 = new System.Windows.Forms.Panel();
             this.panel214 = new System.Windows.Forms.Panel();
             this.panel215 = new System.Windows.Forms.Panel();
             this.panel216 = new System.Windows.Forms.Panel();
             this.panel217 = new System.Windows.Forms.Panel();
+            this.Roentgenium_Button = new System.Windows.Forms.Button();
+            this.Roentgenium_Label = new System.Windows.Forms.Label();
             this.panel218 = new System.Windows.Forms.Panel();
             this.panel219 = new System.Windows.Forms.Panel();
             this.panel220 = new System.Windows.Forms.Panel();
             this.panel221 = new System.Windows.Forms.Panel();
             this.panel222 = new System.Windows.Forms.Panel();
+            this.Darmstadtium_Button = new System.Windows.Forms.Button();
+            this.Darmstadtium_Label = new System.Windows.Forms.Label();
             this.panel223 = new System.Windows.Forms.Panel();
             this.panel224 = new System.Windows.Forms.Panel();
             this.panel225 = new System.Windows.Forms.Panel();
             this.panel226 = new System.Windows.Forms.Panel();
             this.panel227 = new System.Windows.Forms.Panel();
+            this.Meitnerium_Button = new System.Windows.Forms.Button();
+            this.Meitnerium_Label = new System.Windows.Forms.Label();
             this.panel228 = new System.Windows.Forms.Panel();
             this.panel229 = new System.Windows.Forms.Panel();
             this.panel230 = new System.Windows.Forms.Panel();
             this.panel231 = new System.Windows.Forms.Panel();
             this.panel232 = new System.Windows.Forms.Panel();
+            this.Hassium_Button = new System.Windows.Forms.Button();
+            this.Hassium_Label = new System.Windows.Forms.Label();
             this.panel233 = new System.Windows.Forms.Panel();
             this.panel234 = new System.Windows.Forms.Panel();
             this.panel235 = new System.Windows.Forms.Panel();
             this.panel236 = new System.Windows.Forms.Panel();
             this.panel237 = new System.Windows.Forms.Panel();
+            this.Bohrium_Button = new System.Windows.Forms.Button();
+            this.Bohrium_Label = new System.Windows.Forms.Label();
             this.panel238 = new System.Windows.Forms.Panel();
             this.panel239 = new System.Windows.Forms.Panel();
             this.panel240 = new System.Windows.Forms.Panel();
             this.panel241 = new System.Windows.Forms.Panel();
             this.panel242 = new System.Windows.Forms.Panel();
+            this.Seaborgium_Button = new System.Windows.Forms.Button();
+            this.Seaborgium_Label = new System.Windows.Forms.Label();
             this.panel243 = new System.Windows.Forms.Panel();
             this.panel244 = new System.Windows.Forms.Panel();
             this.panel245 = new System.Windows.Forms.Panel();
             this.panel246 = new System.Windows.Forms.Panel();
             this.panel247 = new System.Windows.Forms.Panel();
+            this.Dubnium_Button = new System.Windows.Forms.Button();
+            this.Dubnium_Label = new System.Windows.Forms.Label();
             this.panel248 = new System.Windows.Forms.Panel();
             this.panel249 = new System.Windows.Forms.Panel();
             this.panel250 = new System.Windows.Forms.Panel();
             this.panel251 = new System.Windows.Forms.Panel();
             this.panel252 = new System.Windows.Forms.Panel();
+            this.Rutherfordium_Button = new System.Windows.Forms.Button();
+            this.Rutherfordium_Label = new System.Windows.Forms.Label();
             this.panel253 = new System.Windows.Forms.Panel();
             this.panel254 = new System.Windows.Forms.Panel();
             this.panel255 = new System.Windows.Forms.Panel();
             this.panel256 = new System.Windows.Forms.Panel();
             this.panel257 = new System.Windows.Forms.Panel();
+            this.Act_Button = new System.Windows.Forms.Button();
+            this.Act_Label = new System.Windows.Forms.Label();
             this.panel258 = new System.Windows.Forms.Panel();
             this.panel259 = new System.Windows.Forms.Panel();
             this.panel260 = new System.Windows.Forms.Panel();
             this.panel261 = new System.Windows.Forms.Panel();
             this.panel262 = new System.Windows.Forms.Panel();
+            this.Radium_Button = new System.Windows.Forms.Button();
+            this.Radium_Label = new System.Windows.Forms.Label();
             this.panel263 = new System.Windows.Forms.Panel();
             this.panel264 = new System.Windows.Forms.Panel();
             this.panel265 = new System.Windows.Forms.Panel();
             this.panel266 = new System.Windows.Forms.Panel();
             this.panel267 = new System.Windows.Forms.Panel();
+            this.Francium_Button = new System.Windows.Forms.Button();
+            this.Francium_Label = new System.Windows.Forms.Label();
             this.panel268 = new System.Windows.Forms.Panel();
             this.panel269 = new System.Windows.Forms.Panel();
             this.panel270 = new System.Windows.Forms.Panel();
@@ -676,76 +856,106 @@ namespace VirtualChem.Forms
             this.panel95 = new System.Windows.Forms.Panel();
             this.panel96 = new System.Windows.Forms.Panel();
             this.panel97 = new System.Windows.Forms.Panel();
+            this.Lutetium_Button = new System.Windows.Forms.Button();
+            this.Lutetium_Label = new System.Windows.Forms.Label();
             this.panel98 = new System.Windows.Forms.Panel();
             this.panel99 = new System.Windows.Forms.Panel();
             this.panel100 = new System.Windows.Forms.Panel();
             this.panel101 = new System.Windows.Forms.Panel();
             this.panel102 = new System.Windows.Forms.Panel();
+            this.Ytterbium_Button = new System.Windows.Forms.Button();
+            this.Ytterbium_Label = new System.Windows.Forms.Label();
             this.panel103 = new System.Windows.Forms.Panel();
             this.panel104 = new System.Windows.Forms.Panel();
             this.panel105 = new System.Windows.Forms.Panel();
             this.panel106 = new System.Windows.Forms.Panel();
             this.panel107 = new System.Windows.Forms.Panel();
+            this.Thulium_Button = new System.Windows.Forms.Button();
+            this.Thulium_Label = new System.Windows.Forms.Label();
             this.panel108 = new System.Windows.Forms.Panel();
             this.panel109 = new System.Windows.Forms.Panel();
             this.panel110 = new System.Windows.Forms.Panel();
             this.panel111 = new System.Windows.Forms.Panel();
             this.panel112 = new System.Windows.Forms.Panel();
+            this.Erbium_Button = new System.Windows.Forms.Button();
+            this.Erbium_Label = new System.Windows.Forms.Label();
             this.panel113 = new System.Windows.Forms.Panel();
             this.panel114 = new System.Windows.Forms.Panel();
             this.panel115 = new System.Windows.Forms.Panel();
             this.panel116 = new System.Windows.Forms.Panel();
             this.panel117 = new System.Windows.Forms.Panel();
+            this.Holmium_Button = new System.Windows.Forms.Button();
+            this.Holmium_Label = new System.Windows.Forms.Label();
             this.panel118 = new System.Windows.Forms.Panel();
             this.panel119 = new System.Windows.Forms.Panel();
             this.panel120 = new System.Windows.Forms.Panel();
             this.panel121 = new System.Windows.Forms.Panel();
             this.panel122 = new System.Windows.Forms.Panel();
+            this.Dysprosium_Button = new System.Windows.Forms.Button();
+            this.Dysprosium_Label = new System.Windows.Forms.Label();
             this.panel123 = new System.Windows.Forms.Panel();
             this.panel124 = new System.Windows.Forms.Panel();
             this.panel125 = new System.Windows.Forms.Panel();
             this.panel126 = new System.Windows.Forms.Panel();
             this.panel127 = new System.Windows.Forms.Panel();
+            this.Terbium_Button = new System.Windows.Forms.Button();
+            this.Terbium_Label = new System.Windows.Forms.Label();
             this.panel128 = new System.Windows.Forms.Panel();
             this.panel129 = new System.Windows.Forms.Panel();
             this.panel130 = new System.Windows.Forms.Panel();
             this.panel131 = new System.Windows.Forms.Panel();
             this.panel132 = new System.Windows.Forms.Panel();
+            this.Gadolinium_Button = new System.Windows.Forms.Button();
+            this.Gadolinium_Label = new System.Windows.Forms.Label();
             this.panel133 = new System.Windows.Forms.Panel();
             this.panel134 = new System.Windows.Forms.Panel();
             this.panel135 = new System.Windows.Forms.Panel();
             this.panel136 = new System.Windows.Forms.Panel();
             this.panel137 = new System.Windows.Forms.Panel();
+            this.Europium_Button = new System.Windows.Forms.Button();
+            this.Europium_Label = new System.Windows.Forms.Label();
             this.panel138 = new System.Windows.Forms.Panel();
             this.panel139 = new System.Windows.Forms.Panel();
             this.panel140 = new System.Windows.Forms.Panel();
             this.panel141 = new System.Windows.Forms.Panel();
             this.panel142 = new System.Windows.Forms.Panel();
+            this.Samarium_Button = new System.Windows.Forms.Button();
+            this.Samarium_Label = new System.Windows.Forms.Label();
             this.panel143 = new System.Windows.Forms.Panel();
             this.panel144 = new System.Windows.Forms.Panel();
             this.panel145 = new System.Windows.Forms.Panel();
             this.panel146 = new System.Windows.Forms.Panel();
             this.panel147 = new System.Windows.Forms.Panel();
+            this.Promethium_Button = new System.Windows.Forms.Button();
+            this.Promethium_Label = new System.Windows.Forms.Label();
             this.panel148 = new System.Windows.Forms.Panel();
             this.panel149 = new System.Windows.Forms.Panel();
             this.panel150 = new System.Windows.Forms.Panel();
             this.panel151 = new System.Windows.Forms.Panel();
             this.panel152 = new System.Windows.Forms.Panel();
+            this.Neodymium_Button = new System.Windows.Forms.Button();
+            this.Neodymium_Label = new System.Windows.Forms.Label();
             this.panel153 = new System.Windows.Forms.Panel();
             this.panel154 = new System.Windows.Forms.Panel();
             this.panel155 = new System.Windows.Forms.Panel();
             this.panel156 = new System.Windows.Forms.Panel();
             this.panel157 = new System.Windows.Forms.Panel();
+            this.Praseodymium_Button = new System.Windows.Forms.Button();
+            this.Praseodymium_Label = new System.Windows.Forms.Label();
             this.panel158 = new System.Windows.Forms.Panel();
             this.panel159 = new System.Windows.Forms.Panel();
             this.panel160 = new System.Windows.Forms.Panel();
             this.panel161 = new System.Windows.Forms.Panel();
             this.panel162 = new System.Windows.Forms.Panel();
+            this.Cerium_Button = new System.Windows.Forms.Button();
+            this.Cerium_Label = new System.Windows.Forms.Label();
             this.panel163 = new System.Windows.Forms.Panel();
             this.panel164 = new System.Windows.Forms.Panel();
             this.panel165 = new System.Windows.Forms.Panel();
             this.panel166 = new System.Windows.Forms.Panel();
             this.panel167 = new System.Windows.Forms.Panel();
+            this.Lanthanum_Button = new System.Windows.Forms.Button();
+            this.Lanthanum_Label = new System.Windows.Forms.Label();
             this.panel168 = new System.Windows.Forms.Panel();
             this.panel169 = new System.Windows.Forms.Panel();
             this.panel170 = new System.Windows.Forms.Panel();
@@ -767,76 +977,106 @@ namespace VirtualChem.Forms
             this.panel90 = new System.Windows.Forms.Panel();
             this.panel91 = new System.Windows.Forms.Panel();
             this.panel82 = new System.Windows.Forms.Panel();
+            this.Lawrencium_Button = new System.Windows.Forms.Button();
+            this.Lawrencium_Label = new System.Windows.Forms.Label();
             this.panel83 = new System.Windows.Forms.Panel();
             this.panel84 = new System.Windows.Forms.Panel();
             this.panel85 = new System.Windows.Forms.Panel();
             this.panel86 = new System.Windows.Forms.Panel();
             this.panel77 = new System.Windows.Forms.Panel();
+            this.Nobelium_Button = new System.Windows.Forms.Button();
+            this.Nobelium_Label = new System.Windows.Forms.Label();
             this.panel78 = new System.Windows.Forms.Panel();
             this.panel79 = new System.Windows.Forms.Panel();
             this.panel80 = new System.Windows.Forms.Panel();
             this.panel81 = new System.Windows.Forms.Panel();
             this.panel72 = new System.Windows.Forms.Panel();
+            this.Mendelevium_Button = new System.Windows.Forms.Button();
+            this.Mendelevium_Label = new System.Windows.Forms.Label();
             this.panel73 = new System.Windows.Forms.Panel();
             this.panel74 = new System.Windows.Forms.Panel();
             this.panel75 = new System.Windows.Forms.Panel();
             this.panel76 = new System.Windows.Forms.Panel();
             this.panel67 = new System.Windows.Forms.Panel();
+            this.Fermium_Button = new System.Windows.Forms.Button();
+            this.Fermium_Label = new System.Windows.Forms.Label();
             this.panel68 = new System.Windows.Forms.Panel();
             this.panel69 = new System.Windows.Forms.Panel();
             this.panel70 = new System.Windows.Forms.Panel();
             this.panel71 = new System.Windows.Forms.Panel();
             this.panel62 = new System.Windows.Forms.Panel();
+            this.Einsteinium_Button = new System.Windows.Forms.Button();
+            this.Einsteinium_Label = new System.Windows.Forms.Label();
             this.panel63 = new System.Windows.Forms.Panel();
             this.panel64 = new System.Windows.Forms.Panel();
             this.panel65 = new System.Windows.Forms.Panel();
             this.panel66 = new System.Windows.Forms.Panel();
             this.panel57 = new System.Windows.Forms.Panel();
+            this.Californium_Button = new System.Windows.Forms.Button();
+            this.Californium_Label = new System.Windows.Forms.Label();
             this.panel58 = new System.Windows.Forms.Panel();
             this.panel59 = new System.Windows.Forms.Panel();
             this.panel60 = new System.Windows.Forms.Panel();
             this.panel61 = new System.Windows.Forms.Panel();
             this.panel52 = new System.Windows.Forms.Panel();
+            this.Berkelium_Button = new System.Windows.Forms.Button();
+            this.Berkelium_Label = new System.Windows.Forms.Label();
             this.panel53 = new System.Windows.Forms.Panel();
             this.panel54 = new System.Windows.Forms.Panel();
             this.panel55 = new System.Windows.Forms.Panel();
             this.panel56 = new System.Windows.Forms.Panel();
             this.panel47 = new System.Windows.Forms.Panel();
+            this.Curium_Button = new System.Windows.Forms.Button();
+            this.Curium_Label = new System.Windows.Forms.Label();
             this.panel48 = new System.Windows.Forms.Panel();
             this.panel49 = new System.Windows.Forms.Panel();
             this.panel50 = new System.Windows.Forms.Panel();
             this.panel51 = new System.Windows.Forms.Panel();
             this.panel42 = new System.Windows.Forms.Panel();
+            this.Americium_Button = new System.Windows.Forms.Button();
+            this.Americium_Label = new System.Windows.Forms.Label();
             this.panel43 = new System.Windows.Forms.Panel();
             this.panel44 = new System.Windows.Forms.Panel();
             this.panel45 = new System.Windows.Forms.Panel();
             this.panel46 = new System.Windows.Forms.Panel();
             this.panel37 = new System.Windows.Forms.Panel();
+            this.Plutonium_Button = new System.Windows.Forms.Button();
+            this.Plutonium_Label = new System.Windows.Forms.Label();
             this.panel38 = new System.Windows.Forms.Panel();
             this.panel39 = new System.Windows.Forms.Panel();
             this.panel40 = new System.Windows.Forms.Panel();
             this.panel41 = new System.Windows.Forms.Panel();
             this.panel32 = new System.Windows.Forms.Panel();
+            this.Neptunium_Button = new System.Windows.Forms.Button();
+            this.Neptunium_Label = new System.Windows.Forms.Label();
             this.panel33 = new System.Windows.Forms.Panel();
             this.panel34 = new System.Windows.Forms.Panel();
             this.panel35 = new System.Windows.Forms.Panel();
             this.panel36 = new System.Windows.Forms.Panel();
             this.panel27 = new System.Windows.Forms.Panel();
+            this.Uranium_Button = new System.Windows.Forms.Button();
+            this.Uranium_Label = new System.Windows.Forms.Label();
             this.panel28 = new System.Windows.Forms.Panel();
             this.panel29 = new System.Windows.Forms.Panel();
             this.panel30 = new System.Windows.Forms.Panel();
             this.panel31 = new System.Windows.Forms.Panel();
             this.panel22 = new System.Windows.Forms.Panel();
+            this.Protactinium_Button = new System.Windows.Forms.Button();
+            this.Protactinium_Label = new System.Windows.Forms.Label();
             this.panel23 = new System.Windows.Forms.Panel();
             this.panel24 = new System.Windows.Forms.Panel();
             this.panel25 = new System.Windows.Forms.Panel();
             this.panel26 = new System.Windows.Forms.Panel();
             this.panel17 = new System.Windows.Forms.Panel();
+            this.Thorium_Button = new System.Windows.Forms.Button();
+            this.Thorium_Label = new System.Windows.Forms.Label();
             this.panel18 = new System.Windows.Forms.Panel();
             this.panel19 = new System.Windows.Forms.Panel();
             this.panel20 = new System.Windows.Forms.Panel();
             this.panel21 = new System.Windows.Forms.Panel();
             this.panel12 = new System.Windows.Forms.Panel();
+            this.Actinium_Button = new System.Windows.Forms.Button();
+            this.Actinium_Label = new System.Windows.Forms.Label();
             this.panel13 = new System.Windows.Forms.Panel();
             this.panel14 = new System.Windows.Forms.Panel();
             this.panel15 = new System.Windows.Forms.Panel();
@@ -859,246 +1099,6 @@ namespace VirtualChem.Forms
             this.TopBorder_Panel = new System.Windows.Forms.Panel();
             this.LeftBorder_Panel = new System.Windows.Forms.Panel();
             this.RightBorder_Panel = new System.Windows.Forms.Panel();
-            this.label1 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.label2 = new System.Windows.Forms.Label();
-            this.button3 = new System.Windows.Forms.Button();
-            this.label3 = new System.Windows.Forms.Label();
-            this.button4 = new System.Windows.Forms.Button();
-            this.label4 = new System.Windows.Forms.Label();
-            this.button5 = new System.Windows.Forms.Button();
-            this.label5 = new System.Windows.Forms.Label();
-            this.button6 = new System.Windows.Forms.Button();
-            this.label6 = new System.Windows.Forms.Label();
-            this.button7 = new System.Windows.Forms.Button();
-            this.label7 = new System.Windows.Forms.Label();
-            this.button8 = new System.Windows.Forms.Button();
-            this.label8 = new System.Windows.Forms.Label();
-            this.button9 = new System.Windows.Forms.Button();
-            this.label9 = new System.Windows.Forms.Label();
-            this.button10 = new System.Windows.Forms.Button();
-            this.label10 = new System.Windows.Forms.Label();
-            this.button11 = new System.Windows.Forms.Button();
-            this.label11 = new System.Windows.Forms.Label();
-            this.button12 = new System.Windows.Forms.Button();
-            this.label12 = new System.Windows.Forms.Label();
-            this.button13 = new System.Windows.Forms.Button();
-            this.label13 = new System.Windows.Forms.Label();
-            this.button14 = new System.Windows.Forms.Button();
-            this.label14 = new System.Windows.Forms.Label();
-            this.button15 = new System.Windows.Forms.Button();
-            this.label15 = new System.Windows.Forms.Label();
-            this.button16 = new System.Windows.Forms.Button();
-            this.label16 = new System.Windows.Forms.Label();
-            this.button17 = new System.Windows.Forms.Button();
-            this.label17 = new System.Windows.Forms.Label();
-            this.button18 = new System.Windows.Forms.Button();
-            this.label18 = new System.Windows.Forms.Label();
-            this.button19 = new System.Windows.Forms.Button();
-            this.label19 = new System.Windows.Forms.Label();
-            this.button20 = new System.Windows.Forms.Button();
-            this.label20 = new System.Windows.Forms.Label();
-            this.button21 = new System.Windows.Forms.Button();
-            this.label21 = new System.Windows.Forms.Label();
-            this.button22 = new System.Windows.Forms.Button();
-            this.label22 = new System.Windows.Forms.Label();
-            this.button23 = new System.Windows.Forms.Button();
-            this.label23 = new System.Windows.Forms.Label();
-            this.button24 = new System.Windows.Forms.Button();
-            this.label24 = new System.Windows.Forms.Label();
-            this.button25 = new System.Windows.Forms.Button();
-            this.label25 = new System.Windows.Forms.Label();
-            this.button26 = new System.Windows.Forms.Button();
-            this.label26 = new System.Windows.Forms.Label();
-            this.button27 = new System.Windows.Forms.Button();
-            this.label27 = new System.Windows.Forms.Label();
-            this.button28 = new System.Windows.Forms.Button();
-            this.label28 = new System.Windows.Forms.Label();
-            this.button29 = new System.Windows.Forms.Button();
-            this.label29 = new System.Windows.Forms.Label();
-            this.button30 = new System.Windows.Forms.Button();
-            this.label30 = new System.Windows.Forms.Label();
-            this.button31 = new System.Windows.Forms.Button();
-            this.label31 = new System.Windows.Forms.Label();
-            this.button32 = new System.Windows.Forms.Button();
-            this.label32 = new System.Windows.Forms.Label();
-            this.button33 = new System.Windows.Forms.Button();
-            this.label33 = new System.Windows.Forms.Label();
-            this.button34 = new System.Windows.Forms.Button();
-            this.label34 = new System.Windows.Forms.Label();
-            this.button35 = new System.Windows.Forms.Button();
-            this.label35 = new System.Windows.Forms.Label();
-            this.button36 = new System.Windows.Forms.Button();
-            this.label36 = new System.Windows.Forms.Label();
-            this.button37 = new System.Windows.Forms.Button();
-            this.label37 = new System.Windows.Forms.Label();
-            this.button38 = new System.Windows.Forms.Button();
-            this.label38 = new System.Windows.Forms.Label();
-            this.button39 = new System.Windows.Forms.Button();
-            this.label39 = new System.Windows.Forms.Label();
-            this.button40 = new System.Windows.Forms.Button();
-            this.label40 = new System.Windows.Forms.Label();
-            this.button41 = new System.Windows.Forms.Button();
-            this.label41 = new System.Windows.Forms.Label();
-            this.button42 = new System.Windows.Forms.Button();
-            this.label42 = new System.Windows.Forms.Label();
-            this.button43 = new System.Windows.Forms.Button();
-            this.label43 = new System.Windows.Forms.Label();
-            this.button44 = new System.Windows.Forms.Button();
-            this.label44 = new System.Windows.Forms.Label();
-            this.button45 = new System.Windows.Forms.Button();
-            this.label45 = new System.Windows.Forms.Label();
-            this.button46 = new System.Windows.Forms.Button();
-            this.label46 = new System.Windows.Forms.Label();
-            this.button47 = new System.Windows.Forms.Button();
-            this.label47 = new System.Windows.Forms.Label();
-            this.button48 = new System.Windows.Forms.Button();
-            this.label48 = new System.Windows.Forms.Label();
-            this.button49 = new System.Windows.Forms.Button();
-            this.label49 = new System.Windows.Forms.Label();
-            this.button50 = new System.Windows.Forms.Button();
-            this.label50 = new System.Windows.Forms.Label();
-            this.button51 = new System.Windows.Forms.Button();
-            this.label51 = new System.Windows.Forms.Label();
-            this.button52 = new System.Windows.Forms.Button();
-            this.label52 = new System.Windows.Forms.Label();
-            this.button53 = new System.Windows.Forms.Button();
-            this.label53 = new System.Windows.Forms.Label();
-            this.button54 = new System.Windows.Forms.Button();
-            this.label54 = new System.Windows.Forms.Label();
-            this.button55 = new System.Windows.Forms.Button();
-            this.label55 = new System.Windows.Forms.Label();
-            this.button56 = new System.Windows.Forms.Button();
-            this.label56 = new System.Windows.Forms.Label();
-            this.button57 = new System.Windows.Forms.Button();
-            this.label57 = new System.Windows.Forms.Label();
-            this.button58 = new System.Windows.Forms.Button();
-            this.label58 = new System.Windows.Forms.Label();
-            this.button59 = new System.Windows.Forms.Button();
-            this.label59 = new System.Windows.Forms.Label();
-            this.button60 = new System.Windows.Forms.Button();
-            this.label60 = new System.Windows.Forms.Label();
-            this.button61 = new System.Windows.Forms.Button();
-            this.label61 = new System.Windows.Forms.Label();
-            this.button62 = new System.Windows.Forms.Button();
-            this.label62 = new System.Windows.Forms.Label();
-            this.button63 = new System.Windows.Forms.Button();
-            this.label63 = new System.Windows.Forms.Label();
-            this.button64 = new System.Windows.Forms.Button();
-            this.label64 = new System.Windows.Forms.Label();
-            this.button65 = new System.Windows.Forms.Button();
-            this.label65 = new System.Windows.Forms.Label();
-            this.button66 = new System.Windows.Forms.Button();
-            this.label66 = new System.Windows.Forms.Label();
-            this.button67 = new System.Windows.Forms.Button();
-            this.label67 = new System.Windows.Forms.Label();
-            this.button68 = new System.Windows.Forms.Button();
-            this.label68 = new System.Windows.Forms.Label();
-            this.button69 = new System.Windows.Forms.Button();
-            this.label69 = new System.Windows.Forms.Label();
-            this.button70 = new System.Windows.Forms.Button();
-            this.label70 = new System.Windows.Forms.Label();
-            this.button71 = new System.Windows.Forms.Button();
-            this.label71 = new System.Windows.Forms.Label();
-            this.button72 = new System.Windows.Forms.Button();
-            this.label72 = new System.Windows.Forms.Label();
-            this.button73 = new System.Windows.Forms.Button();
-            this.label73 = new System.Windows.Forms.Label();
-            this.button74 = new System.Windows.Forms.Button();
-            this.label74 = new System.Windows.Forms.Label();
-            this.button75 = new System.Windows.Forms.Button();
-            this.label75 = new System.Windows.Forms.Label();
-            this.button76 = new System.Windows.Forms.Button();
-            this.label76 = new System.Windows.Forms.Label();
-            this.button77 = new System.Windows.Forms.Button();
-            this.label77 = new System.Windows.Forms.Label();
-            this.button78 = new System.Windows.Forms.Button();
-            this.label78 = new System.Windows.Forms.Label();
-            this.button79 = new System.Windows.Forms.Button();
-            this.label79 = new System.Windows.Forms.Label();
-            this.button80 = new System.Windows.Forms.Button();
-            this.label80 = new System.Windows.Forms.Label();
-            this.button81 = new System.Windows.Forms.Button();
-            this.label81 = new System.Windows.Forms.Label();
-            this.button82 = new System.Windows.Forms.Button();
-            this.label82 = new System.Windows.Forms.Label();
-            this.button83 = new System.Windows.Forms.Button();
-            this.label83 = new System.Windows.Forms.Label();
-            this.button84 = new System.Windows.Forms.Button();
-            this.label84 = new System.Windows.Forms.Label();
-            this.button85 = new System.Windows.Forms.Button();
-            this.label85 = new System.Windows.Forms.Label();
-            this.button86 = new System.Windows.Forms.Button();
-            this.label86 = new System.Windows.Forms.Label();
-            this.button87 = new System.Windows.Forms.Button();
-            this.label87 = new System.Windows.Forms.Label();
-            this.button88 = new System.Windows.Forms.Button();
-            this.label88 = new System.Windows.Forms.Label();
-            this.button89 = new System.Windows.Forms.Button();
-            this.label89 = new System.Windows.Forms.Label();
-            this.button90 = new System.Windows.Forms.Button();
-            this.label90 = new System.Windows.Forms.Label();
-            this.button91 = new System.Windows.Forms.Button();
-            this.label91 = new System.Windows.Forms.Label();
-            this.button92 = new System.Windows.Forms.Button();
-            this.label92 = new System.Windows.Forms.Label();
-            this.button93 = new System.Windows.Forms.Button();
-            this.label93 = new System.Windows.Forms.Label();
-            this.button94 = new System.Windows.Forms.Button();
-            this.label94 = new System.Windows.Forms.Label();
-            this.button95 = new System.Windows.Forms.Button();
-            this.label95 = new System.Windows.Forms.Label();
-            this.button96 = new System.Windows.Forms.Button();
-            this.label96 = new System.Windows.Forms.Label();
-            this.button97 = new System.Windows.Forms.Button();
-            this.label97 = new System.Windows.Forms.Label();
-            this.button98 = new System.Windows.Forms.Button();
-            this.label98 = new System.Windows.Forms.Label();
-            this.button99 = new System.Windows.Forms.Button();
-            this.label99 = new System.Windows.Forms.Label();
-            this.button100 = new System.Windows.Forms.Button();
-            this.label100 = new System.Windows.Forms.Label();
-            this.button101 = new System.Windows.Forms.Button();
-            this.label101 = new System.Windows.Forms.Label();
-            this.button102 = new System.Windows.Forms.Button();
-            this.label102 = new System.Windows.Forms.Label();
-            this.button103 = new System.Windows.Forms.Button();
-            this.label103 = new System.Windows.Forms.Label();
-            this.button104 = new System.Windows.Forms.Button();
-            this.label104 = new System.Windows.Forms.Label();
-            this.button105 = new System.Windows.Forms.Button();
-            this.label105 = new System.Windows.Forms.Label();
-            this.button106 = new System.Windows.Forms.Button();
-            this.label106 = new System.Windows.Forms.Label();
-            this.button107 = new System.Windows.Forms.Button();
-            this.label107 = new System.Windows.Forms.Label();
-            this.button108 = new System.Windows.Forms.Button();
-            this.label108 = new System.Windows.Forms.Label();
-            this.button109 = new System.Windows.Forms.Button();
-            this.label109 = new System.Windows.Forms.Label();
-            this.button110 = new System.Windows.Forms.Button();
-            this.label110 = new System.Windows.Forms.Label();
-            this.button111 = new System.Windows.Forms.Button();
-            this.label111 = new System.Windows.Forms.Label();
-            this.button112 = new System.Windows.Forms.Button();
-            this.label112 = new System.Windows.Forms.Label();
-            this.button113 = new System.Windows.Forms.Button();
-            this.label113 = new System.Windows.Forms.Label();
-            this.button114 = new System.Windows.Forms.Button();
-            this.label114 = new System.Windows.Forms.Label();
-            this.button115 = new System.Windows.Forms.Button();
-            this.label115 = new System.Windows.Forms.Label();
-            this.button116 = new System.Windows.Forms.Button();
-            this.label116 = new System.Windows.Forms.Label();
-            this.button117 = new System.Windows.Forms.Button();
-            this.label117 = new System.Windows.Forms.Label();
-            this.button118 = new System.Windows.Forms.Button();
-            this.label118 = new System.Windows.Forms.Label();
-            this.button119 = new System.Windows.Forms.Button();
-            this.label119 = new System.Windows.Forms.Label();
-            this.button120 = new System.Windows.Forms.Button();
-            this.label120 = new System.Windows.Forms.Label();
             this.Main_Panel.SuspendLayout();
             this.FirstRow_Panel.SuspendLayout();
             this.panel722.SuspendLayout();
@@ -1329,8 +1329,8 @@ namespace VirtualChem.Forms
             // panel722
             // 
             this.panel722.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel722.Controls.Add(this.button2);
-            this.panel722.Controls.Add(this.label2);
+            this.panel722.Controls.Add(this.Helium_Button);
+            this.panel722.Controls.Add(this.Helium_Label);
             this.panel722.Controls.Add(this.panel723);
             this.panel722.Controls.Add(this.panel724);
             this.panel722.Controls.Add(this.panel725);
@@ -1340,6 +1340,32 @@ namespace VirtualChem.Forms
             this.panel722.Name = "panel722";
             this.panel722.Size = new System.Drawing.Size(55, 65);
             this.panel722.TabIndex = 53;
+            // 
+            // Helium_Button
+            // 
+            this.Helium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Helium_Button.FlatAppearance.BorderSize = 0;
+            this.Helium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Helium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Helium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Helium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Helium_Button.Name = "Helium_Button";
+            this.Helium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Helium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Helium_Button.TabIndex = 7;
+            this.Helium_Button.Text = "He";
+            this.Helium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Helium_Label
+            // 
+            this.Helium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Helium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Helium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Helium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Helium_Label.Name = "Helium_Label";
+            this.Helium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Helium_Label.TabIndex = 6;
+            this.Helium_Label.Text = "2";
             // 
             // panel723
             // 
@@ -2164,8 +2190,8 @@ namespace VirtualChem.Forms
             // panel807
             // 
             this.panel807.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel807.Controls.Add(this.button1);
-            this.panel807.Controls.Add(this.label1);
+            this.panel807.Controls.Add(this.Hydrogen_Button);
+            this.panel807.Controls.Add(this.Hydrogen_Label);
             this.panel807.Controls.Add(this.panel808);
             this.panel807.Controls.Add(this.panel809);
             this.panel807.Controls.Add(this.panel810);
@@ -2175,6 +2201,32 @@ namespace VirtualChem.Forms
             this.panel807.Name = "panel807";
             this.panel807.Size = new System.Drawing.Size(55, 65);
             this.panel807.TabIndex = 36;
+            // 
+            // Hydrogen_Button
+            // 
+            this.Hydrogen_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Hydrogen_Button.FlatAppearance.BorderSize = 0;
+            this.Hydrogen_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Hydrogen_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Hydrogen_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Hydrogen_Button.Location = new System.Drawing.Point(2, 17);
+            this.Hydrogen_Button.Name = "Hydrogen_Button";
+            this.Hydrogen_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Hydrogen_Button.Size = new System.Drawing.Size(51, 46);
+            this.Hydrogen_Button.TabIndex = 5;
+            this.Hydrogen_Button.Text = "H";
+            this.Hydrogen_Button.UseVisualStyleBackColor = true;
+            // 
+            // Hydrogen_Label
+            // 
+            this.Hydrogen_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Hydrogen_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Hydrogen_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Hydrogen_Label.Location = new System.Drawing.Point(2, 2);
+            this.Hydrogen_Label.Name = "Hydrogen_Label";
+            this.Hydrogen_Label.Size = new System.Drawing.Size(51, 15);
+            this.Hydrogen_Label.TabIndex = 4;
+            this.Hydrogen_Label.Text = "1";
             // 
             // panel808
             // 
@@ -2241,8 +2293,8 @@ namespace VirtualChem.Forms
             // panel632
             // 
             this.panel632.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel632.Controls.Add(this.button5);
-            this.panel632.Controls.Add(this.label5);
+            this.panel632.Controls.Add(this.Neon_Button);
+            this.panel632.Controls.Add(this.Neon_Label);
             this.panel632.Controls.Add(this.panel633);
             this.panel632.Controls.Add(this.panel634);
             this.panel632.Controls.Add(this.panel635);
@@ -2252,6 +2304,32 @@ namespace VirtualChem.Forms
             this.panel632.Name = "panel632";
             this.panel632.Size = new System.Drawing.Size(55, 65);
             this.panel632.TabIndex = 53;
+            // 
+            // Neon_Button
+            // 
+            this.Neon_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Neon_Button.FlatAppearance.BorderSize = 0;
+            this.Neon_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Neon_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Neon_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Neon_Button.Location = new System.Drawing.Point(2, 17);
+            this.Neon_Button.Name = "Neon_Button";
+            this.Neon_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Neon_Button.Size = new System.Drawing.Size(51, 46);
+            this.Neon_Button.TabIndex = 7;
+            this.Neon_Button.Text = "Ne";
+            this.Neon_Button.UseVisualStyleBackColor = true;
+            // 
+            // Neon_Label
+            // 
+            this.Neon_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Neon_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Neon_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Neon_Label.Location = new System.Drawing.Point(2, 2);
+            this.Neon_Label.Name = "Neon_Label";
+            this.Neon_Label.Size = new System.Drawing.Size(51, 15);
+            this.Neon_Label.TabIndex = 6;
+            this.Neon_Label.Text = "10";
             // 
             // panel633
             // 
@@ -2292,8 +2370,8 @@ namespace VirtualChem.Forms
             // panel637
             // 
             this.panel637.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel637.Controls.Add(this.button6);
-            this.panel637.Controls.Add(this.label6);
+            this.panel637.Controls.Add(this.Flor_Button);
+            this.panel637.Controls.Add(this.Flor_Label);
             this.panel637.Controls.Add(this.panel638);
             this.panel637.Controls.Add(this.panel639);
             this.panel637.Controls.Add(this.panel640);
@@ -2303,6 +2381,32 @@ namespace VirtualChem.Forms
             this.panel637.Name = "panel637";
             this.panel637.Size = new System.Drawing.Size(55, 65);
             this.panel637.TabIndex = 52;
+            // 
+            // Flor_Button
+            // 
+            this.Flor_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Flor_Button.FlatAppearance.BorderSize = 0;
+            this.Flor_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Flor_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Flor_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Flor_Button.Location = new System.Drawing.Point(2, 17);
+            this.Flor_Button.Name = "Flor_Button";
+            this.Flor_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Flor_Button.Size = new System.Drawing.Size(51, 46);
+            this.Flor_Button.TabIndex = 7;
+            this.Flor_Button.Text = "F";
+            this.Flor_Button.UseVisualStyleBackColor = true;
+            // 
+            // Flor_Label
+            // 
+            this.Flor_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Flor_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Flor_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Flor_Label.Location = new System.Drawing.Point(2, 2);
+            this.Flor_Label.Name = "Flor_Label";
+            this.Flor_Label.Size = new System.Drawing.Size(51, 15);
+            this.Flor_Label.TabIndex = 6;
+            this.Flor_Label.Text = "9";
             // 
             // panel638
             // 
@@ -2343,8 +2447,8 @@ namespace VirtualChem.Forms
             // panel642
             // 
             this.panel642.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel642.Controls.Add(this.button7);
-            this.panel642.Controls.Add(this.label7);
+            this.panel642.Controls.Add(this.Oxygen_Button);
+            this.panel642.Controls.Add(this.Oxygen_Label);
             this.panel642.Controls.Add(this.panel643);
             this.panel642.Controls.Add(this.panel644);
             this.panel642.Controls.Add(this.panel645);
@@ -2354,6 +2458,32 @@ namespace VirtualChem.Forms
             this.panel642.Name = "panel642";
             this.panel642.Size = new System.Drawing.Size(55, 65);
             this.panel642.TabIndex = 51;
+            // 
+            // Oxygen_Button
+            // 
+            this.Oxygen_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Oxygen_Button.FlatAppearance.BorderSize = 0;
+            this.Oxygen_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Oxygen_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Oxygen_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Oxygen_Button.Location = new System.Drawing.Point(2, 17);
+            this.Oxygen_Button.Name = "Oxygen_Button";
+            this.Oxygen_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Oxygen_Button.Size = new System.Drawing.Size(51, 46);
+            this.Oxygen_Button.TabIndex = 7;
+            this.Oxygen_Button.Text = "O";
+            this.Oxygen_Button.UseVisualStyleBackColor = true;
+            // 
+            // Oxygen_Label
+            // 
+            this.Oxygen_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Oxygen_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Oxygen_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Oxygen_Label.Location = new System.Drawing.Point(2, 2);
+            this.Oxygen_Label.Name = "Oxygen_Label";
+            this.Oxygen_Label.Size = new System.Drawing.Size(51, 15);
+            this.Oxygen_Label.TabIndex = 6;
+            this.Oxygen_Label.Text = "8";
             // 
             // panel643
             // 
@@ -2394,8 +2524,8 @@ namespace VirtualChem.Forms
             // panel647
             // 
             this.panel647.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel647.Controls.Add(this.button8);
-            this.panel647.Controls.Add(this.label8);
+            this.panel647.Controls.Add(this.Nitrogen_Button);
+            this.panel647.Controls.Add(this.Nitrogen_Label);
             this.panel647.Controls.Add(this.panel648);
             this.panel647.Controls.Add(this.panel649);
             this.panel647.Controls.Add(this.panel650);
@@ -2405,6 +2535,32 @@ namespace VirtualChem.Forms
             this.panel647.Name = "panel647";
             this.panel647.Size = new System.Drawing.Size(55, 65);
             this.panel647.TabIndex = 50;
+            // 
+            // Nitrogen_Button
+            // 
+            this.Nitrogen_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Nitrogen_Button.FlatAppearance.BorderSize = 0;
+            this.Nitrogen_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Nitrogen_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Nitrogen_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Nitrogen_Button.Location = new System.Drawing.Point(2, 17);
+            this.Nitrogen_Button.Name = "Nitrogen_Button";
+            this.Nitrogen_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Nitrogen_Button.Size = new System.Drawing.Size(51, 46);
+            this.Nitrogen_Button.TabIndex = 7;
+            this.Nitrogen_Button.Text = "N";
+            this.Nitrogen_Button.UseVisualStyleBackColor = true;
+            // 
+            // Nitrogen_Label
+            // 
+            this.Nitrogen_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Nitrogen_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Nitrogen_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Nitrogen_Label.Location = new System.Drawing.Point(2, 2);
+            this.Nitrogen_Label.Name = "Nitrogen_Label";
+            this.Nitrogen_Label.Size = new System.Drawing.Size(51, 15);
+            this.Nitrogen_Label.TabIndex = 6;
+            this.Nitrogen_Label.Text = "7";
             // 
             // panel648
             // 
@@ -2445,8 +2601,8 @@ namespace VirtualChem.Forms
             // panel652
             // 
             this.panel652.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel652.Controls.Add(this.button9);
-            this.panel652.Controls.Add(this.label9);
+            this.panel652.Controls.Add(this.Carbon_Button);
+            this.panel652.Controls.Add(this.Carbon_Label);
             this.panel652.Controls.Add(this.panel653);
             this.panel652.Controls.Add(this.panel654);
             this.panel652.Controls.Add(this.panel655);
@@ -2456,6 +2612,32 @@ namespace VirtualChem.Forms
             this.panel652.Name = "panel652";
             this.panel652.Size = new System.Drawing.Size(55, 65);
             this.panel652.TabIndex = 49;
+            // 
+            // Carbon_Button
+            // 
+            this.Carbon_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Carbon_Button.FlatAppearance.BorderSize = 0;
+            this.Carbon_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Carbon_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Carbon_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Carbon_Button.Location = new System.Drawing.Point(2, 17);
+            this.Carbon_Button.Name = "Carbon_Button";
+            this.Carbon_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Carbon_Button.Size = new System.Drawing.Size(51, 46);
+            this.Carbon_Button.TabIndex = 7;
+            this.Carbon_Button.Text = "C";
+            this.Carbon_Button.UseVisualStyleBackColor = true;
+            // 
+            // Carbon_Label
+            // 
+            this.Carbon_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Carbon_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Carbon_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Carbon_Label.Location = new System.Drawing.Point(2, 2);
+            this.Carbon_Label.Name = "Carbon_Label";
+            this.Carbon_Label.Size = new System.Drawing.Size(51, 15);
+            this.Carbon_Label.TabIndex = 6;
+            this.Carbon_Label.Text = "6";
             // 
             // panel653
             // 
@@ -2496,8 +2678,8 @@ namespace VirtualChem.Forms
             // panel657
             // 
             this.panel657.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel657.Controls.Add(this.button10);
-            this.panel657.Controls.Add(this.label10);
+            this.panel657.Controls.Add(this.Bor_Button);
+            this.panel657.Controls.Add(this.Bor_Label);
             this.panel657.Controls.Add(this.panel658);
             this.panel657.Controls.Add(this.panel659);
             this.panel657.Controls.Add(this.panel660);
@@ -2507,6 +2689,32 @@ namespace VirtualChem.Forms
             this.panel657.Name = "panel657";
             this.panel657.Size = new System.Drawing.Size(55, 65);
             this.panel657.TabIndex = 48;
+            // 
+            // Bor_Button
+            // 
+            this.Bor_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Bor_Button.FlatAppearance.BorderSize = 0;
+            this.Bor_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Bor_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Bor_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Bor_Button.Location = new System.Drawing.Point(2, 17);
+            this.Bor_Button.Name = "Bor_Button";
+            this.Bor_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Bor_Button.Size = new System.Drawing.Size(51, 46);
+            this.Bor_Button.TabIndex = 7;
+            this.Bor_Button.Text = "B";
+            this.Bor_Button.UseVisualStyleBackColor = true;
+            // 
+            // Bor_Label
+            // 
+            this.Bor_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Bor_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Bor_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Bor_Label.Location = new System.Drawing.Point(2, 2);
+            this.Bor_Label.Name = "Bor_Label";
+            this.Bor_Label.Size = new System.Drawing.Size(51, 15);
+            this.Bor_Label.TabIndex = 6;
+            this.Bor_Label.Text = "5";
             // 
             // panel658
             // 
@@ -3037,8 +3245,8 @@ namespace VirtualChem.Forms
             // panel712
             // 
             this.panel712.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel712.Controls.Add(this.button4);
-            this.panel712.Controls.Add(this.label4);
+            this.panel712.Controls.Add(this.Beryllium_Button);
+            this.panel712.Controls.Add(this.Beryllium_Label);
             this.panel712.Controls.Add(this.panel713);
             this.panel712.Controls.Add(this.panel714);
             this.panel712.Controls.Add(this.panel715);
@@ -3048,6 +3256,32 @@ namespace VirtualChem.Forms
             this.panel712.Name = "panel712";
             this.panel712.Size = new System.Drawing.Size(55, 65);
             this.panel712.TabIndex = 37;
+            // 
+            // Beryllium_Button
+            // 
+            this.Beryllium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Beryllium_Button.FlatAppearance.BorderSize = 0;
+            this.Beryllium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Beryllium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Beryllium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Beryllium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Beryllium_Button.Name = "Beryllium_Button";
+            this.Beryllium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Beryllium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Beryllium_Button.TabIndex = 7;
+            this.Beryllium_Button.Text = "Be";
+            this.Beryllium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Beryllium_Label
+            // 
+            this.Beryllium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Beryllium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Beryllium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Beryllium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Beryllium_Label.Name = "Beryllium_Label";
+            this.Beryllium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Beryllium_Label.TabIndex = 6;
+            this.Beryllium_Label.Text = "4";
             // 
             // panel713
             // 
@@ -3088,8 +3322,8 @@ namespace VirtualChem.Forms
             // panel717
             // 
             this.panel717.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel717.Controls.Add(this.button3);
-            this.panel717.Controls.Add(this.label3);
+            this.panel717.Controls.Add(this.Lithium_Button);
+            this.panel717.Controls.Add(this.Lithium_Label);
             this.panel717.Controls.Add(this.panel718);
             this.panel717.Controls.Add(this.panel719);
             this.panel717.Controls.Add(this.panel720);
@@ -3099,6 +3333,32 @@ namespace VirtualChem.Forms
             this.panel717.Name = "panel717";
             this.panel717.Size = new System.Drawing.Size(55, 65);
             this.panel717.TabIndex = 36;
+            // 
+            // Lithium_Button
+            // 
+            this.Lithium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Lithium_Button.FlatAppearance.BorderSize = 0;
+            this.Lithium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Lithium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Lithium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Lithium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Lithium_Button.Name = "Lithium_Button";
+            this.Lithium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Lithium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Lithium_Button.TabIndex = 7;
+            this.Lithium_Button.Text = "Li";
+            this.Lithium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Lithium_Label
+            // 
+            this.Lithium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Lithium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Lithium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Lithium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Lithium_Label.Name = "Lithium_Label";
+            this.Lithium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Lithium_Label.TabIndex = 6;
+            this.Lithium_Label.Text = "3";
             // 
             // panel718
             // 
@@ -3165,8 +3425,8 @@ namespace VirtualChem.Forms
             // panel542
             // 
             this.panel542.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel542.Controls.Add(this.button51);
-            this.panel542.Controls.Add(this.label51);
+            this.panel542.Controls.Add(this.Argon_Button);
+            this.panel542.Controls.Add(this.Argon_Label);
             this.panel542.Controls.Add(this.panel543);
             this.panel542.Controls.Add(this.panel544);
             this.panel542.Controls.Add(this.panel545);
@@ -3176,6 +3436,32 @@ namespace VirtualChem.Forms
             this.panel542.Name = "panel542";
             this.panel542.Size = new System.Drawing.Size(55, 65);
             this.panel542.TabIndex = 53;
+            // 
+            // Argon_Button
+            // 
+            this.Argon_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Argon_Button.FlatAppearance.BorderSize = 0;
+            this.Argon_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Argon_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Argon_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Argon_Button.Location = new System.Drawing.Point(2, 17);
+            this.Argon_Button.Name = "Argon_Button";
+            this.Argon_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Argon_Button.Size = new System.Drawing.Size(51, 46);
+            this.Argon_Button.TabIndex = 7;
+            this.Argon_Button.Text = "Ar";
+            this.Argon_Button.UseVisualStyleBackColor = true;
+            // 
+            // Argon_Label
+            // 
+            this.Argon_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Argon_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Argon_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Argon_Label.Location = new System.Drawing.Point(2, 2);
+            this.Argon_Label.Name = "Argon_Label";
+            this.Argon_Label.Size = new System.Drawing.Size(51, 15);
+            this.Argon_Label.TabIndex = 6;
+            this.Argon_Label.Text = "18";
             // 
             // panel543
             // 
@@ -3216,8 +3502,8 @@ namespace VirtualChem.Forms
             // panel547
             // 
             this.panel547.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel547.Controls.Add(this.button60);
-            this.panel547.Controls.Add(this.label60);
+            this.panel547.Controls.Add(this.Chlorine_Button);
+            this.panel547.Controls.Add(this.Chlorine_Label);
             this.panel547.Controls.Add(this.panel548);
             this.panel547.Controls.Add(this.panel549);
             this.panel547.Controls.Add(this.panel550);
@@ -3227,6 +3513,32 @@ namespace VirtualChem.Forms
             this.panel547.Name = "panel547";
             this.panel547.Size = new System.Drawing.Size(55, 65);
             this.panel547.TabIndex = 52;
+            // 
+            // Chlorine_Button
+            // 
+            this.Chlorine_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Chlorine_Button.FlatAppearance.BorderSize = 0;
+            this.Chlorine_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Chlorine_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Chlorine_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Chlorine_Button.Location = new System.Drawing.Point(2, 17);
+            this.Chlorine_Button.Name = "Chlorine_Button";
+            this.Chlorine_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Chlorine_Button.Size = new System.Drawing.Size(51, 46);
+            this.Chlorine_Button.TabIndex = 7;
+            this.Chlorine_Button.Text = "Cl";
+            this.Chlorine_Button.UseVisualStyleBackColor = true;
+            // 
+            // Chlorine_Label
+            // 
+            this.Chlorine_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Chlorine_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Chlorine_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Chlorine_Label.Location = new System.Drawing.Point(2, 2);
+            this.Chlorine_Label.Name = "Chlorine_Label";
+            this.Chlorine_Label.Size = new System.Drawing.Size(51, 15);
+            this.Chlorine_Label.TabIndex = 6;
+            this.Chlorine_Label.Text = "17";
             // 
             // panel548
             // 
@@ -3267,8 +3579,8 @@ namespace VirtualChem.Forms
             // panel552
             // 
             this.panel552.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel552.Controls.Add(this.button59);
-            this.panel552.Controls.Add(this.label59);
+            this.panel552.Controls.Add(this.Sulfur_Button);
+            this.panel552.Controls.Add(this.Sulfur_Label);
             this.panel552.Controls.Add(this.panel553);
             this.panel552.Controls.Add(this.panel554);
             this.panel552.Controls.Add(this.panel555);
@@ -3278,6 +3590,32 @@ namespace VirtualChem.Forms
             this.panel552.Name = "panel552";
             this.panel552.Size = new System.Drawing.Size(55, 65);
             this.panel552.TabIndex = 51;
+            // 
+            // Sulfur_Button
+            // 
+            this.Sulfur_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Sulfur_Button.FlatAppearance.BorderSize = 0;
+            this.Sulfur_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Sulfur_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Sulfur_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Sulfur_Button.Location = new System.Drawing.Point(2, 17);
+            this.Sulfur_Button.Name = "Sulfur_Button";
+            this.Sulfur_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Sulfur_Button.Size = new System.Drawing.Size(51, 46);
+            this.Sulfur_Button.TabIndex = 7;
+            this.Sulfur_Button.Text = "S";
+            this.Sulfur_Button.UseVisualStyleBackColor = true;
+            // 
+            // Sulfur_Label
+            // 
+            this.Sulfur_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Sulfur_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Sulfur_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Sulfur_Label.Location = new System.Drawing.Point(2, 2);
+            this.Sulfur_Label.Name = "Sulfur_Label";
+            this.Sulfur_Label.Size = new System.Drawing.Size(51, 15);
+            this.Sulfur_Label.TabIndex = 6;
+            this.Sulfur_Label.Text = "16";
             // 
             // panel553
             // 
@@ -3318,8 +3656,8 @@ namespace VirtualChem.Forms
             // panel557
             // 
             this.panel557.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel557.Controls.Add(this.button58);
-            this.panel557.Controls.Add(this.label58);
+            this.panel557.Controls.Add(this.Phosphorus_Button);
+            this.panel557.Controls.Add(this.Phosphorus_Label);
             this.panel557.Controls.Add(this.panel558);
             this.panel557.Controls.Add(this.panel559);
             this.panel557.Controls.Add(this.panel560);
@@ -3329,6 +3667,32 @@ namespace VirtualChem.Forms
             this.panel557.Name = "panel557";
             this.panel557.Size = new System.Drawing.Size(55, 65);
             this.panel557.TabIndex = 50;
+            // 
+            // Phosphorus_Button
+            // 
+            this.Phosphorus_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Phosphorus_Button.FlatAppearance.BorderSize = 0;
+            this.Phosphorus_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Phosphorus_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Phosphorus_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Phosphorus_Button.Location = new System.Drawing.Point(2, 17);
+            this.Phosphorus_Button.Name = "Phosphorus_Button";
+            this.Phosphorus_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Phosphorus_Button.Size = new System.Drawing.Size(51, 46);
+            this.Phosphorus_Button.TabIndex = 7;
+            this.Phosphorus_Button.Text = "P";
+            this.Phosphorus_Button.UseVisualStyleBackColor = true;
+            // 
+            // Phosphorus_Label
+            // 
+            this.Phosphorus_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Phosphorus_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Phosphorus_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Phosphorus_Label.Location = new System.Drawing.Point(2, 2);
+            this.Phosphorus_Label.Name = "Phosphorus_Label";
+            this.Phosphorus_Label.Size = new System.Drawing.Size(51, 15);
+            this.Phosphorus_Label.TabIndex = 6;
+            this.Phosphorus_Label.Text = "15";
             // 
             // panel558
             // 
@@ -3369,8 +3733,8 @@ namespace VirtualChem.Forms
             // panel562
             // 
             this.panel562.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel562.Controls.Add(this.button57);
-            this.panel562.Controls.Add(this.label57);
+            this.panel562.Controls.Add(this.Silisium_Button);
+            this.panel562.Controls.Add(this.Silisium_Label);
             this.panel562.Controls.Add(this.panel563);
             this.panel562.Controls.Add(this.panel564);
             this.panel562.Controls.Add(this.panel565);
@@ -3380,6 +3744,32 @@ namespace VirtualChem.Forms
             this.panel562.Name = "panel562";
             this.panel562.Size = new System.Drawing.Size(55, 65);
             this.panel562.TabIndex = 49;
+            // 
+            // Silisium_Button
+            // 
+            this.Silisium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Silisium_Button.FlatAppearance.BorderSize = 0;
+            this.Silisium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Silisium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Silisium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Silisium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Silisium_Button.Name = "Silisium_Button";
+            this.Silisium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Silisium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Silisium_Button.TabIndex = 7;
+            this.Silisium_Button.Text = "Si";
+            this.Silisium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Silisium_Label
+            // 
+            this.Silisium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Silisium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Silisium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Silisium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Silisium_Label.Name = "Silisium_Label";
+            this.Silisium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Silisium_Label.TabIndex = 6;
+            this.Silisium_Label.Text = "14";
             // 
             // panel563
             // 
@@ -3420,8 +3810,8 @@ namespace VirtualChem.Forms
             // panel567
             // 
             this.panel567.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel567.Controls.Add(this.button56);
-            this.panel567.Controls.Add(this.label56);
+            this.panel567.Controls.Add(this.Aluminum_Button);
+            this.panel567.Controls.Add(this.Aluminum_Label);
             this.panel567.Controls.Add(this.panel568);
             this.panel567.Controls.Add(this.panel569);
             this.panel567.Controls.Add(this.panel570);
@@ -3431,6 +3821,32 @@ namespace VirtualChem.Forms
             this.panel567.Name = "panel567";
             this.panel567.Size = new System.Drawing.Size(55, 65);
             this.panel567.TabIndex = 48;
+            // 
+            // Aluminum_Button
+            // 
+            this.Aluminum_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Aluminum_Button.FlatAppearance.BorderSize = 0;
+            this.Aluminum_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Aluminum_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Aluminum_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Aluminum_Button.Location = new System.Drawing.Point(2, 17);
+            this.Aluminum_Button.Name = "Aluminum_Button";
+            this.Aluminum_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Aluminum_Button.Size = new System.Drawing.Size(51, 46);
+            this.Aluminum_Button.TabIndex = 7;
+            this.Aluminum_Button.Text = "Al";
+            this.Aluminum_Button.UseVisualStyleBackColor = true;
+            // 
+            // Aluminum_Label
+            // 
+            this.Aluminum_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Aluminum_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Aluminum_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Aluminum_Label.Location = new System.Drawing.Point(2, 2);
+            this.Aluminum_Label.Name = "Aluminum_Label";
+            this.Aluminum_Label.Size = new System.Drawing.Size(51, 15);
+            this.Aluminum_Label.TabIndex = 6;
+            this.Aluminum_Label.Text = "13";
             // 
             // panel568
             // 
@@ -3961,8 +4377,8 @@ namespace VirtualChem.Forms
             // panel622
             // 
             this.panel622.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel622.Controls.Add(this.button12);
-            this.panel622.Controls.Add(this.label12);
+            this.panel622.Controls.Add(this.Magnesium_Button);
+            this.panel622.Controls.Add(this.Magnesium_Label);
             this.panel622.Controls.Add(this.panel623);
             this.panel622.Controls.Add(this.panel624);
             this.panel622.Controls.Add(this.panel625);
@@ -3972,6 +4388,32 @@ namespace VirtualChem.Forms
             this.panel622.Name = "panel622";
             this.panel622.Size = new System.Drawing.Size(55, 65);
             this.panel622.TabIndex = 37;
+            // 
+            // Magnesium_Button
+            // 
+            this.Magnesium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Magnesium_Button.FlatAppearance.BorderSize = 0;
+            this.Magnesium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Magnesium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Magnesium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Magnesium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Magnesium_Button.Name = "Magnesium_Button";
+            this.Magnesium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Magnesium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Magnesium_Button.TabIndex = 7;
+            this.Magnesium_Button.Text = "Mg";
+            this.Magnesium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Magnesium_Label
+            // 
+            this.Magnesium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Magnesium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Magnesium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Magnesium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Magnesium_Label.Name = "Magnesium_Label";
+            this.Magnesium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Magnesium_Label.TabIndex = 6;
+            this.Magnesium_Label.Text = "12";
             // 
             // panel623
             // 
@@ -4012,8 +4454,8 @@ namespace VirtualChem.Forms
             // panel627
             // 
             this.panel627.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel627.Controls.Add(this.button11);
-            this.panel627.Controls.Add(this.label11);
+            this.panel627.Controls.Add(this.Natrium_Button);
+            this.panel627.Controls.Add(this.Natrium_Label);
             this.panel627.Controls.Add(this.panel628);
             this.panel627.Controls.Add(this.panel629);
             this.panel627.Controls.Add(this.panel630);
@@ -4023,6 +4465,32 @@ namespace VirtualChem.Forms
             this.panel627.Name = "panel627";
             this.panel627.Size = new System.Drawing.Size(55, 65);
             this.panel627.TabIndex = 36;
+            // 
+            // Natrium_Button
+            // 
+            this.Natrium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Natrium_Button.FlatAppearance.BorderSize = 0;
+            this.Natrium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Natrium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Natrium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Natrium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Natrium_Button.Name = "Natrium_Button";
+            this.Natrium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Natrium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Natrium_Button.TabIndex = 7;
+            this.Natrium_Button.Text = "Na";
+            this.Natrium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Natrium_Label
+            // 
+            this.Natrium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Natrium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Natrium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Natrium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Natrium_Label.Name = "Natrium_Label";
+            this.Natrium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Natrium_Label.TabIndex = 6;
+            this.Natrium_Label.Text = "11";
             // 
             // panel628
             // 
@@ -4089,8 +4557,8 @@ namespace VirtualChem.Forms
             // panel452
             // 
             this.panel452.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel452.Controls.Add(this.button52);
-            this.panel452.Controls.Add(this.label52);
+            this.panel452.Controls.Add(this.Krypton_Button);
+            this.panel452.Controls.Add(this.Krypton_Label);
             this.panel452.Controls.Add(this.panel453);
             this.panel452.Controls.Add(this.panel454);
             this.panel452.Controls.Add(this.panel455);
@@ -4100,6 +4568,32 @@ namespace VirtualChem.Forms
             this.panel452.Name = "panel452";
             this.panel452.Size = new System.Drawing.Size(55, 65);
             this.panel452.TabIndex = 35;
+            // 
+            // Krypton_Button
+            // 
+            this.Krypton_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Krypton_Button.FlatAppearance.BorderSize = 0;
+            this.Krypton_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Krypton_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Krypton_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Krypton_Button.Location = new System.Drawing.Point(2, 17);
+            this.Krypton_Button.Name = "Krypton_Button";
+            this.Krypton_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Krypton_Button.Size = new System.Drawing.Size(51, 46);
+            this.Krypton_Button.TabIndex = 7;
+            this.Krypton_Button.Text = "Kr";
+            this.Krypton_Button.UseVisualStyleBackColor = true;
+            // 
+            // Krypton_Label
+            // 
+            this.Krypton_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Krypton_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Krypton_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Krypton_Label.Location = new System.Drawing.Point(2, 2);
+            this.Krypton_Label.Name = "Krypton_Label";
+            this.Krypton_Label.Size = new System.Drawing.Size(51, 15);
+            this.Krypton_Label.TabIndex = 6;
+            this.Krypton_Label.Text = "36";
             // 
             // panel453
             // 
@@ -4140,8 +4634,8 @@ namespace VirtualChem.Forms
             // panel457
             // 
             this.panel457.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel457.Controls.Add(this.button61);
-            this.panel457.Controls.Add(this.label61);
+            this.panel457.Controls.Add(this.Bromine_Button);
+            this.panel457.Controls.Add(this.Bromine_Label);
             this.panel457.Controls.Add(this.panel458);
             this.panel457.Controls.Add(this.panel459);
             this.panel457.Controls.Add(this.panel460);
@@ -4151,6 +4645,32 @@ namespace VirtualChem.Forms
             this.panel457.Name = "panel457";
             this.panel457.Size = new System.Drawing.Size(55, 65);
             this.panel457.TabIndex = 34;
+            // 
+            // Bromine_Button
+            // 
+            this.Bromine_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Bromine_Button.FlatAppearance.BorderSize = 0;
+            this.Bromine_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Bromine_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Bromine_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Bromine_Button.Location = new System.Drawing.Point(2, 17);
+            this.Bromine_Button.Name = "Bromine_Button";
+            this.Bromine_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Bromine_Button.Size = new System.Drawing.Size(51, 46);
+            this.Bromine_Button.TabIndex = 7;
+            this.Bromine_Button.Text = "Br";
+            this.Bromine_Button.UseVisualStyleBackColor = true;
+            // 
+            // Bromine_Label
+            // 
+            this.Bromine_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Bromine_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Bromine_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Bromine_Label.Location = new System.Drawing.Point(2, 2);
+            this.Bromine_Label.Name = "Bromine_Label";
+            this.Bromine_Label.Size = new System.Drawing.Size(51, 15);
+            this.Bromine_Label.TabIndex = 6;
+            this.Bromine_Label.Text = "35";
             // 
             // panel458
             // 
@@ -4191,8 +4711,8 @@ namespace VirtualChem.Forms
             // panel462
             // 
             this.panel462.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel462.Controls.Add(this.button62);
-            this.panel462.Controls.Add(this.label62);
+            this.panel462.Controls.Add(this.Selenium_Button);
+            this.panel462.Controls.Add(this.Selenium_Label);
             this.panel462.Controls.Add(this.panel463);
             this.panel462.Controls.Add(this.panel464);
             this.panel462.Controls.Add(this.panel465);
@@ -4202,6 +4722,32 @@ namespace VirtualChem.Forms
             this.panel462.Name = "panel462";
             this.panel462.Size = new System.Drawing.Size(55, 65);
             this.panel462.TabIndex = 33;
+            // 
+            // Selenium_Button
+            // 
+            this.Selenium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Selenium_Button.FlatAppearance.BorderSize = 0;
+            this.Selenium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Selenium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Selenium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Selenium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Selenium_Button.Name = "Selenium_Button";
+            this.Selenium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Selenium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Selenium_Button.TabIndex = 7;
+            this.Selenium_Button.Text = "Se";
+            this.Selenium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Selenium_Label
+            // 
+            this.Selenium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Selenium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Selenium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Selenium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Selenium_Label.Name = "Selenium_Label";
+            this.Selenium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Selenium_Label.TabIndex = 6;
+            this.Selenium_Label.Text = "34";
             // 
             // panel463
             // 
@@ -4242,8 +4788,8 @@ namespace VirtualChem.Forms
             // panel467
             // 
             this.panel467.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel467.Controls.Add(this.button63);
-            this.panel467.Controls.Add(this.label63);
+            this.panel467.Controls.Add(this.Arsenic_Button);
+            this.panel467.Controls.Add(this.Arsenic_Label);
             this.panel467.Controls.Add(this.panel468);
             this.panel467.Controls.Add(this.panel469);
             this.panel467.Controls.Add(this.panel470);
@@ -4253,6 +4799,32 @@ namespace VirtualChem.Forms
             this.panel467.Name = "panel467";
             this.panel467.Size = new System.Drawing.Size(55, 65);
             this.panel467.TabIndex = 32;
+            // 
+            // Arsenic_Button
+            // 
+            this.Arsenic_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Arsenic_Button.FlatAppearance.BorderSize = 0;
+            this.Arsenic_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Arsenic_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Arsenic_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Arsenic_Button.Location = new System.Drawing.Point(2, 17);
+            this.Arsenic_Button.Name = "Arsenic_Button";
+            this.Arsenic_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Arsenic_Button.Size = new System.Drawing.Size(51, 46);
+            this.Arsenic_Button.TabIndex = 7;
+            this.Arsenic_Button.Text = "As";
+            this.Arsenic_Button.UseVisualStyleBackColor = true;
+            // 
+            // Arsenic_Label
+            // 
+            this.Arsenic_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Arsenic_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Arsenic_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Arsenic_Label.Location = new System.Drawing.Point(2, 2);
+            this.Arsenic_Label.Name = "Arsenic_Label";
+            this.Arsenic_Label.Size = new System.Drawing.Size(51, 15);
+            this.Arsenic_Label.TabIndex = 6;
+            this.Arsenic_Label.Text = "33";
             // 
             // panel468
             // 
@@ -4293,8 +4865,8 @@ namespace VirtualChem.Forms
             // panel472
             // 
             this.panel472.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel472.Controls.Add(this.button64);
-            this.panel472.Controls.Add(this.label64);
+            this.panel472.Controls.Add(this.Germanium_Button);
+            this.panel472.Controls.Add(this.Germanium_Label);
             this.panel472.Controls.Add(this.panel473);
             this.panel472.Controls.Add(this.panel474);
             this.panel472.Controls.Add(this.panel475);
@@ -4304,6 +4876,32 @@ namespace VirtualChem.Forms
             this.panel472.Name = "panel472";
             this.panel472.Size = new System.Drawing.Size(55, 65);
             this.panel472.TabIndex = 31;
+            // 
+            // Germanium_Button
+            // 
+            this.Germanium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Germanium_Button.FlatAppearance.BorderSize = 0;
+            this.Germanium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Germanium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Germanium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Germanium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Germanium_Button.Name = "Germanium_Button";
+            this.Germanium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Germanium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Germanium_Button.TabIndex = 7;
+            this.Germanium_Button.Text = "Ge";
+            this.Germanium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Germanium_Label
+            // 
+            this.Germanium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Germanium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Germanium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Germanium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Germanium_Label.Name = "Germanium_Label";
+            this.Germanium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Germanium_Label.TabIndex = 6;
+            this.Germanium_Label.Text = "32";
             // 
             // panel473
             // 
@@ -4344,8 +4942,8 @@ namespace VirtualChem.Forms
             // panel477
             // 
             this.panel477.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel477.Controls.Add(this.button65);
-            this.panel477.Controls.Add(this.label65);
+            this.panel477.Controls.Add(this.Gallium_Button);
+            this.panel477.Controls.Add(this.Gallium_Label);
             this.panel477.Controls.Add(this.panel478);
             this.panel477.Controls.Add(this.panel479);
             this.panel477.Controls.Add(this.panel480);
@@ -4355,6 +4953,32 @@ namespace VirtualChem.Forms
             this.panel477.Name = "panel477";
             this.panel477.Size = new System.Drawing.Size(55, 65);
             this.panel477.TabIndex = 30;
+            // 
+            // Gallium_Button
+            // 
+            this.Gallium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Gallium_Button.FlatAppearance.BorderSize = 0;
+            this.Gallium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Gallium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Gallium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Gallium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Gallium_Button.Name = "Gallium_Button";
+            this.Gallium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Gallium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Gallium_Button.TabIndex = 7;
+            this.Gallium_Button.Text = "Ga";
+            this.Gallium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Gallium_Label
+            // 
+            this.Gallium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Gallium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Gallium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Gallium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Gallium_Label.Name = "Gallium_Label";
+            this.Gallium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Gallium_Label.TabIndex = 6;
+            this.Gallium_Label.Text = "31";
             // 
             // panel478
             // 
@@ -4395,8 +5019,8 @@ namespace VirtualChem.Forms
             // panel482
             // 
             this.panel482.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel482.Controls.Add(this.button81);
-            this.panel482.Controls.Add(this.label81);
+            this.panel482.Controls.Add(this.Zinc_Button);
+            this.panel482.Controls.Add(this.Zinc_Label);
             this.panel482.Controls.Add(this.panel483);
             this.panel482.Controls.Add(this.panel484);
             this.panel482.Controls.Add(this.panel485);
@@ -4406,6 +5030,32 @@ namespace VirtualChem.Forms
             this.panel482.Name = "panel482";
             this.panel482.Size = new System.Drawing.Size(55, 65);
             this.panel482.TabIndex = 29;
+            // 
+            // Zinc_Button
+            // 
+            this.Zinc_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Zinc_Button.FlatAppearance.BorderSize = 0;
+            this.Zinc_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Zinc_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Zinc_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Zinc_Button.Location = new System.Drawing.Point(2, 17);
+            this.Zinc_Button.Name = "Zinc_Button";
+            this.Zinc_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Zinc_Button.Size = new System.Drawing.Size(51, 46);
+            this.Zinc_Button.TabIndex = 7;
+            this.Zinc_Button.Text = "Zn";
+            this.Zinc_Button.UseVisualStyleBackColor = true;
+            // 
+            // Zinc_Label
+            // 
+            this.Zinc_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Zinc_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Zinc_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Zinc_Label.Location = new System.Drawing.Point(2, 2);
+            this.Zinc_Label.Name = "Zinc_Label";
+            this.Zinc_Label.Size = new System.Drawing.Size(51, 15);
+            this.Zinc_Label.TabIndex = 6;
+            this.Zinc_Label.Text = "30";
             // 
             // panel483
             // 
@@ -4446,8 +5096,8 @@ namespace VirtualChem.Forms
             // panel487
             // 
             this.panel487.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel487.Controls.Add(this.button82);
-            this.panel487.Controls.Add(this.label82);
+            this.panel487.Controls.Add(this.Copper_Button);
+            this.panel487.Controls.Add(this.Copper_Label);
             this.panel487.Controls.Add(this.panel488);
             this.panel487.Controls.Add(this.panel489);
             this.panel487.Controls.Add(this.panel490);
@@ -4457,6 +5107,32 @@ namespace VirtualChem.Forms
             this.panel487.Name = "panel487";
             this.panel487.Size = new System.Drawing.Size(55, 65);
             this.panel487.TabIndex = 28;
+            // 
+            // Copper_Button
+            // 
+            this.Copper_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Copper_Button.FlatAppearance.BorderSize = 0;
+            this.Copper_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Copper_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Copper_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Copper_Button.Location = new System.Drawing.Point(2, 17);
+            this.Copper_Button.Name = "Copper_Button";
+            this.Copper_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Copper_Button.Size = new System.Drawing.Size(51, 46);
+            this.Copper_Button.TabIndex = 7;
+            this.Copper_Button.Text = "Cu";
+            this.Copper_Button.UseVisualStyleBackColor = true;
+            // 
+            // Copper_Label
+            // 
+            this.Copper_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Copper_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Copper_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Copper_Label.Location = new System.Drawing.Point(2, 2);
+            this.Copper_Label.Name = "Copper_Label";
+            this.Copper_Label.Size = new System.Drawing.Size(51, 15);
+            this.Copper_Label.TabIndex = 6;
+            this.Copper_Label.Text = "29";
             // 
             // panel488
             // 
@@ -4497,8 +5173,8 @@ namespace VirtualChem.Forms
             // panel492
             // 
             this.panel492.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel492.Controls.Add(this.button83);
-            this.panel492.Controls.Add(this.label83);
+            this.panel492.Controls.Add(this.Nickel_Button);
+            this.panel492.Controls.Add(this.Nickel_Label);
             this.panel492.Controls.Add(this.panel493);
             this.panel492.Controls.Add(this.panel494);
             this.panel492.Controls.Add(this.panel495);
@@ -4508,6 +5184,32 @@ namespace VirtualChem.Forms
             this.panel492.Name = "panel492";
             this.panel492.Size = new System.Drawing.Size(55, 65);
             this.panel492.TabIndex = 27;
+            // 
+            // Nickel_Button
+            // 
+            this.Nickel_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Nickel_Button.FlatAppearance.BorderSize = 0;
+            this.Nickel_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Nickel_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Nickel_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Nickel_Button.Location = new System.Drawing.Point(2, 17);
+            this.Nickel_Button.Name = "Nickel_Button";
+            this.Nickel_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Nickel_Button.Size = new System.Drawing.Size(51, 46);
+            this.Nickel_Button.TabIndex = 7;
+            this.Nickel_Button.Text = "Ni";
+            this.Nickel_Button.UseVisualStyleBackColor = true;
+            // 
+            // Nickel_Label
+            // 
+            this.Nickel_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Nickel_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Nickel_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Nickel_Label.Location = new System.Drawing.Point(2, 2);
+            this.Nickel_Label.Name = "Nickel_Label";
+            this.Nickel_Label.Size = new System.Drawing.Size(51, 15);
+            this.Nickel_Label.TabIndex = 6;
+            this.Nickel_Label.Text = "28";
             // 
             // panel493
             // 
@@ -4548,8 +5250,8 @@ namespace VirtualChem.Forms
             // panel497
             // 
             this.panel497.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel497.Controls.Add(this.button84);
-            this.panel497.Controls.Add(this.label84);
+            this.panel497.Controls.Add(this.Cobalt_Button);
+            this.panel497.Controls.Add(this.Cobalt_Label);
             this.panel497.Controls.Add(this.panel498);
             this.panel497.Controls.Add(this.panel499);
             this.panel497.Controls.Add(this.panel500);
@@ -4559,6 +5261,32 @@ namespace VirtualChem.Forms
             this.panel497.Name = "panel497";
             this.panel497.Size = new System.Drawing.Size(55, 65);
             this.panel497.TabIndex = 26;
+            // 
+            // Cobalt_Button
+            // 
+            this.Cobalt_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Cobalt_Button.FlatAppearance.BorderSize = 0;
+            this.Cobalt_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Cobalt_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Cobalt_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Cobalt_Button.Location = new System.Drawing.Point(2, 17);
+            this.Cobalt_Button.Name = "Cobalt_Button";
+            this.Cobalt_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Cobalt_Button.Size = new System.Drawing.Size(51, 46);
+            this.Cobalt_Button.TabIndex = 7;
+            this.Cobalt_Button.Text = "Co";
+            this.Cobalt_Button.UseVisualStyleBackColor = true;
+            // 
+            // Cobalt_Label
+            // 
+            this.Cobalt_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Cobalt_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Cobalt_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Cobalt_Label.Location = new System.Drawing.Point(2, 2);
+            this.Cobalt_Label.Name = "Cobalt_Label";
+            this.Cobalt_Label.Size = new System.Drawing.Size(51, 15);
+            this.Cobalt_Label.TabIndex = 6;
+            this.Cobalt_Label.Text = "27";
             // 
             // panel498
             // 
@@ -4599,8 +5327,8 @@ namespace VirtualChem.Forms
             // panel502
             // 
             this.panel502.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel502.Controls.Add(this.button85);
-            this.panel502.Controls.Add(this.label85);
+            this.panel502.Controls.Add(this.Iron_Button);
+            this.panel502.Controls.Add(this.Iron_Label);
             this.panel502.Controls.Add(this.panel503);
             this.panel502.Controls.Add(this.panel504);
             this.panel502.Controls.Add(this.panel505);
@@ -4610,6 +5338,32 @@ namespace VirtualChem.Forms
             this.panel502.Name = "panel502";
             this.panel502.Size = new System.Drawing.Size(55, 65);
             this.panel502.TabIndex = 25;
+            // 
+            // Iron_Button
+            // 
+            this.Iron_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Iron_Button.FlatAppearance.BorderSize = 0;
+            this.Iron_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Iron_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Iron_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Iron_Button.Location = new System.Drawing.Point(2, 17);
+            this.Iron_Button.Name = "Iron_Button";
+            this.Iron_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Iron_Button.Size = new System.Drawing.Size(51, 46);
+            this.Iron_Button.TabIndex = 7;
+            this.Iron_Button.Text = "Fe";
+            this.Iron_Button.UseVisualStyleBackColor = true;
+            // 
+            // Iron_Label
+            // 
+            this.Iron_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Iron_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Iron_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Iron_Label.Location = new System.Drawing.Point(2, 2);
+            this.Iron_Label.Name = "Iron_Label";
+            this.Iron_Label.Size = new System.Drawing.Size(51, 15);
+            this.Iron_Label.TabIndex = 6;
+            this.Iron_Label.Text = "26";
             // 
             // panel503
             // 
@@ -4650,8 +5404,8 @@ namespace VirtualChem.Forms
             // panel507
             // 
             this.panel507.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel507.Controls.Add(this.button86);
-            this.panel507.Controls.Add(this.label86);
+            this.panel507.Controls.Add(this.Manganese_Button);
+            this.panel507.Controls.Add(this.Manganese_Label);
             this.panel507.Controls.Add(this.panel508);
             this.panel507.Controls.Add(this.panel509);
             this.panel507.Controls.Add(this.panel510);
@@ -4661,6 +5415,32 @@ namespace VirtualChem.Forms
             this.panel507.Name = "panel507";
             this.panel507.Size = new System.Drawing.Size(55, 65);
             this.panel507.TabIndex = 24;
+            // 
+            // Manganese_Button
+            // 
+            this.Manganese_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Manganese_Button.FlatAppearance.BorderSize = 0;
+            this.Manganese_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Manganese_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Manganese_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Manganese_Button.Location = new System.Drawing.Point(2, 17);
+            this.Manganese_Button.Name = "Manganese_Button";
+            this.Manganese_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Manganese_Button.Size = new System.Drawing.Size(51, 46);
+            this.Manganese_Button.TabIndex = 7;
+            this.Manganese_Button.Text = "Mn";
+            this.Manganese_Button.UseVisualStyleBackColor = true;
+            // 
+            // Manganese_Label
+            // 
+            this.Manganese_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Manganese_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Manganese_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Manganese_Label.Location = new System.Drawing.Point(2, 2);
+            this.Manganese_Label.Name = "Manganese_Label";
+            this.Manganese_Label.Size = new System.Drawing.Size(51, 15);
+            this.Manganese_Label.TabIndex = 6;
+            this.Manganese_Label.Text = "25";
             // 
             // panel508
             // 
@@ -4701,8 +5481,8 @@ namespace VirtualChem.Forms
             // panel512
             // 
             this.panel512.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel512.Controls.Add(this.button87);
-            this.panel512.Controls.Add(this.label87);
+            this.panel512.Controls.Add(this.Chromium_Button);
+            this.panel512.Controls.Add(this.Chromium_Label);
             this.panel512.Controls.Add(this.panel513);
             this.panel512.Controls.Add(this.panel514);
             this.panel512.Controls.Add(this.panel515);
@@ -4712,6 +5492,32 @@ namespace VirtualChem.Forms
             this.panel512.Name = "panel512";
             this.panel512.Size = new System.Drawing.Size(55, 65);
             this.panel512.TabIndex = 23;
+            // 
+            // Chromium_Button
+            // 
+            this.Chromium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Chromium_Button.FlatAppearance.BorderSize = 0;
+            this.Chromium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Chromium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Chromium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Chromium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Chromium_Button.Name = "Chromium_Button";
+            this.Chromium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Chromium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Chromium_Button.TabIndex = 7;
+            this.Chromium_Button.Text = "Cr";
+            this.Chromium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Chromium_Label
+            // 
+            this.Chromium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Chromium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Chromium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Chromium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Chromium_Label.Name = "Chromium_Label";
+            this.Chromium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Chromium_Label.TabIndex = 6;
+            this.Chromium_Label.Text = "24";
             // 
             // panel513
             // 
@@ -4752,8 +5558,8 @@ namespace VirtualChem.Forms
             // panel517
             // 
             this.panel517.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel517.Controls.Add(this.button88);
-            this.panel517.Controls.Add(this.label88);
+            this.panel517.Controls.Add(this.Vanadium_Button);
+            this.panel517.Controls.Add(this.Vanadium_Label);
             this.panel517.Controls.Add(this.panel518);
             this.panel517.Controls.Add(this.panel519);
             this.panel517.Controls.Add(this.panel520);
@@ -4763,6 +5569,32 @@ namespace VirtualChem.Forms
             this.panel517.Name = "panel517";
             this.panel517.Size = new System.Drawing.Size(55, 65);
             this.panel517.TabIndex = 22;
+            // 
+            // Vanadium_Button
+            // 
+            this.Vanadium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Vanadium_Button.FlatAppearance.BorderSize = 0;
+            this.Vanadium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Vanadium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Vanadium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Vanadium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Vanadium_Button.Name = "Vanadium_Button";
+            this.Vanadium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Vanadium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Vanadium_Button.TabIndex = 7;
+            this.Vanadium_Button.Text = "V";
+            this.Vanadium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Vanadium_Label
+            // 
+            this.Vanadium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Vanadium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Vanadium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Vanadium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Vanadium_Label.Name = "Vanadium_Label";
+            this.Vanadium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Vanadium_Label.TabIndex = 6;
+            this.Vanadium_Label.Text = "23";
             // 
             // panel518
             // 
@@ -4803,8 +5635,8 @@ namespace VirtualChem.Forms
             // panel522
             // 
             this.panel522.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel522.Controls.Add(this.button89);
-            this.panel522.Controls.Add(this.label89);
+            this.panel522.Controls.Add(this.Titanium_Button);
+            this.panel522.Controls.Add(this.Titanium_Label);
             this.panel522.Controls.Add(this.panel523);
             this.panel522.Controls.Add(this.panel524);
             this.panel522.Controls.Add(this.panel525);
@@ -4814,6 +5646,32 @@ namespace VirtualChem.Forms
             this.panel522.Name = "panel522";
             this.panel522.Size = new System.Drawing.Size(55, 65);
             this.panel522.TabIndex = 21;
+            // 
+            // Titanium_Button
+            // 
+            this.Titanium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Titanium_Button.FlatAppearance.BorderSize = 0;
+            this.Titanium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Titanium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Titanium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Titanium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Titanium_Button.Name = "Titanium_Button";
+            this.Titanium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Titanium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Titanium_Button.TabIndex = 7;
+            this.Titanium_Button.Text = "Ti";
+            this.Titanium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Titanium_Label
+            // 
+            this.Titanium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Titanium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Titanium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Titanium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Titanium_Label.Name = "Titanium_Label";
+            this.Titanium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Titanium_Label.TabIndex = 6;
+            this.Titanium_Label.Text = "22";
             // 
             // panel523
             // 
@@ -4854,8 +5712,8 @@ namespace VirtualChem.Forms
             // panel527
             // 
             this.panel527.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel527.Controls.Add(this.button90);
-            this.panel527.Controls.Add(this.label90);
+            this.panel527.Controls.Add(this.Scandium_Button);
+            this.panel527.Controls.Add(this.Scandium_Label);
             this.panel527.Controls.Add(this.panel528);
             this.panel527.Controls.Add(this.panel529);
             this.panel527.Controls.Add(this.panel530);
@@ -4865,6 +5723,32 @@ namespace VirtualChem.Forms
             this.panel527.Name = "panel527";
             this.panel527.Size = new System.Drawing.Size(55, 65);
             this.panel527.TabIndex = 20;
+            // 
+            // Scandium_Button
+            // 
+            this.Scandium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Scandium_Button.FlatAppearance.BorderSize = 0;
+            this.Scandium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Scandium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Scandium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Scandium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Scandium_Button.Name = "Scandium_Button";
+            this.Scandium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Scandium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Scandium_Button.TabIndex = 7;
+            this.Scandium_Button.Text = "Sc";
+            this.Scandium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Scandium_Label
+            // 
+            this.Scandium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Scandium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Scandium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Scandium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Scandium_Label.Name = "Scandium_Label";
+            this.Scandium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Scandium_Label.TabIndex = 6;
+            this.Scandium_Label.Text = "21";
             // 
             // panel528
             // 
@@ -4905,8 +5789,8 @@ namespace VirtualChem.Forms
             // panel532
             // 
             this.panel532.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel532.Controls.Add(this.button13);
-            this.panel532.Controls.Add(this.label13);
+            this.panel532.Controls.Add(this.Calcium_Button);
+            this.panel532.Controls.Add(this.Calcium_Label);
             this.panel532.Controls.Add(this.panel533);
             this.panel532.Controls.Add(this.panel534);
             this.panel532.Controls.Add(this.panel535);
@@ -4916,6 +5800,32 @@ namespace VirtualChem.Forms
             this.panel532.Name = "panel532";
             this.panel532.Size = new System.Drawing.Size(55, 65);
             this.panel532.TabIndex = 19;
+            // 
+            // Calcium_Button
+            // 
+            this.Calcium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Calcium_Button.FlatAppearance.BorderSize = 0;
+            this.Calcium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Calcium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Calcium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Calcium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Calcium_Button.Name = "Calcium_Button";
+            this.Calcium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Calcium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Calcium_Button.TabIndex = 7;
+            this.Calcium_Button.Text = "Ca";
+            this.Calcium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Calcium_Label
+            // 
+            this.Calcium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Calcium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Calcium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Calcium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Calcium_Label.Name = "Calcium_Label";
+            this.Calcium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Calcium_Label.TabIndex = 6;
+            this.Calcium_Label.Text = "20";
             // 
             // panel533
             // 
@@ -4956,8 +5866,8 @@ namespace VirtualChem.Forms
             // panel537
             // 
             this.panel537.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel537.Controls.Add(this.button14);
-            this.panel537.Controls.Add(this.label14);
+            this.panel537.Controls.Add(this.Potassium_Button);
+            this.panel537.Controls.Add(this.Potassium_Label);
             this.panel537.Controls.Add(this.panel538);
             this.panel537.Controls.Add(this.panel539);
             this.panel537.Controls.Add(this.panel540);
@@ -4967,6 +5877,32 @@ namespace VirtualChem.Forms
             this.panel537.Name = "panel537";
             this.panel537.Size = new System.Drawing.Size(55, 65);
             this.panel537.TabIndex = 18;
+            // 
+            // Potassium_Button
+            // 
+            this.Potassium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Potassium_Button.FlatAppearance.BorderSize = 0;
+            this.Potassium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Potassium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Potassium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Potassium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Potassium_Button.Name = "Potassium_Button";
+            this.Potassium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Potassium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Potassium_Button.TabIndex = 7;
+            this.Potassium_Button.Text = "K";
+            this.Potassium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Potassium_Label
+            // 
+            this.Potassium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Potassium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Potassium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Potassium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Potassium_Label.Name = "Potassium_Label";
+            this.Potassium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Potassium_Label.TabIndex = 6;
+            this.Potassium_Label.Text = "19";
             // 
             // panel538
             // 
@@ -5033,8 +5969,8 @@ namespace VirtualChem.Forms
             // panel362
             // 
             this.panel362.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel362.Controls.Add(this.button53);
-            this.panel362.Controls.Add(this.label53);
+            this.panel362.Controls.Add(this.Xenon_Button);
+            this.panel362.Controls.Add(this.Xenon_Label);
             this.panel362.Controls.Add(this.panel363);
             this.panel362.Controls.Add(this.panel364);
             this.panel362.Controls.Add(this.panel365);
@@ -5044,6 +5980,32 @@ namespace VirtualChem.Forms
             this.panel362.Name = "panel362";
             this.panel362.Size = new System.Drawing.Size(55, 65);
             this.panel362.TabIndex = 35;
+            // 
+            // Xenon_Button
+            // 
+            this.Xenon_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Xenon_Button.FlatAppearance.BorderSize = 0;
+            this.Xenon_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Xenon_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Xenon_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Xenon_Button.Location = new System.Drawing.Point(2, 17);
+            this.Xenon_Button.Name = "Xenon_Button";
+            this.Xenon_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Xenon_Button.Size = new System.Drawing.Size(51, 46);
+            this.Xenon_Button.TabIndex = 7;
+            this.Xenon_Button.Text = "Xe";
+            this.Xenon_Button.UseVisualStyleBackColor = true;
+            // 
+            // Xenon_Label
+            // 
+            this.Xenon_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Xenon_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Xenon_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Xenon_Label.Location = new System.Drawing.Point(2, 2);
+            this.Xenon_Label.Name = "Xenon_Label";
+            this.Xenon_Label.Size = new System.Drawing.Size(51, 15);
+            this.Xenon_Label.TabIndex = 6;
+            this.Xenon_Label.Text = "54";
             // 
             // panel363
             // 
@@ -5084,8 +6046,8 @@ namespace VirtualChem.Forms
             // panel367
             // 
             this.panel367.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel367.Controls.Add(this.button77);
-            this.panel367.Controls.Add(this.label77);
+            this.panel367.Controls.Add(this.Iodine_Button);
+            this.panel367.Controls.Add(this.Iodine_Label);
             this.panel367.Controls.Add(this.panel368);
             this.panel367.Controls.Add(this.panel369);
             this.panel367.Controls.Add(this.panel370);
@@ -5095,6 +6057,32 @@ namespace VirtualChem.Forms
             this.panel367.Name = "panel367";
             this.panel367.Size = new System.Drawing.Size(55, 65);
             this.panel367.TabIndex = 34;
+            // 
+            // Iodine_Button
+            // 
+            this.Iodine_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Iodine_Button.FlatAppearance.BorderSize = 0;
+            this.Iodine_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Iodine_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Iodine_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Iodine_Button.Location = new System.Drawing.Point(2, 17);
+            this.Iodine_Button.Name = "Iodine_Button";
+            this.Iodine_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Iodine_Button.Size = new System.Drawing.Size(51, 46);
+            this.Iodine_Button.TabIndex = 7;
+            this.Iodine_Button.Text = "I";
+            this.Iodine_Button.UseVisualStyleBackColor = true;
+            // 
+            // Iodine_Label
+            // 
+            this.Iodine_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Iodine_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Iodine_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Iodine_Label.Location = new System.Drawing.Point(2, 2);
+            this.Iodine_Label.Name = "Iodine_Label";
+            this.Iodine_Label.Size = new System.Drawing.Size(51, 15);
+            this.Iodine_Label.TabIndex = 6;
+            this.Iodine_Label.Text = "53";
             // 
             // panel368
             // 
@@ -5135,8 +6123,8 @@ namespace VirtualChem.Forms
             // panel372
             // 
             this.panel372.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel372.Controls.Add(this.button75);
-            this.panel372.Controls.Add(this.label75);
+            this.panel372.Controls.Add(this.Tellurium_Button);
+            this.panel372.Controls.Add(this.Tellurium_Label);
             this.panel372.Controls.Add(this.panel373);
             this.panel372.Controls.Add(this.panel374);
             this.panel372.Controls.Add(this.panel375);
@@ -5146,6 +6134,32 @@ namespace VirtualChem.Forms
             this.panel372.Name = "panel372";
             this.panel372.Size = new System.Drawing.Size(55, 65);
             this.panel372.TabIndex = 33;
+            // 
+            // Tellurium_Button
+            // 
+            this.Tellurium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Tellurium_Button.FlatAppearance.BorderSize = 0;
+            this.Tellurium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Tellurium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Tellurium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Tellurium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Tellurium_Button.Name = "Tellurium_Button";
+            this.Tellurium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Tellurium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Tellurium_Button.TabIndex = 7;
+            this.Tellurium_Button.Text = "Te";
+            this.Tellurium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Tellurium_Label
+            // 
+            this.Tellurium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Tellurium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Tellurium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Tellurium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Tellurium_Label.Name = "Tellurium_Label";
+            this.Tellurium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Tellurium_Label.TabIndex = 6;
+            this.Tellurium_Label.Text = "52";
             // 
             // panel373
             // 
@@ -5186,8 +6200,8 @@ namespace VirtualChem.Forms
             // panel377
             // 
             this.panel377.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel377.Controls.Add(this.button74);
-            this.panel377.Controls.Add(this.label74);
+            this.panel377.Controls.Add(this.Antimony_Button);
+            this.panel377.Controls.Add(this.Antimony_Label);
             this.panel377.Controls.Add(this.panel378);
             this.panel377.Controls.Add(this.panel379);
             this.panel377.Controls.Add(this.panel380);
@@ -5197,6 +6211,32 @@ namespace VirtualChem.Forms
             this.panel377.Name = "panel377";
             this.panel377.Size = new System.Drawing.Size(55, 65);
             this.panel377.TabIndex = 32;
+            // 
+            // Antimony_Button
+            // 
+            this.Antimony_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Antimony_Button.FlatAppearance.BorderSize = 0;
+            this.Antimony_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Antimony_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Antimony_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Antimony_Button.Location = new System.Drawing.Point(2, 17);
+            this.Antimony_Button.Name = "Antimony_Button";
+            this.Antimony_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Antimony_Button.Size = new System.Drawing.Size(51, 46);
+            this.Antimony_Button.TabIndex = 7;
+            this.Antimony_Button.Text = "Sb";
+            this.Antimony_Button.UseVisualStyleBackColor = true;
+            // 
+            // Antimony_Label
+            // 
+            this.Antimony_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Antimony_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Antimony_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Antimony_Label.Location = new System.Drawing.Point(2, 2);
+            this.Antimony_Label.Name = "Antimony_Label";
+            this.Antimony_Label.Size = new System.Drawing.Size(51, 15);
+            this.Antimony_Label.TabIndex = 6;
+            this.Antimony_Label.Text = "51";
             // 
             // panel378
             // 
@@ -5237,8 +6277,8 @@ namespace VirtualChem.Forms
             // panel382
             // 
             this.panel382.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel382.Controls.Add(this.button67);
-            this.panel382.Controls.Add(this.label67);
+            this.panel382.Controls.Add(this.Tin_Button);
+            this.panel382.Controls.Add(this.Tin_Label);
             this.panel382.Controls.Add(this.panel383);
             this.panel382.Controls.Add(this.panel384);
             this.panel382.Controls.Add(this.panel385);
@@ -5248,6 +6288,32 @@ namespace VirtualChem.Forms
             this.panel382.Name = "panel382";
             this.panel382.Size = new System.Drawing.Size(55, 65);
             this.panel382.TabIndex = 31;
+            // 
+            // Tin_Button
+            // 
+            this.Tin_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Tin_Button.FlatAppearance.BorderSize = 0;
+            this.Tin_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Tin_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Tin_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Tin_Button.Location = new System.Drawing.Point(2, 17);
+            this.Tin_Button.Name = "Tin_Button";
+            this.Tin_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Tin_Button.Size = new System.Drawing.Size(51, 46);
+            this.Tin_Button.TabIndex = 7;
+            this.Tin_Button.Text = "Sn";
+            this.Tin_Button.UseVisualStyleBackColor = true;
+            // 
+            // Tin_Label
+            // 
+            this.Tin_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Tin_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Tin_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Tin_Label.Location = new System.Drawing.Point(2, 2);
+            this.Tin_Label.Name = "Tin_Label";
+            this.Tin_Label.Size = new System.Drawing.Size(51, 15);
+            this.Tin_Label.TabIndex = 6;
+            this.Tin_Label.Text = "50";
             // 
             // panel383
             // 
@@ -5288,8 +6354,8 @@ namespace VirtualChem.Forms
             // panel387
             // 
             this.panel387.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel387.Controls.Add(this.button66);
-            this.panel387.Controls.Add(this.label66);
+            this.panel387.Controls.Add(this.Indium_Button);
+            this.panel387.Controls.Add(this.Indium_Label);
             this.panel387.Controls.Add(this.panel388);
             this.panel387.Controls.Add(this.panel389);
             this.panel387.Controls.Add(this.panel390);
@@ -5299,6 +6365,32 @@ namespace VirtualChem.Forms
             this.panel387.Name = "panel387";
             this.panel387.Size = new System.Drawing.Size(55, 65);
             this.panel387.TabIndex = 30;
+            // 
+            // Indium_Button
+            // 
+            this.Indium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Indium_Button.FlatAppearance.BorderSize = 0;
+            this.Indium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Indium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Indium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Indium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Indium_Button.Name = "Indium_Button";
+            this.Indium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Indium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Indium_Button.TabIndex = 7;
+            this.Indium_Button.Text = "In";
+            this.Indium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Indium_Label
+            // 
+            this.Indium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Indium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Indium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Indium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Indium_Label.Name = "Indium_Label";
+            this.Indium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Indium_Label.TabIndex = 6;
+            this.Indium_Label.Text = "49";
             // 
             // panel388
             // 
@@ -5339,8 +6431,8 @@ namespace VirtualChem.Forms
             // panel392
             // 
             this.panel392.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel392.Controls.Add(this.button100);
-            this.panel392.Controls.Add(this.label100);
+            this.panel392.Controls.Add(this.Cadmium_Button);
+            this.panel392.Controls.Add(this.Cadmium_Label);
             this.panel392.Controls.Add(this.panel393);
             this.panel392.Controls.Add(this.panel394);
             this.panel392.Controls.Add(this.panel395);
@@ -5350,6 +6442,32 @@ namespace VirtualChem.Forms
             this.panel392.Name = "panel392";
             this.panel392.Size = new System.Drawing.Size(55, 65);
             this.panel392.TabIndex = 29;
+            // 
+            // Cadmium_Button
+            // 
+            this.Cadmium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Cadmium_Button.FlatAppearance.BorderSize = 0;
+            this.Cadmium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Cadmium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Cadmium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Cadmium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Cadmium_Button.Name = "Cadmium_Button";
+            this.Cadmium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Cadmium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Cadmium_Button.TabIndex = 7;
+            this.Cadmium_Button.Text = "Cd";
+            this.Cadmium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Cadmium_Label
+            // 
+            this.Cadmium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Cadmium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Cadmium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Cadmium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Cadmium_Label.Name = "Cadmium_Label";
+            this.Cadmium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Cadmium_Label.TabIndex = 6;
+            this.Cadmium_Label.Text = "48";
             // 
             // panel393
             // 
@@ -5390,8 +6508,8 @@ namespace VirtualChem.Forms
             // panel397
             // 
             this.panel397.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel397.Controls.Add(this.button99);
-            this.panel397.Controls.Add(this.label99);
+            this.panel397.Controls.Add(this.Silver_Button);
+            this.panel397.Controls.Add(this.Silver_Label);
             this.panel397.Controls.Add(this.panel398);
             this.panel397.Controls.Add(this.panel399);
             this.panel397.Controls.Add(this.panel400);
@@ -5401,6 +6519,32 @@ namespace VirtualChem.Forms
             this.panel397.Name = "panel397";
             this.panel397.Size = new System.Drawing.Size(55, 65);
             this.panel397.TabIndex = 28;
+            // 
+            // Silver_Button
+            // 
+            this.Silver_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Silver_Button.FlatAppearance.BorderSize = 0;
+            this.Silver_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Silver_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Silver_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Silver_Button.Location = new System.Drawing.Point(2, 17);
+            this.Silver_Button.Name = "Silver_Button";
+            this.Silver_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Silver_Button.Size = new System.Drawing.Size(51, 46);
+            this.Silver_Button.TabIndex = 7;
+            this.Silver_Button.Text = "Ag";
+            this.Silver_Button.UseVisualStyleBackColor = true;
+            // 
+            // Silver_Label
+            // 
+            this.Silver_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Silver_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Silver_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Silver_Label.Location = new System.Drawing.Point(2, 2);
+            this.Silver_Label.Name = "Silver_Label";
+            this.Silver_Label.Size = new System.Drawing.Size(51, 15);
+            this.Silver_Label.TabIndex = 6;
+            this.Silver_Label.Text = "47";
             // 
             // panel398
             // 
@@ -5441,8 +6585,8 @@ namespace VirtualChem.Forms
             // panel402
             // 
             this.panel402.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel402.Controls.Add(this.button98);
-            this.panel402.Controls.Add(this.label98);
+            this.panel402.Controls.Add(this.Palladium_Button);
+            this.panel402.Controls.Add(this.Palladium_Label);
             this.panel402.Controls.Add(this.panel403);
             this.panel402.Controls.Add(this.panel404);
             this.panel402.Controls.Add(this.panel405);
@@ -5452,6 +6596,32 @@ namespace VirtualChem.Forms
             this.panel402.Name = "panel402";
             this.panel402.Size = new System.Drawing.Size(55, 65);
             this.panel402.TabIndex = 27;
+            // 
+            // Palladium_Button
+            // 
+            this.Palladium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Palladium_Button.FlatAppearance.BorderSize = 0;
+            this.Palladium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Palladium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Palladium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Palladium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Palladium_Button.Name = "Palladium_Button";
+            this.Palladium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Palladium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Palladium_Button.TabIndex = 7;
+            this.Palladium_Button.Text = "Pd";
+            this.Palladium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Palladium_Label
+            // 
+            this.Palladium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Palladium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Palladium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Palladium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Palladium_Label.Name = "Palladium_Label";
+            this.Palladium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Palladium_Label.TabIndex = 6;
+            this.Palladium_Label.Text = "46";
             // 
             // panel403
             // 
@@ -5492,8 +6662,8 @@ namespace VirtualChem.Forms
             // panel407
             // 
             this.panel407.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel407.Controls.Add(this.button97);
-            this.panel407.Controls.Add(this.label97);
+            this.panel407.Controls.Add(this.Rhodium_Button);
+            this.panel407.Controls.Add(this.Rhodium_Label);
             this.panel407.Controls.Add(this.panel408);
             this.panel407.Controls.Add(this.panel409);
             this.panel407.Controls.Add(this.panel410);
@@ -5503,6 +6673,32 @@ namespace VirtualChem.Forms
             this.panel407.Name = "panel407";
             this.panel407.Size = new System.Drawing.Size(55, 65);
             this.panel407.TabIndex = 26;
+            // 
+            // Rhodium_Button
+            // 
+            this.Rhodium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Rhodium_Button.FlatAppearance.BorderSize = 0;
+            this.Rhodium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Rhodium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Rhodium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Rhodium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Rhodium_Button.Name = "Rhodium_Button";
+            this.Rhodium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Rhodium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Rhodium_Button.TabIndex = 7;
+            this.Rhodium_Button.Text = "Rh";
+            this.Rhodium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Rhodium_Label
+            // 
+            this.Rhodium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Rhodium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Rhodium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Rhodium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Rhodium_Label.Name = "Rhodium_Label";
+            this.Rhodium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Rhodium_Label.TabIndex = 6;
+            this.Rhodium_Label.Text = "45";
             // 
             // panel408
             // 
@@ -5543,8 +6739,8 @@ namespace VirtualChem.Forms
             // panel412
             // 
             this.panel412.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel412.Controls.Add(this.button96);
-            this.panel412.Controls.Add(this.label96);
+            this.panel412.Controls.Add(this.Ruthenium_Button);
+            this.panel412.Controls.Add(this.Ruthenium_Label);
             this.panel412.Controls.Add(this.panel413);
             this.panel412.Controls.Add(this.panel414);
             this.panel412.Controls.Add(this.panel415);
@@ -5554,6 +6750,32 @@ namespace VirtualChem.Forms
             this.panel412.Name = "panel412";
             this.panel412.Size = new System.Drawing.Size(55, 65);
             this.panel412.TabIndex = 25;
+            // 
+            // Ruthenium_Button
+            // 
+            this.Ruthenium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Ruthenium_Button.FlatAppearance.BorderSize = 0;
+            this.Ruthenium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Ruthenium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Ruthenium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Ruthenium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Ruthenium_Button.Name = "Ruthenium_Button";
+            this.Ruthenium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Ruthenium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Ruthenium_Button.TabIndex = 7;
+            this.Ruthenium_Button.Text = "Ru";
+            this.Ruthenium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Ruthenium_Label
+            // 
+            this.Ruthenium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Ruthenium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Ruthenium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Ruthenium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Ruthenium_Label.Name = "Ruthenium_Label";
+            this.Ruthenium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Ruthenium_Label.TabIndex = 6;
+            this.Ruthenium_Label.Text = "44";
             // 
             // panel413
             // 
@@ -5594,8 +6816,8 @@ namespace VirtualChem.Forms
             // panel417
             // 
             this.panel417.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel417.Controls.Add(this.button95);
-            this.panel417.Controls.Add(this.label95);
+            this.panel417.Controls.Add(this.Technetium_Button);
+            this.panel417.Controls.Add(this.Technetium_Label);
             this.panel417.Controls.Add(this.panel418);
             this.panel417.Controls.Add(this.panel419);
             this.panel417.Controls.Add(this.panel420);
@@ -5605,6 +6827,32 @@ namespace VirtualChem.Forms
             this.panel417.Name = "panel417";
             this.panel417.Size = new System.Drawing.Size(55, 65);
             this.panel417.TabIndex = 24;
+            // 
+            // Technetium_Button
+            // 
+            this.Technetium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Technetium_Button.FlatAppearance.BorderSize = 0;
+            this.Technetium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Technetium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Technetium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Technetium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Technetium_Button.Name = "Technetium_Button";
+            this.Technetium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Technetium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Technetium_Button.TabIndex = 7;
+            this.Technetium_Button.Text = "Tc";
+            this.Technetium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Technetium_Label
+            // 
+            this.Technetium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Technetium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Technetium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Technetium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Technetium_Label.Name = "Technetium_Label";
+            this.Technetium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Technetium_Label.TabIndex = 6;
+            this.Technetium_Label.Text = "43";
             // 
             // panel418
             // 
@@ -5645,8 +6893,8 @@ namespace VirtualChem.Forms
             // panel422
             // 
             this.panel422.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel422.Controls.Add(this.button94);
-            this.panel422.Controls.Add(this.label94);
+            this.panel422.Controls.Add(this.Molybdenum_Button);
+            this.panel422.Controls.Add(this.Molybdenum_Label);
             this.panel422.Controls.Add(this.panel423);
             this.panel422.Controls.Add(this.panel424);
             this.panel422.Controls.Add(this.panel425);
@@ -5656,6 +6904,32 @@ namespace VirtualChem.Forms
             this.panel422.Name = "panel422";
             this.panel422.Size = new System.Drawing.Size(55, 65);
             this.panel422.TabIndex = 23;
+            // 
+            // Molybdenum_Button
+            // 
+            this.Molybdenum_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Molybdenum_Button.FlatAppearance.BorderSize = 0;
+            this.Molybdenum_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Molybdenum_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Molybdenum_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Molybdenum_Button.Location = new System.Drawing.Point(2, 17);
+            this.Molybdenum_Button.Name = "Molybdenum_Button";
+            this.Molybdenum_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Molybdenum_Button.Size = new System.Drawing.Size(51, 46);
+            this.Molybdenum_Button.TabIndex = 7;
+            this.Molybdenum_Button.Text = "Mo";
+            this.Molybdenum_Button.UseVisualStyleBackColor = true;
+            // 
+            // Molybdenum_Label
+            // 
+            this.Molybdenum_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Molybdenum_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Molybdenum_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Molybdenum_Label.Location = new System.Drawing.Point(2, 2);
+            this.Molybdenum_Label.Name = "Molybdenum_Label";
+            this.Molybdenum_Label.Size = new System.Drawing.Size(51, 15);
+            this.Molybdenum_Label.TabIndex = 6;
+            this.Molybdenum_Label.Text = "42";
             // 
             // panel423
             // 
@@ -5696,8 +6970,8 @@ namespace VirtualChem.Forms
             // panel427
             // 
             this.panel427.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel427.Controls.Add(this.button93);
-            this.panel427.Controls.Add(this.label93);
+            this.panel427.Controls.Add(this.Niobium_Button);
+            this.panel427.Controls.Add(this.Niobium_Label);
             this.panel427.Controls.Add(this.panel428);
             this.panel427.Controls.Add(this.panel429);
             this.panel427.Controls.Add(this.panel430);
@@ -5707,6 +6981,32 @@ namespace VirtualChem.Forms
             this.panel427.Name = "panel427";
             this.panel427.Size = new System.Drawing.Size(55, 65);
             this.panel427.TabIndex = 22;
+            // 
+            // Niobium_Button
+            // 
+            this.Niobium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Niobium_Button.FlatAppearance.BorderSize = 0;
+            this.Niobium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Niobium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Niobium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Niobium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Niobium_Button.Name = "Niobium_Button";
+            this.Niobium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Niobium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Niobium_Button.TabIndex = 7;
+            this.Niobium_Button.Text = "Nb";
+            this.Niobium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Niobium_Label
+            // 
+            this.Niobium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Niobium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Niobium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Niobium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Niobium_Label.Name = "Niobium_Label";
+            this.Niobium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Niobium_Label.TabIndex = 6;
+            this.Niobium_Label.Text = "41";
             // 
             // panel428
             // 
@@ -5747,8 +7047,8 @@ namespace VirtualChem.Forms
             // panel432
             // 
             this.panel432.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel432.Controls.Add(this.button92);
-            this.panel432.Controls.Add(this.label92);
+            this.panel432.Controls.Add(this.Zirconium_Button);
+            this.panel432.Controls.Add(this.Zirconium_Label);
             this.panel432.Controls.Add(this.panel433);
             this.panel432.Controls.Add(this.panel434);
             this.panel432.Controls.Add(this.panel435);
@@ -5758,6 +7058,32 @@ namespace VirtualChem.Forms
             this.panel432.Name = "panel432";
             this.panel432.Size = new System.Drawing.Size(55, 65);
             this.panel432.TabIndex = 21;
+            // 
+            // Zirconium_Button
+            // 
+            this.Zirconium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Zirconium_Button.FlatAppearance.BorderSize = 0;
+            this.Zirconium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Zirconium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Zirconium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Zirconium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Zirconium_Button.Name = "Zirconium_Button";
+            this.Zirconium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Zirconium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Zirconium_Button.TabIndex = 7;
+            this.Zirconium_Button.Text = "Zr";
+            this.Zirconium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Zirconium_Label
+            // 
+            this.Zirconium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Zirconium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Zirconium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Zirconium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Zirconium_Label.Name = "Zirconium_Label";
+            this.Zirconium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Zirconium_Label.TabIndex = 6;
+            this.Zirconium_Label.Text = "40";
             // 
             // panel433
             // 
@@ -5798,8 +7124,8 @@ namespace VirtualChem.Forms
             // panel437
             // 
             this.panel437.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel437.Controls.Add(this.button91);
-            this.panel437.Controls.Add(this.label91);
+            this.panel437.Controls.Add(this.Yttrium_Button);
+            this.panel437.Controls.Add(this.Yttrium_Label);
             this.panel437.Controls.Add(this.panel438);
             this.panel437.Controls.Add(this.panel439);
             this.panel437.Controls.Add(this.panel440);
@@ -5809,6 +7135,32 @@ namespace VirtualChem.Forms
             this.panel437.Name = "panel437";
             this.panel437.Size = new System.Drawing.Size(55, 65);
             this.panel437.TabIndex = 20;
+            // 
+            // Yttrium_Button
+            // 
+            this.Yttrium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Yttrium_Button.FlatAppearance.BorderSize = 0;
+            this.Yttrium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Yttrium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Yttrium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Yttrium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Yttrium_Button.Name = "Yttrium_Button";
+            this.Yttrium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Yttrium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Yttrium_Button.TabIndex = 7;
+            this.Yttrium_Button.Text = "Y";
+            this.Yttrium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Yttrium_Label
+            // 
+            this.Yttrium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Yttrium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Yttrium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Yttrium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Yttrium_Label.Name = "Yttrium_Label";
+            this.Yttrium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Yttrium_Label.TabIndex = 6;
+            this.Yttrium_Label.Text = "39";
             // 
             // panel438
             // 
@@ -5849,8 +7201,8 @@ namespace VirtualChem.Forms
             // panel442
             // 
             this.panel442.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel442.Controls.Add(this.button16);
-            this.panel442.Controls.Add(this.label16);
+            this.panel442.Controls.Add(this.Strontium_Button);
+            this.panel442.Controls.Add(this.Strontium_Label);
             this.panel442.Controls.Add(this.panel443);
             this.panel442.Controls.Add(this.panel444);
             this.panel442.Controls.Add(this.panel445);
@@ -5860,6 +7212,32 @@ namespace VirtualChem.Forms
             this.panel442.Name = "panel442";
             this.panel442.Size = new System.Drawing.Size(55, 65);
             this.panel442.TabIndex = 19;
+            // 
+            // Strontium_Button
+            // 
+            this.Strontium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Strontium_Button.FlatAppearance.BorderSize = 0;
+            this.Strontium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Strontium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Strontium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Strontium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Strontium_Button.Name = "Strontium_Button";
+            this.Strontium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Strontium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Strontium_Button.TabIndex = 7;
+            this.Strontium_Button.Text = "Sr";
+            this.Strontium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Strontium_Label
+            // 
+            this.Strontium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Strontium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Strontium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Strontium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Strontium_Label.Name = "Strontium_Label";
+            this.Strontium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Strontium_Label.TabIndex = 6;
+            this.Strontium_Label.Text = "38";
             // 
             // panel443
             // 
@@ -5900,8 +7278,8 @@ namespace VirtualChem.Forms
             // panel447
             // 
             this.panel447.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel447.Controls.Add(this.button15);
-            this.panel447.Controls.Add(this.label15);
+            this.panel447.Controls.Add(this.Rubidium_Button);
+            this.panel447.Controls.Add(this.Rubidium_Label);
             this.panel447.Controls.Add(this.panel448);
             this.panel447.Controls.Add(this.panel449);
             this.panel447.Controls.Add(this.panel450);
@@ -5911,6 +7289,32 @@ namespace VirtualChem.Forms
             this.panel447.Name = "panel447";
             this.panel447.Size = new System.Drawing.Size(55, 65);
             this.panel447.TabIndex = 18;
+            // 
+            // Rubidium_Button
+            // 
+            this.Rubidium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Rubidium_Button.FlatAppearance.BorderSize = 0;
+            this.Rubidium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Rubidium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Rubidium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Rubidium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Rubidium_Button.Name = "Rubidium_Button";
+            this.Rubidium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Rubidium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Rubidium_Button.TabIndex = 7;
+            this.Rubidium_Button.Text = "Rb";
+            this.Rubidium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Rubidium_Label
+            // 
+            this.Rubidium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Rubidium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Rubidium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Rubidium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Rubidium_Label.Name = "Rubidium_Label";
+            this.Rubidium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Rubidium_Label.TabIndex = 6;
+            this.Rubidium_Label.Text = "37";
             // 
             // panel448
             // 
@@ -5977,8 +7381,8 @@ namespace VirtualChem.Forms
             // panel272
             // 
             this.panel272.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel272.Controls.Add(this.button54);
-            this.panel272.Controls.Add(this.label54);
+            this.panel272.Controls.Add(this.Radon_Button);
+            this.panel272.Controls.Add(this.Radon_Label);
             this.panel272.Controls.Add(this.panel273);
             this.panel272.Controls.Add(this.panel274);
             this.panel272.Controls.Add(this.panel275);
@@ -5988,6 +7392,32 @@ namespace VirtualChem.Forms
             this.panel272.Name = "panel272";
             this.panel272.Size = new System.Drawing.Size(55, 65);
             this.panel272.TabIndex = 35;
+            // 
+            // Radon_Button
+            // 
+            this.Radon_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Radon_Button.FlatAppearance.BorderSize = 0;
+            this.Radon_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Radon_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Radon_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Radon_Button.Location = new System.Drawing.Point(2, 17);
+            this.Radon_Button.Name = "Radon_Button";
+            this.Radon_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Radon_Button.Size = new System.Drawing.Size(51, 46);
+            this.Radon_Button.TabIndex = 7;
+            this.Radon_Button.Text = "Rn";
+            this.Radon_Button.UseVisualStyleBackColor = true;
+            // 
+            // Radon_Label
+            // 
+            this.Radon_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Radon_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Radon_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Radon_Label.Location = new System.Drawing.Point(2, 2);
+            this.Radon_Label.Name = "Radon_Label";
+            this.Radon_Label.Size = new System.Drawing.Size(51, 15);
+            this.Radon_Label.TabIndex = 6;
+            this.Radon_Label.Text = "86";
             // 
             // panel273
             // 
@@ -6028,8 +7458,8 @@ namespace VirtualChem.Forms
             // panel277
             // 
             this.panel277.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel277.Controls.Add(this.button78);
-            this.panel277.Controls.Add(this.label78);
+            this.panel277.Controls.Add(this.Astatine_Button);
+            this.panel277.Controls.Add(this.Astatine_Label);
             this.panel277.Controls.Add(this.panel278);
             this.panel277.Controls.Add(this.panel279);
             this.panel277.Controls.Add(this.panel280);
@@ -6039,6 +7469,32 @@ namespace VirtualChem.Forms
             this.panel277.Name = "panel277";
             this.panel277.Size = new System.Drawing.Size(55, 65);
             this.panel277.TabIndex = 34;
+            // 
+            // Astatine_Button
+            // 
+            this.Astatine_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Astatine_Button.FlatAppearance.BorderSize = 0;
+            this.Astatine_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Astatine_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Astatine_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Astatine_Button.Location = new System.Drawing.Point(2, 17);
+            this.Astatine_Button.Name = "Astatine_Button";
+            this.Astatine_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Astatine_Button.Size = new System.Drawing.Size(51, 46);
+            this.Astatine_Button.TabIndex = 7;
+            this.Astatine_Button.Text = "At";
+            this.Astatine_Button.UseVisualStyleBackColor = true;
+            // 
+            // Astatine_Label
+            // 
+            this.Astatine_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Astatine_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Astatine_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Astatine_Label.Location = new System.Drawing.Point(2, 2);
+            this.Astatine_Label.Name = "Astatine_Label";
+            this.Astatine_Label.Size = new System.Drawing.Size(51, 15);
+            this.Astatine_Label.TabIndex = 6;
+            this.Astatine_Label.Text = "85";
             // 
             // panel278
             // 
@@ -6079,8 +7535,8 @@ namespace VirtualChem.Forms
             // panel282
             // 
             this.panel282.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel282.Controls.Add(this.button76);
-            this.panel282.Controls.Add(this.label76);
+            this.panel282.Controls.Add(this.Polonium_Button);
+            this.panel282.Controls.Add(this.Polonium_Label);
             this.panel282.Controls.Add(this.panel283);
             this.panel282.Controls.Add(this.panel284);
             this.panel282.Controls.Add(this.panel285);
@@ -6090,6 +7546,32 @@ namespace VirtualChem.Forms
             this.panel282.Name = "panel282";
             this.panel282.Size = new System.Drawing.Size(55, 65);
             this.panel282.TabIndex = 33;
+            // 
+            // Polonium_Button
+            // 
+            this.Polonium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Polonium_Button.FlatAppearance.BorderSize = 0;
+            this.Polonium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Polonium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Polonium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Polonium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Polonium_Button.Name = "Polonium_Button";
+            this.Polonium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Polonium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Polonium_Button.TabIndex = 7;
+            this.Polonium_Button.Text = "Po";
+            this.Polonium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Polonium_Label
+            // 
+            this.Polonium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Polonium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Polonium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Polonium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Polonium_Label.Name = "Polonium_Label";
+            this.Polonium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Polonium_Label.TabIndex = 6;
+            this.Polonium_Label.Text = "84";
             // 
             // panel283
             // 
@@ -6130,8 +7612,8 @@ namespace VirtualChem.Forms
             // panel287
             // 
             this.panel287.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel287.Controls.Add(this.button73);
-            this.panel287.Controls.Add(this.label73);
+            this.panel287.Controls.Add(this.Bismuth_Button);
+            this.panel287.Controls.Add(this.Bismuth_Label);
             this.panel287.Controls.Add(this.panel288);
             this.panel287.Controls.Add(this.panel289);
             this.panel287.Controls.Add(this.panel290);
@@ -6141,6 +7623,32 @@ namespace VirtualChem.Forms
             this.panel287.Name = "panel287";
             this.panel287.Size = new System.Drawing.Size(55, 65);
             this.panel287.TabIndex = 32;
+            // 
+            // Bismuth_Button
+            // 
+            this.Bismuth_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Bismuth_Button.FlatAppearance.BorderSize = 0;
+            this.Bismuth_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Bismuth_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Bismuth_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Bismuth_Button.Location = new System.Drawing.Point(2, 17);
+            this.Bismuth_Button.Name = "Bismuth_Button";
+            this.Bismuth_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Bismuth_Button.Size = new System.Drawing.Size(51, 46);
+            this.Bismuth_Button.TabIndex = 7;
+            this.Bismuth_Button.Text = "Bi";
+            this.Bismuth_Button.UseVisualStyleBackColor = true;
+            // 
+            // Bismuth_Label
+            // 
+            this.Bismuth_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Bismuth_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Bismuth_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Bismuth_Label.Location = new System.Drawing.Point(2, 2);
+            this.Bismuth_Label.Name = "Bismuth_Label";
+            this.Bismuth_Label.Size = new System.Drawing.Size(51, 15);
+            this.Bismuth_Label.TabIndex = 6;
+            this.Bismuth_Label.Text = "83";
             // 
             // panel288
             // 
@@ -6181,8 +7689,8 @@ namespace VirtualChem.Forms
             // panel292
             // 
             this.panel292.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel292.Controls.Add(this.button68);
-            this.panel292.Controls.Add(this.label68);
+            this.panel292.Controls.Add(this.Lead_Button);
+            this.panel292.Controls.Add(this.Lead_Label);
             this.panel292.Controls.Add(this.panel293);
             this.panel292.Controls.Add(this.panel294);
             this.panel292.Controls.Add(this.panel295);
@@ -6192,6 +7700,32 @@ namespace VirtualChem.Forms
             this.panel292.Name = "panel292";
             this.panel292.Size = new System.Drawing.Size(55, 65);
             this.panel292.TabIndex = 31;
+            // 
+            // Lead_Button
+            // 
+            this.Lead_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Lead_Button.FlatAppearance.BorderSize = 0;
+            this.Lead_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Lead_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Lead_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Lead_Button.Location = new System.Drawing.Point(2, 17);
+            this.Lead_Button.Name = "Lead_Button";
+            this.Lead_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Lead_Button.Size = new System.Drawing.Size(51, 46);
+            this.Lead_Button.TabIndex = 7;
+            this.Lead_Button.Text = "Pb";
+            this.Lead_Button.UseVisualStyleBackColor = true;
+            // 
+            // Lead_Label
+            // 
+            this.Lead_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Lead_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Lead_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Lead_Label.Location = new System.Drawing.Point(2, 2);
+            this.Lead_Label.Name = "Lead_Label";
+            this.Lead_Label.Size = new System.Drawing.Size(51, 15);
+            this.Lead_Label.TabIndex = 6;
+            this.Lead_Label.Text = "82";
             // 
             // panel293
             // 
@@ -6232,8 +7766,8 @@ namespace VirtualChem.Forms
             // panel297
             // 
             this.panel297.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel297.Controls.Add(this.button69);
-            this.panel297.Controls.Add(this.label69);
+            this.panel297.Controls.Add(this.Thallium_Button);
+            this.panel297.Controls.Add(this.Thallium_Label);
             this.panel297.Controls.Add(this.panel298);
             this.panel297.Controls.Add(this.panel299);
             this.panel297.Controls.Add(this.panel300);
@@ -6243,6 +7777,32 @@ namespace VirtualChem.Forms
             this.panel297.Name = "panel297";
             this.panel297.Size = new System.Drawing.Size(55, 65);
             this.panel297.TabIndex = 30;
+            // 
+            // Thallium_Button
+            // 
+            this.Thallium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Thallium_Button.FlatAppearance.BorderSize = 0;
+            this.Thallium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Thallium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Thallium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Thallium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Thallium_Button.Name = "Thallium_Button";
+            this.Thallium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Thallium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Thallium_Button.TabIndex = 7;
+            this.Thallium_Button.Text = "Tl";
+            this.Thallium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Thallium_Label
+            // 
+            this.Thallium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Thallium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Thallium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Thallium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Thallium_Label.Name = "Thallium_Label";
+            this.Thallium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Thallium_Label.TabIndex = 6;
+            this.Thallium_Label.Text = "81";
             // 
             // panel298
             // 
@@ -6283,8 +7843,8 @@ namespace VirtualChem.Forms
             // panel302
             // 
             this.panel302.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel302.Controls.Add(this.button101);
-            this.panel302.Controls.Add(this.label101);
+            this.panel302.Controls.Add(this.Mercury_Button);
+            this.panel302.Controls.Add(this.Mercury_Label);
             this.panel302.Controls.Add(this.panel303);
             this.panel302.Controls.Add(this.panel304);
             this.panel302.Controls.Add(this.panel305);
@@ -6294,6 +7854,32 @@ namespace VirtualChem.Forms
             this.panel302.Name = "panel302";
             this.panel302.Size = new System.Drawing.Size(55, 65);
             this.panel302.TabIndex = 29;
+            // 
+            // Mercury_Button
+            // 
+            this.Mercury_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Mercury_Button.FlatAppearance.BorderSize = 0;
+            this.Mercury_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Mercury_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Mercury_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Mercury_Button.Location = new System.Drawing.Point(2, 17);
+            this.Mercury_Button.Name = "Mercury_Button";
+            this.Mercury_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Mercury_Button.Size = new System.Drawing.Size(51, 46);
+            this.Mercury_Button.TabIndex = 7;
+            this.Mercury_Button.Text = "Hg";
+            this.Mercury_Button.UseVisualStyleBackColor = true;
+            // 
+            // Mercury_Label
+            // 
+            this.Mercury_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Mercury_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Mercury_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Mercury_Label.Location = new System.Drawing.Point(2, 2);
+            this.Mercury_Label.Name = "Mercury_Label";
+            this.Mercury_Label.Size = new System.Drawing.Size(51, 15);
+            this.Mercury_Label.TabIndex = 6;
+            this.Mercury_Label.Text = "80";
             // 
             // panel303
             // 
@@ -6334,8 +7920,8 @@ namespace VirtualChem.Forms
             // panel307
             // 
             this.panel307.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel307.Controls.Add(this.button102);
-            this.panel307.Controls.Add(this.label102);
+            this.panel307.Controls.Add(this.Gold_Button);
+            this.panel307.Controls.Add(this.Gold_Label);
             this.panel307.Controls.Add(this.panel308);
             this.panel307.Controls.Add(this.panel309);
             this.panel307.Controls.Add(this.panel310);
@@ -6345,6 +7931,32 @@ namespace VirtualChem.Forms
             this.panel307.Name = "panel307";
             this.panel307.Size = new System.Drawing.Size(55, 65);
             this.panel307.TabIndex = 28;
+            // 
+            // Gold_Button
+            // 
+            this.Gold_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Gold_Button.FlatAppearance.BorderSize = 0;
+            this.Gold_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Gold_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Gold_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Gold_Button.Location = new System.Drawing.Point(2, 17);
+            this.Gold_Button.Name = "Gold_Button";
+            this.Gold_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Gold_Button.Size = new System.Drawing.Size(51, 46);
+            this.Gold_Button.TabIndex = 7;
+            this.Gold_Button.Text = "Au";
+            this.Gold_Button.UseVisualStyleBackColor = true;
+            // 
+            // Gold_Label
+            // 
+            this.Gold_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Gold_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Gold_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Gold_Label.Location = new System.Drawing.Point(2, 2);
+            this.Gold_Label.Name = "Gold_Label";
+            this.Gold_Label.Size = new System.Drawing.Size(51, 15);
+            this.Gold_Label.TabIndex = 6;
+            this.Gold_Label.Text = "79";
             // 
             // panel308
             // 
@@ -6385,8 +7997,8 @@ namespace VirtualChem.Forms
             // panel312
             // 
             this.panel312.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel312.Controls.Add(this.button103);
-            this.panel312.Controls.Add(this.label103);
+            this.panel312.Controls.Add(this.Platinum_Button);
+            this.panel312.Controls.Add(this.Platinum_Label);
             this.panel312.Controls.Add(this.panel313);
             this.panel312.Controls.Add(this.panel314);
             this.panel312.Controls.Add(this.panel315);
@@ -6396,6 +8008,32 @@ namespace VirtualChem.Forms
             this.panel312.Name = "panel312";
             this.panel312.Size = new System.Drawing.Size(55, 65);
             this.panel312.TabIndex = 27;
+            // 
+            // Platinum_Button
+            // 
+            this.Platinum_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Platinum_Button.FlatAppearance.BorderSize = 0;
+            this.Platinum_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Platinum_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Platinum_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Platinum_Button.Location = new System.Drawing.Point(2, 17);
+            this.Platinum_Button.Name = "Platinum_Button";
+            this.Platinum_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Platinum_Button.Size = new System.Drawing.Size(51, 46);
+            this.Platinum_Button.TabIndex = 7;
+            this.Platinum_Button.Text = "Pt";
+            this.Platinum_Button.UseVisualStyleBackColor = true;
+            // 
+            // Platinum_Label
+            // 
+            this.Platinum_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Platinum_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Platinum_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Platinum_Label.Location = new System.Drawing.Point(2, 2);
+            this.Platinum_Label.Name = "Platinum_Label";
+            this.Platinum_Label.Size = new System.Drawing.Size(51, 15);
+            this.Platinum_Label.TabIndex = 6;
+            this.Platinum_Label.Text = "78";
             // 
             // panel313
             // 
@@ -6436,8 +8074,8 @@ namespace VirtualChem.Forms
             // panel317
             // 
             this.panel317.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel317.Controls.Add(this.button104);
-            this.panel317.Controls.Add(this.label104);
+            this.panel317.Controls.Add(this.Iridium_Button);
+            this.panel317.Controls.Add(this.Iridium_Label);
             this.panel317.Controls.Add(this.panel318);
             this.panel317.Controls.Add(this.panel319);
             this.panel317.Controls.Add(this.panel320);
@@ -6447,6 +8085,32 @@ namespace VirtualChem.Forms
             this.panel317.Name = "panel317";
             this.panel317.Size = new System.Drawing.Size(55, 65);
             this.panel317.TabIndex = 26;
+            // 
+            // Iridium_Button
+            // 
+            this.Iridium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Iridium_Button.FlatAppearance.BorderSize = 0;
+            this.Iridium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Iridium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Iridium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Iridium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Iridium_Button.Name = "Iridium_Button";
+            this.Iridium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Iridium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Iridium_Button.TabIndex = 7;
+            this.Iridium_Button.Text = "Ir";
+            this.Iridium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Iridium_Label
+            // 
+            this.Iridium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Iridium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Iridium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Iridium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Iridium_Label.Name = "Iridium_Label";
+            this.Iridium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Iridium_Label.TabIndex = 6;
+            this.Iridium_Label.Text = "77";
             // 
             // panel318
             // 
@@ -6487,8 +8151,8 @@ namespace VirtualChem.Forms
             // panel322
             // 
             this.panel322.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel322.Controls.Add(this.button105);
-            this.panel322.Controls.Add(this.label105);
+            this.panel322.Controls.Add(this.Osmium_Button);
+            this.panel322.Controls.Add(this.Osmium_Label);
             this.panel322.Controls.Add(this.panel323);
             this.panel322.Controls.Add(this.panel324);
             this.panel322.Controls.Add(this.panel325);
@@ -6498,6 +8162,32 @@ namespace VirtualChem.Forms
             this.panel322.Name = "panel322";
             this.panel322.Size = new System.Drawing.Size(55, 65);
             this.panel322.TabIndex = 25;
+            // 
+            // Osmium_Button
+            // 
+            this.Osmium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Osmium_Button.FlatAppearance.BorderSize = 0;
+            this.Osmium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Osmium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Osmium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Osmium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Osmium_Button.Name = "Osmium_Button";
+            this.Osmium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Osmium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Osmium_Button.TabIndex = 7;
+            this.Osmium_Button.Text = "Os";
+            this.Osmium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Osmium_Label
+            // 
+            this.Osmium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Osmium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Osmium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Osmium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Osmium_Label.Name = "Osmium_Label";
+            this.Osmium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Osmium_Label.TabIndex = 6;
+            this.Osmium_Label.Text = "76";
             // 
             // panel323
             // 
@@ -6538,8 +8228,8 @@ namespace VirtualChem.Forms
             // panel327
             // 
             this.panel327.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel327.Controls.Add(this.button106);
-            this.panel327.Controls.Add(this.label106);
+            this.panel327.Controls.Add(this.Rhenium_Button);
+            this.panel327.Controls.Add(this.Rhenium_Label);
             this.panel327.Controls.Add(this.panel328);
             this.panel327.Controls.Add(this.panel329);
             this.panel327.Controls.Add(this.panel330);
@@ -6549,6 +8239,32 @@ namespace VirtualChem.Forms
             this.panel327.Name = "panel327";
             this.panel327.Size = new System.Drawing.Size(55, 65);
             this.panel327.TabIndex = 24;
+            // 
+            // Rhenium_Button
+            // 
+            this.Rhenium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Rhenium_Button.FlatAppearance.BorderSize = 0;
+            this.Rhenium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Rhenium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Rhenium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Rhenium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Rhenium_Button.Name = "Rhenium_Button";
+            this.Rhenium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Rhenium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Rhenium_Button.TabIndex = 7;
+            this.Rhenium_Button.Text = "Re";
+            this.Rhenium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Rhenium_Label
+            // 
+            this.Rhenium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Rhenium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Rhenium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Rhenium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Rhenium_Label.Name = "Rhenium_Label";
+            this.Rhenium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Rhenium_Label.TabIndex = 6;
+            this.Rhenium_Label.Text = "75";
             // 
             // panel328
             // 
@@ -6589,8 +8305,8 @@ namespace VirtualChem.Forms
             // panel332
             // 
             this.panel332.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel332.Controls.Add(this.button107);
-            this.panel332.Controls.Add(this.label107);
+            this.panel332.Controls.Add(this.Tungsten_Button);
+            this.panel332.Controls.Add(this.Tungsten_Label);
             this.panel332.Controls.Add(this.panel333);
             this.panel332.Controls.Add(this.panel334);
             this.panel332.Controls.Add(this.panel335);
@@ -6600,6 +8316,32 @@ namespace VirtualChem.Forms
             this.panel332.Name = "panel332";
             this.panel332.Size = new System.Drawing.Size(55, 65);
             this.panel332.TabIndex = 23;
+            // 
+            // Tungsten_Button
+            // 
+            this.Tungsten_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Tungsten_Button.FlatAppearance.BorderSize = 0;
+            this.Tungsten_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Tungsten_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Tungsten_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Tungsten_Button.Location = new System.Drawing.Point(2, 17);
+            this.Tungsten_Button.Name = "Tungsten_Button";
+            this.Tungsten_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Tungsten_Button.Size = new System.Drawing.Size(51, 46);
+            this.Tungsten_Button.TabIndex = 7;
+            this.Tungsten_Button.Text = "W";
+            this.Tungsten_Button.UseVisualStyleBackColor = true;
+            // 
+            // Tungsten_Label
+            // 
+            this.Tungsten_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Tungsten_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Tungsten_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Tungsten_Label.Location = new System.Drawing.Point(2, 2);
+            this.Tungsten_Label.Name = "Tungsten_Label";
+            this.Tungsten_Label.Size = new System.Drawing.Size(51, 15);
+            this.Tungsten_Label.TabIndex = 6;
+            this.Tungsten_Label.Text = "74";
             // 
             // panel333
             // 
@@ -6640,8 +8382,8 @@ namespace VirtualChem.Forms
             // panel337
             // 
             this.panel337.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel337.Controls.Add(this.button108);
-            this.panel337.Controls.Add(this.label108);
+            this.panel337.Controls.Add(this.Tantalum_Button);
+            this.panel337.Controls.Add(this.Tantalum_Label);
             this.panel337.Controls.Add(this.panel338);
             this.panel337.Controls.Add(this.panel339);
             this.panel337.Controls.Add(this.panel340);
@@ -6651,6 +8393,32 @@ namespace VirtualChem.Forms
             this.panel337.Name = "panel337";
             this.panel337.Size = new System.Drawing.Size(55, 65);
             this.panel337.TabIndex = 22;
+            // 
+            // Tantalum_Button
+            // 
+            this.Tantalum_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Tantalum_Button.FlatAppearance.BorderSize = 0;
+            this.Tantalum_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Tantalum_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Tantalum_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Tantalum_Button.Location = new System.Drawing.Point(2, 17);
+            this.Tantalum_Button.Name = "Tantalum_Button";
+            this.Tantalum_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Tantalum_Button.Size = new System.Drawing.Size(51, 46);
+            this.Tantalum_Button.TabIndex = 7;
+            this.Tantalum_Button.Text = "Ta";
+            this.Tantalum_Button.UseVisualStyleBackColor = true;
+            // 
+            // Tantalum_Label
+            // 
+            this.Tantalum_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Tantalum_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Tantalum_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Tantalum_Label.Location = new System.Drawing.Point(2, 2);
+            this.Tantalum_Label.Name = "Tantalum_Label";
+            this.Tantalum_Label.Size = new System.Drawing.Size(51, 15);
+            this.Tantalum_Label.TabIndex = 6;
+            this.Tantalum_Label.Text = "73";
             // 
             // panel338
             // 
@@ -6691,8 +8459,8 @@ namespace VirtualChem.Forms
             // panel342
             // 
             this.panel342.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel342.Controls.Add(this.button109);
-            this.panel342.Controls.Add(this.label109);
+            this.panel342.Controls.Add(this.Hafnium_Button);
+            this.panel342.Controls.Add(this.Hafnium_Label);
             this.panel342.Controls.Add(this.panel343);
             this.panel342.Controls.Add(this.panel344);
             this.panel342.Controls.Add(this.panel345);
@@ -6702,6 +8470,32 @@ namespace VirtualChem.Forms
             this.panel342.Name = "panel342";
             this.panel342.Size = new System.Drawing.Size(55, 65);
             this.panel342.TabIndex = 21;
+            // 
+            // Hafnium_Button
+            // 
+            this.Hafnium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Hafnium_Button.FlatAppearance.BorderSize = 0;
+            this.Hafnium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Hafnium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Hafnium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Hafnium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Hafnium_Button.Name = "Hafnium_Button";
+            this.Hafnium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Hafnium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Hafnium_Button.TabIndex = 7;
+            this.Hafnium_Button.Text = "Hf";
+            this.Hafnium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Hafnium_Label
+            // 
+            this.Hafnium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Hafnium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Hafnium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Hafnium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Hafnium_Label.Name = "Hafnium_Label";
+            this.Hafnium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Hafnium_Label.TabIndex = 6;
+            this.Hafnium_Label.Text = "72";
             // 
             // panel343
             // 
@@ -6742,8 +8536,8 @@ namespace VirtualChem.Forms
             // panel347
             // 
             this.panel347.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel347.Controls.Add(this.button110);
-            this.panel347.Controls.Add(this.label110);
+            this.panel347.Controls.Add(this.Lant_Button);
+            this.panel347.Controls.Add(this.Lant_Label);
             this.panel347.Controls.Add(this.panel348);
             this.panel347.Controls.Add(this.panel349);
             this.panel347.Controls.Add(this.panel350);
@@ -6753,6 +8547,32 @@ namespace VirtualChem.Forms
             this.panel347.Name = "panel347";
             this.panel347.Size = new System.Drawing.Size(55, 65);
             this.panel347.TabIndex = 20;
+            // 
+            // Lant_Button
+            // 
+            this.Lant_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Lant_Button.FlatAppearance.BorderSize = 0;
+            this.Lant_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Lant_Button.Font = new System.Drawing.Font("Century Gothic", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
+            this.Lant_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Lant_Button.Location = new System.Drawing.Point(2, 17);
+            this.Lant_Button.Name = "Lant_Button";
+            this.Lant_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Lant_Button.Size = new System.Drawing.Size(51, 46);
+            this.Lant_Button.TabIndex = 7;
+            this.Lant_Button.Text = "Lant.";
+            this.Lant_Button.UseVisualStyleBackColor = true;
+            // 
+            // Lant_Label
+            // 
+            this.Lant_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Lant_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Lant_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Lant_Label.Location = new System.Drawing.Point(2, 2);
+            this.Lant_Label.Name = "Lant_Label";
+            this.Lant_Label.Size = new System.Drawing.Size(51, 15);
+            this.Lant_Label.TabIndex = 6;
+            this.Lant_Label.Text = "57-71";
             // 
             // panel348
             // 
@@ -6793,8 +8613,8 @@ namespace VirtualChem.Forms
             // panel352
             // 
             this.panel352.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel352.Controls.Add(this.button17);
-            this.panel352.Controls.Add(this.label17);
+            this.panel352.Controls.Add(this.Barium_Button);
+            this.panel352.Controls.Add(this.Barium_Label);
             this.panel352.Controls.Add(this.panel353);
             this.panel352.Controls.Add(this.panel354);
             this.panel352.Controls.Add(this.panel355);
@@ -6804,6 +8624,32 @@ namespace VirtualChem.Forms
             this.panel352.Name = "panel352";
             this.panel352.Size = new System.Drawing.Size(55, 65);
             this.panel352.TabIndex = 19;
+            // 
+            // Barium_Button
+            // 
+            this.Barium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Barium_Button.FlatAppearance.BorderSize = 0;
+            this.Barium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Barium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Barium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Barium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Barium_Button.Name = "Barium_Button";
+            this.Barium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Barium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Barium_Button.TabIndex = 7;
+            this.Barium_Button.Text = "Ba";
+            this.Barium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Barium_Label
+            // 
+            this.Barium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Barium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Barium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Barium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Barium_Label.Name = "Barium_Label";
+            this.Barium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Barium_Label.TabIndex = 6;
+            this.Barium_Label.Text = "56";
             // 
             // panel353
             // 
@@ -6844,8 +8690,8 @@ namespace VirtualChem.Forms
             // panel357
             // 
             this.panel357.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel357.Controls.Add(this.button18);
-            this.panel357.Controls.Add(this.label18);
+            this.panel357.Controls.Add(this.Caesium_Button);
+            this.panel357.Controls.Add(this.Caesium_Label);
             this.panel357.Controls.Add(this.panel358);
             this.panel357.Controls.Add(this.panel359);
             this.panel357.Controls.Add(this.panel360);
@@ -6855,6 +8701,32 @@ namespace VirtualChem.Forms
             this.panel357.Name = "panel357";
             this.panel357.Size = new System.Drawing.Size(55, 65);
             this.panel357.TabIndex = 18;
+            // 
+            // Caesium_Button
+            // 
+            this.Caesium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Caesium_Button.FlatAppearance.BorderSize = 0;
+            this.Caesium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Caesium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Caesium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Caesium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Caesium_Button.Name = "Caesium_Button";
+            this.Caesium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Caesium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Caesium_Button.TabIndex = 7;
+            this.Caesium_Button.Text = "Cs";
+            this.Caesium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Caesium_Label
+            // 
+            this.Caesium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Caesium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Caesium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Caesium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Caesium_Label.Name = "Caesium_Label";
+            this.Caesium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Caesium_Label.TabIndex = 6;
+            this.Caesium_Label.Text = "55";
             // 
             // panel358
             // 
@@ -6921,8 +8793,8 @@ namespace VirtualChem.Forms
             // panel182
             // 
             this.panel182.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel182.Controls.Add(this.button55);
-            this.panel182.Controls.Add(this.label55);
+            this.panel182.Controls.Add(this.Oganesson_Button);
+            this.panel182.Controls.Add(this.Oganesson_Label);
             this.panel182.Controls.Add(this.panel183);
             this.panel182.Controls.Add(this.panel184);
             this.panel182.Controls.Add(this.panel185);
@@ -6932,6 +8804,32 @@ namespace VirtualChem.Forms
             this.panel182.Name = "panel182";
             this.panel182.Size = new System.Drawing.Size(55, 65);
             this.panel182.TabIndex = 35;
+            // 
+            // Oganesson_Button
+            // 
+            this.Oganesson_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Oganesson_Button.FlatAppearance.BorderSize = 0;
+            this.Oganesson_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Oganesson_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Oganesson_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Oganesson_Button.Location = new System.Drawing.Point(2, 17);
+            this.Oganesson_Button.Name = "Oganesson_Button";
+            this.Oganesson_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Oganesson_Button.Size = new System.Drawing.Size(51, 46);
+            this.Oganesson_Button.TabIndex = 7;
+            this.Oganesson_Button.Text = "Og";
+            this.Oganesson_Button.UseVisualStyleBackColor = true;
+            // 
+            // Oganesson_Label
+            // 
+            this.Oganesson_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Oganesson_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Oganesson_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Oganesson_Label.Location = new System.Drawing.Point(2, 2);
+            this.Oganesson_Label.Name = "Oganesson_Label";
+            this.Oganesson_Label.Size = new System.Drawing.Size(51, 15);
+            this.Oganesson_Label.TabIndex = 6;
+            this.Oganesson_Label.Text = "118";
             // 
             // panel183
             // 
@@ -6972,8 +8870,8 @@ namespace VirtualChem.Forms
             // panel187
             // 
             this.panel187.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel187.Controls.Add(this.button79);
-            this.panel187.Controls.Add(this.label79);
+            this.panel187.Controls.Add(this.Tennessine_Button);
+            this.panel187.Controls.Add(this.Tennessine_Label);
             this.panel187.Controls.Add(this.panel188);
             this.panel187.Controls.Add(this.panel189);
             this.panel187.Controls.Add(this.panel190);
@@ -6983,6 +8881,32 @@ namespace VirtualChem.Forms
             this.panel187.Name = "panel187";
             this.panel187.Size = new System.Drawing.Size(55, 65);
             this.panel187.TabIndex = 34;
+            // 
+            // Tennessine_Button
+            // 
+            this.Tennessine_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Tennessine_Button.FlatAppearance.BorderSize = 0;
+            this.Tennessine_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Tennessine_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Tennessine_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Tennessine_Button.Location = new System.Drawing.Point(2, 17);
+            this.Tennessine_Button.Name = "Tennessine_Button";
+            this.Tennessine_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Tennessine_Button.Size = new System.Drawing.Size(51, 46);
+            this.Tennessine_Button.TabIndex = 7;
+            this.Tennessine_Button.Text = "Ts";
+            this.Tennessine_Button.UseVisualStyleBackColor = true;
+            // 
+            // Tennessine_Label
+            // 
+            this.Tennessine_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Tennessine_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Tennessine_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Tennessine_Label.Location = new System.Drawing.Point(2, 2);
+            this.Tennessine_Label.Name = "Tennessine_Label";
+            this.Tennessine_Label.Size = new System.Drawing.Size(51, 15);
+            this.Tennessine_Label.TabIndex = 6;
+            this.Tennessine_Label.Text = "117";
             // 
             // panel188
             // 
@@ -7023,8 +8947,8 @@ namespace VirtualChem.Forms
             // panel192
             // 
             this.panel192.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel192.Controls.Add(this.button80);
-            this.panel192.Controls.Add(this.label80);
+            this.panel192.Controls.Add(this.Livermorium_Button);
+            this.panel192.Controls.Add(this.Livermorium_Label);
             this.panel192.Controls.Add(this.panel193);
             this.panel192.Controls.Add(this.panel194);
             this.panel192.Controls.Add(this.panel195);
@@ -7034,6 +8958,32 @@ namespace VirtualChem.Forms
             this.panel192.Name = "panel192";
             this.panel192.Size = new System.Drawing.Size(55, 65);
             this.panel192.TabIndex = 33;
+            // 
+            // Livermorium_Button
+            // 
+            this.Livermorium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Livermorium_Button.FlatAppearance.BorderSize = 0;
+            this.Livermorium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Livermorium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Livermorium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Livermorium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Livermorium_Button.Name = "Livermorium_Button";
+            this.Livermorium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Livermorium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Livermorium_Button.TabIndex = 7;
+            this.Livermorium_Button.Text = "Lv";
+            this.Livermorium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Livermorium_Label
+            // 
+            this.Livermorium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Livermorium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Livermorium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Livermorium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Livermorium_Label.Name = "Livermorium_Label";
+            this.Livermorium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Livermorium_Label.TabIndex = 6;
+            this.Livermorium_Label.Text = "116";
             // 
             // panel193
             // 
@@ -7074,8 +9024,8 @@ namespace VirtualChem.Forms
             // panel197
             // 
             this.panel197.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel197.Controls.Add(this.button72);
-            this.panel197.Controls.Add(this.label72);
+            this.panel197.Controls.Add(this.Moscovium_Button);
+            this.panel197.Controls.Add(this.Moscovium_Label);
             this.panel197.Controls.Add(this.panel198);
             this.panel197.Controls.Add(this.panel199);
             this.panel197.Controls.Add(this.panel200);
@@ -7085,6 +9035,32 @@ namespace VirtualChem.Forms
             this.panel197.Name = "panel197";
             this.panel197.Size = new System.Drawing.Size(55, 65);
             this.panel197.TabIndex = 32;
+            // 
+            // Moscovium_Button
+            // 
+            this.Moscovium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Moscovium_Button.FlatAppearance.BorderSize = 0;
+            this.Moscovium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Moscovium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Moscovium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Moscovium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Moscovium_Button.Name = "Moscovium_Button";
+            this.Moscovium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Moscovium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Moscovium_Button.TabIndex = 7;
+            this.Moscovium_Button.Text = "Mc";
+            this.Moscovium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Moscovium_Label
+            // 
+            this.Moscovium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Moscovium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Moscovium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Moscovium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Moscovium_Label.Name = "Moscovium_Label";
+            this.Moscovium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Moscovium_Label.TabIndex = 6;
+            this.Moscovium_Label.Text = "115";
             // 
             // panel198
             // 
@@ -7125,8 +9101,8 @@ namespace VirtualChem.Forms
             // panel202
             // 
             this.panel202.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel202.Controls.Add(this.button71);
-            this.panel202.Controls.Add(this.label71);
+            this.panel202.Controls.Add(this.Flerovium_Button);
+            this.panel202.Controls.Add(this.Flerovium_Label);
             this.panel202.Controls.Add(this.panel203);
             this.panel202.Controls.Add(this.panel204);
             this.panel202.Controls.Add(this.panel205);
@@ -7136,6 +9112,32 @@ namespace VirtualChem.Forms
             this.panel202.Name = "panel202";
             this.panel202.Size = new System.Drawing.Size(55, 65);
             this.panel202.TabIndex = 31;
+            // 
+            // Flerovium_Button
+            // 
+            this.Flerovium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Flerovium_Button.FlatAppearance.BorderSize = 0;
+            this.Flerovium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Flerovium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Flerovium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Flerovium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Flerovium_Button.Name = "Flerovium_Button";
+            this.Flerovium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Flerovium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Flerovium_Button.TabIndex = 7;
+            this.Flerovium_Button.Text = "Fl";
+            this.Flerovium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Flerovium_Label
+            // 
+            this.Flerovium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Flerovium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Flerovium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Flerovium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Flerovium_Label.Name = "Flerovium_Label";
+            this.Flerovium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Flerovium_Label.TabIndex = 6;
+            this.Flerovium_Label.Text = "114";
             // 
             // panel203
             // 
@@ -7176,8 +9178,8 @@ namespace VirtualChem.Forms
             // panel207
             // 
             this.panel207.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel207.Controls.Add(this.button70);
-            this.panel207.Controls.Add(this.label70);
+            this.panel207.Controls.Add(this.Nihonium_Button);
+            this.panel207.Controls.Add(this.Nihonium_Label);
             this.panel207.Controls.Add(this.panel208);
             this.panel207.Controls.Add(this.panel209);
             this.panel207.Controls.Add(this.panel210);
@@ -7187,6 +9189,32 @@ namespace VirtualChem.Forms
             this.panel207.Name = "panel207";
             this.panel207.Size = new System.Drawing.Size(55, 65);
             this.panel207.TabIndex = 30;
+            // 
+            // Nihonium_Button
+            // 
+            this.Nihonium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Nihonium_Button.FlatAppearance.BorderSize = 0;
+            this.Nihonium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Nihonium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Nihonium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Nihonium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Nihonium_Button.Name = "Nihonium_Button";
+            this.Nihonium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Nihonium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Nihonium_Button.TabIndex = 7;
+            this.Nihonium_Button.Text = "Nh";
+            this.Nihonium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Nihonium_Label
+            // 
+            this.Nihonium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Nihonium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Nihonium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Nihonium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Nihonium_Label.Name = "Nihonium_Label";
+            this.Nihonium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Nihonium_Label.TabIndex = 6;
+            this.Nihonium_Label.Text = "113";
             // 
             // panel208
             // 
@@ -7227,8 +9255,8 @@ namespace VirtualChem.Forms
             // panel212
             // 
             this.panel212.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel212.Controls.Add(this.button120);
-            this.panel212.Controls.Add(this.label120);
+            this.panel212.Controls.Add(this.Copernicium_Button);
+            this.panel212.Controls.Add(this.Copernicium_Label);
             this.panel212.Controls.Add(this.panel213);
             this.panel212.Controls.Add(this.panel214);
             this.panel212.Controls.Add(this.panel215);
@@ -7238,6 +9266,32 @@ namespace VirtualChem.Forms
             this.panel212.Name = "panel212";
             this.panel212.Size = new System.Drawing.Size(55, 65);
             this.panel212.TabIndex = 29;
+            // 
+            // Copernicium_Button
+            // 
+            this.Copernicium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Copernicium_Button.FlatAppearance.BorderSize = 0;
+            this.Copernicium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Copernicium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Copernicium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Copernicium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Copernicium_Button.Name = "Copernicium_Button";
+            this.Copernicium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Copernicium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Copernicium_Button.TabIndex = 7;
+            this.Copernicium_Button.Text = "Cn";
+            this.Copernicium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Copernicium_Label
+            // 
+            this.Copernicium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Copernicium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Copernicium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Copernicium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Copernicium_Label.Name = "Copernicium_Label";
+            this.Copernicium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Copernicium_Label.TabIndex = 6;
+            this.Copernicium_Label.Text = "112";
             // 
             // panel213
             // 
@@ -7278,8 +9332,8 @@ namespace VirtualChem.Forms
             // panel217
             // 
             this.panel217.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel217.Controls.Add(this.button119);
-            this.panel217.Controls.Add(this.label119);
+            this.panel217.Controls.Add(this.Roentgenium_Button);
+            this.panel217.Controls.Add(this.Roentgenium_Label);
             this.panel217.Controls.Add(this.panel218);
             this.panel217.Controls.Add(this.panel219);
             this.panel217.Controls.Add(this.panel220);
@@ -7289,6 +9343,32 @@ namespace VirtualChem.Forms
             this.panel217.Name = "panel217";
             this.panel217.Size = new System.Drawing.Size(55, 65);
             this.panel217.TabIndex = 28;
+            // 
+            // Roentgenium_Button
+            // 
+            this.Roentgenium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Roentgenium_Button.FlatAppearance.BorderSize = 0;
+            this.Roentgenium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Roentgenium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Roentgenium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Roentgenium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Roentgenium_Button.Name = "Roentgenium_Button";
+            this.Roentgenium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Roentgenium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Roentgenium_Button.TabIndex = 7;
+            this.Roentgenium_Button.Text = "Rg";
+            this.Roentgenium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Roentgenium_Label
+            // 
+            this.Roentgenium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Roentgenium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Roentgenium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Roentgenium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Roentgenium_Label.Name = "Roentgenium_Label";
+            this.Roentgenium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Roentgenium_Label.TabIndex = 6;
+            this.Roentgenium_Label.Text = "111";
             // 
             // panel218
             // 
@@ -7329,8 +9409,8 @@ namespace VirtualChem.Forms
             // panel222
             // 
             this.panel222.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel222.Controls.Add(this.button118);
-            this.panel222.Controls.Add(this.label118);
+            this.panel222.Controls.Add(this.Darmstadtium_Button);
+            this.panel222.Controls.Add(this.Darmstadtium_Label);
             this.panel222.Controls.Add(this.panel223);
             this.panel222.Controls.Add(this.panel224);
             this.panel222.Controls.Add(this.panel225);
@@ -7340,6 +9420,32 @@ namespace VirtualChem.Forms
             this.panel222.Name = "panel222";
             this.panel222.Size = new System.Drawing.Size(55, 65);
             this.panel222.TabIndex = 27;
+            // 
+            // Darmstadtium_Button
+            // 
+            this.Darmstadtium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Darmstadtium_Button.FlatAppearance.BorderSize = 0;
+            this.Darmstadtium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Darmstadtium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Darmstadtium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Darmstadtium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Darmstadtium_Button.Name = "Darmstadtium_Button";
+            this.Darmstadtium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Darmstadtium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Darmstadtium_Button.TabIndex = 7;
+            this.Darmstadtium_Button.Text = "Ds";
+            this.Darmstadtium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Darmstadtium_Label
+            // 
+            this.Darmstadtium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Darmstadtium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Darmstadtium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Darmstadtium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Darmstadtium_Label.Name = "Darmstadtium_Label";
+            this.Darmstadtium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Darmstadtium_Label.TabIndex = 6;
+            this.Darmstadtium_Label.Text = "110";
             // 
             // panel223
             // 
@@ -7380,8 +9486,8 @@ namespace VirtualChem.Forms
             // panel227
             // 
             this.panel227.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel227.Controls.Add(this.button117);
-            this.panel227.Controls.Add(this.label117);
+            this.panel227.Controls.Add(this.Meitnerium_Button);
+            this.panel227.Controls.Add(this.Meitnerium_Label);
             this.panel227.Controls.Add(this.panel228);
             this.panel227.Controls.Add(this.panel229);
             this.panel227.Controls.Add(this.panel230);
@@ -7391,6 +9497,32 @@ namespace VirtualChem.Forms
             this.panel227.Name = "panel227";
             this.panel227.Size = new System.Drawing.Size(55, 65);
             this.panel227.TabIndex = 26;
+            // 
+            // Meitnerium_Button
+            // 
+            this.Meitnerium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Meitnerium_Button.FlatAppearance.BorderSize = 0;
+            this.Meitnerium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Meitnerium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Meitnerium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Meitnerium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Meitnerium_Button.Name = "Meitnerium_Button";
+            this.Meitnerium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Meitnerium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Meitnerium_Button.TabIndex = 7;
+            this.Meitnerium_Button.Text = "Mt";
+            this.Meitnerium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Meitnerium_Label
+            // 
+            this.Meitnerium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Meitnerium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Meitnerium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Meitnerium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Meitnerium_Label.Name = "Meitnerium_Label";
+            this.Meitnerium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Meitnerium_Label.TabIndex = 6;
+            this.Meitnerium_Label.Text = "109";
             // 
             // panel228
             // 
@@ -7431,8 +9563,8 @@ namespace VirtualChem.Forms
             // panel232
             // 
             this.panel232.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel232.Controls.Add(this.button116);
-            this.panel232.Controls.Add(this.label116);
+            this.panel232.Controls.Add(this.Hassium_Button);
+            this.panel232.Controls.Add(this.Hassium_Label);
             this.panel232.Controls.Add(this.panel233);
             this.panel232.Controls.Add(this.panel234);
             this.panel232.Controls.Add(this.panel235);
@@ -7442,6 +9574,32 @@ namespace VirtualChem.Forms
             this.panel232.Name = "panel232";
             this.panel232.Size = new System.Drawing.Size(55, 65);
             this.panel232.TabIndex = 25;
+            // 
+            // Hassium_Button
+            // 
+            this.Hassium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Hassium_Button.FlatAppearance.BorderSize = 0;
+            this.Hassium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Hassium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Hassium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Hassium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Hassium_Button.Name = "Hassium_Button";
+            this.Hassium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Hassium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Hassium_Button.TabIndex = 7;
+            this.Hassium_Button.Text = "Hs";
+            this.Hassium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Hassium_Label
+            // 
+            this.Hassium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Hassium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Hassium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Hassium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Hassium_Label.Name = "Hassium_Label";
+            this.Hassium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Hassium_Label.TabIndex = 6;
+            this.Hassium_Label.Text = "108";
             // 
             // panel233
             // 
@@ -7482,8 +9640,8 @@ namespace VirtualChem.Forms
             // panel237
             // 
             this.panel237.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel237.Controls.Add(this.button115);
-            this.panel237.Controls.Add(this.label115);
+            this.panel237.Controls.Add(this.Bohrium_Button);
+            this.panel237.Controls.Add(this.Bohrium_Label);
             this.panel237.Controls.Add(this.panel238);
             this.panel237.Controls.Add(this.panel239);
             this.panel237.Controls.Add(this.panel240);
@@ -7493,6 +9651,32 @@ namespace VirtualChem.Forms
             this.panel237.Name = "panel237";
             this.panel237.Size = new System.Drawing.Size(55, 65);
             this.panel237.TabIndex = 24;
+            // 
+            // Bohrium_Button
+            // 
+            this.Bohrium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Bohrium_Button.FlatAppearance.BorderSize = 0;
+            this.Bohrium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Bohrium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Bohrium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Bohrium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Bohrium_Button.Name = "Bohrium_Button";
+            this.Bohrium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Bohrium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Bohrium_Button.TabIndex = 7;
+            this.Bohrium_Button.Text = "Bh";
+            this.Bohrium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Bohrium_Label
+            // 
+            this.Bohrium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Bohrium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Bohrium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Bohrium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Bohrium_Label.Name = "Bohrium_Label";
+            this.Bohrium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Bohrium_Label.TabIndex = 6;
+            this.Bohrium_Label.Text = "107";
             // 
             // panel238
             // 
@@ -7533,8 +9717,8 @@ namespace VirtualChem.Forms
             // panel242
             // 
             this.panel242.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel242.Controls.Add(this.button114);
-            this.panel242.Controls.Add(this.label114);
+            this.panel242.Controls.Add(this.Seaborgium_Button);
+            this.panel242.Controls.Add(this.Seaborgium_Label);
             this.panel242.Controls.Add(this.panel243);
             this.panel242.Controls.Add(this.panel244);
             this.panel242.Controls.Add(this.panel245);
@@ -7544,6 +9728,32 @@ namespace VirtualChem.Forms
             this.panel242.Name = "panel242";
             this.panel242.Size = new System.Drawing.Size(55, 65);
             this.panel242.TabIndex = 23;
+            // 
+            // Seaborgium_Button
+            // 
+            this.Seaborgium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Seaborgium_Button.FlatAppearance.BorderSize = 0;
+            this.Seaborgium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Seaborgium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Seaborgium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Seaborgium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Seaborgium_Button.Name = "Seaborgium_Button";
+            this.Seaborgium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Seaborgium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Seaborgium_Button.TabIndex = 7;
+            this.Seaborgium_Button.Text = "Sg";
+            this.Seaborgium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Seaborgium_Label
+            // 
+            this.Seaborgium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Seaborgium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Seaborgium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Seaborgium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Seaborgium_Label.Name = "Seaborgium_Label";
+            this.Seaborgium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Seaborgium_Label.TabIndex = 6;
+            this.Seaborgium_Label.Text = "106";
             // 
             // panel243
             // 
@@ -7584,8 +9794,8 @@ namespace VirtualChem.Forms
             // panel247
             // 
             this.panel247.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel247.Controls.Add(this.button113);
-            this.panel247.Controls.Add(this.label113);
+            this.panel247.Controls.Add(this.Dubnium_Button);
+            this.panel247.Controls.Add(this.Dubnium_Label);
             this.panel247.Controls.Add(this.panel248);
             this.panel247.Controls.Add(this.panel249);
             this.panel247.Controls.Add(this.panel250);
@@ -7595,6 +9805,32 @@ namespace VirtualChem.Forms
             this.panel247.Name = "panel247";
             this.panel247.Size = new System.Drawing.Size(55, 65);
             this.panel247.TabIndex = 22;
+            // 
+            // Dubnium_Button
+            // 
+            this.Dubnium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Dubnium_Button.FlatAppearance.BorderSize = 0;
+            this.Dubnium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Dubnium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Dubnium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Dubnium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Dubnium_Button.Name = "Dubnium_Button";
+            this.Dubnium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Dubnium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Dubnium_Button.TabIndex = 7;
+            this.Dubnium_Button.Text = "Db";
+            this.Dubnium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Dubnium_Label
+            // 
+            this.Dubnium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Dubnium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Dubnium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Dubnium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Dubnium_Label.Name = "Dubnium_Label";
+            this.Dubnium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Dubnium_Label.TabIndex = 6;
+            this.Dubnium_Label.Text = "105";
             // 
             // panel248
             // 
@@ -7635,8 +9871,8 @@ namespace VirtualChem.Forms
             // panel252
             // 
             this.panel252.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel252.Controls.Add(this.button112);
-            this.panel252.Controls.Add(this.label112);
+            this.panel252.Controls.Add(this.Rutherfordium_Button);
+            this.panel252.Controls.Add(this.Rutherfordium_Label);
             this.panel252.Controls.Add(this.panel253);
             this.panel252.Controls.Add(this.panel254);
             this.panel252.Controls.Add(this.panel255);
@@ -7646,6 +9882,32 @@ namespace VirtualChem.Forms
             this.panel252.Name = "panel252";
             this.panel252.Size = new System.Drawing.Size(55, 65);
             this.panel252.TabIndex = 21;
+            // 
+            // Rutherfordium_Button
+            // 
+            this.Rutherfordium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Rutherfordium_Button.FlatAppearance.BorderSize = 0;
+            this.Rutherfordium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Rutherfordium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Rutherfordium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Rutherfordium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Rutherfordium_Button.Name = "Rutherfordium_Button";
+            this.Rutherfordium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Rutherfordium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Rutherfordium_Button.TabIndex = 7;
+            this.Rutherfordium_Button.Text = "Rf";
+            this.Rutherfordium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Rutherfordium_Label
+            // 
+            this.Rutherfordium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Rutherfordium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Rutherfordium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Rutherfordium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Rutherfordium_Label.Name = "Rutherfordium_Label";
+            this.Rutherfordium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Rutherfordium_Label.TabIndex = 6;
+            this.Rutherfordium_Label.Text = "104";
             // 
             // panel253
             // 
@@ -7686,8 +9948,8 @@ namespace VirtualChem.Forms
             // panel257
             // 
             this.panel257.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel257.Controls.Add(this.button111);
-            this.panel257.Controls.Add(this.label111);
+            this.panel257.Controls.Add(this.Act_Button);
+            this.panel257.Controls.Add(this.Act_Label);
             this.panel257.Controls.Add(this.panel258);
             this.panel257.Controls.Add(this.panel259);
             this.panel257.Controls.Add(this.panel260);
@@ -7697,6 +9959,32 @@ namespace VirtualChem.Forms
             this.panel257.Name = "panel257";
             this.panel257.Size = new System.Drawing.Size(55, 65);
             this.panel257.TabIndex = 20;
+            // 
+            // Act_Button
+            // 
+            this.Act_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Act_Button.FlatAppearance.BorderSize = 0;
+            this.Act_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Act_Button.Font = new System.Drawing.Font("Century Gothic", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
+            this.Act_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Act_Button.Location = new System.Drawing.Point(2, 17);
+            this.Act_Button.Name = "Act_Button";
+            this.Act_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Act_Button.Size = new System.Drawing.Size(51, 46);
+            this.Act_Button.TabIndex = 7;
+            this.Act_Button.Text = "Act.";
+            this.Act_Button.UseVisualStyleBackColor = true;
+            // 
+            // Act_Label
+            // 
+            this.Act_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Act_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Act_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Act_Label.Location = new System.Drawing.Point(2, 2);
+            this.Act_Label.Name = "Act_Label";
+            this.Act_Label.Size = new System.Drawing.Size(51, 15);
+            this.Act_Label.TabIndex = 6;
+            this.Act_Label.Text = "89-103";
             // 
             // panel258
             // 
@@ -7737,8 +10025,8 @@ namespace VirtualChem.Forms
             // panel262
             // 
             this.panel262.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel262.Controls.Add(this.button20);
-            this.panel262.Controls.Add(this.label20);
+            this.panel262.Controls.Add(this.Radium_Button);
+            this.panel262.Controls.Add(this.Radium_Label);
             this.panel262.Controls.Add(this.panel263);
             this.panel262.Controls.Add(this.panel264);
             this.panel262.Controls.Add(this.panel265);
@@ -7748,6 +10036,32 @@ namespace VirtualChem.Forms
             this.panel262.Name = "panel262";
             this.panel262.Size = new System.Drawing.Size(55, 65);
             this.panel262.TabIndex = 19;
+            // 
+            // Radium_Button
+            // 
+            this.Radium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Radium_Button.FlatAppearance.BorderSize = 0;
+            this.Radium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Radium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Radium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Radium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Radium_Button.Name = "Radium_Button";
+            this.Radium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Radium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Radium_Button.TabIndex = 7;
+            this.Radium_Button.Text = "Ra";
+            this.Radium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Radium_Label
+            // 
+            this.Radium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Radium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Radium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Radium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Radium_Label.Name = "Radium_Label";
+            this.Radium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Radium_Label.TabIndex = 6;
+            this.Radium_Label.Text = "88";
             // 
             // panel263
             // 
@@ -7788,8 +10102,8 @@ namespace VirtualChem.Forms
             // panel267
             // 
             this.panel267.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel267.Controls.Add(this.button19);
-            this.panel267.Controls.Add(this.label19);
+            this.panel267.Controls.Add(this.Francium_Button);
+            this.panel267.Controls.Add(this.Francium_Label);
             this.panel267.Controls.Add(this.panel268);
             this.panel267.Controls.Add(this.panel269);
             this.panel267.Controls.Add(this.panel270);
@@ -7799,6 +10113,32 @@ namespace VirtualChem.Forms
             this.panel267.Name = "panel267";
             this.panel267.Size = new System.Drawing.Size(55, 65);
             this.panel267.TabIndex = 18;
+            // 
+            // Francium_Button
+            // 
+            this.Francium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Francium_Button.FlatAppearance.BorderSize = 0;
+            this.Francium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Francium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Francium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Francium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Francium_Button.Name = "Francium_Button";
+            this.Francium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Francium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Francium_Button.TabIndex = 7;
+            this.Francium_Button.Text = "Fr";
+            this.Francium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Francium_Label
+            // 
+            this.Francium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Francium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Francium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Francium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Francium_Label.Name = "Francium_Label";
+            this.Francium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Francium_Label.TabIndex = 6;
+            this.Francium_Label.Text = "87";
             // 
             // panel268
             // 
@@ -7922,8 +10262,8 @@ namespace VirtualChem.Forms
             // panel97
             // 
             this.panel97.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel97.Controls.Add(this.button49);
-            this.panel97.Controls.Add(this.label49);
+            this.panel97.Controls.Add(this.Lutetium_Button);
+            this.panel97.Controls.Add(this.Lutetium_Label);
             this.panel97.Controls.Add(this.panel98);
             this.panel97.Controls.Add(this.panel99);
             this.panel97.Controls.Add(this.panel100);
@@ -7933,6 +10273,35 @@ namespace VirtualChem.Forms
             this.panel97.Name = "panel97";
             this.panel97.Size = new System.Drawing.Size(55, 65);
             this.panel97.TabIndex = 34;
+            // 
+            // Lutetium_Button
+            // 
+            this.Lutetium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Lutetium_Button.FlatAppearance.BorderSize = 0;
+            this.Lutetium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Lutetium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Lutetium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Lutetium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Lutetium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Lutetium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Lutetium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Lutetium_Button.Name = "Lutetium_Button";
+            this.Lutetium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Lutetium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Lutetium_Button.TabIndex = 7;
+            this.Lutetium_Button.Text = "Lu";
+            this.Lutetium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Lutetium_Label
+            // 
+            this.Lutetium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Lutetium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Lutetium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Lutetium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Lutetium_Label.Name = "Lutetium_Label";
+            this.Lutetium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Lutetium_Label.TabIndex = 6;
+            this.Lutetium_Label.Text = "71";
             // 
             // panel98
             // 
@@ -7973,8 +10342,8 @@ namespace VirtualChem.Forms
             // panel102
             // 
             this.panel102.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel102.Controls.Add(this.button47);
-            this.panel102.Controls.Add(this.label47);
+            this.panel102.Controls.Add(this.Ytterbium_Button);
+            this.panel102.Controls.Add(this.Ytterbium_Label);
             this.panel102.Controls.Add(this.panel103);
             this.panel102.Controls.Add(this.panel104);
             this.panel102.Controls.Add(this.panel105);
@@ -7984,6 +10353,35 @@ namespace VirtualChem.Forms
             this.panel102.Name = "panel102";
             this.panel102.Size = new System.Drawing.Size(55, 65);
             this.panel102.TabIndex = 33;
+            // 
+            // Ytterbium_Button
+            // 
+            this.Ytterbium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Ytterbium_Button.FlatAppearance.BorderSize = 0;
+            this.Ytterbium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Ytterbium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Ytterbium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Ytterbium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Ytterbium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Ytterbium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Ytterbium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Ytterbium_Button.Name = "Ytterbium_Button";
+            this.Ytterbium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Ytterbium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Ytterbium_Button.TabIndex = 7;
+            this.Ytterbium_Button.Text = "Yb";
+            this.Ytterbium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Ytterbium_Label
+            // 
+            this.Ytterbium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Ytterbium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Ytterbium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Ytterbium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Ytterbium_Label.Name = "Ytterbium_Label";
+            this.Ytterbium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Ytterbium_Label.TabIndex = 6;
+            this.Ytterbium_Label.Text = "70";
             // 
             // panel103
             // 
@@ -8024,8 +10422,8 @@ namespace VirtualChem.Forms
             // panel107
             // 
             this.panel107.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel107.Controls.Add(this.button45);
-            this.panel107.Controls.Add(this.label45);
+            this.panel107.Controls.Add(this.Thulium_Button);
+            this.panel107.Controls.Add(this.Thulium_Label);
             this.panel107.Controls.Add(this.panel108);
             this.panel107.Controls.Add(this.panel109);
             this.panel107.Controls.Add(this.panel110);
@@ -8035,6 +10433,35 @@ namespace VirtualChem.Forms
             this.panel107.Name = "panel107";
             this.panel107.Size = new System.Drawing.Size(55, 65);
             this.panel107.TabIndex = 32;
+            // 
+            // Thulium_Button
+            // 
+            this.Thulium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Thulium_Button.FlatAppearance.BorderSize = 0;
+            this.Thulium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Thulium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Thulium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Thulium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Thulium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Thulium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Thulium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Thulium_Button.Name = "Thulium_Button";
+            this.Thulium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Thulium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Thulium_Button.TabIndex = 7;
+            this.Thulium_Button.Text = "Tm";
+            this.Thulium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Thulium_Label
+            // 
+            this.Thulium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Thulium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Thulium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Thulium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Thulium_Label.Name = "Thulium_Label";
+            this.Thulium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Thulium_Label.TabIndex = 6;
+            this.Thulium_Label.Text = "69";
             // 
             // panel108
             // 
@@ -8075,8 +10502,8 @@ namespace VirtualChem.Forms
             // panel112
             // 
             this.panel112.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel112.Controls.Add(this.button43);
-            this.panel112.Controls.Add(this.label43);
+            this.panel112.Controls.Add(this.Erbium_Button);
+            this.panel112.Controls.Add(this.Erbium_Label);
             this.panel112.Controls.Add(this.panel113);
             this.panel112.Controls.Add(this.panel114);
             this.panel112.Controls.Add(this.panel115);
@@ -8086,6 +10513,35 @@ namespace VirtualChem.Forms
             this.panel112.Name = "panel112";
             this.panel112.Size = new System.Drawing.Size(55, 65);
             this.panel112.TabIndex = 31;
+            // 
+            // Erbium_Button
+            // 
+            this.Erbium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Erbium_Button.FlatAppearance.BorderSize = 0;
+            this.Erbium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Erbium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Erbium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Erbium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Erbium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Erbium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Erbium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Erbium_Button.Name = "Erbium_Button";
+            this.Erbium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Erbium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Erbium_Button.TabIndex = 7;
+            this.Erbium_Button.Text = "Er";
+            this.Erbium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Erbium_Label
+            // 
+            this.Erbium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Erbium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Erbium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Erbium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Erbium_Label.Name = "Erbium_Label";
+            this.Erbium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Erbium_Label.TabIndex = 6;
+            this.Erbium_Label.Text = "68";
             // 
             // panel113
             // 
@@ -8126,8 +10582,8 @@ namespace VirtualChem.Forms
             // panel117
             // 
             this.panel117.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel117.Controls.Add(this.button42);
-            this.panel117.Controls.Add(this.label42);
+            this.panel117.Controls.Add(this.Holmium_Button);
+            this.panel117.Controls.Add(this.Holmium_Label);
             this.panel117.Controls.Add(this.panel118);
             this.panel117.Controls.Add(this.panel119);
             this.panel117.Controls.Add(this.panel120);
@@ -8137,6 +10593,35 @@ namespace VirtualChem.Forms
             this.panel117.Name = "panel117";
             this.panel117.Size = new System.Drawing.Size(55, 65);
             this.panel117.TabIndex = 30;
+            // 
+            // Holmium_Button
+            // 
+            this.Holmium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Holmium_Button.FlatAppearance.BorderSize = 0;
+            this.Holmium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Holmium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Holmium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Holmium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Holmium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Holmium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Holmium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Holmium_Button.Name = "Holmium_Button";
+            this.Holmium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Holmium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Holmium_Button.TabIndex = 7;
+            this.Holmium_Button.Text = "Ho";
+            this.Holmium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Holmium_Label
+            // 
+            this.Holmium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Holmium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Holmium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Holmium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Holmium_Label.Name = "Holmium_Label";
+            this.Holmium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Holmium_Label.TabIndex = 6;
+            this.Holmium_Label.Text = "67";
             // 
             // panel118
             // 
@@ -8177,8 +10662,8 @@ namespace VirtualChem.Forms
             // panel122
             // 
             this.panel122.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel122.Controls.Add(this.button39);
-            this.panel122.Controls.Add(this.label39);
+            this.panel122.Controls.Add(this.Dysprosium_Button);
+            this.panel122.Controls.Add(this.Dysprosium_Label);
             this.panel122.Controls.Add(this.panel123);
             this.panel122.Controls.Add(this.panel124);
             this.panel122.Controls.Add(this.panel125);
@@ -8188,6 +10673,35 @@ namespace VirtualChem.Forms
             this.panel122.Name = "panel122";
             this.panel122.Size = new System.Drawing.Size(55, 65);
             this.panel122.TabIndex = 29;
+            // 
+            // Dysprosium_Button
+            // 
+            this.Dysprosium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Dysprosium_Button.FlatAppearance.BorderSize = 0;
+            this.Dysprosium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Dysprosium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Dysprosium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Dysprosium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Dysprosium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Dysprosium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Dysprosium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Dysprosium_Button.Name = "Dysprosium_Button";
+            this.Dysprosium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Dysprosium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Dysprosium_Button.TabIndex = 7;
+            this.Dysprosium_Button.Text = "Dy";
+            this.Dysprosium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Dysprosium_Label
+            // 
+            this.Dysprosium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Dysprosium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Dysprosium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Dysprosium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Dysprosium_Label.Name = "Dysprosium_Label";
+            this.Dysprosium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Dysprosium_Label.TabIndex = 6;
+            this.Dysprosium_Label.Text = "66";
             // 
             // panel123
             // 
@@ -8228,8 +10742,8 @@ namespace VirtualChem.Forms
             // panel127
             // 
             this.panel127.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel127.Controls.Add(this.button37);
-            this.panel127.Controls.Add(this.label37);
+            this.panel127.Controls.Add(this.Terbium_Button);
+            this.panel127.Controls.Add(this.Terbium_Label);
             this.panel127.Controls.Add(this.panel128);
             this.panel127.Controls.Add(this.panel129);
             this.panel127.Controls.Add(this.panel130);
@@ -8239,6 +10753,35 @@ namespace VirtualChem.Forms
             this.panel127.Name = "panel127";
             this.panel127.Size = new System.Drawing.Size(55, 65);
             this.panel127.TabIndex = 28;
+            // 
+            // Terbium_Button
+            // 
+            this.Terbium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Terbium_Button.FlatAppearance.BorderSize = 0;
+            this.Terbium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Terbium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Terbium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Terbium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Terbium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Terbium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Terbium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Terbium_Button.Name = "Terbium_Button";
+            this.Terbium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Terbium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Terbium_Button.TabIndex = 7;
+            this.Terbium_Button.Text = "Tb";
+            this.Terbium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Terbium_Label
+            // 
+            this.Terbium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Terbium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Terbium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Terbium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Terbium_Label.Name = "Terbium_Label";
+            this.Terbium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Terbium_Label.TabIndex = 6;
+            this.Terbium_Label.Text = "65";
             // 
             // panel128
             // 
@@ -8279,8 +10822,8 @@ namespace VirtualChem.Forms
             // panel132
             // 
             this.panel132.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel132.Controls.Add(this.button36);
-            this.panel132.Controls.Add(this.label36);
+            this.panel132.Controls.Add(this.Gadolinium_Button);
+            this.panel132.Controls.Add(this.Gadolinium_Label);
             this.panel132.Controls.Add(this.panel133);
             this.panel132.Controls.Add(this.panel134);
             this.panel132.Controls.Add(this.panel135);
@@ -8290,6 +10833,35 @@ namespace VirtualChem.Forms
             this.panel132.Name = "panel132";
             this.panel132.Size = new System.Drawing.Size(55, 65);
             this.panel132.TabIndex = 27;
+            // 
+            // Gadolinium_Button
+            // 
+            this.Gadolinium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Gadolinium_Button.FlatAppearance.BorderSize = 0;
+            this.Gadolinium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Gadolinium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Gadolinium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Gadolinium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Gadolinium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Gadolinium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Gadolinium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Gadolinium_Button.Name = "Gadolinium_Button";
+            this.Gadolinium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Gadolinium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Gadolinium_Button.TabIndex = 7;
+            this.Gadolinium_Button.Text = "Gd";
+            this.Gadolinium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Gadolinium_Label
+            // 
+            this.Gadolinium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Gadolinium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Gadolinium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Gadolinium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Gadolinium_Label.Name = "Gadolinium_Label";
+            this.Gadolinium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Gadolinium_Label.TabIndex = 6;
+            this.Gadolinium_Label.Text = "64";
             // 
             // panel133
             // 
@@ -8330,8 +10902,8 @@ namespace VirtualChem.Forms
             // panel137
             // 
             this.panel137.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel137.Controls.Add(this.button33);
-            this.panel137.Controls.Add(this.label33);
+            this.panel137.Controls.Add(this.Europium_Button);
+            this.panel137.Controls.Add(this.Europium_Label);
             this.panel137.Controls.Add(this.panel138);
             this.panel137.Controls.Add(this.panel139);
             this.panel137.Controls.Add(this.panel140);
@@ -8341,6 +10913,35 @@ namespace VirtualChem.Forms
             this.panel137.Name = "panel137";
             this.panel137.Size = new System.Drawing.Size(55, 65);
             this.panel137.TabIndex = 26;
+            // 
+            // Europium_Button
+            // 
+            this.Europium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Europium_Button.FlatAppearance.BorderSize = 0;
+            this.Europium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Europium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Europium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Europium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Europium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Europium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Europium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Europium_Button.Name = "Europium_Button";
+            this.Europium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Europium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Europium_Button.TabIndex = 7;
+            this.Europium_Button.Text = "Eu";
+            this.Europium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Europium_Label
+            // 
+            this.Europium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Europium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Europium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Europium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Europium_Label.Name = "Europium_Label";
+            this.Europium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Europium_Label.TabIndex = 6;
+            this.Europium_Label.Text = "63";
             // 
             // panel138
             // 
@@ -8381,8 +10982,8 @@ namespace VirtualChem.Forms
             // panel142
             // 
             this.panel142.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel142.Controls.Add(this.button32);
-            this.panel142.Controls.Add(this.label32);
+            this.panel142.Controls.Add(this.Samarium_Button);
+            this.panel142.Controls.Add(this.Samarium_Label);
             this.panel142.Controls.Add(this.panel143);
             this.panel142.Controls.Add(this.panel144);
             this.panel142.Controls.Add(this.panel145);
@@ -8392,6 +10993,35 @@ namespace VirtualChem.Forms
             this.panel142.Name = "panel142";
             this.panel142.Size = new System.Drawing.Size(55, 65);
             this.panel142.TabIndex = 25;
+            // 
+            // Samarium_Button
+            // 
+            this.Samarium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Samarium_Button.FlatAppearance.BorderSize = 0;
+            this.Samarium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Samarium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Samarium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Samarium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Samarium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Samarium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Samarium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Samarium_Button.Name = "Samarium_Button";
+            this.Samarium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Samarium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Samarium_Button.TabIndex = 7;
+            this.Samarium_Button.Text = "Sm";
+            this.Samarium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Samarium_Label
+            // 
+            this.Samarium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Samarium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Samarium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Samarium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Samarium_Label.Name = "Samarium_Label";
+            this.Samarium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Samarium_Label.TabIndex = 6;
+            this.Samarium_Label.Text = "62";
             // 
             // panel143
             // 
@@ -8432,8 +11062,8 @@ namespace VirtualChem.Forms
             // panel147
             // 
             this.panel147.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel147.Controls.Add(this.button29);
-            this.panel147.Controls.Add(this.label29);
+            this.panel147.Controls.Add(this.Promethium_Button);
+            this.panel147.Controls.Add(this.Promethium_Label);
             this.panel147.Controls.Add(this.panel148);
             this.panel147.Controls.Add(this.panel149);
             this.panel147.Controls.Add(this.panel150);
@@ -8443,6 +11073,35 @@ namespace VirtualChem.Forms
             this.panel147.Name = "panel147";
             this.panel147.Size = new System.Drawing.Size(55, 65);
             this.panel147.TabIndex = 24;
+            // 
+            // Promethium_Button
+            // 
+            this.Promethium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Promethium_Button.FlatAppearance.BorderSize = 0;
+            this.Promethium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Promethium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Promethium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Promethium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Promethium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Promethium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Promethium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Promethium_Button.Name = "Promethium_Button";
+            this.Promethium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Promethium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Promethium_Button.TabIndex = 7;
+            this.Promethium_Button.Text = "Pm";
+            this.Promethium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Promethium_Label
+            // 
+            this.Promethium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Promethium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Promethium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Promethium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Promethium_Label.Name = "Promethium_Label";
+            this.Promethium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Promethium_Label.TabIndex = 6;
+            this.Promethium_Label.Text = "61";
             // 
             // panel148
             // 
@@ -8483,8 +11142,8 @@ namespace VirtualChem.Forms
             // panel152
             // 
             this.panel152.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel152.Controls.Add(this.button28);
-            this.panel152.Controls.Add(this.label28);
+            this.panel152.Controls.Add(this.Neodymium_Button);
+            this.panel152.Controls.Add(this.Neodymium_Label);
             this.panel152.Controls.Add(this.panel153);
             this.panel152.Controls.Add(this.panel154);
             this.panel152.Controls.Add(this.panel155);
@@ -8494,6 +11153,35 @@ namespace VirtualChem.Forms
             this.panel152.Name = "panel152";
             this.panel152.Size = new System.Drawing.Size(55, 65);
             this.panel152.TabIndex = 23;
+            // 
+            // Neodymium_Button
+            // 
+            this.Neodymium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Neodymium_Button.FlatAppearance.BorderSize = 0;
+            this.Neodymium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Neodymium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Neodymium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Neodymium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Neodymium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Neodymium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Neodymium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Neodymium_Button.Name = "Neodymium_Button";
+            this.Neodymium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Neodymium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Neodymium_Button.TabIndex = 7;
+            this.Neodymium_Button.Text = "Nd";
+            this.Neodymium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Neodymium_Label
+            // 
+            this.Neodymium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Neodymium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Neodymium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Neodymium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Neodymium_Label.Name = "Neodymium_Label";
+            this.Neodymium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Neodymium_Label.TabIndex = 6;
+            this.Neodymium_Label.Text = "60";
             // 
             // panel153
             // 
@@ -8534,8 +11222,8 @@ namespace VirtualChem.Forms
             // panel157
             // 
             this.panel157.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel157.Controls.Add(this.button25);
-            this.panel157.Controls.Add(this.label25);
+            this.panel157.Controls.Add(this.Praseodymium_Button);
+            this.panel157.Controls.Add(this.Praseodymium_Label);
             this.panel157.Controls.Add(this.panel158);
             this.panel157.Controls.Add(this.panel159);
             this.panel157.Controls.Add(this.panel160);
@@ -8545,6 +11233,35 @@ namespace VirtualChem.Forms
             this.panel157.Name = "panel157";
             this.panel157.Size = new System.Drawing.Size(55, 65);
             this.panel157.TabIndex = 22;
+            // 
+            // Praseodymium_Button
+            // 
+            this.Praseodymium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Praseodymium_Button.FlatAppearance.BorderSize = 0;
+            this.Praseodymium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Praseodymium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Praseodymium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Praseodymium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Praseodymium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Praseodymium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Praseodymium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Praseodymium_Button.Name = "Praseodymium_Button";
+            this.Praseodymium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Praseodymium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Praseodymium_Button.TabIndex = 7;
+            this.Praseodymium_Button.Text = "Pr";
+            this.Praseodymium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Praseodymium_Label
+            // 
+            this.Praseodymium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Praseodymium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Praseodymium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Praseodymium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Praseodymium_Label.Name = "Praseodymium_Label";
+            this.Praseodymium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Praseodymium_Label.TabIndex = 6;
+            this.Praseodymium_Label.Text = "59";
             // 
             // panel158
             // 
@@ -8585,8 +11302,8 @@ namespace VirtualChem.Forms
             // panel162
             // 
             this.panel162.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel162.Controls.Add(this.button24);
-            this.panel162.Controls.Add(this.label24);
+            this.panel162.Controls.Add(this.Cerium_Button);
+            this.panel162.Controls.Add(this.Cerium_Label);
             this.panel162.Controls.Add(this.panel163);
             this.panel162.Controls.Add(this.panel164);
             this.panel162.Controls.Add(this.panel165);
@@ -8596,6 +11313,35 @@ namespace VirtualChem.Forms
             this.panel162.Name = "panel162";
             this.panel162.Size = new System.Drawing.Size(55, 65);
             this.panel162.TabIndex = 21;
+            // 
+            // Cerium_Button
+            // 
+            this.Cerium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Cerium_Button.FlatAppearance.BorderSize = 0;
+            this.Cerium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Cerium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Cerium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Cerium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Cerium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Cerium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Cerium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Cerium_Button.Name = "Cerium_Button";
+            this.Cerium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Cerium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Cerium_Button.TabIndex = 7;
+            this.Cerium_Button.Text = "Ce";
+            this.Cerium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Cerium_Label
+            // 
+            this.Cerium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Cerium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Cerium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Cerium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Cerium_Label.Name = "Cerium_Label";
+            this.Cerium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Cerium_Label.TabIndex = 6;
+            this.Cerium_Label.Text = "58";
             // 
             // panel163
             // 
@@ -8636,8 +11382,8 @@ namespace VirtualChem.Forms
             // panel167
             // 
             this.panel167.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel167.Controls.Add(this.button21);
-            this.panel167.Controls.Add(this.label21);
+            this.panel167.Controls.Add(this.Lanthanum_Button);
+            this.panel167.Controls.Add(this.Lanthanum_Label);
             this.panel167.Controls.Add(this.panel168);
             this.panel167.Controls.Add(this.panel169);
             this.panel167.Controls.Add(this.panel170);
@@ -8647,6 +11393,35 @@ namespace VirtualChem.Forms
             this.panel167.Name = "panel167";
             this.panel167.Size = new System.Drawing.Size(55, 65);
             this.panel167.TabIndex = 20;
+            // 
+            // Lanthanum_Button
+            // 
+            this.Lanthanum_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Lanthanum_Button.FlatAppearance.BorderSize = 0;
+            this.Lanthanum_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Lanthanum_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Lanthanum_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Lanthanum_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Lanthanum_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Lanthanum_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Lanthanum_Button.Location = new System.Drawing.Point(2, 17);
+            this.Lanthanum_Button.Name = "Lanthanum_Button";
+            this.Lanthanum_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Lanthanum_Button.Size = new System.Drawing.Size(51, 46);
+            this.Lanthanum_Button.TabIndex = 7;
+            this.Lanthanum_Button.Text = "La";
+            this.Lanthanum_Button.UseVisualStyleBackColor = true;
+            // 
+            // Lanthanum_Label
+            // 
+            this.Lanthanum_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Lanthanum_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Lanthanum_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Lanthanum_Label.Location = new System.Drawing.Point(2, 2);
+            this.Lanthanum_Label.Name = "Lanthanum_Label";
+            this.Lanthanum_Label.Size = new System.Drawing.Size(51, 15);
+            this.Lanthanum_Label.TabIndex = 6;
+            this.Lanthanum_Label.Text = "57";
             // 
             // panel168
             // 
@@ -8860,8 +11635,8 @@ namespace VirtualChem.Forms
             // panel82
             // 
             this.panel82.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel82.Controls.Add(this.button50);
-            this.panel82.Controls.Add(this.label50);
+            this.panel82.Controls.Add(this.Lawrencium_Button);
+            this.panel82.Controls.Add(this.Lawrencium_Label);
             this.panel82.Controls.Add(this.panel83);
             this.panel82.Controls.Add(this.panel84);
             this.panel82.Controls.Add(this.panel85);
@@ -8871,6 +11646,35 @@ namespace VirtualChem.Forms
             this.panel82.Name = "panel82";
             this.panel82.Size = new System.Drawing.Size(55, 65);
             this.panel82.TabIndex = 16;
+            // 
+            // Lawrencium_Button
+            // 
+            this.Lawrencium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Lawrencium_Button.FlatAppearance.BorderSize = 0;
+            this.Lawrencium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Lawrencium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Lawrencium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Lawrencium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Lawrencium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Lawrencium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Lawrencium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Lawrencium_Button.Name = "Lawrencium_Button";
+            this.Lawrencium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Lawrencium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Lawrencium_Button.TabIndex = 7;
+            this.Lawrencium_Button.Text = "Lr";
+            this.Lawrencium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Lawrencium_Label
+            // 
+            this.Lawrencium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Lawrencium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Lawrencium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Lawrencium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Lawrencium_Label.Name = "Lawrencium_Label";
+            this.Lawrencium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Lawrencium_Label.TabIndex = 6;
+            this.Lawrencium_Label.Text = "103";
             // 
             // panel83
             // 
@@ -8911,8 +11715,8 @@ namespace VirtualChem.Forms
             // panel77
             // 
             this.panel77.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel77.Controls.Add(this.button48);
-            this.panel77.Controls.Add(this.label48);
+            this.panel77.Controls.Add(this.Nobelium_Button);
+            this.panel77.Controls.Add(this.Nobelium_Label);
             this.panel77.Controls.Add(this.panel78);
             this.panel77.Controls.Add(this.panel79);
             this.panel77.Controls.Add(this.panel80);
@@ -8922,6 +11726,35 @@ namespace VirtualChem.Forms
             this.panel77.Name = "panel77";
             this.panel77.Size = new System.Drawing.Size(55, 65);
             this.panel77.TabIndex = 15;
+            // 
+            // Nobelium_Button
+            // 
+            this.Nobelium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Nobelium_Button.FlatAppearance.BorderSize = 0;
+            this.Nobelium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Nobelium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Nobelium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Nobelium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Nobelium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Nobelium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Nobelium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Nobelium_Button.Name = "Nobelium_Button";
+            this.Nobelium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Nobelium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Nobelium_Button.TabIndex = 7;
+            this.Nobelium_Button.Text = "No";
+            this.Nobelium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Nobelium_Label
+            // 
+            this.Nobelium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Nobelium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Nobelium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Nobelium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Nobelium_Label.Name = "Nobelium_Label";
+            this.Nobelium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Nobelium_Label.TabIndex = 6;
+            this.Nobelium_Label.Text = "102";
             // 
             // panel78
             // 
@@ -8962,8 +11795,8 @@ namespace VirtualChem.Forms
             // panel72
             // 
             this.panel72.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel72.Controls.Add(this.button46);
-            this.panel72.Controls.Add(this.label46);
+            this.panel72.Controls.Add(this.Mendelevium_Button);
+            this.panel72.Controls.Add(this.Mendelevium_Label);
             this.panel72.Controls.Add(this.panel73);
             this.panel72.Controls.Add(this.panel74);
             this.panel72.Controls.Add(this.panel75);
@@ -8973,6 +11806,35 @@ namespace VirtualChem.Forms
             this.panel72.Name = "panel72";
             this.panel72.Size = new System.Drawing.Size(55, 65);
             this.panel72.TabIndex = 14;
+            // 
+            // Mendelevium_Button
+            // 
+            this.Mendelevium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Mendelevium_Button.FlatAppearance.BorderSize = 0;
+            this.Mendelevium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Mendelevium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Mendelevium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Mendelevium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Mendelevium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Mendelevium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Mendelevium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Mendelevium_Button.Name = "Mendelevium_Button";
+            this.Mendelevium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Mendelevium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Mendelevium_Button.TabIndex = 7;
+            this.Mendelevium_Button.Text = "Md";
+            this.Mendelevium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Mendelevium_Label
+            // 
+            this.Mendelevium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Mendelevium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Mendelevium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Mendelevium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Mendelevium_Label.Name = "Mendelevium_Label";
+            this.Mendelevium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Mendelevium_Label.TabIndex = 6;
+            this.Mendelevium_Label.Text = "101";
             // 
             // panel73
             // 
@@ -9013,8 +11875,8 @@ namespace VirtualChem.Forms
             // panel67
             // 
             this.panel67.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel67.Controls.Add(this.button44);
-            this.panel67.Controls.Add(this.label44);
+            this.panel67.Controls.Add(this.Fermium_Button);
+            this.panel67.Controls.Add(this.Fermium_Label);
             this.panel67.Controls.Add(this.panel68);
             this.panel67.Controls.Add(this.panel69);
             this.panel67.Controls.Add(this.panel70);
@@ -9024,6 +11886,35 @@ namespace VirtualChem.Forms
             this.panel67.Name = "panel67";
             this.panel67.Size = new System.Drawing.Size(55, 65);
             this.panel67.TabIndex = 13;
+            // 
+            // Fermium_Button
+            // 
+            this.Fermium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Fermium_Button.FlatAppearance.BorderSize = 0;
+            this.Fermium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Fermium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Fermium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Fermium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Fermium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Fermium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Fermium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Fermium_Button.Name = "Fermium_Button";
+            this.Fermium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Fermium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Fermium_Button.TabIndex = 7;
+            this.Fermium_Button.Text = "Fm";
+            this.Fermium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Fermium_Label
+            // 
+            this.Fermium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Fermium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Fermium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Fermium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Fermium_Label.Name = "Fermium_Label";
+            this.Fermium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Fermium_Label.TabIndex = 6;
+            this.Fermium_Label.Text = "100";
             // 
             // panel68
             // 
@@ -9064,8 +11955,8 @@ namespace VirtualChem.Forms
             // panel62
             // 
             this.panel62.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel62.Controls.Add(this.button41);
-            this.panel62.Controls.Add(this.label41);
+            this.panel62.Controls.Add(this.Einsteinium_Button);
+            this.panel62.Controls.Add(this.Einsteinium_Label);
             this.panel62.Controls.Add(this.panel63);
             this.panel62.Controls.Add(this.panel64);
             this.panel62.Controls.Add(this.panel65);
@@ -9075,6 +11966,35 @@ namespace VirtualChem.Forms
             this.panel62.Name = "panel62";
             this.panel62.Size = new System.Drawing.Size(55, 65);
             this.panel62.TabIndex = 12;
+            // 
+            // Einsteinium_Button
+            // 
+            this.Einsteinium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Einsteinium_Button.FlatAppearance.BorderSize = 0;
+            this.Einsteinium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Einsteinium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Einsteinium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Einsteinium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Einsteinium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Einsteinium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Einsteinium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Einsteinium_Button.Name = "Einsteinium_Button";
+            this.Einsteinium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Einsteinium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Einsteinium_Button.TabIndex = 7;
+            this.Einsteinium_Button.Text = "Es";
+            this.Einsteinium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Einsteinium_Label
+            // 
+            this.Einsteinium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Einsteinium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Einsteinium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Einsteinium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Einsteinium_Label.Name = "Einsteinium_Label";
+            this.Einsteinium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Einsteinium_Label.TabIndex = 6;
+            this.Einsteinium_Label.Text = "99";
             // 
             // panel63
             // 
@@ -9115,8 +12035,8 @@ namespace VirtualChem.Forms
             // panel57
             // 
             this.panel57.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel57.Controls.Add(this.button40);
-            this.panel57.Controls.Add(this.label40);
+            this.panel57.Controls.Add(this.Californium_Button);
+            this.panel57.Controls.Add(this.Californium_Label);
             this.panel57.Controls.Add(this.panel58);
             this.panel57.Controls.Add(this.panel59);
             this.panel57.Controls.Add(this.panel60);
@@ -9126,6 +12046,35 @@ namespace VirtualChem.Forms
             this.panel57.Name = "panel57";
             this.panel57.Size = new System.Drawing.Size(55, 65);
             this.panel57.TabIndex = 11;
+            // 
+            // Californium_Button
+            // 
+            this.Californium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Californium_Button.FlatAppearance.BorderSize = 0;
+            this.Californium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Californium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Californium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Californium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Californium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Californium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Californium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Californium_Button.Name = "Californium_Button";
+            this.Californium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Californium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Californium_Button.TabIndex = 7;
+            this.Californium_Button.Text = "Cf";
+            this.Californium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Californium_Label
+            // 
+            this.Californium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Californium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Californium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Californium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Californium_Label.Name = "Californium_Label";
+            this.Californium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Californium_Label.TabIndex = 6;
+            this.Californium_Label.Text = "98";
             // 
             // panel58
             // 
@@ -9166,8 +12115,8 @@ namespace VirtualChem.Forms
             // panel52
             // 
             this.panel52.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel52.Controls.Add(this.button38);
-            this.panel52.Controls.Add(this.label38);
+            this.panel52.Controls.Add(this.Berkelium_Button);
+            this.panel52.Controls.Add(this.Berkelium_Label);
             this.panel52.Controls.Add(this.panel53);
             this.panel52.Controls.Add(this.panel54);
             this.panel52.Controls.Add(this.panel55);
@@ -9177,6 +12126,35 @@ namespace VirtualChem.Forms
             this.panel52.Name = "panel52";
             this.panel52.Size = new System.Drawing.Size(55, 65);
             this.panel52.TabIndex = 10;
+            // 
+            // Berkelium_Button
+            // 
+            this.Berkelium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Berkelium_Button.FlatAppearance.BorderSize = 0;
+            this.Berkelium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Berkelium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Berkelium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Berkelium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Berkelium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Berkelium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Berkelium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Berkelium_Button.Name = "Berkelium_Button";
+            this.Berkelium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Berkelium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Berkelium_Button.TabIndex = 7;
+            this.Berkelium_Button.Text = "Bk";
+            this.Berkelium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Berkelium_Label
+            // 
+            this.Berkelium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Berkelium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Berkelium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Berkelium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Berkelium_Label.Name = "Berkelium_Label";
+            this.Berkelium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Berkelium_Label.TabIndex = 6;
+            this.Berkelium_Label.Text = "97";
             // 
             // panel53
             // 
@@ -9217,8 +12195,8 @@ namespace VirtualChem.Forms
             // panel47
             // 
             this.panel47.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel47.Controls.Add(this.button35);
-            this.panel47.Controls.Add(this.label35);
+            this.panel47.Controls.Add(this.Curium_Button);
+            this.panel47.Controls.Add(this.Curium_Label);
             this.panel47.Controls.Add(this.panel48);
             this.panel47.Controls.Add(this.panel49);
             this.panel47.Controls.Add(this.panel50);
@@ -9228,6 +12206,35 @@ namespace VirtualChem.Forms
             this.panel47.Name = "panel47";
             this.panel47.Size = new System.Drawing.Size(55, 65);
             this.panel47.TabIndex = 9;
+            // 
+            // Curium_Button
+            // 
+            this.Curium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Curium_Button.FlatAppearance.BorderSize = 0;
+            this.Curium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Curium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Curium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Curium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Curium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Curium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Curium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Curium_Button.Name = "Curium_Button";
+            this.Curium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Curium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Curium_Button.TabIndex = 7;
+            this.Curium_Button.Text = "Cm";
+            this.Curium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Curium_Label
+            // 
+            this.Curium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Curium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Curium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Curium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Curium_Label.Name = "Curium_Label";
+            this.Curium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Curium_Label.TabIndex = 6;
+            this.Curium_Label.Text = "96";
             // 
             // panel48
             // 
@@ -9268,8 +12275,8 @@ namespace VirtualChem.Forms
             // panel42
             // 
             this.panel42.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel42.Controls.Add(this.button34);
-            this.panel42.Controls.Add(this.label34);
+            this.panel42.Controls.Add(this.Americium_Button);
+            this.panel42.Controls.Add(this.Americium_Label);
             this.panel42.Controls.Add(this.panel43);
             this.panel42.Controls.Add(this.panel44);
             this.panel42.Controls.Add(this.panel45);
@@ -9279,6 +12286,35 @@ namespace VirtualChem.Forms
             this.panel42.Name = "panel42";
             this.panel42.Size = new System.Drawing.Size(55, 65);
             this.panel42.TabIndex = 8;
+            // 
+            // Americium_Button
+            // 
+            this.Americium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Americium_Button.FlatAppearance.BorderSize = 0;
+            this.Americium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Americium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Americium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Americium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Americium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Americium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Americium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Americium_Button.Name = "Americium_Button";
+            this.Americium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Americium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Americium_Button.TabIndex = 7;
+            this.Americium_Button.Text = "Am";
+            this.Americium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Americium_Label
+            // 
+            this.Americium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Americium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Americium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Americium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Americium_Label.Name = "Americium_Label";
+            this.Americium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Americium_Label.TabIndex = 6;
+            this.Americium_Label.Text = "95";
             // 
             // panel43
             // 
@@ -9319,8 +12355,8 @@ namespace VirtualChem.Forms
             // panel37
             // 
             this.panel37.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel37.Controls.Add(this.button31);
-            this.panel37.Controls.Add(this.label31);
+            this.panel37.Controls.Add(this.Plutonium_Button);
+            this.panel37.Controls.Add(this.Plutonium_Label);
             this.panel37.Controls.Add(this.panel38);
             this.panel37.Controls.Add(this.panel39);
             this.panel37.Controls.Add(this.panel40);
@@ -9330,6 +12366,35 @@ namespace VirtualChem.Forms
             this.panel37.Name = "panel37";
             this.panel37.Size = new System.Drawing.Size(55, 65);
             this.panel37.TabIndex = 7;
+            // 
+            // Plutonium_Button
+            // 
+            this.Plutonium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Plutonium_Button.FlatAppearance.BorderSize = 0;
+            this.Plutonium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Plutonium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Plutonium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Plutonium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Plutonium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Plutonium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Plutonium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Plutonium_Button.Name = "Plutonium_Button";
+            this.Plutonium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Plutonium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Plutonium_Button.TabIndex = 7;
+            this.Plutonium_Button.Text = "Pu";
+            this.Plutonium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Plutonium_Label
+            // 
+            this.Plutonium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Plutonium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Plutonium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Plutonium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Plutonium_Label.Name = "Plutonium_Label";
+            this.Plutonium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Plutonium_Label.TabIndex = 6;
+            this.Plutonium_Label.Text = "94";
             // 
             // panel38
             // 
@@ -9370,8 +12435,8 @@ namespace VirtualChem.Forms
             // panel32
             // 
             this.panel32.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel32.Controls.Add(this.button30);
-            this.panel32.Controls.Add(this.label30);
+            this.panel32.Controls.Add(this.Neptunium_Button);
+            this.panel32.Controls.Add(this.Neptunium_Label);
             this.panel32.Controls.Add(this.panel33);
             this.panel32.Controls.Add(this.panel34);
             this.panel32.Controls.Add(this.panel35);
@@ -9381,6 +12446,35 @@ namespace VirtualChem.Forms
             this.panel32.Name = "panel32";
             this.panel32.Size = new System.Drawing.Size(55, 65);
             this.panel32.TabIndex = 6;
+            // 
+            // Neptunium_Button
+            // 
+            this.Neptunium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Neptunium_Button.FlatAppearance.BorderSize = 0;
+            this.Neptunium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Neptunium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Neptunium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Neptunium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Neptunium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Neptunium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Neptunium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Neptunium_Button.Name = "Neptunium_Button";
+            this.Neptunium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Neptunium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Neptunium_Button.TabIndex = 7;
+            this.Neptunium_Button.Text = "Np";
+            this.Neptunium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Neptunium_Label
+            // 
+            this.Neptunium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Neptunium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Neptunium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Neptunium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Neptunium_Label.Name = "Neptunium_Label";
+            this.Neptunium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Neptunium_Label.TabIndex = 6;
+            this.Neptunium_Label.Text = "93";
             // 
             // panel33
             // 
@@ -9421,8 +12515,8 @@ namespace VirtualChem.Forms
             // panel27
             // 
             this.panel27.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel27.Controls.Add(this.button27);
-            this.panel27.Controls.Add(this.label27);
+            this.panel27.Controls.Add(this.Uranium_Button);
+            this.panel27.Controls.Add(this.Uranium_Label);
             this.panel27.Controls.Add(this.panel28);
             this.panel27.Controls.Add(this.panel29);
             this.panel27.Controls.Add(this.panel30);
@@ -9432,6 +12526,35 @@ namespace VirtualChem.Forms
             this.panel27.Name = "panel27";
             this.panel27.Size = new System.Drawing.Size(55, 65);
             this.panel27.TabIndex = 5;
+            // 
+            // Uranium_Button
+            // 
+            this.Uranium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Uranium_Button.FlatAppearance.BorderSize = 0;
+            this.Uranium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Uranium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Uranium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Uranium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Uranium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Uranium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Uranium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Uranium_Button.Name = "Uranium_Button";
+            this.Uranium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Uranium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Uranium_Button.TabIndex = 7;
+            this.Uranium_Button.Text = "U";
+            this.Uranium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Uranium_Label
+            // 
+            this.Uranium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Uranium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Uranium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Uranium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Uranium_Label.Name = "Uranium_Label";
+            this.Uranium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Uranium_Label.TabIndex = 6;
+            this.Uranium_Label.Text = "92";
             // 
             // panel28
             // 
@@ -9472,8 +12595,8 @@ namespace VirtualChem.Forms
             // panel22
             // 
             this.panel22.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel22.Controls.Add(this.button26);
-            this.panel22.Controls.Add(this.label26);
+            this.panel22.Controls.Add(this.Protactinium_Button);
+            this.panel22.Controls.Add(this.Protactinium_Label);
             this.panel22.Controls.Add(this.panel23);
             this.panel22.Controls.Add(this.panel24);
             this.panel22.Controls.Add(this.panel25);
@@ -9483,6 +12606,35 @@ namespace VirtualChem.Forms
             this.panel22.Name = "panel22";
             this.panel22.Size = new System.Drawing.Size(55, 65);
             this.panel22.TabIndex = 4;
+            // 
+            // Protactinium_Button
+            // 
+            this.Protactinium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Protactinium_Button.FlatAppearance.BorderSize = 0;
+            this.Protactinium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Protactinium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Protactinium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Protactinium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Protactinium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Protactinium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Protactinium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Protactinium_Button.Name = "Protactinium_Button";
+            this.Protactinium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Protactinium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Protactinium_Button.TabIndex = 7;
+            this.Protactinium_Button.Text = "Pa";
+            this.Protactinium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Protactinium_Label
+            // 
+            this.Protactinium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Protactinium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Protactinium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Protactinium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Protactinium_Label.Name = "Protactinium_Label";
+            this.Protactinium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Protactinium_Label.TabIndex = 6;
+            this.Protactinium_Label.Text = "91";
             // 
             // panel23
             // 
@@ -9523,8 +12675,8 @@ namespace VirtualChem.Forms
             // panel17
             // 
             this.panel17.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel17.Controls.Add(this.button23);
-            this.panel17.Controls.Add(this.label23);
+            this.panel17.Controls.Add(this.Thorium_Button);
+            this.panel17.Controls.Add(this.Thorium_Label);
             this.panel17.Controls.Add(this.panel18);
             this.panel17.Controls.Add(this.panel19);
             this.panel17.Controls.Add(this.panel20);
@@ -9534,6 +12686,35 @@ namespace VirtualChem.Forms
             this.panel17.Name = "panel17";
             this.panel17.Size = new System.Drawing.Size(55, 65);
             this.panel17.TabIndex = 3;
+            // 
+            // Thorium_Button
+            // 
+            this.Thorium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Thorium_Button.FlatAppearance.BorderSize = 0;
+            this.Thorium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Thorium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Thorium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Thorium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Thorium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Thorium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Thorium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Thorium_Button.Name = "Thorium_Button";
+            this.Thorium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Thorium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Thorium_Button.TabIndex = 7;
+            this.Thorium_Button.Text = "Th";
+            this.Thorium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Thorium_Label
+            // 
+            this.Thorium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Thorium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Thorium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Thorium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Thorium_Label.Name = "Thorium_Label";
+            this.Thorium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Thorium_Label.TabIndex = 6;
+            this.Thorium_Label.Text = "90";
             // 
             // panel18
             // 
@@ -9574,8 +12755,8 @@ namespace VirtualChem.Forms
             // panel12
             // 
             this.panel12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.panel12.Controls.Add(this.button22);
-            this.panel12.Controls.Add(this.label22);
+            this.panel12.Controls.Add(this.Actinium_Button);
+            this.panel12.Controls.Add(this.Actinium_Label);
             this.panel12.Controls.Add(this.panel13);
             this.panel12.Controls.Add(this.panel14);
             this.panel12.Controls.Add(this.panel15);
@@ -9585,6 +12766,35 @@ namespace VirtualChem.Forms
             this.panel12.Name = "panel12";
             this.panel12.Size = new System.Drawing.Size(55, 65);
             this.panel12.TabIndex = 2;
+            // 
+            // Actinium_Button
+            // 
+            this.Actinium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Actinium_Button.FlatAppearance.BorderSize = 0;
+            this.Actinium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Actinium_Button.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Actinium_Button.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.Actinium_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Actinium_Button.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Actinium_Button.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Actinium_Button.Location = new System.Drawing.Point(2, 17);
+            this.Actinium_Button.Name = "Actinium_Button";
+            this.Actinium_Button.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.Actinium_Button.Size = new System.Drawing.Size(51, 46);
+            this.Actinium_Button.TabIndex = 7;
+            this.Actinium_Button.Text = "Ac";
+            this.Actinium_Button.UseVisualStyleBackColor = true;
+            // 
+            // Actinium_Label
+            // 
+            this.Actinium_Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Actinium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Actinium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
+            this.Actinium_Label.Location = new System.Drawing.Point(2, 2);
+            this.Actinium_Label.Name = "Actinium_Label";
+            this.Actinium_Label.Size = new System.Drawing.Size(51, 15);
+            this.Actinium_Label.TabIndex = 6;
+            this.Actinium_Label.Text = "89";
             // 
             // panel13
             // 
@@ -9787,3126 +12997,6 @@ namespace VirtualChem.Forms
             this.RightBorder_Panel.Name = "RightBorder_Panel";
             this.RightBorder_Panel.Size = new System.Drawing.Size(2, 700);
             this.RightBorder_Panel.TabIndex = 4;
-            // 
-            // label1
-            // 
-            this.label1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label1.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label1.Location = new System.Drawing.Point(2, 2);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(51, 15);
-            this.label1.TabIndex = 4;
-            this.label1.Text = "1";
-            // 
-            // button1
-            // 
-            this.button1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button1.FlatAppearance.BorderSize = 0;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button1.Location = new System.Drawing.Point(2, 17);
-            this.button1.Name = "button1";
-            this.button1.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button1.Size = new System.Drawing.Size(51, 46);
-            this.button1.TabIndex = 5;
-            this.button1.Text = "H";
-            this.button1.UseVisualStyleBackColor = true;
-            // 
-            // button2
-            // 
-            this.button2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button2.FlatAppearance.BorderSize = 0;
-            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button2.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button2.Location = new System.Drawing.Point(2, 17);
-            this.button2.Name = "button2";
-            this.button2.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button2.Size = new System.Drawing.Size(51, 46);
-            this.button2.TabIndex = 7;
-            this.button2.Text = "He";
-            this.button2.UseVisualStyleBackColor = true;
-            // 
-            // label2
-            // 
-            this.label2.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label2.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label2.Location = new System.Drawing.Point(2, 2);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(51, 15);
-            this.label2.TabIndex = 6;
-            this.label2.Text = "2";
-            // 
-            // button3
-            // 
-            this.button3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button3.FlatAppearance.BorderSize = 0;
-            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button3.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button3.Location = new System.Drawing.Point(2, 17);
-            this.button3.Name = "button3";
-            this.button3.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button3.Size = new System.Drawing.Size(51, 46);
-            this.button3.TabIndex = 7;
-            this.button3.Text = "Li";
-            this.button3.UseVisualStyleBackColor = true;
-            // 
-            // label3
-            // 
-            this.label3.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label3.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label3.Location = new System.Drawing.Point(2, 2);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(51, 15);
-            this.label3.TabIndex = 6;
-            this.label3.Text = "3";
-            // 
-            // button4
-            // 
-            this.button4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button4.FlatAppearance.BorderSize = 0;
-            this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button4.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button4.Location = new System.Drawing.Point(2, 17);
-            this.button4.Name = "button4";
-            this.button4.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button4.Size = new System.Drawing.Size(51, 46);
-            this.button4.TabIndex = 7;
-            this.button4.Text = "Be";
-            this.button4.UseVisualStyleBackColor = true;
-            // 
-            // label4
-            // 
-            this.label4.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label4.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label4.Location = new System.Drawing.Point(2, 2);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(51, 15);
-            this.label4.TabIndex = 6;
-            this.label4.Text = "4";
-            // 
-            // button5
-            // 
-            this.button5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button5.FlatAppearance.BorderSize = 0;
-            this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button5.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button5.Location = new System.Drawing.Point(2, 17);
-            this.button5.Name = "button5";
-            this.button5.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button5.Size = new System.Drawing.Size(51, 46);
-            this.button5.TabIndex = 7;
-            this.button5.Text = "Ne";
-            this.button5.UseVisualStyleBackColor = true;
-            // 
-            // label5
-            // 
-            this.label5.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label5.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label5.Location = new System.Drawing.Point(2, 2);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(51, 15);
-            this.label5.TabIndex = 6;
-            this.label5.Text = "10";
-            // 
-            // button6
-            // 
-            this.button6.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button6.FlatAppearance.BorderSize = 0;
-            this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button6.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button6.Location = new System.Drawing.Point(2, 17);
-            this.button6.Name = "button6";
-            this.button6.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button6.Size = new System.Drawing.Size(51, 46);
-            this.button6.TabIndex = 7;
-            this.button6.Text = "F";
-            this.button6.UseVisualStyleBackColor = true;
-            // 
-            // label6
-            // 
-            this.label6.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label6.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label6.Location = new System.Drawing.Point(2, 2);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(51, 15);
-            this.label6.TabIndex = 6;
-            this.label6.Text = "9";
-            // 
-            // button7
-            // 
-            this.button7.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button7.FlatAppearance.BorderSize = 0;
-            this.button7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button7.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button7.Location = new System.Drawing.Point(2, 17);
-            this.button7.Name = "button7";
-            this.button7.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button7.Size = new System.Drawing.Size(51, 46);
-            this.button7.TabIndex = 7;
-            this.button7.Text = "O";
-            this.button7.UseVisualStyleBackColor = true;
-            // 
-            // label7
-            // 
-            this.label7.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label7.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label7.Location = new System.Drawing.Point(2, 2);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(51, 15);
-            this.label7.TabIndex = 6;
-            this.label7.Text = "8";
-            // 
-            // button8
-            // 
-            this.button8.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button8.FlatAppearance.BorderSize = 0;
-            this.button8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button8.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button8.Location = new System.Drawing.Point(2, 17);
-            this.button8.Name = "button8";
-            this.button8.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button8.Size = new System.Drawing.Size(51, 46);
-            this.button8.TabIndex = 7;
-            this.button8.Text = "N";
-            this.button8.UseVisualStyleBackColor = true;
-            // 
-            // label8
-            // 
-            this.label8.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label8.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label8.Location = new System.Drawing.Point(2, 2);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(51, 15);
-            this.label8.TabIndex = 6;
-            this.label8.Text = "7";
-            // 
-            // button9
-            // 
-            this.button9.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button9.FlatAppearance.BorderSize = 0;
-            this.button9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button9.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button9.Location = new System.Drawing.Point(2, 17);
-            this.button9.Name = "button9";
-            this.button9.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button9.Size = new System.Drawing.Size(51, 46);
-            this.button9.TabIndex = 7;
-            this.button9.Text = "C";
-            this.button9.UseVisualStyleBackColor = true;
-            // 
-            // label9
-            // 
-            this.label9.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label9.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label9.Location = new System.Drawing.Point(2, 2);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(51, 15);
-            this.label9.TabIndex = 6;
-            this.label9.Text = "6";
-            // 
-            // button10
-            // 
-            this.button10.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button10.FlatAppearance.BorderSize = 0;
-            this.button10.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button10.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button10.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button10.Location = new System.Drawing.Point(2, 17);
-            this.button10.Name = "button10";
-            this.button10.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button10.Size = new System.Drawing.Size(51, 46);
-            this.button10.TabIndex = 7;
-            this.button10.Text = "B";
-            this.button10.UseVisualStyleBackColor = true;
-            // 
-            // label10
-            // 
-            this.label10.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label10.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label10.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label10.Location = new System.Drawing.Point(2, 2);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(51, 15);
-            this.label10.TabIndex = 6;
-            this.label10.Text = "5";
-            // 
-            // button11
-            // 
-            this.button11.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button11.FlatAppearance.BorderSize = 0;
-            this.button11.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button11.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button11.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button11.Location = new System.Drawing.Point(2, 17);
-            this.button11.Name = "button11";
-            this.button11.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button11.Size = new System.Drawing.Size(51, 46);
-            this.button11.TabIndex = 7;
-            this.button11.Text = "Na";
-            this.button11.UseVisualStyleBackColor = true;
-            // 
-            // label11
-            // 
-            this.label11.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label11.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label11.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label11.Location = new System.Drawing.Point(2, 2);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(51, 15);
-            this.label11.TabIndex = 6;
-            this.label11.Text = "11";
-            // 
-            // button12
-            // 
-            this.button12.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button12.FlatAppearance.BorderSize = 0;
-            this.button12.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button12.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button12.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button12.Location = new System.Drawing.Point(2, 17);
-            this.button12.Name = "button12";
-            this.button12.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button12.Size = new System.Drawing.Size(51, 46);
-            this.button12.TabIndex = 7;
-            this.button12.Text = "Mg";
-            this.button12.UseVisualStyleBackColor = true;
-            // 
-            // label12
-            // 
-            this.label12.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label12.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label12.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label12.Location = new System.Drawing.Point(2, 2);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(51, 15);
-            this.label12.TabIndex = 6;
-            this.label12.Text = "12";
-            // 
-            // button13
-            // 
-            this.button13.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button13.FlatAppearance.BorderSize = 0;
-            this.button13.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button13.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button13.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button13.Location = new System.Drawing.Point(2, 17);
-            this.button13.Name = "button13";
-            this.button13.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button13.Size = new System.Drawing.Size(51, 46);
-            this.button13.TabIndex = 7;
-            this.button13.Text = "Ca";
-            this.button13.UseVisualStyleBackColor = true;
-            // 
-            // label13
-            // 
-            this.label13.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label13.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label13.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label13.Location = new System.Drawing.Point(2, 2);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(51, 15);
-            this.label13.TabIndex = 6;
-            this.label13.Text = "20";
-            // 
-            // button14
-            // 
-            this.button14.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button14.FlatAppearance.BorderSize = 0;
-            this.button14.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button14.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button14.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button14.Location = new System.Drawing.Point(2, 17);
-            this.button14.Name = "button14";
-            this.button14.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button14.Size = new System.Drawing.Size(51, 46);
-            this.button14.TabIndex = 7;
-            this.button14.Text = "K";
-            this.button14.UseVisualStyleBackColor = true;
-            // 
-            // label14
-            // 
-            this.label14.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label14.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label14.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label14.Location = new System.Drawing.Point(2, 2);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(51, 15);
-            this.label14.TabIndex = 6;
-            this.label14.Text = "19";
-            // 
-            // button15
-            // 
-            this.button15.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button15.FlatAppearance.BorderSize = 0;
-            this.button15.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button15.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button15.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button15.Location = new System.Drawing.Point(2, 17);
-            this.button15.Name = "button15";
-            this.button15.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button15.Size = new System.Drawing.Size(51, 46);
-            this.button15.TabIndex = 7;
-            this.button15.Text = "Rb";
-            this.button15.UseVisualStyleBackColor = true;
-            // 
-            // label15
-            // 
-            this.label15.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label15.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label15.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label15.Location = new System.Drawing.Point(2, 2);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(51, 15);
-            this.label15.TabIndex = 6;
-            this.label15.Text = "37";
-            // 
-            // button16
-            // 
-            this.button16.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button16.FlatAppearance.BorderSize = 0;
-            this.button16.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button16.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button16.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button16.Location = new System.Drawing.Point(2, 17);
-            this.button16.Name = "button16";
-            this.button16.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button16.Size = new System.Drawing.Size(51, 46);
-            this.button16.TabIndex = 7;
-            this.button16.Text = "Sr";
-            this.button16.UseVisualStyleBackColor = true;
-            // 
-            // label16
-            // 
-            this.label16.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label16.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label16.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label16.Location = new System.Drawing.Point(2, 2);
-            this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(51, 15);
-            this.label16.TabIndex = 6;
-            this.label16.Text = "38";
-            // 
-            // button17
-            // 
-            this.button17.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button17.FlatAppearance.BorderSize = 0;
-            this.button17.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button17.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button17.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button17.Location = new System.Drawing.Point(2, 17);
-            this.button17.Name = "button17";
-            this.button17.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button17.Size = new System.Drawing.Size(51, 46);
-            this.button17.TabIndex = 7;
-            this.button17.Text = "Ba";
-            this.button17.UseVisualStyleBackColor = true;
-            // 
-            // label17
-            // 
-            this.label17.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label17.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label17.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label17.Location = new System.Drawing.Point(2, 2);
-            this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(51, 15);
-            this.label17.TabIndex = 6;
-            this.label17.Text = "56";
-            // 
-            // button18
-            // 
-            this.button18.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button18.FlatAppearance.BorderSize = 0;
-            this.button18.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button18.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button18.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button18.Location = new System.Drawing.Point(2, 17);
-            this.button18.Name = "button18";
-            this.button18.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button18.Size = new System.Drawing.Size(51, 46);
-            this.button18.TabIndex = 7;
-            this.button18.Text = "Cs";
-            this.button18.UseVisualStyleBackColor = true;
-            // 
-            // label18
-            // 
-            this.label18.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label18.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label18.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label18.Location = new System.Drawing.Point(2, 2);
-            this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(51, 15);
-            this.label18.TabIndex = 6;
-            this.label18.Text = "55";
-            // 
-            // button19
-            // 
-            this.button19.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button19.FlatAppearance.BorderSize = 0;
-            this.button19.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button19.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button19.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button19.Location = new System.Drawing.Point(2, 17);
-            this.button19.Name = "button19";
-            this.button19.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button19.Size = new System.Drawing.Size(51, 46);
-            this.button19.TabIndex = 7;
-            this.button19.Text = "Fr";
-            this.button19.UseVisualStyleBackColor = true;
-            // 
-            // label19
-            // 
-            this.label19.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label19.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label19.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label19.Location = new System.Drawing.Point(2, 2);
-            this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(51, 15);
-            this.label19.TabIndex = 6;
-            this.label19.Text = "87";
-            // 
-            // button20
-            // 
-            this.button20.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button20.FlatAppearance.BorderSize = 0;
-            this.button20.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button20.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button20.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button20.Location = new System.Drawing.Point(2, 17);
-            this.button20.Name = "button20";
-            this.button20.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button20.Size = new System.Drawing.Size(51, 46);
-            this.button20.TabIndex = 7;
-            this.button20.Text = "Ra";
-            this.button20.UseVisualStyleBackColor = true;
-            // 
-            // label20
-            // 
-            this.label20.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label20.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label20.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label20.Location = new System.Drawing.Point(2, 2);
-            this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(51, 15);
-            this.label20.TabIndex = 6;
-            this.label20.Text = "88";
-            // 
-            // button21
-            // 
-            this.button21.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button21.FlatAppearance.BorderSize = 0;
-            this.button21.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button21.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button21.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button21.Location = new System.Drawing.Point(2, 17);
-            this.button21.Name = "button21";
-            this.button21.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button21.Size = new System.Drawing.Size(51, 46);
-            this.button21.TabIndex = 7;
-            this.button21.Text = "La";
-            this.button21.UseVisualStyleBackColor = true;
-            // 
-            // label21
-            // 
-            this.label21.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label21.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label21.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label21.Location = new System.Drawing.Point(2, 2);
-            this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(51, 15);
-            this.label21.TabIndex = 6;
-            this.label21.Text = "57";
-            // 
-            // button22
-            // 
-            this.button22.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button22.FlatAppearance.BorderSize = 0;
-            this.button22.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button22.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button22.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button22.Location = new System.Drawing.Point(2, 17);
-            this.button22.Name = "button22";
-            this.button22.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button22.Size = new System.Drawing.Size(51, 46);
-            this.button22.TabIndex = 7;
-            this.button22.Text = "Ac";
-            this.button22.UseVisualStyleBackColor = true;
-            // 
-            // label22
-            // 
-            this.label22.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label22.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label22.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label22.Location = new System.Drawing.Point(2, 2);
-            this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(51, 15);
-            this.label22.TabIndex = 6;
-            this.label22.Text = "89";
-            // 
-            // button23
-            // 
-            this.button23.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button23.FlatAppearance.BorderSize = 0;
-            this.button23.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button23.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button23.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button23.Location = new System.Drawing.Point(2, 17);
-            this.button23.Name = "button23";
-            this.button23.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button23.Size = new System.Drawing.Size(51, 46);
-            this.button23.TabIndex = 7;
-            this.button23.Text = "Th";
-            this.button23.UseVisualStyleBackColor = true;
-            // 
-            // label23
-            // 
-            this.label23.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label23.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label23.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label23.Location = new System.Drawing.Point(2, 2);
-            this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(51, 15);
-            this.label23.TabIndex = 6;
-            this.label23.Text = "90";
-            // 
-            // button24
-            // 
-            this.button24.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button24.FlatAppearance.BorderSize = 0;
-            this.button24.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button24.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button24.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button24.Location = new System.Drawing.Point(2, 17);
-            this.button24.Name = "button24";
-            this.button24.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button24.Size = new System.Drawing.Size(51, 46);
-            this.button24.TabIndex = 7;
-            this.button24.Text = "Ce";
-            this.button24.UseVisualStyleBackColor = true;
-            // 
-            // label24
-            // 
-            this.label24.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label24.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label24.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label24.Location = new System.Drawing.Point(2, 2);
-            this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(51, 15);
-            this.label24.TabIndex = 6;
-            this.label24.Text = "58";
-            // 
-            // button25
-            // 
-            this.button25.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button25.FlatAppearance.BorderSize = 0;
-            this.button25.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button25.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button25.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button25.Location = new System.Drawing.Point(2, 17);
-            this.button25.Name = "button25";
-            this.button25.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button25.Size = new System.Drawing.Size(51, 46);
-            this.button25.TabIndex = 7;
-            this.button25.Text = "Pr";
-            this.button25.UseVisualStyleBackColor = true;
-            // 
-            // label25
-            // 
-            this.label25.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label25.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label25.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label25.Location = new System.Drawing.Point(2, 2);
-            this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(51, 15);
-            this.label25.TabIndex = 6;
-            this.label25.Text = "59";
-            // 
-            // button26
-            // 
-            this.button26.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button26.FlatAppearance.BorderSize = 0;
-            this.button26.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button26.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button26.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button26.Location = new System.Drawing.Point(2, 17);
-            this.button26.Name = "button26";
-            this.button26.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button26.Size = new System.Drawing.Size(51, 46);
-            this.button26.TabIndex = 7;
-            this.button26.Text = "Pa";
-            this.button26.UseVisualStyleBackColor = true;
-            // 
-            // label26
-            // 
-            this.label26.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label26.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label26.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label26.Location = new System.Drawing.Point(2, 2);
-            this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(51, 15);
-            this.label26.TabIndex = 6;
-            this.label26.Text = "91";
-            // 
-            // button27
-            // 
-            this.button27.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button27.FlatAppearance.BorderSize = 0;
-            this.button27.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button27.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button27.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button27.Location = new System.Drawing.Point(2, 17);
-            this.button27.Name = "button27";
-            this.button27.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button27.Size = new System.Drawing.Size(51, 46);
-            this.button27.TabIndex = 7;
-            this.button27.Text = "U";
-            this.button27.UseVisualStyleBackColor = true;
-            // 
-            // label27
-            // 
-            this.label27.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label27.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label27.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label27.Location = new System.Drawing.Point(2, 2);
-            this.label27.Name = "label27";
-            this.label27.Size = new System.Drawing.Size(51, 15);
-            this.label27.TabIndex = 6;
-            this.label27.Text = "92";
-            // 
-            // button28
-            // 
-            this.button28.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button28.FlatAppearance.BorderSize = 0;
-            this.button28.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button28.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button28.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button28.Location = new System.Drawing.Point(2, 17);
-            this.button28.Name = "button28";
-            this.button28.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button28.Size = new System.Drawing.Size(51, 46);
-            this.button28.TabIndex = 7;
-            this.button28.Text = "Nd";
-            this.button28.UseVisualStyleBackColor = true;
-            // 
-            // label28
-            // 
-            this.label28.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label28.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label28.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label28.Location = new System.Drawing.Point(2, 2);
-            this.label28.Name = "label28";
-            this.label28.Size = new System.Drawing.Size(51, 15);
-            this.label28.TabIndex = 6;
-            this.label28.Text = "60";
-            // 
-            // button29
-            // 
-            this.button29.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button29.FlatAppearance.BorderSize = 0;
-            this.button29.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button29.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button29.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button29.Location = new System.Drawing.Point(2, 17);
-            this.button29.Name = "button29";
-            this.button29.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button29.Size = new System.Drawing.Size(51, 46);
-            this.button29.TabIndex = 7;
-            this.button29.Text = "Pm";
-            this.button29.UseVisualStyleBackColor = true;
-            // 
-            // label29
-            // 
-            this.label29.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label29.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label29.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label29.Location = new System.Drawing.Point(2, 2);
-            this.label29.Name = "label29";
-            this.label29.Size = new System.Drawing.Size(51, 15);
-            this.label29.TabIndex = 6;
-            this.label29.Text = "61";
-            // 
-            // button30
-            // 
-            this.button30.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button30.FlatAppearance.BorderSize = 0;
-            this.button30.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button30.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button30.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button30.Location = new System.Drawing.Point(2, 17);
-            this.button30.Name = "button30";
-            this.button30.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button30.Size = new System.Drawing.Size(51, 46);
-            this.button30.TabIndex = 7;
-            this.button30.Text = "Np";
-            this.button30.UseVisualStyleBackColor = true;
-            // 
-            // label30
-            // 
-            this.label30.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label30.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label30.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label30.Location = new System.Drawing.Point(2, 2);
-            this.label30.Name = "label30";
-            this.label30.Size = new System.Drawing.Size(51, 15);
-            this.label30.TabIndex = 6;
-            this.label30.Text = "93";
-            // 
-            // button31
-            // 
-            this.button31.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button31.FlatAppearance.BorderSize = 0;
-            this.button31.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button31.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button31.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button31.Location = new System.Drawing.Point(2, 17);
-            this.button31.Name = "button31";
-            this.button31.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button31.Size = new System.Drawing.Size(51, 46);
-            this.button31.TabIndex = 7;
-            this.button31.Text = "Pu";
-            this.button31.UseVisualStyleBackColor = true;
-            // 
-            // label31
-            // 
-            this.label31.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label31.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label31.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label31.Location = new System.Drawing.Point(2, 2);
-            this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(51, 15);
-            this.label31.TabIndex = 6;
-            this.label31.Text = "94";
-            // 
-            // button32
-            // 
-            this.button32.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button32.FlatAppearance.BorderSize = 0;
-            this.button32.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button32.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button32.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button32.Location = new System.Drawing.Point(2, 17);
-            this.button32.Name = "button32";
-            this.button32.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button32.Size = new System.Drawing.Size(51, 46);
-            this.button32.TabIndex = 7;
-            this.button32.Text = "Sm";
-            this.button32.UseVisualStyleBackColor = true;
-            // 
-            // label32
-            // 
-            this.label32.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label32.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label32.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label32.Location = new System.Drawing.Point(2, 2);
-            this.label32.Name = "label32";
-            this.label32.Size = new System.Drawing.Size(51, 15);
-            this.label32.TabIndex = 6;
-            this.label32.Text = "62";
-            // 
-            // button33
-            // 
-            this.button33.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button33.FlatAppearance.BorderSize = 0;
-            this.button33.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button33.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button33.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button33.Location = new System.Drawing.Point(2, 17);
-            this.button33.Name = "button33";
-            this.button33.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button33.Size = new System.Drawing.Size(51, 46);
-            this.button33.TabIndex = 7;
-            this.button33.Text = "Eu";
-            this.button33.UseVisualStyleBackColor = true;
-            // 
-            // label33
-            // 
-            this.label33.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label33.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label33.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label33.Location = new System.Drawing.Point(2, 2);
-            this.label33.Name = "label33";
-            this.label33.Size = new System.Drawing.Size(51, 15);
-            this.label33.TabIndex = 6;
-            this.label33.Text = "63";
-            // 
-            // button34
-            // 
-            this.button34.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button34.FlatAppearance.BorderSize = 0;
-            this.button34.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button34.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button34.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button34.Location = new System.Drawing.Point(2, 17);
-            this.button34.Name = "button34";
-            this.button34.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button34.Size = new System.Drawing.Size(51, 46);
-            this.button34.TabIndex = 7;
-            this.button34.Text = "Am";
-            this.button34.UseVisualStyleBackColor = true;
-            // 
-            // label34
-            // 
-            this.label34.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label34.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label34.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label34.Location = new System.Drawing.Point(2, 2);
-            this.label34.Name = "label34";
-            this.label34.Size = new System.Drawing.Size(51, 15);
-            this.label34.TabIndex = 6;
-            this.label34.Text = "95";
-            // 
-            // button35
-            // 
-            this.button35.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button35.FlatAppearance.BorderSize = 0;
-            this.button35.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button35.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button35.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button35.Location = new System.Drawing.Point(2, 17);
-            this.button35.Name = "button35";
-            this.button35.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button35.Size = new System.Drawing.Size(51, 46);
-            this.button35.TabIndex = 7;
-            this.button35.Text = "Cm";
-            this.button35.UseVisualStyleBackColor = true;
-            // 
-            // label35
-            // 
-            this.label35.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label35.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label35.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label35.Location = new System.Drawing.Point(2, 2);
-            this.label35.Name = "label35";
-            this.label35.Size = new System.Drawing.Size(51, 15);
-            this.label35.TabIndex = 6;
-            this.label35.Text = "96";
-            // 
-            // button36
-            // 
-            this.button36.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button36.FlatAppearance.BorderSize = 0;
-            this.button36.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button36.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button36.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button36.Location = new System.Drawing.Point(2, 17);
-            this.button36.Name = "button36";
-            this.button36.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button36.Size = new System.Drawing.Size(51, 46);
-            this.button36.TabIndex = 7;
-            this.button36.Text = "Gd";
-            this.button36.UseVisualStyleBackColor = true;
-            // 
-            // label36
-            // 
-            this.label36.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label36.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label36.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label36.Location = new System.Drawing.Point(2, 2);
-            this.label36.Name = "label36";
-            this.label36.Size = new System.Drawing.Size(51, 15);
-            this.label36.TabIndex = 6;
-            this.label36.Text = "64";
-            // 
-            // button37
-            // 
-            this.button37.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button37.FlatAppearance.BorderSize = 0;
-            this.button37.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button37.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button37.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button37.Location = new System.Drawing.Point(2, 17);
-            this.button37.Name = "button37";
-            this.button37.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button37.Size = new System.Drawing.Size(51, 46);
-            this.button37.TabIndex = 7;
-            this.button37.Text = "Tb";
-            this.button37.UseVisualStyleBackColor = true;
-            // 
-            // label37
-            // 
-            this.label37.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label37.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label37.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label37.Location = new System.Drawing.Point(2, 2);
-            this.label37.Name = "label37";
-            this.label37.Size = new System.Drawing.Size(51, 15);
-            this.label37.TabIndex = 6;
-            this.label37.Text = "65";
-            // 
-            // button38
-            // 
-            this.button38.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button38.FlatAppearance.BorderSize = 0;
-            this.button38.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button38.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button38.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button38.Location = new System.Drawing.Point(2, 17);
-            this.button38.Name = "button38";
-            this.button38.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button38.Size = new System.Drawing.Size(51, 46);
-            this.button38.TabIndex = 7;
-            this.button38.Text = "Bk";
-            this.button38.UseVisualStyleBackColor = true;
-            // 
-            // label38
-            // 
-            this.label38.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label38.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label38.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label38.Location = new System.Drawing.Point(2, 2);
-            this.label38.Name = "label38";
-            this.label38.Size = new System.Drawing.Size(51, 15);
-            this.label38.TabIndex = 6;
-            this.label38.Text = "97";
-            // 
-            // button39
-            // 
-            this.button39.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button39.FlatAppearance.BorderSize = 0;
-            this.button39.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button39.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button39.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button39.Location = new System.Drawing.Point(2, 17);
-            this.button39.Name = "button39";
-            this.button39.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button39.Size = new System.Drawing.Size(51, 46);
-            this.button39.TabIndex = 7;
-            this.button39.Text = "Dy";
-            this.button39.UseVisualStyleBackColor = true;
-            // 
-            // label39
-            // 
-            this.label39.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label39.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label39.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label39.Location = new System.Drawing.Point(2, 2);
-            this.label39.Name = "label39";
-            this.label39.Size = new System.Drawing.Size(51, 15);
-            this.label39.TabIndex = 6;
-            this.label39.Text = "66";
-            // 
-            // button40
-            // 
-            this.button40.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button40.FlatAppearance.BorderSize = 0;
-            this.button40.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button40.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button40.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button40.Location = new System.Drawing.Point(2, 17);
-            this.button40.Name = "button40";
-            this.button40.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button40.Size = new System.Drawing.Size(51, 46);
-            this.button40.TabIndex = 7;
-            this.button40.Text = "Cf";
-            this.button40.UseVisualStyleBackColor = true;
-            // 
-            // label40
-            // 
-            this.label40.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label40.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label40.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label40.Location = new System.Drawing.Point(2, 2);
-            this.label40.Name = "label40";
-            this.label40.Size = new System.Drawing.Size(51, 15);
-            this.label40.TabIndex = 6;
-            this.label40.Text = "98";
-            // 
-            // button41
-            // 
-            this.button41.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button41.FlatAppearance.BorderSize = 0;
-            this.button41.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button41.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button41.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button41.Location = new System.Drawing.Point(2, 17);
-            this.button41.Name = "button41";
-            this.button41.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button41.Size = new System.Drawing.Size(51, 46);
-            this.button41.TabIndex = 7;
-            this.button41.Text = "Es";
-            this.button41.UseVisualStyleBackColor = true;
-            // 
-            // label41
-            // 
-            this.label41.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label41.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label41.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label41.Location = new System.Drawing.Point(2, 2);
-            this.label41.Name = "label41";
-            this.label41.Size = new System.Drawing.Size(51, 15);
-            this.label41.TabIndex = 6;
-            this.label41.Text = "99";
-            // 
-            // button42
-            // 
-            this.button42.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button42.FlatAppearance.BorderSize = 0;
-            this.button42.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button42.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button42.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button42.Location = new System.Drawing.Point(2, 17);
-            this.button42.Name = "button42";
-            this.button42.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button42.Size = new System.Drawing.Size(51, 46);
-            this.button42.TabIndex = 7;
-            this.button42.Text = "Ho";
-            this.button42.UseVisualStyleBackColor = true;
-            // 
-            // label42
-            // 
-            this.label42.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label42.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label42.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label42.Location = new System.Drawing.Point(2, 2);
-            this.label42.Name = "label42";
-            this.label42.Size = new System.Drawing.Size(51, 15);
-            this.label42.TabIndex = 6;
-            this.label42.Text = "67";
-            // 
-            // button43
-            // 
-            this.button43.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button43.FlatAppearance.BorderSize = 0;
-            this.button43.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button43.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button43.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button43.Location = new System.Drawing.Point(2, 17);
-            this.button43.Name = "button43";
-            this.button43.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button43.Size = new System.Drawing.Size(51, 46);
-            this.button43.TabIndex = 7;
-            this.button43.Text = "Er";
-            this.button43.UseVisualStyleBackColor = true;
-            // 
-            // label43
-            // 
-            this.label43.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label43.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label43.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label43.Location = new System.Drawing.Point(2, 2);
-            this.label43.Name = "label43";
-            this.label43.Size = new System.Drawing.Size(51, 15);
-            this.label43.TabIndex = 6;
-            this.label43.Text = "68";
-            // 
-            // button44
-            // 
-            this.button44.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button44.FlatAppearance.BorderSize = 0;
-            this.button44.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button44.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button44.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button44.Location = new System.Drawing.Point(2, 17);
-            this.button44.Name = "button44";
-            this.button44.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button44.Size = new System.Drawing.Size(51, 46);
-            this.button44.TabIndex = 7;
-            this.button44.Text = "Fm";
-            this.button44.UseVisualStyleBackColor = true;
-            // 
-            // label44
-            // 
-            this.label44.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label44.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label44.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label44.Location = new System.Drawing.Point(2, 2);
-            this.label44.Name = "label44";
-            this.label44.Size = new System.Drawing.Size(51, 15);
-            this.label44.TabIndex = 6;
-            this.label44.Text = "100";
-            // 
-            // button45
-            // 
-            this.button45.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button45.FlatAppearance.BorderSize = 0;
-            this.button45.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button45.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button45.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button45.Location = new System.Drawing.Point(2, 17);
-            this.button45.Name = "button45";
-            this.button45.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button45.Size = new System.Drawing.Size(51, 46);
-            this.button45.TabIndex = 7;
-            this.button45.Text = "Tm";
-            this.button45.UseVisualStyleBackColor = true;
-            // 
-            // label45
-            // 
-            this.label45.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label45.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label45.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label45.Location = new System.Drawing.Point(2, 2);
-            this.label45.Name = "label45";
-            this.label45.Size = new System.Drawing.Size(51, 15);
-            this.label45.TabIndex = 6;
-            this.label45.Text = "69";
-            // 
-            // button46
-            // 
-            this.button46.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button46.FlatAppearance.BorderSize = 0;
-            this.button46.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button46.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button46.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button46.Location = new System.Drawing.Point(2, 17);
-            this.button46.Name = "button46";
-            this.button46.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button46.Size = new System.Drawing.Size(51, 46);
-            this.button46.TabIndex = 7;
-            this.button46.Text = "Md";
-            this.button46.UseVisualStyleBackColor = true;
-            // 
-            // label46
-            // 
-            this.label46.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label46.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label46.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label46.Location = new System.Drawing.Point(2, 2);
-            this.label46.Name = "label46";
-            this.label46.Size = new System.Drawing.Size(51, 15);
-            this.label46.TabIndex = 6;
-            this.label46.Text = "101";
-            // 
-            // button47
-            // 
-            this.button47.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button47.FlatAppearance.BorderSize = 0;
-            this.button47.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button47.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button47.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button47.Location = new System.Drawing.Point(2, 17);
-            this.button47.Name = "button47";
-            this.button47.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button47.Size = new System.Drawing.Size(51, 46);
-            this.button47.TabIndex = 7;
-            this.button47.Text = "Yb";
-            this.button47.UseVisualStyleBackColor = true;
-            // 
-            // label47
-            // 
-            this.label47.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label47.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label47.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label47.Location = new System.Drawing.Point(2, 2);
-            this.label47.Name = "label47";
-            this.label47.Size = new System.Drawing.Size(51, 15);
-            this.label47.TabIndex = 6;
-            this.label47.Text = "70";
-            // 
-            // button48
-            // 
-            this.button48.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button48.FlatAppearance.BorderSize = 0;
-            this.button48.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button48.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button48.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button48.Location = new System.Drawing.Point(2, 17);
-            this.button48.Name = "button48";
-            this.button48.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button48.Size = new System.Drawing.Size(51, 46);
-            this.button48.TabIndex = 7;
-            this.button48.Text = "No";
-            this.button48.UseVisualStyleBackColor = true;
-            // 
-            // label48
-            // 
-            this.label48.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label48.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label48.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label48.Location = new System.Drawing.Point(2, 2);
-            this.label48.Name = "label48";
-            this.label48.Size = new System.Drawing.Size(51, 15);
-            this.label48.TabIndex = 6;
-            this.label48.Text = "102";
-            // 
-            // button49
-            // 
-            this.button49.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button49.FlatAppearance.BorderSize = 0;
-            this.button49.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button49.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button49.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button49.Location = new System.Drawing.Point(2, 17);
-            this.button49.Name = "button49";
-            this.button49.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button49.Size = new System.Drawing.Size(51, 46);
-            this.button49.TabIndex = 7;
-            this.button49.Text = "Lu";
-            this.button49.UseVisualStyleBackColor = true;
-            // 
-            // label49
-            // 
-            this.label49.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label49.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label49.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label49.Location = new System.Drawing.Point(2, 2);
-            this.label49.Name = "label49";
-            this.label49.Size = new System.Drawing.Size(51, 15);
-            this.label49.TabIndex = 6;
-            this.label49.Text = "71";
-            // 
-            // button50
-            // 
-            this.button50.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button50.FlatAppearance.BorderSize = 0;
-            this.button50.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button50.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button50.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button50.Location = new System.Drawing.Point(2, 17);
-            this.button50.Name = "button50";
-            this.button50.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button50.Size = new System.Drawing.Size(51, 46);
-            this.button50.TabIndex = 7;
-            this.button50.Text = "Lr";
-            this.button50.UseVisualStyleBackColor = true;
-            // 
-            // label50
-            // 
-            this.label50.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label50.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label50.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label50.Location = new System.Drawing.Point(2, 2);
-            this.label50.Name = "label50";
-            this.label50.Size = new System.Drawing.Size(51, 15);
-            this.label50.TabIndex = 6;
-            this.label50.Text = "103";
-            // 
-            // button51
-            // 
-            this.button51.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button51.FlatAppearance.BorderSize = 0;
-            this.button51.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button51.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button51.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button51.Location = new System.Drawing.Point(2, 17);
-            this.button51.Name = "button51";
-            this.button51.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button51.Size = new System.Drawing.Size(51, 46);
-            this.button51.TabIndex = 7;
-            this.button51.Text = "Ar";
-            this.button51.UseVisualStyleBackColor = true;
-            // 
-            // label51
-            // 
-            this.label51.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label51.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label51.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label51.Location = new System.Drawing.Point(2, 2);
-            this.label51.Name = "label51";
-            this.label51.Size = new System.Drawing.Size(51, 15);
-            this.label51.TabIndex = 6;
-            this.label51.Text = "18";
-            // 
-            // button52
-            // 
-            this.button52.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button52.FlatAppearance.BorderSize = 0;
-            this.button52.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button52.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button52.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button52.Location = new System.Drawing.Point(2, 17);
-            this.button52.Name = "button52";
-            this.button52.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button52.Size = new System.Drawing.Size(51, 46);
-            this.button52.TabIndex = 7;
-            this.button52.Text = "Kr";
-            this.button52.UseVisualStyleBackColor = true;
-            // 
-            // label52
-            // 
-            this.label52.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label52.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label52.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label52.Location = new System.Drawing.Point(2, 2);
-            this.label52.Name = "label52";
-            this.label52.Size = new System.Drawing.Size(51, 15);
-            this.label52.TabIndex = 6;
-            this.label52.Text = "36";
-            // 
-            // button53
-            // 
-            this.button53.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button53.FlatAppearance.BorderSize = 0;
-            this.button53.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button53.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button53.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button53.Location = new System.Drawing.Point(2, 17);
-            this.button53.Name = "button53";
-            this.button53.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button53.Size = new System.Drawing.Size(51, 46);
-            this.button53.TabIndex = 7;
-            this.button53.Text = "Xe";
-            this.button53.UseVisualStyleBackColor = true;
-            // 
-            // label53
-            // 
-            this.label53.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label53.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label53.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label53.Location = new System.Drawing.Point(2, 2);
-            this.label53.Name = "label53";
-            this.label53.Size = new System.Drawing.Size(51, 15);
-            this.label53.TabIndex = 6;
-            this.label53.Text = "54";
-            // 
-            // button54
-            // 
-            this.button54.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button54.FlatAppearance.BorderSize = 0;
-            this.button54.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button54.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button54.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button54.Location = new System.Drawing.Point(2, 17);
-            this.button54.Name = "button54";
-            this.button54.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button54.Size = new System.Drawing.Size(51, 46);
-            this.button54.TabIndex = 7;
-            this.button54.Text = "Rn";
-            this.button54.UseVisualStyleBackColor = true;
-            // 
-            // label54
-            // 
-            this.label54.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label54.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label54.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label54.Location = new System.Drawing.Point(2, 2);
-            this.label54.Name = "label54";
-            this.label54.Size = new System.Drawing.Size(51, 15);
-            this.label54.TabIndex = 6;
-            this.label54.Text = "86";
-            // 
-            // button55
-            // 
-            this.button55.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button55.FlatAppearance.BorderSize = 0;
-            this.button55.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button55.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button55.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button55.Location = new System.Drawing.Point(2, 17);
-            this.button55.Name = "button55";
-            this.button55.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button55.Size = new System.Drawing.Size(51, 46);
-            this.button55.TabIndex = 7;
-            this.button55.Text = "Og";
-            this.button55.UseVisualStyleBackColor = true;
-            // 
-            // label55
-            // 
-            this.label55.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label55.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label55.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label55.Location = new System.Drawing.Point(2, 2);
-            this.label55.Name = "label55";
-            this.label55.Size = new System.Drawing.Size(51, 15);
-            this.label55.TabIndex = 6;
-            this.label55.Text = "118";
-            // 
-            // button56
-            // 
-            this.button56.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button56.FlatAppearance.BorderSize = 0;
-            this.button56.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button56.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button56.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button56.Location = new System.Drawing.Point(2, 17);
-            this.button56.Name = "button56";
-            this.button56.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button56.Size = new System.Drawing.Size(51, 46);
-            this.button56.TabIndex = 7;
-            this.button56.Text = "Al";
-            this.button56.UseVisualStyleBackColor = true;
-            // 
-            // label56
-            // 
-            this.label56.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label56.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label56.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label56.Location = new System.Drawing.Point(2, 2);
-            this.label56.Name = "label56";
-            this.label56.Size = new System.Drawing.Size(51, 15);
-            this.label56.TabIndex = 6;
-            this.label56.Text = "13";
-            // 
-            // button57
-            // 
-            this.button57.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button57.FlatAppearance.BorderSize = 0;
-            this.button57.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button57.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button57.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button57.Location = new System.Drawing.Point(2, 17);
-            this.button57.Name = "button57";
-            this.button57.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button57.Size = new System.Drawing.Size(51, 46);
-            this.button57.TabIndex = 7;
-            this.button57.Text = "Si";
-            this.button57.UseVisualStyleBackColor = true;
-            // 
-            // label57
-            // 
-            this.label57.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label57.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label57.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label57.Location = new System.Drawing.Point(2, 2);
-            this.label57.Name = "label57";
-            this.label57.Size = new System.Drawing.Size(51, 15);
-            this.label57.TabIndex = 6;
-            this.label57.Text = "14";
-            // 
-            // button58
-            // 
-            this.button58.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button58.FlatAppearance.BorderSize = 0;
-            this.button58.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button58.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button58.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button58.Location = new System.Drawing.Point(2, 17);
-            this.button58.Name = "button58";
-            this.button58.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button58.Size = new System.Drawing.Size(51, 46);
-            this.button58.TabIndex = 7;
-            this.button58.Text = "P";
-            this.button58.UseVisualStyleBackColor = true;
-            // 
-            // label58
-            // 
-            this.label58.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label58.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label58.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label58.Location = new System.Drawing.Point(2, 2);
-            this.label58.Name = "label58";
-            this.label58.Size = new System.Drawing.Size(51, 15);
-            this.label58.TabIndex = 6;
-            this.label58.Text = "15";
-            // 
-            // button59
-            // 
-            this.button59.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button59.FlatAppearance.BorderSize = 0;
-            this.button59.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button59.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button59.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button59.Location = new System.Drawing.Point(2, 17);
-            this.button59.Name = "button59";
-            this.button59.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button59.Size = new System.Drawing.Size(51, 46);
-            this.button59.TabIndex = 7;
-            this.button59.Text = "S";
-            this.button59.UseVisualStyleBackColor = true;
-            // 
-            // label59
-            // 
-            this.label59.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label59.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label59.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label59.Location = new System.Drawing.Point(2, 2);
-            this.label59.Name = "label59";
-            this.label59.Size = new System.Drawing.Size(51, 15);
-            this.label59.TabIndex = 6;
-            this.label59.Text = "16";
-            // 
-            // button60
-            // 
-            this.button60.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button60.FlatAppearance.BorderSize = 0;
-            this.button60.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button60.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button60.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button60.Location = new System.Drawing.Point(2, 17);
-            this.button60.Name = "button60";
-            this.button60.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button60.Size = new System.Drawing.Size(51, 46);
-            this.button60.TabIndex = 7;
-            this.button60.Text = "Cl";
-            this.button60.UseVisualStyleBackColor = true;
-            // 
-            // label60
-            // 
-            this.label60.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label60.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label60.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label60.Location = new System.Drawing.Point(2, 2);
-            this.label60.Name = "label60";
-            this.label60.Size = new System.Drawing.Size(51, 15);
-            this.label60.TabIndex = 6;
-            this.label60.Text = "17";
-            // 
-            // button61
-            // 
-            this.button61.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button61.FlatAppearance.BorderSize = 0;
-            this.button61.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button61.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button61.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button61.Location = new System.Drawing.Point(2, 17);
-            this.button61.Name = "button61";
-            this.button61.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button61.Size = new System.Drawing.Size(51, 46);
-            this.button61.TabIndex = 7;
-            this.button61.Text = "Br";
-            this.button61.UseVisualStyleBackColor = true;
-            // 
-            // label61
-            // 
-            this.label61.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label61.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label61.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label61.Location = new System.Drawing.Point(2, 2);
-            this.label61.Name = "label61";
-            this.label61.Size = new System.Drawing.Size(51, 15);
-            this.label61.TabIndex = 6;
-            this.label61.Text = "35";
-            // 
-            // button62
-            // 
-            this.button62.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button62.FlatAppearance.BorderSize = 0;
-            this.button62.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button62.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button62.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button62.Location = new System.Drawing.Point(2, 17);
-            this.button62.Name = "button62";
-            this.button62.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button62.Size = new System.Drawing.Size(51, 46);
-            this.button62.TabIndex = 7;
-            this.button62.Text = "Se";
-            this.button62.UseVisualStyleBackColor = true;
-            // 
-            // label62
-            // 
-            this.label62.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label62.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label62.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label62.Location = new System.Drawing.Point(2, 2);
-            this.label62.Name = "label62";
-            this.label62.Size = new System.Drawing.Size(51, 15);
-            this.label62.TabIndex = 6;
-            this.label62.Text = "34";
-            // 
-            // button63
-            // 
-            this.button63.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button63.FlatAppearance.BorderSize = 0;
-            this.button63.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button63.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button63.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button63.Location = new System.Drawing.Point(2, 17);
-            this.button63.Name = "button63";
-            this.button63.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button63.Size = new System.Drawing.Size(51, 46);
-            this.button63.TabIndex = 7;
-            this.button63.Text = "As";
-            this.button63.UseVisualStyleBackColor = true;
-            // 
-            // label63
-            // 
-            this.label63.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label63.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label63.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label63.Location = new System.Drawing.Point(2, 2);
-            this.label63.Name = "label63";
-            this.label63.Size = new System.Drawing.Size(51, 15);
-            this.label63.TabIndex = 6;
-            this.label63.Text = "33";
-            // 
-            // button64
-            // 
-            this.button64.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button64.FlatAppearance.BorderSize = 0;
-            this.button64.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button64.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button64.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button64.Location = new System.Drawing.Point(2, 17);
-            this.button64.Name = "button64";
-            this.button64.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button64.Size = new System.Drawing.Size(51, 46);
-            this.button64.TabIndex = 7;
-            this.button64.Text = "Ge";
-            this.button64.UseVisualStyleBackColor = true;
-            // 
-            // label64
-            // 
-            this.label64.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label64.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label64.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label64.Location = new System.Drawing.Point(2, 2);
-            this.label64.Name = "label64";
-            this.label64.Size = new System.Drawing.Size(51, 15);
-            this.label64.TabIndex = 6;
-            this.label64.Text = "32";
-            // 
-            // button65
-            // 
-            this.button65.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button65.FlatAppearance.BorderSize = 0;
-            this.button65.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button65.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button65.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button65.Location = new System.Drawing.Point(2, 17);
-            this.button65.Name = "button65";
-            this.button65.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button65.Size = new System.Drawing.Size(51, 46);
-            this.button65.TabIndex = 7;
-            this.button65.Text = "Ga";
-            this.button65.UseVisualStyleBackColor = true;
-            // 
-            // label65
-            // 
-            this.label65.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label65.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label65.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label65.Location = new System.Drawing.Point(2, 2);
-            this.label65.Name = "label65";
-            this.label65.Size = new System.Drawing.Size(51, 15);
-            this.label65.TabIndex = 6;
-            this.label65.Text = "31";
-            // 
-            // button66
-            // 
-            this.button66.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button66.FlatAppearance.BorderSize = 0;
-            this.button66.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button66.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button66.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button66.Location = new System.Drawing.Point(2, 17);
-            this.button66.Name = "button66";
-            this.button66.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button66.Size = new System.Drawing.Size(51, 46);
-            this.button66.TabIndex = 7;
-            this.button66.Text = "In";
-            this.button66.UseVisualStyleBackColor = true;
-            // 
-            // label66
-            // 
-            this.label66.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label66.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label66.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label66.Location = new System.Drawing.Point(2, 2);
-            this.label66.Name = "label66";
-            this.label66.Size = new System.Drawing.Size(51, 15);
-            this.label66.TabIndex = 6;
-            this.label66.Text = "49";
-            // 
-            // button67
-            // 
-            this.button67.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button67.FlatAppearance.BorderSize = 0;
-            this.button67.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button67.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button67.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button67.Location = new System.Drawing.Point(2, 17);
-            this.button67.Name = "button67";
-            this.button67.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button67.Size = new System.Drawing.Size(51, 46);
-            this.button67.TabIndex = 7;
-            this.button67.Text = "Sn";
-            this.button67.UseVisualStyleBackColor = true;
-            // 
-            // label67
-            // 
-            this.label67.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label67.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label67.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label67.Location = new System.Drawing.Point(2, 2);
-            this.label67.Name = "label67";
-            this.label67.Size = new System.Drawing.Size(51, 15);
-            this.label67.TabIndex = 6;
-            this.label67.Text = "50";
-            // 
-            // button68
-            // 
-            this.button68.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button68.FlatAppearance.BorderSize = 0;
-            this.button68.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button68.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button68.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button68.Location = new System.Drawing.Point(2, 17);
-            this.button68.Name = "button68";
-            this.button68.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button68.Size = new System.Drawing.Size(51, 46);
-            this.button68.TabIndex = 7;
-            this.button68.Text = "Pb";
-            this.button68.UseVisualStyleBackColor = true;
-            // 
-            // label68
-            // 
-            this.label68.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label68.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label68.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label68.Location = new System.Drawing.Point(2, 2);
-            this.label68.Name = "label68";
-            this.label68.Size = new System.Drawing.Size(51, 15);
-            this.label68.TabIndex = 6;
-            this.label68.Text = "82";
-            // 
-            // button69
-            // 
-            this.button69.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button69.FlatAppearance.BorderSize = 0;
-            this.button69.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button69.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button69.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button69.Location = new System.Drawing.Point(2, 17);
-            this.button69.Name = "button69";
-            this.button69.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button69.Size = new System.Drawing.Size(51, 46);
-            this.button69.TabIndex = 7;
-            this.button69.Text = "Tl";
-            this.button69.UseVisualStyleBackColor = true;
-            // 
-            // label69
-            // 
-            this.label69.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label69.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label69.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label69.Location = new System.Drawing.Point(2, 2);
-            this.label69.Name = "label69";
-            this.label69.Size = new System.Drawing.Size(51, 15);
-            this.label69.TabIndex = 6;
-            this.label69.Text = "81";
-            // 
-            // button70
-            // 
-            this.button70.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button70.FlatAppearance.BorderSize = 0;
-            this.button70.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button70.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button70.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button70.Location = new System.Drawing.Point(2, 17);
-            this.button70.Name = "button70";
-            this.button70.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button70.Size = new System.Drawing.Size(51, 46);
-            this.button70.TabIndex = 7;
-            this.button70.Text = "Nh";
-            this.button70.UseVisualStyleBackColor = true;
-            // 
-            // label70
-            // 
-            this.label70.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label70.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label70.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label70.Location = new System.Drawing.Point(2, 2);
-            this.label70.Name = "label70";
-            this.label70.Size = new System.Drawing.Size(51, 15);
-            this.label70.TabIndex = 6;
-            this.label70.Text = "113";
-            // 
-            // button71
-            // 
-            this.button71.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button71.FlatAppearance.BorderSize = 0;
-            this.button71.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button71.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button71.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button71.Location = new System.Drawing.Point(2, 17);
-            this.button71.Name = "button71";
-            this.button71.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button71.Size = new System.Drawing.Size(51, 46);
-            this.button71.TabIndex = 7;
-            this.button71.Text = "Fl";
-            this.button71.UseVisualStyleBackColor = true;
-            // 
-            // label71
-            // 
-            this.label71.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label71.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label71.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label71.Location = new System.Drawing.Point(2, 2);
-            this.label71.Name = "label71";
-            this.label71.Size = new System.Drawing.Size(51, 15);
-            this.label71.TabIndex = 6;
-            this.label71.Text = "114";
-            // 
-            // button72
-            // 
-            this.button72.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button72.FlatAppearance.BorderSize = 0;
-            this.button72.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button72.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button72.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button72.Location = new System.Drawing.Point(2, 17);
-            this.button72.Name = "button72";
-            this.button72.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button72.Size = new System.Drawing.Size(51, 46);
-            this.button72.TabIndex = 7;
-            this.button72.Text = "Mc";
-            this.button72.UseVisualStyleBackColor = true;
-            // 
-            // label72
-            // 
-            this.label72.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label72.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label72.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label72.Location = new System.Drawing.Point(2, 2);
-            this.label72.Name = "label72";
-            this.label72.Size = new System.Drawing.Size(51, 15);
-            this.label72.TabIndex = 6;
-            this.label72.Text = "115";
-            // 
-            // button73
-            // 
-            this.button73.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button73.FlatAppearance.BorderSize = 0;
-            this.button73.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button73.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button73.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button73.Location = new System.Drawing.Point(2, 17);
-            this.button73.Name = "button73";
-            this.button73.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button73.Size = new System.Drawing.Size(51, 46);
-            this.button73.TabIndex = 7;
-            this.button73.Text = "Bi";
-            this.button73.UseVisualStyleBackColor = true;
-            // 
-            // label73
-            // 
-            this.label73.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label73.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label73.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label73.Location = new System.Drawing.Point(2, 2);
-            this.label73.Name = "label73";
-            this.label73.Size = new System.Drawing.Size(51, 15);
-            this.label73.TabIndex = 6;
-            this.label73.Text = "83";
-            // 
-            // button74
-            // 
-            this.button74.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button74.FlatAppearance.BorderSize = 0;
-            this.button74.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button74.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button74.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button74.Location = new System.Drawing.Point(2, 17);
-            this.button74.Name = "button74";
-            this.button74.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button74.Size = new System.Drawing.Size(51, 46);
-            this.button74.TabIndex = 7;
-            this.button74.Text = "Sb";
-            this.button74.UseVisualStyleBackColor = true;
-            // 
-            // label74
-            // 
-            this.label74.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label74.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label74.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label74.Location = new System.Drawing.Point(2, 2);
-            this.label74.Name = "label74";
-            this.label74.Size = new System.Drawing.Size(51, 15);
-            this.label74.TabIndex = 6;
-            this.label74.Text = "51";
-            // 
-            // button75
-            // 
-            this.button75.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button75.FlatAppearance.BorderSize = 0;
-            this.button75.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button75.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button75.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button75.Location = new System.Drawing.Point(2, 17);
-            this.button75.Name = "button75";
-            this.button75.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button75.Size = new System.Drawing.Size(51, 46);
-            this.button75.TabIndex = 7;
-            this.button75.Text = "Te";
-            this.button75.UseVisualStyleBackColor = true;
-            // 
-            // label75
-            // 
-            this.label75.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label75.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label75.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label75.Location = new System.Drawing.Point(2, 2);
-            this.label75.Name = "label75";
-            this.label75.Size = new System.Drawing.Size(51, 15);
-            this.label75.TabIndex = 6;
-            this.label75.Text = "52";
-            // 
-            // button76
-            // 
-            this.button76.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button76.FlatAppearance.BorderSize = 0;
-            this.button76.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button76.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button76.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button76.Location = new System.Drawing.Point(2, 17);
-            this.button76.Name = "button76";
-            this.button76.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button76.Size = new System.Drawing.Size(51, 46);
-            this.button76.TabIndex = 7;
-            this.button76.Text = "Po";
-            this.button76.UseVisualStyleBackColor = true;
-            // 
-            // label76
-            // 
-            this.label76.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label76.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label76.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label76.Location = new System.Drawing.Point(2, 2);
-            this.label76.Name = "label76";
-            this.label76.Size = new System.Drawing.Size(51, 15);
-            this.label76.TabIndex = 6;
-            this.label76.Text = "84";
-            // 
-            // button77
-            // 
-            this.button77.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button77.FlatAppearance.BorderSize = 0;
-            this.button77.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button77.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button77.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button77.Location = new System.Drawing.Point(2, 17);
-            this.button77.Name = "button77";
-            this.button77.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button77.Size = new System.Drawing.Size(51, 46);
-            this.button77.TabIndex = 7;
-            this.button77.Text = "I";
-            this.button77.UseVisualStyleBackColor = true;
-            // 
-            // label77
-            // 
-            this.label77.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label77.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label77.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label77.Location = new System.Drawing.Point(2, 2);
-            this.label77.Name = "label77";
-            this.label77.Size = new System.Drawing.Size(51, 15);
-            this.label77.TabIndex = 6;
-            this.label77.Text = "53";
-            // 
-            // button78
-            // 
-            this.button78.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button78.FlatAppearance.BorderSize = 0;
-            this.button78.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button78.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button78.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button78.Location = new System.Drawing.Point(2, 17);
-            this.button78.Name = "button78";
-            this.button78.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button78.Size = new System.Drawing.Size(51, 46);
-            this.button78.TabIndex = 7;
-            this.button78.Text = "At";
-            this.button78.UseVisualStyleBackColor = true;
-            // 
-            // label78
-            // 
-            this.label78.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label78.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label78.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label78.Location = new System.Drawing.Point(2, 2);
-            this.label78.Name = "label78";
-            this.label78.Size = new System.Drawing.Size(51, 15);
-            this.label78.TabIndex = 6;
-            this.label78.Text = "85";
-            // 
-            // button79
-            // 
-            this.button79.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button79.FlatAppearance.BorderSize = 0;
-            this.button79.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button79.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button79.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button79.Location = new System.Drawing.Point(2, 17);
-            this.button79.Name = "button79";
-            this.button79.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button79.Size = new System.Drawing.Size(51, 46);
-            this.button79.TabIndex = 7;
-            this.button79.Text = "Ts";
-            this.button79.UseVisualStyleBackColor = true;
-            // 
-            // label79
-            // 
-            this.label79.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label79.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label79.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label79.Location = new System.Drawing.Point(2, 2);
-            this.label79.Name = "label79";
-            this.label79.Size = new System.Drawing.Size(51, 15);
-            this.label79.TabIndex = 6;
-            this.label79.Text = "117";
-            // 
-            // button80
-            // 
-            this.button80.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button80.FlatAppearance.BorderSize = 0;
-            this.button80.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button80.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button80.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button80.Location = new System.Drawing.Point(2, 17);
-            this.button80.Name = "button80";
-            this.button80.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button80.Size = new System.Drawing.Size(51, 46);
-            this.button80.TabIndex = 7;
-            this.button80.Text = "Lv";
-            this.button80.UseVisualStyleBackColor = true;
-            // 
-            // label80
-            // 
-            this.label80.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label80.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label80.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label80.Location = new System.Drawing.Point(2, 2);
-            this.label80.Name = "label80";
-            this.label80.Size = new System.Drawing.Size(51, 15);
-            this.label80.TabIndex = 6;
-            this.label80.Text = "116";
-            // 
-            // button81
-            // 
-            this.button81.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button81.FlatAppearance.BorderSize = 0;
-            this.button81.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button81.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button81.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button81.Location = new System.Drawing.Point(2, 17);
-            this.button81.Name = "button81";
-            this.button81.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button81.Size = new System.Drawing.Size(51, 46);
-            this.button81.TabIndex = 7;
-            this.button81.Text = "Zn";
-            this.button81.UseVisualStyleBackColor = true;
-            // 
-            // label81
-            // 
-            this.label81.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label81.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label81.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label81.Location = new System.Drawing.Point(2, 2);
-            this.label81.Name = "label81";
-            this.label81.Size = new System.Drawing.Size(51, 15);
-            this.label81.TabIndex = 6;
-            this.label81.Text = "30";
-            // 
-            // button82
-            // 
-            this.button82.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button82.FlatAppearance.BorderSize = 0;
-            this.button82.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button82.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button82.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button82.Location = new System.Drawing.Point(2, 17);
-            this.button82.Name = "button82";
-            this.button82.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button82.Size = new System.Drawing.Size(51, 46);
-            this.button82.TabIndex = 7;
-            this.button82.Text = "Cu";
-            this.button82.UseVisualStyleBackColor = true;
-            // 
-            // label82
-            // 
-            this.label82.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label82.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label82.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label82.Location = new System.Drawing.Point(2, 2);
-            this.label82.Name = "label82";
-            this.label82.Size = new System.Drawing.Size(51, 15);
-            this.label82.TabIndex = 6;
-            this.label82.Text = "29";
-            // 
-            // button83
-            // 
-            this.button83.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button83.FlatAppearance.BorderSize = 0;
-            this.button83.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button83.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button83.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button83.Location = new System.Drawing.Point(2, 17);
-            this.button83.Name = "button83";
-            this.button83.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button83.Size = new System.Drawing.Size(51, 46);
-            this.button83.TabIndex = 7;
-            this.button83.Text = "Ni";
-            this.button83.UseVisualStyleBackColor = true;
-            // 
-            // label83
-            // 
-            this.label83.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label83.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label83.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label83.Location = new System.Drawing.Point(2, 2);
-            this.label83.Name = "label83";
-            this.label83.Size = new System.Drawing.Size(51, 15);
-            this.label83.TabIndex = 6;
-            this.label83.Text = "28";
-            // 
-            // button84
-            // 
-            this.button84.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button84.FlatAppearance.BorderSize = 0;
-            this.button84.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button84.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button84.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button84.Location = new System.Drawing.Point(2, 17);
-            this.button84.Name = "button84";
-            this.button84.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button84.Size = new System.Drawing.Size(51, 46);
-            this.button84.TabIndex = 7;
-            this.button84.Text = "Co";
-            this.button84.UseVisualStyleBackColor = true;
-            // 
-            // label84
-            // 
-            this.label84.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label84.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label84.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label84.Location = new System.Drawing.Point(2, 2);
-            this.label84.Name = "label84";
-            this.label84.Size = new System.Drawing.Size(51, 15);
-            this.label84.TabIndex = 6;
-            this.label84.Text = "27";
-            // 
-            // button85
-            // 
-            this.button85.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button85.FlatAppearance.BorderSize = 0;
-            this.button85.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button85.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button85.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button85.Location = new System.Drawing.Point(2, 17);
-            this.button85.Name = "button85";
-            this.button85.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button85.Size = new System.Drawing.Size(51, 46);
-            this.button85.TabIndex = 7;
-            this.button85.Text = "Fe";
-            this.button85.UseVisualStyleBackColor = true;
-            // 
-            // label85
-            // 
-            this.label85.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label85.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label85.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label85.Location = new System.Drawing.Point(2, 2);
-            this.label85.Name = "label85";
-            this.label85.Size = new System.Drawing.Size(51, 15);
-            this.label85.TabIndex = 6;
-            this.label85.Text = "26";
-            // 
-            // button86
-            // 
-            this.button86.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button86.FlatAppearance.BorderSize = 0;
-            this.button86.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button86.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button86.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button86.Location = new System.Drawing.Point(2, 17);
-            this.button86.Name = "button86";
-            this.button86.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button86.Size = new System.Drawing.Size(51, 46);
-            this.button86.TabIndex = 7;
-            this.button86.Text = "Mn";
-            this.button86.UseVisualStyleBackColor = true;
-            // 
-            // label86
-            // 
-            this.label86.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label86.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label86.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label86.Location = new System.Drawing.Point(2, 2);
-            this.label86.Name = "label86";
-            this.label86.Size = new System.Drawing.Size(51, 15);
-            this.label86.TabIndex = 6;
-            this.label86.Text = "25";
-            // 
-            // button87
-            // 
-            this.button87.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button87.FlatAppearance.BorderSize = 0;
-            this.button87.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button87.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button87.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button87.Location = new System.Drawing.Point(2, 17);
-            this.button87.Name = "button87";
-            this.button87.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button87.Size = new System.Drawing.Size(51, 46);
-            this.button87.TabIndex = 7;
-            this.button87.Text = "Cr";
-            this.button87.UseVisualStyleBackColor = true;
-            // 
-            // label87
-            // 
-            this.label87.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label87.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label87.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label87.Location = new System.Drawing.Point(2, 2);
-            this.label87.Name = "label87";
-            this.label87.Size = new System.Drawing.Size(51, 15);
-            this.label87.TabIndex = 6;
-            this.label87.Text = "24";
-            // 
-            // button88
-            // 
-            this.button88.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button88.FlatAppearance.BorderSize = 0;
-            this.button88.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button88.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button88.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button88.Location = new System.Drawing.Point(2, 17);
-            this.button88.Name = "button88";
-            this.button88.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button88.Size = new System.Drawing.Size(51, 46);
-            this.button88.TabIndex = 7;
-            this.button88.Text = "V";
-            this.button88.UseVisualStyleBackColor = true;
-            // 
-            // label88
-            // 
-            this.label88.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label88.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label88.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label88.Location = new System.Drawing.Point(2, 2);
-            this.label88.Name = "label88";
-            this.label88.Size = new System.Drawing.Size(51, 15);
-            this.label88.TabIndex = 6;
-            this.label88.Text = "23";
-            // 
-            // button89
-            // 
-            this.button89.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button89.FlatAppearance.BorderSize = 0;
-            this.button89.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button89.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button89.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button89.Location = new System.Drawing.Point(2, 17);
-            this.button89.Name = "button89";
-            this.button89.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button89.Size = new System.Drawing.Size(51, 46);
-            this.button89.TabIndex = 7;
-            this.button89.Text = "Ti";
-            this.button89.UseVisualStyleBackColor = true;
-            // 
-            // label89
-            // 
-            this.label89.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label89.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label89.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label89.Location = new System.Drawing.Point(2, 2);
-            this.label89.Name = "label89";
-            this.label89.Size = new System.Drawing.Size(51, 15);
-            this.label89.TabIndex = 6;
-            this.label89.Text = "22";
-            // 
-            // button90
-            // 
-            this.button90.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button90.FlatAppearance.BorderSize = 0;
-            this.button90.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button90.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button90.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button90.Location = new System.Drawing.Point(2, 17);
-            this.button90.Name = "button90";
-            this.button90.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button90.Size = new System.Drawing.Size(51, 46);
-            this.button90.TabIndex = 7;
-            this.button90.Text = "Sc";
-            this.button90.UseVisualStyleBackColor = true;
-            // 
-            // label90
-            // 
-            this.label90.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label90.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label90.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label90.Location = new System.Drawing.Point(2, 2);
-            this.label90.Name = "label90";
-            this.label90.Size = new System.Drawing.Size(51, 15);
-            this.label90.TabIndex = 6;
-            this.label90.Text = "21";
-            // 
-            // button91
-            // 
-            this.button91.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button91.FlatAppearance.BorderSize = 0;
-            this.button91.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button91.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button91.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button91.Location = new System.Drawing.Point(2, 17);
-            this.button91.Name = "button91";
-            this.button91.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button91.Size = new System.Drawing.Size(51, 46);
-            this.button91.TabIndex = 7;
-            this.button91.Text = "Y";
-            this.button91.UseVisualStyleBackColor = true;
-            // 
-            // label91
-            // 
-            this.label91.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label91.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label91.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label91.Location = new System.Drawing.Point(2, 2);
-            this.label91.Name = "label91";
-            this.label91.Size = new System.Drawing.Size(51, 15);
-            this.label91.TabIndex = 6;
-            this.label91.Text = "39";
-            // 
-            // button92
-            // 
-            this.button92.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button92.FlatAppearance.BorderSize = 0;
-            this.button92.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button92.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button92.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button92.Location = new System.Drawing.Point(2, 17);
-            this.button92.Name = "button92";
-            this.button92.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button92.Size = new System.Drawing.Size(51, 46);
-            this.button92.TabIndex = 7;
-            this.button92.Text = "Zr";
-            this.button92.UseVisualStyleBackColor = true;
-            // 
-            // label92
-            // 
-            this.label92.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label92.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label92.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label92.Location = new System.Drawing.Point(2, 2);
-            this.label92.Name = "label92";
-            this.label92.Size = new System.Drawing.Size(51, 15);
-            this.label92.TabIndex = 6;
-            this.label92.Text = "40";
-            // 
-            // button93
-            // 
-            this.button93.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button93.FlatAppearance.BorderSize = 0;
-            this.button93.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button93.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button93.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button93.Location = new System.Drawing.Point(2, 17);
-            this.button93.Name = "button93";
-            this.button93.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button93.Size = new System.Drawing.Size(51, 46);
-            this.button93.TabIndex = 7;
-            this.button93.Text = "Nb";
-            this.button93.UseVisualStyleBackColor = true;
-            // 
-            // label93
-            // 
-            this.label93.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label93.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label93.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label93.Location = new System.Drawing.Point(2, 2);
-            this.label93.Name = "label93";
-            this.label93.Size = new System.Drawing.Size(51, 15);
-            this.label93.TabIndex = 6;
-            this.label93.Text = "41";
-            // 
-            // button94
-            // 
-            this.button94.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button94.FlatAppearance.BorderSize = 0;
-            this.button94.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button94.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button94.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button94.Location = new System.Drawing.Point(2, 17);
-            this.button94.Name = "button94";
-            this.button94.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button94.Size = new System.Drawing.Size(51, 46);
-            this.button94.TabIndex = 7;
-            this.button94.Text = "Mo";
-            this.button94.UseVisualStyleBackColor = true;
-            // 
-            // label94
-            // 
-            this.label94.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label94.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label94.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label94.Location = new System.Drawing.Point(2, 2);
-            this.label94.Name = "label94";
-            this.label94.Size = new System.Drawing.Size(51, 15);
-            this.label94.TabIndex = 6;
-            this.label94.Text = "42";
-            // 
-            // button95
-            // 
-            this.button95.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button95.FlatAppearance.BorderSize = 0;
-            this.button95.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button95.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button95.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button95.Location = new System.Drawing.Point(2, 17);
-            this.button95.Name = "button95";
-            this.button95.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button95.Size = new System.Drawing.Size(51, 46);
-            this.button95.TabIndex = 7;
-            this.button95.Text = "Tc";
-            this.button95.UseVisualStyleBackColor = true;
-            // 
-            // label95
-            // 
-            this.label95.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label95.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label95.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label95.Location = new System.Drawing.Point(2, 2);
-            this.label95.Name = "label95";
-            this.label95.Size = new System.Drawing.Size(51, 15);
-            this.label95.TabIndex = 6;
-            this.label95.Text = "43";
-            // 
-            // button96
-            // 
-            this.button96.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button96.FlatAppearance.BorderSize = 0;
-            this.button96.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button96.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button96.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button96.Location = new System.Drawing.Point(2, 17);
-            this.button96.Name = "button96";
-            this.button96.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button96.Size = new System.Drawing.Size(51, 46);
-            this.button96.TabIndex = 7;
-            this.button96.Text = "Ru";
-            this.button96.UseVisualStyleBackColor = true;
-            // 
-            // label96
-            // 
-            this.label96.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label96.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label96.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label96.Location = new System.Drawing.Point(2, 2);
-            this.label96.Name = "label96";
-            this.label96.Size = new System.Drawing.Size(51, 15);
-            this.label96.TabIndex = 6;
-            this.label96.Text = "44";
-            // 
-            // button97
-            // 
-            this.button97.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button97.FlatAppearance.BorderSize = 0;
-            this.button97.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button97.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button97.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button97.Location = new System.Drawing.Point(2, 17);
-            this.button97.Name = "button97";
-            this.button97.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button97.Size = new System.Drawing.Size(51, 46);
-            this.button97.TabIndex = 7;
-            this.button97.Text = "Rh";
-            this.button97.UseVisualStyleBackColor = true;
-            // 
-            // label97
-            // 
-            this.label97.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label97.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label97.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label97.Location = new System.Drawing.Point(2, 2);
-            this.label97.Name = "label97";
-            this.label97.Size = new System.Drawing.Size(51, 15);
-            this.label97.TabIndex = 6;
-            this.label97.Text = "45";
-            // 
-            // button98
-            // 
-            this.button98.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button98.FlatAppearance.BorderSize = 0;
-            this.button98.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button98.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button98.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button98.Location = new System.Drawing.Point(2, 17);
-            this.button98.Name = "button98";
-            this.button98.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button98.Size = new System.Drawing.Size(51, 46);
-            this.button98.TabIndex = 7;
-            this.button98.Text = "Pd";
-            this.button98.UseVisualStyleBackColor = true;
-            // 
-            // label98
-            // 
-            this.label98.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label98.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label98.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label98.Location = new System.Drawing.Point(2, 2);
-            this.label98.Name = "label98";
-            this.label98.Size = new System.Drawing.Size(51, 15);
-            this.label98.TabIndex = 6;
-            this.label98.Text = "46";
-            // 
-            // button99
-            // 
-            this.button99.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button99.FlatAppearance.BorderSize = 0;
-            this.button99.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button99.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button99.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button99.Location = new System.Drawing.Point(2, 17);
-            this.button99.Name = "button99";
-            this.button99.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button99.Size = new System.Drawing.Size(51, 46);
-            this.button99.TabIndex = 7;
-            this.button99.Text = "Ag";
-            this.button99.UseVisualStyleBackColor = true;
-            // 
-            // label99
-            // 
-            this.label99.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label99.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label99.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label99.Location = new System.Drawing.Point(2, 2);
-            this.label99.Name = "label99";
-            this.label99.Size = new System.Drawing.Size(51, 15);
-            this.label99.TabIndex = 6;
-            this.label99.Text = "47";
-            // 
-            // button100
-            // 
-            this.button100.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button100.FlatAppearance.BorderSize = 0;
-            this.button100.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button100.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button100.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button100.Location = new System.Drawing.Point(2, 17);
-            this.button100.Name = "button100";
-            this.button100.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button100.Size = new System.Drawing.Size(51, 46);
-            this.button100.TabIndex = 7;
-            this.button100.Text = "Cd";
-            this.button100.UseVisualStyleBackColor = true;
-            // 
-            // label100
-            // 
-            this.label100.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label100.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label100.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label100.Location = new System.Drawing.Point(2, 2);
-            this.label100.Name = "label100";
-            this.label100.Size = new System.Drawing.Size(51, 15);
-            this.label100.TabIndex = 6;
-            this.label100.Text = "48";
-            // 
-            // button101
-            // 
-            this.button101.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button101.FlatAppearance.BorderSize = 0;
-            this.button101.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button101.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button101.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button101.Location = new System.Drawing.Point(2, 17);
-            this.button101.Name = "button101";
-            this.button101.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button101.Size = new System.Drawing.Size(51, 46);
-            this.button101.TabIndex = 7;
-            this.button101.Text = "Hg";
-            this.button101.UseVisualStyleBackColor = true;
-            // 
-            // label101
-            // 
-            this.label101.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label101.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label101.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label101.Location = new System.Drawing.Point(2, 2);
-            this.label101.Name = "label101";
-            this.label101.Size = new System.Drawing.Size(51, 15);
-            this.label101.TabIndex = 6;
-            this.label101.Text = "80";
-            // 
-            // button102
-            // 
-            this.button102.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button102.FlatAppearance.BorderSize = 0;
-            this.button102.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button102.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button102.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button102.Location = new System.Drawing.Point(2, 17);
-            this.button102.Name = "button102";
-            this.button102.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button102.Size = new System.Drawing.Size(51, 46);
-            this.button102.TabIndex = 7;
-            this.button102.Text = "Au";
-            this.button102.UseVisualStyleBackColor = true;
-            // 
-            // label102
-            // 
-            this.label102.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label102.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label102.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label102.Location = new System.Drawing.Point(2, 2);
-            this.label102.Name = "label102";
-            this.label102.Size = new System.Drawing.Size(51, 15);
-            this.label102.TabIndex = 6;
-            this.label102.Text = "79";
-            // 
-            // button103
-            // 
-            this.button103.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button103.FlatAppearance.BorderSize = 0;
-            this.button103.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button103.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button103.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button103.Location = new System.Drawing.Point(2, 17);
-            this.button103.Name = "button103";
-            this.button103.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button103.Size = new System.Drawing.Size(51, 46);
-            this.button103.TabIndex = 7;
-            this.button103.Text = "Pt";
-            this.button103.UseVisualStyleBackColor = true;
-            // 
-            // label103
-            // 
-            this.label103.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label103.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label103.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label103.Location = new System.Drawing.Point(2, 2);
-            this.label103.Name = "label103";
-            this.label103.Size = new System.Drawing.Size(51, 15);
-            this.label103.TabIndex = 6;
-            this.label103.Text = "78";
-            // 
-            // button104
-            // 
-            this.button104.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button104.FlatAppearance.BorderSize = 0;
-            this.button104.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button104.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button104.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button104.Location = new System.Drawing.Point(2, 17);
-            this.button104.Name = "button104";
-            this.button104.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button104.Size = new System.Drawing.Size(51, 46);
-            this.button104.TabIndex = 7;
-            this.button104.Text = "Ir";
-            this.button104.UseVisualStyleBackColor = true;
-            // 
-            // label104
-            // 
-            this.label104.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label104.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label104.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label104.Location = new System.Drawing.Point(2, 2);
-            this.label104.Name = "label104";
-            this.label104.Size = new System.Drawing.Size(51, 15);
-            this.label104.TabIndex = 6;
-            this.label104.Text = "77";
-            // 
-            // button105
-            // 
-            this.button105.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button105.FlatAppearance.BorderSize = 0;
-            this.button105.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button105.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button105.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button105.Location = new System.Drawing.Point(2, 17);
-            this.button105.Name = "button105";
-            this.button105.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button105.Size = new System.Drawing.Size(51, 46);
-            this.button105.TabIndex = 7;
-            this.button105.Text = "Os";
-            this.button105.UseVisualStyleBackColor = true;
-            // 
-            // label105
-            // 
-            this.label105.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label105.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label105.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label105.Location = new System.Drawing.Point(2, 2);
-            this.label105.Name = "label105";
-            this.label105.Size = new System.Drawing.Size(51, 15);
-            this.label105.TabIndex = 6;
-            this.label105.Text = "76";
-            // 
-            // button106
-            // 
-            this.button106.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button106.FlatAppearance.BorderSize = 0;
-            this.button106.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button106.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button106.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button106.Location = new System.Drawing.Point(2, 17);
-            this.button106.Name = "button106";
-            this.button106.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button106.Size = new System.Drawing.Size(51, 46);
-            this.button106.TabIndex = 7;
-            this.button106.Text = "Re";
-            this.button106.UseVisualStyleBackColor = true;
-            // 
-            // label106
-            // 
-            this.label106.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label106.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label106.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label106.Location = new System.Drawing.Point(2, 2);
-            this.label106.Name = "label106";
-            this.label106.Size = new System.Drawing.Size(51, 15);
-            this.label106.TabIndex = 6;
-            this.label106.Text = "75";
-            // 
-            // button107
-            // 
-            this.button107.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button107.FlatAppearance.BorderSize = 0;
-            this.button107.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button107.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button107.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button107.Location = new System.Drawing.Point(2, 17);
-            this.button107.Name = "button107";
-            this.button107.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button107.Size = new System.Drawing.Size(51, 46);
-            this.button107.TabIndex = 7;
-            this.button107.Text = "W";
-            this.button107.UseVisualStyleBackColor = true;
-            // 
-            // label107
-            // 
-            this.label107.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label107.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label107.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label107.Location = new System.Drawing.Point(2, 2);
-            this.label107.Name = "label107";
-            this.label107.Size = new System.Drawing.Size(51, 15);
-            this.label107.TabIndex = 6;
-            this.label107.Text = "74";
-            // 
-            // button108
-            // 
-            this.button108.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button108.FlatAppearance.BorderSize = 0;
-            this.button108.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button108.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button108.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button108.Location = new System.Drawing.Point(2, 17);
-            this.button108.Name = "button108";
-            this.button108.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button108.Size = new System.Drawing.Size(51, 46);
-            this.button108.TabIndex = 7;
-            this.button108.Text = "Ta";
-            this.button108.UseVisualStyleBackColor = true;
-            // 
-            // label108
-            // 
-            this.label108.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label108.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label108.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label108.Location = new System.Drawing.Point(2, 2);
-            this.label108.Name = "label108";
-            this.label108.Size = new System.Drawing.Size(51, 15);
-            this.label108.TabIndex = 6;
-            this.label108.Text = "73";
-            // 
-            // button109
-            // 
-            this.button109.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button109.FlatAppearance.BorderSize = 0;
-            this.button109.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button109.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button109.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button109.Location = new System.Drawing.Point(2, 17);
-            this.button109.Name = "button109";
-            this.button109.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button109.Size = new System.Drawing.Size(51, 46);
-            this.button109.TabIndex = 7;
-            this.button109.Text = "Hf";
-            this.button109.UseVisualStyleBackColor = true;
-            // 
-            // label109
-            // 
-            this.label109.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label109.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label109.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label109.Location = new System.Drawing.Point(2, 2);
-            this.label109.Name = "label109";
-            this.label109.Size = new System.Drawing.Size(51, 15);
-            this.label109.TabIndex = 6;
-            this.label109.Text = "72";
-            // 
-            // button110
-            // 
-            this.button110.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button110.FlatAppearance.BorderSize = 0;
-            this.button110.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button110.Font = new System.Drawing.Font("Century Gothic", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
-            this.button110.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button110.Location = new System.Drawing.Point(2, 17);
-            this.button110.Name = "button110";
-            this.button110.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button110.Size = new System.Drawing.Size(51, 46);
-            this.button110.TabIndex = 7;
-            this.button110.Text = "Lant.";
-            this.button110.UseVisualStyleBackColor = true;
-            // 
-            // label110
-            // 
-            this.label110.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label110.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label110.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label110.Location = new System.Drawing.Point(2, 2);
-            this.label110.Name = "label110";
-            this.label110.Size = new System.Drawing.Size(51, 15);
-            this.label110.TabIndex = 6;
-            this.label110.Text = "57-71";
-            // 
-            // button111
-            // 
-            this.button111.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button111.FlatAppearance.BorderSize = 0;
-            this.button111.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button111.Font = new System.Drawing.Font("Century Gothic", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
-            this.button111.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button111.Location = new System.Drawing.Point(2, 17);
-            this.button111.Name = "button111";
-            this.button111.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button111.Size = new System.Drawing.Size(51, 46);
-            this.button111.TabIndex = 7;
-            this.button111.Text = "Act.";
-            this.button111.UseVisualStyleBackColor = true;
-            // 
-            // label111
-            // 
-            this.label111.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label111.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label111.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label111.Location = new System.Drawing.Point(2, 2);
-            this.label111.Name = "label111";
-            this.label111.Size = new System.Drawing.Size(51, 15);
-            this.label111.TabIndex = 6;
-            this.label111.Text = "89-103";
-            // 
-            // button112
-            // 
-            this.button112.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button112.FlatAppearance.BorderSize = 0;
-            this.button112.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button112.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button112.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button112.Location = new System.Drawing.Point(2, 17);
-            this.button112.Name = "button112";
-            this.button112.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button112.Size = new System.Drawing.Size(51, 46);
-            this.button112.TabIndex = 7;
-            this.button112.Text = "Rf";
-            this.button112.UseVisualStyleBackColor = true;
-            // 
-            // label112
-            // 
-            this.label112.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label112.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label112.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label112.Location = new System.Drawing.Point(2, 2);
-            this.label112.Name = "label112";
-            this.label112.Size = new System.Drawing.Size(51, 15);
-            this.label112.TabIndex = 6;
-            this.label112.Text = "104";
-            // 
-            // button113
-            // 
-            this.button113.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button113.FlatAppearance.BorderSize = 0;
-            this.button113.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button113.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button113.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button113.Location = new System.Drawing.Point(2, 17);
-            this.button113.Name = "button113";
-            this.button113.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button113.Size = new System.Drawing.Size(51, 46);
-            this.button113.TabIndex = 7;
-            this.button113.Text = "Db";
-            this.button113.UseVisualStyleBackColor = true;
-            // 
-            // label113
-            // 
-            this.label113.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label113.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label113.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label113.Location = new System.Drawing.Point(2, 2);
-            this.label113.Name = "label113";
-            this.label113.Size = new System.Drawing.Size(51, 15);
-            this.label113.TabIndex = 6;
-            this.label113.Text = "105";
-            // 
-            // button114
-            // 
-            this.button114.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button114.FlatAppearance.BorderSize = 0;
-            this.button114.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button114.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button114.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button114.Location = new System.Drawing.Point(2, 17);
-            this.button114.Name = "button114";
-            this.button114.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button114.Size = new System.Drawing.Size(51, 46);
-            this.button114.TabIndex = 7;
-            this.button114.Text = "Sg";
-            this.button114.UseVisualStyleBackColor = true;
-            // 
-            // label114
-            // 
-            this.label114.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label114.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label114.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label114.Location = new System.Drawing.Point(2, 2);
-            this.label114.Name = "label114";
-            this.label114.Size = new System.Drawing.Size(51, 15);
-            this.label114.TabIndex = 6;
-            this.label114.Text = "106";
-            // 
-            // button115
-            // 
-            this.button115.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button115.FlatAppearance.BorderSize = 0;
-            this.button115.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button115.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button115.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button115.Location = new System.Drawing.Point(2, 17);
-            this.button115.Name = "button115";
-            this.button115.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button115.Size = new System.Drawing.Size(51, 46);
-            this.button115.TabIndex = 7;
-            this.button115.Text = "Bh";
-            this.button115.UseVisualStyleBackColor = true;
-            // 
-            // label115
-            // 
-            this.label115.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label115.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label115.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label115.Location = new System.Drawing.Point(2, 2);
-            this.label115.Name = "label115";
-            this.label115.Size = new System.Drawing.Size(51, 15);
-            this.label115.TabIndex = 6;
-            this.label115.Text = "107";
-            // 
-            // button116
-            // 
-            this.button116.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button116.FlatAppearance.BorderSize = 0;
-            this.button116.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button116.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button116.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button116.Location = new System.Drawing.Point(2, 17);
-            this.button116.Name = "button116";
-            this.button116.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button116.Size = new System.Drawing.Size(51, 46);
-            this.button116.TabIndex = 7;
-            this.button116.Text = "Hs";
-            this.button116.UseVisualStyleBackColor = true;
-            // 
-            // label116
-            // 
-            this.label116.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label116.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label116.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label116.Location = new System.Drawing.Point(2, 2);
-            this.label116.Name = "label116";
-            this.label116.Size = new System.Drawing.Size(51, 15);
-            this.label116.TabIndex = 6;
-            this.label116.Text = "108";
-            // 
-            // button117
-            // 
-            this.button117.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button117.FlatAppearance.BorderSize = 0;
-            this.button117.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button117.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button117.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button117.Location = new System.Drawing.Point(2, 17);
-            this.button117.Name = "button117";
-            this.button117.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button117.Size = new System.Drawing.Size(51, 46);
-            this.button117.TabIndex = 7;
-            this.button117.Text = "Mt";
-            this.button117.UseVisualStyleBackColor = true;
-            // 
-            // label117
-            // 
-            this.label117.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label117.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label117.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label117.Location = new System.Drawing.Point(2, 2);
-            this.label117.Name = "label117";
-            this.label117.Size = new System.Drawing.Size(51, 15);
-            this.label117.TabIndex = 6;
-            this.label117.Text = "109";
-            // 
-            // button118
-            // 
-            this.button118.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button118.FlatAppearance.BorderSize = 0;
-            this.button118.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button118.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button118.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button118.Location = new System.Drawing.Point(2, 17);
-            this.button118.Name = "button118";
-            this.button118.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button118.Size = new System.Drawing.Size(51, 46);
-            this.button118.TabIndex = 7;
-            this.button118.Text = "Ds";
-            this.button118.UseVisualStyleBackColor = true;
-            // 
-            // label118
-            // 
-            this.label118.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label118.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label118.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label118.Location = new System.Drawing.Point(2, 2);
-            this.label118.Name = "label118";
-            this.label118.Size = new System.Drawing.Size(51, 15);
-            this.label118.TabIndex = 6;
-            this.label118.Text = "110";
-            // 
-            // button119
-            // 
-            this.button119.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button119.FlatAppearance.BorderSize = 0;
-            this.button119.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button119.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button119.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button119.Location = new System.Drawing.Point(2, 17);
-            this.button119.Name = "button119";
-            this.button119.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button119.Size = new System.Drawing.Size(51, 46);
-            this.button119.TabIndex = 7;
-            this.button119.Text = "Rg";
-            this.button119.UseVisualStyleBackColor = true;
-            // 
-            // label119
-            // 
-            this.label119.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label119.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label119.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label119.Location = new System.Drawing.Point(2, 2);
-            this.label119.Name = "label119";
-            this.label119.Size = new System.Drawing.Size(51, 15);
-            this.label119.TabIndex = 6;
-            this.label119.Text = "111";
-            // 
-            // button120
-            // 
-            this.button120.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button120.FlatAppearance.BorderSize = 0;
-            this.button120.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button120.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button120.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.button120.Location = new System.Drawing.Point(2, 17);
-            this.button120.Name = "button120";
-            this.button120.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.button120.Size = new System.Drawing.Size(51, 46);
-            this.button120.TabIndex = 7;
-            this.button120.Text = "Cn";
-            this.button120.UseVisualStyleBackColor = true;
-            // 
-            // label120
-            // 
-            this.label120.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label120.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label120.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
-            this.label120.Location = new System.Drawing.Point(2, 2);
-            this.label120.Name = "label120";
-            this.label120.Size = new System.Drawing.Size(51, 15);
-            this.label120.TabIndex = 6;
-            this.label120.Text = "112";
             // 
             // VirtualChem_MainMenu
             // 
@@ -13926,245 +14016,245 @@ namespace VirtualChem.Forms
         private System.Windows.Forms.Panel panel179;
         private System.Windows.Forms.Panel panel180;
         private System.Windows.Forms.Panel panel181;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Button button7;
-        private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Button button8;
-        private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.Button button9;
-        private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Button button10;
-        private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Button button51;
-        private System.Windows.Forms.Label label51;
-        private System.Windows.Forms.Button button60;
-        private System.Windows.Forms.Label label60;
-        private System.Windows.Forms.Button button59;
-        private System.Windows.Forms.Label label59;
-        private System.Windows.Forms.Button button58;
-        private System.Windows.Forms.Label label58;
-        private System.Windows.Forms.Button button57;
-        private System.Windows.Forms.Label label57;
-        private System.Windows.Forms.Button button56;
-        private System.Windows.Forms.Label label56;
-        private System.Windows.Forms.Button button12;
-        private System.Windows.Forms.Label label12;
-        private System.Windows.Forms.Button button11;
-        private System.Windows.Forms.Label label11;
-        private System.Windows.Forms.Button button52;
-        private System.Windows.Forms.Label label52;
-        private System.Windows.Forms.Button button61;
-        private System.Windows.Forms.Label label61;
-        private System.Windows.Forms.Button button62;
-        private System.Windows.Forms.Label label62;
-        private System.Windows.Forms.Button button63;
-        private System.Windows.Forms.Label label63;
-        private System.Windows.Forms.Button button64;
-        private System.Windows.Forms.Label label64;
-        private System.Windows.Forms.Button button65;
-        private System.Windows.Forms.Label label65;
-        private System.Windows.Forms.Button button81;
-        private System.Windows.Forms.Label label81;
-        private System.Windows.Forms.Button button82;
-        private System.Windows.Forms.Label label82;
-        private System.Windows.Forms.Button button83;
-        private System.Windows.Forms.Label label83;
-        private System.Windows.Forms.Button button84;
-        private System.Windows.Forms.Label label84;
-        private System.Windows.Forms.Button button85;
-        private System.Windows.Forms.Label label85;
-        private System.Windows.Forms.Button button86;
-        private System.Windows.Forms.Label label86;
-        private System.Windows.Forms.Button button87;
-        private System.Windows.Forms.Label label87;
-        private System.Windows.Forms.Button button88;
-        private System.Windows.Forms.Label label88;
-        private System.Windows.Forms.Button button89;
-        private System.Windows.Forms.Label label89;
-        private System.Windows.Forms.Button button90;
-        private System.Windows.Forms.Label label90;
-        private System.Windows.Forms.Button button13;
-        private System.Windows.Forms.Label label13;
-        private System.Windows.Forms.Button button14;
-        private System.Windows.Forms.Label label14;
-        private System.Windows.Forms.Button button53;
-        private System.Windows.Forms.Label label53;
-        private System.Windows.Forms.Button button77;
-        private System.Windows.Forms.Label label77;
-        private System.Windows.Forms.Button button75;
-        private System.Windows.Forms.Label label75;
-        private System.Windows.Forms.Button button74;
-        private System.Windows.Forms.Label label74;
-        private System.Windows.Forms.Button button67;
-        private System.Windows.Forms.Label label67;
-        private System.Windows.Forms.Button button66;
-        private System.Windows.Forms.Label label66;
-        private System.Windows.Forms.Button button100;
-        private System.Windows.Forms.Label label100;
-        private System.Windows.Forms.Button button99;
-        private System.Windows.Forms.Label label99;
-        private System.Windows.Forms.Button button98;
-        private System.Windows.Forms.Label label98;
-        private System.Windows.Forms.Button button97;
-        private System.Windows.Forms.Label label97;
-        private System.Windows.Forms.Button button96;
-        private System.Windows.Forms.Label label96;
-        private System.Windows.Forms.Button button95;
-        private System.Windows.Forms.Label label95;
-        private System.Windows.Forms.Button button94;
-        private System.Windows.Forms.Label label94;
-        private System.Windows.Forms.Button button93;
-        private System.Windows.Forms.Label label93;
-        private System.Windows.Forms.Button button92;
-        private System.Windows.Forms.Label label92;
-        private System.Windows.Forms.Button button91;
-        private System.Windows.Forms.Label label91;
-        private System.Windows.Forms.Button button16;
-        private System.Windows.Forms.Label label16;
-        private System.Windows.Forms.Button button15;
-        private System.Windows.Forms.Label label15;
-        private System.Windows.Forms.Button button54;
-        private System.Windows.Forms.Label label54;
-        private System.Windows.Forms.Button button78;
-        private System.Windows.Forms.Label label78;
-        private System.Windows.Forms.Button button76;
-        private System.Windows.Forms.Label label76;
-        private System.Windows.Forms.Button button73;
-        private System.Windows.Forms.Label label73;
-        private System.Windows.Forms.Button button68;
-        private System.Windows.Forms.Label label68;
-        private System.Windows.Forms.Button button69;
-        private System.Windows.Forms.Label label69;
-        private System.Windows.Forms.Button button101;
-        private System.Windows.Forms.Label label101;
-        private System.Windows.Forms.Button button102;
-        private System.Windows.Forms.Label label102;
-        private System.Windows.Forms.Button button103;
-        private System.Windows.Forms.Label label103;
-        private System.Windows.Forms.Button button104;
-        private System.Windows.Forms.Label label104;
-        private System.Windows.Forms.Button button105;
-        private System.Windows.Forms.Label label105;
-        private System.Windows.Forms.Button button106;
-        private System.Windows.Forms.Label label106;
-        private System.Windows.Forms.Button button107;
-        private System.Windows.Forms.Label label107;
-        private System.Windows.Forms.Button button108;
-        private System.Windows.Forms.Label label108;
-        private System.Windows.Forms.Button button109;
-        private System.Windows.Forms.Label label109;
-        private System.Windows.Forms.Button button110;
-        private System.Windows.Forms.Label label110;
-        private System.Windows.Forms.Button button17;
-        private System.Windows.Forms.Label label17;
-        private System.Windows.Forms.Button button18;
-        private System.Windows.Forms.Label label18;
-        private System.Windows.Forms.Button button55;
-        private System.Windows.Forms.Label label55;
-        private System.Windows.Forms.Button button79;
-        private System.Windows.Forms.Label label79;
-        private System.Windows.Forms.Button button80;
-        private System.Windows.Forms.Label label80;
-        private System.Windows.Forms.Button button72;
-        private System.Windows.Forms.Label label72;
-        private System.Windows.Forms.Button button71;
-        private System.Windows.Forms.Label label71;
-        private System.Windows.Forms.Button button70;
-        private System.Windows.Forms.Label label70;
-        private System.Windows.Forms.Button button120;
-        private System.Windows.Forms.Label label120;
-        private System.Windows.Forms.Button button119;
-        private System.Windows.Forms.Label label119;
-        private System.Windows.Forms.Button button118;
-        private System.Windows.Forms.Label label118;
-        private System.Windows.Forms.Button button117;
-        private System.Windows.Forms.Label label117;
-        private System.Windows.Forms.Button button116;
-        private System.Windows.Forms.Label label116;
-        private System.Windows.Forms.Button button115;
-        private System.Windows.Forms.Label label115;
-        private System.Windows.Forms.Button button114;
-        private System.Windows.Forms.Label label114;
-        private System.Windows.Forms.Button button113;
-        private System.Windows.Forms.Label label113;
-        private System.Windows.Forms.Button button112;
-        private System.Windows.Forms.Label label112;
-        private System.Windows.Forms.Button button111;
-        private System.Windows.Forms.Label label111;
-        private System.Windows.Forms.Button button20;
-        private System.Windows.Forms.Label label20;
-        private System.Windows.Forms.Button button19;
-        private System.Windows.Forms.Label label19;
-        private System.Windows.Forms.Button button49;
-        private System.Windows.Forms.Label label49;
-        private System.Windows.Forms.Button button47;
-        private System.Windows.Forms.Label label47;
-        private System.Windows.Forms.Button button45;
-        private System.Windows.Forms.Label label45;
-        private System.Windows.Forms.Button button43;
-        private System.Windows.Forms.Label label43;
-        private System.Windows.Forms.Button button42;
-        private System.Windows.Forms.Label label42;
-        private System.Windows.Forms.Button button39;
-        private System.Windows.Forms.Label label39;
-        private System.Windows.Forms.Button button37;
-        private System.Windows.Forms.Label label37;
-        private System.Windows.Forms.Button button36;
-        private System.Windows.Forms.Label label36;
-        private System.Windows.Forms.Button button33;
-        private System.Windows.Forms.Label label33;
-        private System.Windows.Forms.Button button32;
-        private System.Windows.Forms.Label label32;
-        private System.Windows.Forms.Button button29;
-        private System.Windows.Forms.Label label29;
-        private System.Windows.Forms.Button button28;
-        private System.Windows.Forms.Label label28;
-        private System.Windows.Forms.Button button25;
-        private System.Windows.Forms.Label label25;
-        private System.Windows.Forms.Button button24;
-        private System.Windows.Forms.Label label24;
-        private System.Windows.Forms.Button button21;
-        private System.Windows.Forms.Label label21;
-        private System.Windows.Forms.Button button50;
-        private System.Windows.Forms.Label label50;
-        private System.Windows.Forms.Button button48;
-        private System.Windows.Forms.Label label48;
-        private System.Windows.Forms.Button button46;
-        private System.Windows.Forms.Label label46;
-        private System.Windows.Forms.Button button44;
-        private System.Windows.Forms.Label label44;
-        private System.Windows.Forms.Button button41;
-        private System.Windows.Forms.Label label41;
-        private System.Windows.Forms.Button button40;
-        private System.Windows.Forms.Label label40;
-        private System.Windows.Forms.Button button38;
-        private System.Windows.Forms.Label label38;
-        private System.Windows.Forms.Button button35;
-        private System.Windows.Forms.Label label35;
-        private System.Windows.Forms.Button button34;
-        private System.Windows.Forms.Label label34;
-        private System.Windows.Forms.Button button31;
-        private System.Windows.Forms.Label label31;
-        private System.Windows.Forms.Button button30;
-        private System.Windows.Forms.Label label30;
-        private System.Windows.Forms.Button button27;
-        private System.Windows.Forms.Label label27;
-        private System.Windows.Forms.Button button26;
-        private System.Windows.Forms.Label label26;
-        private System.Windows.Forms.Button button23;
-        private System.Windows.Forms.Label label23;
-        private System.Windows.Forms.Button button22;
-        private System.Windows.Forms.Label label22;
+        private System.Windows.Forms.Button Hydrogen_Button;
+        private System.Windows.Forms.Label Hydrogen_Label;
+        private System.Windows.Forms.Button Helium_Button;
+        private System.Windows.Forms.Label Helium_Label;
+        private System.Windows.Forms.Button Neon_Button;
+        private System.Windows.Forms.Label Neon_Label;
+        private System.Windows.Forms.Button Flor_Button;
+        private System.Windows.Forms.Label Flor_Label;
+        private System.Windows.Forms.Button Oxygen_Button;
+        private System.Windows.Forms.Label Oxygen_Label;
+        private System.Windows.Forms.Button Nitrogen_Button;
+        private System.Windows.Forms.Label Nitrogen_Label;
+        private System.Windows.Forms.Button Carbon_Button;
+        private System.Windows.Forms.Label Carbon_Label;
+        private System.Windows.Forms.Button Bor_Button;
+        private System.Windows.Forms.Label Bor_Label;
+        private System.Windows.Forms.Button Beryllium_Button;
+        private System.Windows.Forms.Label Beryllium_Label;
+        private System.Windows.Forms.Button Lithium_Button;
+        private System.Windows.Forms.Label Lithium_Label;
+        private System.Windows.Forms.Button Argon_Button;
+        private System.Windows.Forms.Label Argon_Label;
+        private System.Windows.Forms.Button Chlorine_Button;
+        private System.Windows.Forms.Label Chlorine_Label;
+        private System.Windows.Forms.Button Sulfur_Button;
+        private System.Windows.Forms.Label Sulfur_Label;
+        private System.Windows.Forms.Button Phosphorus_Button;
+        private System.Windows.Forms.Label Phosphorus_Label;
+        private System.Windows.Forms.Button Silisium_Button;
+        private System.Windows.Forms.Label Silisium_Label;
+        private System.Windows.Forms.Button Aluminum_Button;
+        private System.Windows.Forms.Label Aluminum_Label;
+        private System.Windows.Forms.Button Magnesium_Button;
+        private System.Windows.Forms.Label Magnesium_Label;
+        private System.Windows.Forms.Button Natrium_Button;
+        private System.Windows.Forms.Label Natrium_Label;
+        private System.Windows.Forms.Button Krypton_Button;
+        private System.Windows.Forms.Label Krypton_Label;
+        private System.Windows.Forms.Button Bromine_Button;
+        private System.Windows.Forms.Label Bromine_Label;
+        private System.Windows.Forms.Button Selenium_Button;
+        private System.Windows.Forms.Label Selenium_Label;
+        private System.Windows.Forms.Button Arsenic_Button;
+        private System.Windows.Forms.Label Arsenic_Label;
+        private System.Windows.Forms.Button Germanium_Button;
+        private System.Windows.Forms.Label Germanium_Label;
+        private System.Windows.Forms.Button Gallium_Button;
+        private System.Windows.Forms.Label Gallium_Label;
+        private System.Windows.Forms.Button Zinc_Button;
+        private System.Windows.Forms.Label Zinc_Label;
+        private System.Windows.Forms.Button Copper_Button;
+        private System.Windows.Forms.Label Copper_Label;
+        private System.Windows.Forms.Button Nickel_Button;
+        private System.Windows.Forms.Label Nickel_Label;
+        private System.Windows.Forms.Button Cobalt_Button;
+        private System.Windows.Forms.Label Cobalt_Label;
+        private System.Windows.Forms.Button Iron_Button;
+        private System.Windows.Forms.Label Iron_Label;
+        private System.Windows.Forms.Button Manganese_Button;
+        private System.Windows.Forms.Label Manganese_Label;
+        private System.Windows.Forms.Button Chromium_Button;
+        private System.Windows.Forms.Label Chromium_Label;
+        private System.Windows.Forms.Button Vanadium_Button;
+        private System.Windows.Forms.Label Vanadium_Label;
+        private System.Windows.Forms.Button Titanium_Button;
+        private System.Windows.Forms.Label Titanium_Label;
+        private System.Windows.Forms.Button Scandium_Button;
+        private System.Windows.Forms.Label Scandium_Label;
+        private System.Windows.Forms.Button Calcium_Button;
+        private System.Windows.Forms.Label Calcium_Label;
+        private System.Windows.Forms.Button Potassium_Button;
+        private System.Windows.Forms.Label Potassium_Label;
+        private System.Windows.Forms.Button Xenon_Button;
+        private System.Windows.Forms.Label Xenon_Label;
+        private System.Windows.Forms.Button Iodine_Button;
+        private System.Windows.Forms.Label Iodine_Label;
+        private System.Windows.Forms.Button Tellurium_Button;
+        private System.Windows.Forms.Label Tellurium_Label;
+        private System.Windows.Forms.Button Antimony_Button;
+        private System.Windows.Forms.Label Antimony_Label;
+        private System.Windows.Forms.Button Tin_Button;
+        private System.Windows.Forms.Label Tin_Label;
+        private System.Windows.Forms.Button Indium_Button;
+        private System.Windows.Forms.Label Indium_Label;
+        private System.Windows.Forms.Button Cadmium_Button;
+        private System.Windows.Forms.Label Cadmium_Label;
+        private System.Windows.Forms.Button Silver_Button;
+        private System.Windows.Forms.Label Silver_Label;
+        private System.Windows.Forms.Button Palladium_Button;
+        private System.Windows.Forms.Label Palladium_Label;
+        private System.Windows.Forms.Button Rhodium_Button;
+        private System.Windows.Forms.Label Rhodium_Label;
+        private System.Windows.Forms.Button Ruthenium_Button;
+        private System.Windows.Forms.Label Ruthenium_Label;
+        private System.Windows.Forms.Button Technetium_Button;
+        private System.Windows.Forms.Label Technetium_Label;
+        private System.Windows.Forms.Button Molybdenum_Button;
+        private System.Windows.Forms.Label Molybdenum_Label;
+        private System.Windows.Forms.Button Niobium_Button;
+        private System.Windows.Forms.Label Niobium_Label;
+        private System.Windows.Forms.Button Zirconium_Button;
+        private System.Windows.Forms.Label Zirconium_Label;
+        private System.Windows.Forms.Button Yttrium_Button;
+        private System.Windows.Forms.Label Yttrium_Label;
+        private System.Windows.Forms.Button Strontium_Button;
+        private System.Windows.Forms.Label Strontium_Label;
+        private System.Windows.Forms.Button Rubidium_Button;
+        private System.Windows.Forms.Label Rubidium_Label;
+        private System.Windows.Forms.Button Radon_Button;
+        private System.Windows.Forms.Label Radon_Label;
+        private System.Windows.Forms.Button Astatine_Button;
+        private System.Windows.Forms.Label Astatine_Label;
+        private System.Windows.Forms.Button Polonium_Button;
+        private System.Windows.Forms.Label Polonium_Label;
+        private System.Windows.Forms.Button Bismuth_Button;
+        private System.Windows.Forms.Label Bismuth_Label;
+        private System.Windows.Forms.Button Lead_Button;
+        private System.Windows.Forms.Label Lead_Label;
+        private System.Windows.Forms.Button Thallium_Button;
+        private System.Windows.Forms.Label Thallium_Label;
+        private System.Windows.Forms.Button Mercury_Button;
+        private System.Windows.Forms.Label Mercury_Label;
+        private System.Windows.Forms.Button Gold_Button;
+        private System.Windows.Forms.Label Gold_Label;
+        private System.Windows.Forms.Button Platinum_Button;
+        private System.Windows.Forms.Label Platinum_Label;
+        private System.Windows.Forms.Button Iridium_Button;
+        private System.Windows.Forms.Label Iridium_Label;
+        private System.Windows.Forms.Button Osmium_Button;
+        private System.Windows.Forms.Label Osmium_Label;
+        private System.Windows.Forms.Button Rhenium_Button;
+        private System.Windows.Forms.Label Rhenium_Label;
+        private System.Windows.Forms.Button Tungsten_Button;
+        private System.Windows.Forms.Label Tungsten_Label;
+        private System.Windows.Forms.Button Tantalum_Button;
+        private System.Windows.Forms.Label Tantalum_Label;
+        private System.Windows.Forms.Button Hafnium_Button;
+        private System.Windows.Forms.Label Hafnium_Label;
+        private System.Windows.Forms.Button Lant_Button;
+        private System.Windows.Forms.Label Lant_Label;
+        private System.Windows.Forms.Button Barium_Button;
+        private System.Windows.Forms.Label Barium_Label;
+        private System.Windows.Forms.Button Caesium_Button;
+        private System.Windows.Forms.Label Caesium_Label;
+        private System.Windows.Forms.Button Oganesson_Button;
+        private System.Windows.Forms.Label Oganesson_Label;
+        private System.Windows.Forms.Button Tennessine_Button;
+        private System.Windows.Forms.Label Tennessine_Label;
+        private System.Windows.Forms.Button Livermorium_Button;
+        private System.Windows.Forms.Label Livermorium_Label;
+        private System.Windows.Forms.Button Moscovium_Button;
+        private System.Windows.Forms.Label Moscovium_Label;
+        private System.Windows.Forms.Button Flerovium_Button;
+        private System.Windows.Forms.Label Flerovium_Label;
+        private System.Windows.Forms.Button Nihonium_Button;
+        private System.Windows.Forms.Label Nihonium_Label;
+        private System.Windows.Forms.Button Copernicium_Button;
+        private System.Windows.Forms.Label Copernicium_Label;
+        private System.Windows.Forms.Button Roentgenium_Button;
+        private System.Windows.Forms.Label Roentgenium_Label;
+        private System.Windows.Forms.Button Darmstadtium_Button;
+        private System.Windows.Forms.Label Darmstadtium_Label;
+        private System.Windows.Forms.Button Meitnerium_Button;
+        private System.Windows.Forms.Label Meitnerium_Label;
+        private System.Windows.Forms.Button Hassium_Button;
+        private System.Windows.Forms.Label Hassium_Label;
+        private System.Windows.Forms.Button Bohrium_Button;
+        private System.Windows.Forms.Label Bohrium_Label;
+        private System.Windows.Forms.Button Seaborgium_Button;
+        private System.Windows.Forms.Label Seaborgium_Label;
+        private System.Windows.Forms.Button Dubnium_Button;
+        private System.Windows.Forms.Label Dubnium_Label;
+        private System.Windows.Forms.Button Rutherfordium_Button;
+        private System.Windows.Forms.Label Rutherfordium_Label;
+        private System.Windows.Forms.Button Act_Button;
+        private System.Windows.Forms.Label Act_Label;
+        private System.Windows.Forms.Button Radium_Button;
+        private System.Windows.Forms.Label Radium_Label;
+        private System.Windows.Forms.Button Francium_Button;
+        private System.Windows.Forms.Label Francium_Label;
+        private System.Windows.Forms.Button Lutetium_Button;
+        private System.Windows.Forms.Label Lutetium_Label;
+        private System.Windows.Forms.Button Ytterbium_Button;
+        private System.Windows.Forms.Label Ytterbium_Label;
+        private System.Windows.Forms.Button Thulium_Button;
+        private System.Windows.Forms.Label Thulium_Label;
+        private System.Windows.Forms.Button Erbium_Button;
+        private System.Windows.Forms.Label Erbium_Label;
+        private System.Windows.Forms.Button Holmium_Button;
+        private System.Windows.Forms.Label Holmium_Label;
+        private System.Windows.Forms.Button Dysprosium_Button;
+        private System.Windows.Forms.Label Dysprosium_Label;
+        private System.Windows.Forms.Button Terbium_Button;
+        private System.Windows.Forms.Label Terbium_Label;
+        private System.Windows.Forms.Button Gadolinium_Button;
+        private System.Windows.Forms.Label Gadolinium_Label;
+        private System.Windows.Forms.Button Europium_Button;
+        private System.Windows.Forms.Label Europium_Label;
+        private System.Windows.Forms.Button Samarium_Button;
+        private System.Windows.Forms.Label Samarium_Label;
+        private System.Windows.Forms.Button Promethium_Button;
+        private System.Windows.Forms.Label Promethium_Label;
+        private System.Windows.Forms.Button Neodymium_Button;
+        private System.Windows.Forms.Label Neodymium_Label;
+        private System.Windows.Forms.Button Praseodymium_Button;
+        private System.Windows.Forms.Label Praseodymium_Label;
+        private System.Windows.Forms.Button Cerium_Button;
+        private System.Windows.Forms.Label Cerium_Label;
+        private System.Windows.Forms.Button Lanthanum_Button;
+        private System.Windows.Forms.Label Lanthanum_Label;
+        private System.Windows.Forms.Button Lawrencium_Button;
+        private System.Windows.Forms.Label Lawrencium_Label;
+        private System.Windows.Forms.Button Nobelium_Button;
+        private System.Windows.Forms.Label Nobelium_Label;
+        private System.Windows.Forms.Button Mendelevium_Button;
+        private System.Windows.Forms.Label Mendelevium_Label;
+        private System.Windows.Forms.Button Fermium_Button;
+        private System.Windows.Forms.Label Fermium_Label;
+        private System.Windows.Forms.Button Einsteinium_Button;
+        private System.Windows.Forms.Label Einsteinium_Label;
+        private System.Windows.Forms.Button Californium_Button;
+        private System.Windows.Forms.Label Californium_Label;
+        private System.Windows.Forms.Button Berkelium_Button;
+        private System.Windows.Forms.Label Berkelium_Label;
+        private System.Windows.Forms.Button Curium_Button;
+        private System.Windows.Forms.Label Curium_Label;
+        private System.Windows.Forms.Button Americium_Button;
+        private System.Windows.Forms.Label Americium_Label;
+        private System.Windows.Forms.Button Plutonium_Button;
+        private System.Windows.Forms.Label Plutonium_Label;
+        private System.Windows.Forms.Button Neptunium_Button;
+        private System.Windows.Forms.Label Neptunium_Label;
+        private System.Windows.Forms.Button Uranium_Button;
+        private System.Windows.Forms.Label Uranium_Label;
+        private System.Windows.Forms.Button Protactinium_Button;
+        private System.Windows.Forms.Label Protactinium_Label;
+        private System.Windows.Forms.Button Thorium_Button;
+        private System.Windows.Forms.Label Thorium_Label;
+        private System.Windows.Forms.Button Actinium_Button;
+        private System.Windows.Forms.Label Actinium_Label;
     }
 }
