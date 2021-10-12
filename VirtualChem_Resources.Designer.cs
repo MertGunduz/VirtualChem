@@ -119,5 +119,15 @@ namespace VirtualChem {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap VirtualChem_ReturnIcon {
+            get {
+                object obj = ResourceManager.GetObject("VirtualChem_ReturnIcon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
