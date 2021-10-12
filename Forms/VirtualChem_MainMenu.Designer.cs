@@ -204,21 +204,6 @@ namespace VirtualChem.Forms
             this.panel694 = new System.Windows.Forms.Panel();
             this.panel695 = new System.Windows.Forms.Panel();
             this.panel696 = new System.Windows.Forms.Panel();
-            this.panel697 = new System.Windows.Forms.Panel();
-            this.panel698 = new System.Windows.Forms.Panel();
-            this.panel699 = new System.Windows.Forms.Panel();
-            this.panel700 = new System.Windows.Forms.Panel();
-            this.panel701 = new System.Windows.Forms.Panel();
-            this.panel702 = new System.Windows.Forms.Panel();
-            this.panel703 = new System.Windows.Forms.Panel();
-            this.panel704 = new System.Windows.Forms.Panel();
-            this.panel705 = new System.Windows.Forms.Panel();
-            this.panel706 = new System.Windows.Forms.Panel();
-            this.panel707 = new System.Windows.Forms.Panel();
-            this.panel708 = new System.Windows.Forms.Panel();
-            this.panel709 = new System.Windows.Forms.Panel();
-            this.panel710 = new System.Windows.Forms.Panel();
-            this.panel711 = new System.Windows.Forms.Panel();
             this.panel712 = new System.Windows.Forms.Panel();
             this.Beryllium_Button = new System.Windows.Forms.Button();
             this.Beryllium_Label = new System.Windows.Forms.Label();
@@ -1099,6 +1084,21 @@ namespace VirtualChem.Forms
             this.TopBorder_Panel = new System.Windows.Forms.Panel();
             this.LeftBorder_Panel = new System.Windows.Forms.Panel();
             this.RightBorder_Panel = new System.Windows.Forms.Panel();
+            this.panel706 = new System.Windows.Forms.Panel();
+            this.panel705 = new System.Windows.Forms.Panel();
+            this.panel704 = new System.Windows.Forms.Panel();
+            this.panel703 = new System.Windows.Forms.Panel();
+            this.panel702 = new System.Windows.Forms.Panel();
+            this.panel711 = new System.Windows.Forms.Panel();
+            this.panel710 = new System.Windows.Forms.Panel();
+            this.panel709 = new System.Windows.Forms.Panel();
+            this.panel708 = new System.Windows.Forms.Panel();
+            this.panel707 = new System.Windows.Forms.Panel();
+            this.panel701 = new System.Windows.Forms.Panel();
+            this.panel700 = new System.Windows.Forms.Panel();
+            this.panel699 = new System.Windows.Forms.Panel();
+            this.panel698 = new System.Windows.Forms.Panel();
+            this.panel697 = new System.Windows.Forms.Panel();
             this.Main_Panel.SuspendLayout();
             this.FirstRow_Panel.SuspendLayout();
             this.panel722.SuspendLayout();
@@ -1133,9 +1133,6 @@ namespace VirtualChem.Forms
             this.panel682.SuspendLayout();
             this.panel687.SuspendLayout();
             this.panel692.SuspendLayout();
-            this.panel697.SuspendLayout();
-            this.panel702.SuspendLayout();
-            this.panel707.SuspendLayout();
             this.panel712.SuspendLayout();
             this.panel717.SuspendLayout();
             this.ThirdRow_Panel.SuspendLayout();
@@ -1271,6 +1268,9 @@ namespace VirtualChem.Forms
             this.panel12.SuspendLayout();
             this.panel6.SuspendLayout();
             this.panel11.SuspendLayout();
+            this.panel702.SuspendLayout();
+            this.panel707.SuspendLayout();
+            this.panel697.SuspendLayout();
             this.SuspendLayout();
             // 
             // Main_Panel
@@ -1343,6 +1343,7 @@ namespace VirtualChem.Forms
             // 
             // Helium_Button
             // 
+            this.Helium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Helium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Helium_Button.FlatAppearance.BorderSize = 0;
             this.Helium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -1361,6 +1362,7 @@ namespace VirtualChem.Forms
             // 
             // Helium_Label
             // 
+            this.Helium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Helium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Helium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Helium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -2207,6 +2209,7 @@ namespace VirtualChem.Forms
             // 
             // Hydrogen_Button
             // 
+            this.Hydrogen_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Hydrogen_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Hydrogen_Button.FlatAppearance.BorderSize = 0;
             this.Hydrogen_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -2225,6 +2228,7 @@ namespace VirtualChem.Forms
             // 
             // Hydrogen_Label
             // 
+            this.Hydrogen_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Hydrogen_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Hydrogen_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Hydrogen_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -2313,6 +2317,7 @@ namespace VirtualChem.Forms
             // 
             // Neon_Button
             // 
+            this.Neon_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Neon_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Neon_Button.FlatAppearance.BorderSize = 0;
             this.Neon_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -2331,6 +2336,7 @@ namespace VirtualChem.Forms
             // 
             // Neon_Label
             // 
+            this.Neon_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Neon_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Neon_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Neon_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -2393,6 +2399,7 @@ namespace VirtualChem.Forms
             // 
             // Flor_Button
             // 
+            this.Flor_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Flor_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Flor_Button.FlatAppearance.BorderSize = 0;
             this.Flor_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -2411,6 +2418,7 @@ namespace VirtualChem.Forms
             // 
             // Flor_Label
             // 
+            this.Flor_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Flor_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Flor_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Flor_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -2473,6 +2481,7 @@ namespace VirtualChem.Forms
             // 
             // Oxygen_Button
             // 
+            this.Oxygen_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Oxygen_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Oxygen_Button.FlatAppearance.BorderSize = 0;
             this.Oxygen_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -2491,6 +2500,7 @@ namespace VirtualChem.Forms
             // 
             // Oxygen_Label
             // 
+            this.Oxygen_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Oxygen_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Oxygen_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Oxygen_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -2553,6 +2563,7 @@ namespace VirtualChem.Forms
             // 
             // Nitrogen_Button
             // 
+            this.Nitrogen_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Nitrogen_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Nitrogen_Button.FlatAppearance.BorderSize = 0;
             this.Nitrogen_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -2571,6 +2582,7 @@ namespace VirtualChem.Forms
             // 
             // Nitrogen_Label
             // 
+            this.Nitrogen_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Nitrogen_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Nitrogen_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Nitrogen_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -2633,6 +2645,7 @@ namespace VirtualChem.Forms
             // 
             // Carbon_Button
             // 
+            this.Carbon_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Carbon_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Carbon_Button.FlatAppearance.BorderSize = 0;
             this.Carbon_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -2651,6 +2664,7 @@ namespace VirtualChem.Forms
             // 
             // Carbon_Label
             // 
+            this.Carbon_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Carbon_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Carbon_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Carbon_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -2713,6 +2727,7 @@ namespace VirtualChem.Forms
             // 
             // Bor_Button
             // 
+            this.Bor_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Bor_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Bor_Button.FlatAppearance.BorderSize = 0;
             this.Bor_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -2731,6 +2746,7 @@ namespace VirtualChem.Forms
             // 
             // Bor_Label
             // 
+            this.Bor_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Bor_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Bor_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Bor_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -3119,153 +3135,6 @@ namespace VirtualChem.Forms
             this.panel696.Size = new System.Drawing.Size(2, 65);
             this.panel696.TabIndex = 0;
             // 
-            // panel697
-            // 
-            this.panel697.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel697.Controls.Add(this.panel698);
-            this.panel697.Controls.Add(this.panel699);
-            this.panel697.Controls.Add(this.panel700);
-            this.panel697.Controls.Add(this.panel701);
-            this.panel697.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel697.Location = new System.Drawing.Point(220, 0);
-            this.panel697.Name = "panel697";
-            this.panel697.Size = new System.Drawing.Size(55, 65);
-            this.panel697.TabIndex = 40;
-            // 
-            // panel698
-            // 
-            this.panel698.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel698.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel698.Location = new System.Drawing.Point(2, 63);
-            this.panel698.Name = "panel698";
-            this.panel698.Size = new System.Drawing.Size(51, 2);
-            this.panel698.TabIndex = 3;
-            // 
-            // panel699
-            // 
-            this.panel699.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel699.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel699.Location = new System.Drawing.Point(2, 0);
-            this.panel699.Name = "panel699";
-            this.panel699.Size = new System.Drawing.Size(51, 2);
-            this.panel699.TabIndex = 2;
-            // 
-            // panel700
-            // 
-            this.panel700.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel700.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel700.Location = new System.Drawing.Point(0, 0);
-            this.panel700.Name = "panel700";
-            this.panel700.Size = new System.Drawing.Size(2, 65);
-            this.panel700.TabIndex = 1;
-            // 
-            // panel701
-            // 
-            this.panel701.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel701.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel701.Location = new System.Drawing.Point(53, 0);
-            this.panel701.Name = "panel701";
-            this.panel701.Size = new System.Drawing.Size(2, 65);
-            this.panel701.TabIndex = 0;
-            // 
-            // panel702
-            // 
-            this.panel702.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel702.Controls.Add(this.panel703);
-            this.panel702.Controls.Add(this.panel704);
-            this.panel702.Controls.Add(this.panel705);
-            this.panel702.Controls.Add(this.panel706);
-            this.panel702.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel702.Location = new System.Drawing.Point(165, 0);
-            this.panel702.Name = "panel702";
-            this.panel702.Size = new System.Drawing.Size(55, 65);
-            this.panel702.TabIndex = 39;
-            // 
-            // panel703
-            // 
-            this.panel703.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel703.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel703.Location = new System.Drawing.Point(2, 63);
-            this.panel703.Name = "panel703";
-            this.panel703.Size = new System.Drawing.Size(51, 2);
-            this.panel703.TabIndex = 3;
-            // 
-            // panel704
-            // 
-            this.panel704.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel704.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel704.Location = new System.Drawing.Point(2, 0);
-            this.panel704.Name = "panel704";
-            this.panel704.Size = new System.Drawing.Size(51, 2);
-            this.panel704.TabIndex = 2;
-            // 
-            // panel705
-            // 
-            this.panel705.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel705.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel705.Location = new System.Drawing.Point(0, 0);
-            this.panel705.Name = "panel705";
-            this.panel705.Size = new System.Drawing.Size(2, 65);
-            this.panel705.TabIndex = 1;
-            // 
-            // panel706
-            // 
-            this.panel706.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel706.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel706.Location = new System.Drawing.Point(53, 0);
-            this.panel706.Name = "panel706";
-            this.panel706.Size = new System.Drawing.Size(2, 65);
-            this.panel706.TabIndex = 0;
-            // 
-            // panel707
-            // 
-            this.panel707.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel707.Controls.Add(this.panel708);
-            this.panel707.Controls.Add(this.panel709);
-            this.panel707.Controls.Add(this.panel710);
-            this.panel707.Controls.Add(this.panel711);
-            this.panel707.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel707.Location = new System.Drawing.Point(110, 0);
-            this.panel707.Name = "panel707";
-            this.panel707.Size = new System.Drawing.Size(55, 65);
-            this.panel707.TabIndex = 38;
-            // 
-            // panel708
-            // 
-            this.panel708.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel708.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel708.Location = new System.Drawing.Point(2, 63);
-            this.panel708.Name = "panel708";
-            this.panel708.Size = new System.Drawing.Size(51, 2);
-            this.panel708.TabIndex = 3;
-            // 
-            // panel709
-            // 
-            this.panel709.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel709.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel709.Location = new System.Drawing.Point(2, 0);
-            this.panel709.Name = "panel709";
-            this.panel709.Size = new System.Drawing.Size(51, 2);
-            this.panel709.TabIndex = 2;
-            // 
-            // panel710
-            // 
-            this.panel710.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel710.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel710.Location = new System.Drawing.Point(0, 0);
-            this.panel710.Name = "panel710";
-            this.panel710.Size = new System.Drawing.Size(2, 65);
-            this.panel710.TabIndex = 1;
-            // 
-            // panel711
-            // 
-            this.panel711.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.panel711.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel711.Location = new System.Drawing.Point(53, 0);
-            this.panel711.Name = "panel711";
-            this.panel711.Size = new System.Drawing.Size(2, 65);
-            this.panel711.TabIndex = 0;
-            // 
             // panel712
             // 
             this.panel712.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -3283,6 +3152,7 @@ namespace VirtualChem.Forms
             // 
             // Beryllium_Button
             // 
+            this.Beryllium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Beryllium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Beryllium_Button.FlatAppearance.BorderSize = 0;
             this.Beryllium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -3301,6 +3171,7 @@ namespace VirtualChem.Forms
             // 
             // Beryllium_Label
             // 
+            this.Beryllium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Beryllium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Beryllium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Beryllium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -3363,6 +3234,7 @@ namespace VirtualChem.Forms
             // 
             // Lithium_Button
             // 
+            this.Lithium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Lithium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Lithium_Button.FlatAppearance.BorderSize = 0;
             this.Lithium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -3381,6 +3253,7 @@ namespace VirtualChem.Forms
             // 
             // Lithium_Label
             // 
+            this.Lithium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Lithium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Lithium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Lithium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -3469,6 +3342,7 @@ namespace VirtualChem.Forms
             // 
             // Argon_Button
             // 
+            this.Argon_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Argon_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Argon_Button.FlatAppearance.BorderSize = 0;
             this.Argon_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -3487,6 +3361,7 @@ namespace VirtualChem.Forms
             // 
             // Argon_Label
             // 
+            this.Argon_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Argon_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Argon_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Argon_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -3549,6 +3424,7 @@ namespace VirtualChem.Forms
             // 
             // Chlorine_Button
             // 
+            this.Chlorine_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Chlorine_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Chlorine_Button.FlatAppearance.BorderSize = 0;
             this.Chlorine_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -3567,6 +3443,7 @@ namespace VirtualChem.Forms
             // 
             // Chlorine_Label
             // 
+            this.Chlorine_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Chlorine_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Chlorine_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Chlorine_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -3629,6 +3506,7 @@ namespace VirtualChem.Forms
             // 
             // Sulfur_Button
             // 
+            this.Sulfur_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Sulfur_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Sulfur_Button.FlatAppearance.BorderSize = 0;
             this.Sulfur_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -3647,6 +3525,7 @@ namespace VirtualChem.Forms
             // 
             // Sulfur_Label
             // 
+            this.Sulfur_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Sulfur_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Sulfur_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Sulfur_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -3709,6 +3588,7 @@ namespace VirtualChem.Forms
             // 
             // Phosphorus_Button
             // 
+            this.Phosphorus_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Phosphorus_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Phosphorus_Button.FlatAppearance.BorderSize = 0;
             this.Phosphorus_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -3727,6 +3607,7 @@ namespace VirtualChem.Forms
             // 
             // Phosphorus_Label
             // 
+            this.Phosphorus_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Phosphorus_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Phosphorus_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Phosphorus_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -3789,6 +3670,7 @@ namespace VirtualChem.Forms
             // 
             // Silisium_Button
             // 
+            this.Silisium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Silisium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Silisium_Button.FlatAppearance.BorderSize = 0;
             this.Silisium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -3807,6 +3689,7 @@ namespace VirtualChem.Forms
             // 
             // Silisium_Label
             // 
+            this.Silisium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Silisium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Silisium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Silisium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -3869,6 +3752,7 @@ namespace VirtualChem.Forms
             // 
             // Aluminum_Button
             // 
+            this.Aluminum_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Aluminum_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Aluminum_Button.FlatAppearance.BorderSize = 0;
             this.Aluminum_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -3887,6 +3771,7 @@ namespace VirtualChem.Forms
             // 
             // Aluminum_Label
             // 
+            this.Aluminum_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Aluminum_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Aluminum_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Aluminum_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -4439,6 +4324,7 @@ namespace VirtualChem.Forms
             // 
             // Magnesium_Button
             // 
+            this.Magnesium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Magnesium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Magnesium_Button.FlatAppearance.BorderSize = 0;
             this.Magnesium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -4457,6 +4343,7 @@ namespace VirtualChem.Forms
             // 
             // Magnesium_Label
             // 
+            this.Magnesium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Magnesium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Magnesium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Magnesium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -4519,6 +4406,7 @@ namespace VirtualChem.Forms
             // 
             // Natrium_Button
             // 
+            this.Natrium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Natrium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Natrium_Button.FlatAppearance.BorderSize = 0;
             this.Natrium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -4537,6 +4425,7 @@ namespace VirtualChem.Forms
             // 
             // Natrium_Label
             // 
+            this.Natrium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Natrium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Natrium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Natrium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -4625,6 +4514,7 @@ namespace VirtualChem.Forms
             // 
             // Krypton_Button
             // 
+            this.Krypton_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Krypton_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Krypton_Button.FlatAppearance.BorderSize = 0;
             this.Krypton_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -4643,6 +4533,7 @@ namespace VirtualChem.Forms
             // 
             // Krypton_Label
             // 
+            this.Krypton_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Krypton_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Krypton_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Krypton_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -4705,6 +4596,7 @@ namespace VirtualChem.Forms
             // 
             // Bromine_Button
             // 
+            this.Bromine_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Bromine_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Bromine_Button.FlatAppearance.BorderSize = 0;
             this.Bromine_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -4723,6 +4615,7 @@ namespace VirtualChem.Forms
             // 
             // Bromine_Label
             // 
+            this.Bromine_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Bromine_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Bromine_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Bromine_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -4785,6 +4678,7 @@ namespace VirtualChem.Forms
             // 
             // Selenium_Button
             // 
+            this.Selenium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Selenium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Selenium_Button.FlatAppearance.BorderSize = 0;
             this.Selenium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -4803,6 +4697,7 @@ namespace VirtualChem.Forms
             // 
             // Selenium_Label
             // 
+            this.Selenium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Selenium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Selenium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Selenium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -4865,6 +4760,7 @@ namespace VirtualChem.Forms
             // 
             // Arsenic_Button
             // 
+            this.Arsenic_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Arsenic_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Arsenic_Button.FlatAppearance.BorderSize = 0;
             this.Arsenic_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -4883,6 +4779,7 @@ namespace VirtualChem.Forms
             // 
             // Arsenic_Label
             // 
+            this.Arsenic_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Arsenic_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Arsenic_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Arsenic_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -4945,6 +4842,7 @@ namespace VirtualChem.Forms
             // 
             // Germanium_Button
             // 
+            this.Germanium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Germanium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Germanium_Button.FlatAppearance.BorderSize = 0;
             this.Germanium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -4963,6 +4861,7 @@ namespace VirtualChem.Forms
             // 
             // Germanium_Label
             // 
+            this.Germanium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Germanium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Germanium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Germanium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -5025,6 +4924,7 @@ namespace VirtualChem.Forms
             // 
             // Gallium_Button
             // 
+            this.Gallium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Gallium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Gallium_Button.FlatAppearance.BorderSize = 0;
             this.Gallium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -5043,6 +4943,7 @@ namespace VirtualChem.Forms
             // 
             // Gallium_Label
             // 
+            this.Gallium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Gallium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Gallium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Gallium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -5105,6 +5006,7 @@ namespace VirtualChem.Forms
             // 
             // Zinc_Button
             // 
+            this.Zinc_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Zinc_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Zinc_Button.FlatAppearance.BorderSize = 0;
             this.Zinc_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -5123,6 +5025,7 @@ namespace VirtualChem.Forms
             // 
             // Zinc_Label
             // 
+            this.Zinc_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Zinc_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Zinc_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Zinc_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -5185,6 +5088,7 @@ namespace VirtualChem.Forms
             // 
             // Copper_Button
             // 
+            this.Copper_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Copper_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Copper_Button.FlatAppearance.BorderSize = 0;
             this.Copper_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -5203,6 +5107,7 @@ namespace VirtualChem.Forms
             // 
             // Copper_Label
             // 
+            this.Copper_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Copper_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Copper_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Copper_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -5265,6 +5170,7 @@ namespace VirtualChem.Forms
             // 
             // Nickel_Button
             // 
+            this.Nickel_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Nickel_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Nickel_Button.FlatAppearance.BorderSize = 0;
             this.Nickel_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -5283,6 +5189,7 @@ namespace VirtualChem.Forms
             // 
             // Nickel_Label
             // 
+            this.Nickel_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Nickel_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Nickel_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Nickel_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -5345,6 +5252,7 @@ namespace VirtualChem.Forms
             // 
             // Cobalt_Button
             // 
+            this.Cobalt_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Cobalt_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Cobalt_Button.FlatAppearance.BorderSize = 0;
             this.Cobalt_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -5363,6 +5271,7 @@ namespace VirtualChem.Forms
             // 
             // Cobalt_Label
             // 
+            this.Cobalt_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Cobalt_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Cobalt_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Cobalt_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -5425,6 +5334,7 @@ namespace VirtualChem.Forms
             // 
             // Iron_Button
             // 
+            this.Iron_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Iron_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Iron_Button.FlatAppearance.BorderSize = 0;
             this.Iron_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -5443,6 +5353,7 @@ namespace VirtualChem.Forms
             // 
             // Iron_Label
             // 
+            this.Iron_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Iron_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Iron_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Iron_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -5505,6 +5416,7 @@ namespace VirtualChem.Forms
             // 
             // Manganese_Button
             // 
+            this.Manganese_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Manganese_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Manganese_Button.FlatAppearance.BorderSize = 0;
             this.Manganese_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -5523,6 +5435,7 @@ namespace VirtualChem.Forms
             // 
             // Manganese_Label
             // 
+            this.Manganese_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Manganese_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Manganese_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Manganese_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -5585,6 +5498,7 @@ namespace VirtualChem.Forms
             // 
             // Chromium_Button
             // 
+            this.Chromium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Chromium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Chromium_Button.FlatAppearance.BorderSize = 0;
             this.Chromium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -5603,6 +5517,7 @@ namespace VirtualChem.Forms
             // 
             // Chromium_Label
             // 
+            this.Chromium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Chromium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Chromium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Chromium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -5665,6 +5580,7 @@ namespace VirtualChem.Forms
             // 
             // Vanadium_Button
             // 
+            this.Vanadium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Vanadium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Vanadium_Button.FlatAppearance.BorderSize = 0;
             this.Vanadium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -5683,6 +5599,7 @@ namespace VirtualChem.Forms
             // 
             // Vanadium_Label
             // 
+            this.Vanadium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Vanadium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Vanadium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Vanadium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -5745,6 +5662,7 @@ namespace VirtualChem.Forms
             // 
             // Titanium_Button
             // 
+            this.Titanium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Titanium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Titanium_Button.FlatAppearance.BorderSize = 0;
             this.Titanium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -5763,6 +5681,7 @@ namespace VirtualChem.Forms
             // 
             // Titanium_Label
             // 
+            this.Titanium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Titanium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Titanium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Titanium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -5825,6 +5744,7 @@ namespace VirtualChem.Forms
             // 
             // Scandium_Button
             // 
+            this.Scandium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Scandium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Scandium_Button.FlatAppearance.BorderSize = 0;
             this.Scandium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -5843,6 +5763,7 @@ namespace VirtualChem.Forms
             // 
             // Scandium_Label
             // 
+            this.Scandium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Scandium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Scandium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Scandium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -5905,6 +5826,7 @@ namespace VirtualChem.Forms
             // 
             // Calcium_Button
             // 
+            this.Calcium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Calcium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Calcium_Button.FlatAppearance.BorderSize = 0;
             this.Calcium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -5923,6 +5845,7 @@ namespace VirtualChem.Forms
             // 
             // Calcium_Label
             // 
+            this.Calcium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Calcium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Calcium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Calcium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -5985,6 +5908,7 @@ namespace VirtualChem.Forms
             // 
             // Potassium_Button
             // 
+            this.Potassium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Potassium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Potassium_Button.FlatAppearance.BorderSize = 0;
             this.Potassium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -6003,6 +5927,7 @@ namespace VirtualChem.Forms
             // 
             // Potassium_Label
             // 
+            this.Potassium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Potassium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Potassium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Potassium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -6091,6 +6016,7 @@ namespace VirtualChem.Forms
             // 
             // Xenon_Button
             // 
+            this.Xenon_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Xenon_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Xenon_Button.FlatAppearance.BorderSize = 0;
             this.Xenon_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -6109,6 +6035,7 @@ namespace VirtualChem.Forms
             // 
             // Xenon_Label
             // 
+            this.Xenon_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Xenon_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Xenon_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Xenon_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -6171,6 +6098,7 @@ namespace VirtualChem.Forms
             // 
             // Iodine_Button
             // 
+            this.Iodine_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Iodine_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Iodine_Button.FlatAppearance.BorderSize = 0;
             this.Iodine_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -6189,6 +6117,7 @@ namespace VirtualChem.Forms
             // 
             // Iodine_Label
             // 
+            this.Iodine_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Iodine_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Iodine_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Iodine_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -6251,6 +6180,7 @@ namespace VirtualChem.Forms
             // 
             // Tellurium_Button
             // 
+            this.Tellurium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Tellurium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Tellurium_Button.FlatAppearance.BorderSize = 0;
             this.Tellurium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -6269,6 +6199,7 @@ namespace VirtualChem.Forms
             // 
             // Tellurium_Label
             // 
+            this.Tellurium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Tellurium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Tellurium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Tellurium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -6331,6 +6262,7 @@ namespace VirtualChem.Forms
             // 
             // Antimony_Button
             // 
+            this.Antimony_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Antimony_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Antimony_Button.FlatAppearance.BorderSize = 0;
             this.Antimony_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -6349,6 +6281,7 @@ namespace VirtualChem.Forms
             // 
             // Antimony_Label
             // 
+            this.Antimony_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Antimony_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Antimony_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Antimony_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -6411,6 +6344,7 @@ namespace VirtualChem.Forms
             // 
             // Tin_Button
             // 
+            this.Tin_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Tin_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Tin_Button.FlatAppearance.BorderSize = 0;
             this.Tin_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -6429,6 +6363,7 @@ namespace VirtualChem.Forms
             // 
             // Tin_Label
             // 
+            this.Tin_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Tin_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Tin_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Tin_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -6491,6 +6426,7 @@ namespace VirtualChem.Forms
             // 
             // Indium_Button
             // 
+            this.Indium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Indium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Indium_Button.FlatAppearance.BorderSize = 0;
             this.Indium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -6509,6 +6445,7 @@ namespace VirtualChem.Forms
             // 
             // Indium_Label
             // 
+            this.Indium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Indium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Indium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Indium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -6571,6 +6508,7 @@ namespace VirtualChem.Forms
             // 
             // Cadmium_Button
             // 
+            this.Cadmium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Cadmium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Cadmium_Button.FlatAppearance.BorderSize = 0;
             this.Cadmium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -6589,6 +6527,7 @@ namespace VirtualChem.Forms
             // 
             // Cadmium_Label
             // 
+            this.Cadmium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Cadmium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Cadmium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Cadmium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -6651,6 +6590,7 @@ namespace VirtualChem.Forms
             // 
             // Silver_Button
             // 
+            this.Silver_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Silver_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Silver_Button.FlatAppearance.BorderSize = 0;
             this.Silver_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -6669,6 +6609,7 @@ namespace VirtualChem.Forms
             // 
             // Silver_Label
             // 
+            this.Silver_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Silver_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Silver_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Silver_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -6731,6 +6672,7 @@ namespace VirtualChem.Forms
             // 
             // Palladium_Button
             // 
+            this.Palladium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Palladium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Palladium_Button.FlatAppearance.BorderSize = 0;
             this.Palladium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -6749,6 +6691,7 @@ namespace VirtualChem.Forms
             // 
             // Palladium_Label
             // 
+            this.Palladium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Palladium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Palladium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Palladium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -6811,6 +6754,7 @@ namespace VirtualChem.Forms
             // 
             // Rhodium_Button
             // 
+            this.Rhodium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Rhodium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Rhodium_Button.FlatAppearance.BorderSize = 0;
             this.Rhodium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -6829,6 +6773,7 @@ namespace VirtualChem.Forms
             // 
             // Rhodium_Label
             // 
+            this.Rhodium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Rhodium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Rhodium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Rhodium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -6891,6 +6836,7 @@ namespace VirtualChem.Forms
             // 
             // Ruthenium_Button
             // 
+            this.Ruthenium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Ruthenium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Ruthenium_Button.FlatAppearance.BorderSize = 0;
             this.Ruthenium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -6909,6 +6855,7 @@ namespace VirtualChem.Forms
             // 
             // Ruthenium_Label
             // 
+            this.Ruthenium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Ruthenium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Ruthenium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Ruthenium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -6971,6 +6918,7 @@ namespace VirtualChem.Forms
             // 
             // Technetium_Button
             // 
+            this.Technetium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Technetium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Technetium_Button.FlatAppearance.BorderSize = 0;
             this.Technetium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -6989,6 +6937,7 @@ namespace VirtualChem.Forms
             // 
             // Technetium_Label
             // 
+            this.Technetium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Technetium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Technetium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Technetium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -7051,6 +7000,7 @@ namespace VirtualChem.Forms
             // 
             // Molybdenum_Button
             // 
+            this.Molybdenum_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Molybdenum_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Molybdenum_Button.FlatAppearance.BorderSize = 0;
             this.Molybdenum_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -7069,6 +7019,7 @@ namespace VirtualChem.Forms
             // 
             // Molybdenum_Label
             // 
+            this.Molybdenum_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Molybdenum_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Molybdenum_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Molybdenum_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -7131,6 +7082,7 @@ namespace VirtualChem.Forms
             // 
             // Niobium_Button
             // 
+            this.Niobium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Niobium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Niobium_Button.FlatAppearance.BorderSize = 0;
             this.Niobium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -7149,6 +7101,7 @@ namespace VirtualChem.Forms
             // 
             // Niobium_Label
             // 
+            this.Niobium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Niobium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Niobium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Niobium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -7211,6 +7164,7 @@ namespace VirtualChem.Forms
             // 
             // Zirconium_Button
             // 
+            this.Zirconium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Zirconium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Zirconium_Button.FlatAppearance.BorderSize = 0;
             this.Zirconium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -7229,6 +7183,7 @@ namespace VirtualChem.Forms
             // 
             // Zirconium_Label
             // 
+            this.Zirconium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Zirconium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Zirconium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Zirconium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -7291,6 +7246,7 @@ namespace VirtualChem.Forms
             // 
             // Yttrium_Button
             // 
+            this.Yttrium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Yttrium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Yttrium_Button.FlatAppearance.BorderSize = 0;
             this.Yttrium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -7309,6 +7265,7 @@ namespace VirtualChem.Forms
             // 
             // Yttrium_Label
             // 
+            this.Yttrium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Yttrium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Yttrium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Yttrium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -7371,6 +7328,7 @@ namespace VirtualChem.Forms
             // 
             // Strontium_Button
             // 
+            this.Strontium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Strontium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Strontium_Button.FlatAppearance.BorderSize = 0;
             this.Strontium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -7389,6 +7347,7 @@ namespace VirtualChem.Forms
             // 
             // Strontium_Label
             // 
+            this.Strontium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Strontium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Strontium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Strontium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -7451,6 +7410,7 @@ namespace VirtualChem.Forms
             // 
             // Rubidium_Button
             // 
+            this.Rubidium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Rubidium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Rubidium_Button.FlatAppearance.BorderSize = 0;
             this.Rubidium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -7469,6 +7429,7 @@ namespace VirtualChem.Forms
             // 
             // Rubidium_Label
             // 
+            this.Rubidium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Rubidium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Rubidium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Rubidium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -7557,6 +7518,7 @@ namespace VirtualChem.Forms
             // 
             // Radon_Button
             // 
+            this.Radon_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Radon_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Radon_Button.FlatAppearance.BorderSize = 0;
             this.Radon_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -7575,6 +7537,7 @@ namespace VirtualChem.Forms
             // 
             // Radon_Label
             // 
+            this.Radon_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Radon_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Radon_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Radon_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -7637,6 +7600,7 @@ namespace VirtualChem.Forms
             // 
             // Astatine_Button
             // 
+            this.Astatine_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Astatine_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Astatine_Button.FlatAppearance.BorderSize = 0;
             this.Astatine_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -7655,6 +7619,7 @@ namespace VirtualChem.Forms
             // 
             // Astatine_Label
             // 
+            this.Astatine_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Astatine_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Astatine_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Astatine_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -7717,6 +7682,7 @@ namespace VirtualChem.Forms
             // 
             // Polonium_Button
             // 
+            this.Polonium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Polonium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Polonium_Button.FlatAppearance.BorderSize = 0;
             this.Polonium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -7735,6 +7701,7 @@ namespace VirtualChem.Forms
             // 
             // Polonium_Label
             // 
+            this.Polonium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Polonium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Polonium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Polonium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -7797,6 +7764,7 @@ namespace VirtualChem.Forms
             // 
             // Bismuth_Button
             // 
+            this.Bismuth_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Bismuth_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Bismuth_Button.FlatAppearance.BorderSize = 0;
             this.Bismuth_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -7815,6 +7783,7 @@ namespace VirtualChem.Forms
             // 
             // Bismuth_Label
             // 
+            this.Bismuth_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Bismuth_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Bismuth_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Bismuth_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -7877,6 +7846,7 @@ namespace VirtualChem.Forms
             // 
             // Lead_Button
             // 
+            this.Lead_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Lead_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Lead_Button.FlatAppearance.BorderSize = 0;
             this.Lead_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -7895,6 +7865,7 @@ namespace VirtualChem.Forms
             // 
             // Lead_Label
             // 
+            this.Lead_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Lead_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Lead_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Lead_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -7957,6 +7928,7 @@ namespace VirtualChem.Forms
             // 
             // Thallium_Button
             // 
+            this.Thallium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Thallium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Thallium_Button.FlatAppearance.BorderSize = 0;
             this.Thallium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -7975,6 +7947,7 @@ namespace VirtualChem.Forms
             // 
             // Thallium_Label
             // 
+            this.Thallium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Thallium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Thallium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Thallium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -8037,6 +8010,7 @@ namespace VirtualChem.Forms
             // 
             // Mercury_Button
             // 
+            this.Mercury_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Mercury_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Mercury_Button.FlatAppearance.BorderSize = 0;
             this.Mercury_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -8055,6 +8029,7 @@ namespace VirtualChem.Forms
             // 
             // Mercury_Label
             // 
+            this.Mercury_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Mercury_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Mercury_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Mercury_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -8117,6 +8092,7 @@ namespace VirtualChem.Forms
             // 
             // Gold_Button
             // 
+            this.Gold_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Gold_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Gold_Button.FlatAppearance.BorderSize = 0;
             this.Gold_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -8135,6 +8111,7 @@ namespace VirtualChem.Forms
             // 
             // Gold_Label
             // 
+            this.Gold_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Gold_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Gold_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Gold_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -8197,6 +8174,7 @@ namespace VirtualChem.Forms
             // 
             // Platinum_Button
             // 
+            this.Platinum_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Platinum_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Platinum_Button.FlatAppearance.BorderSize = 0;
             this.Platinum_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -8215,6 +8193,7 @@ namespace VirtualChem.Forms
             // 
             // Platinum_Label
             // 
+            this.Platinum_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Platinum_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Platinum_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Platinum_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -8277,6 +8256,7 @@ namespace VirtualChem.Forms
             // 
             // Iridium_Button
             // 
+            this.Iridium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Iridium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Iridium_Button.FlatAppearance.BorderSize = 0;
             this.Iridium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -8295,6 +8275,7 @@ namespace VirtualChem.Forms
             // 
             // Iridium_Label
             // 
+            this.Iridium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Iridium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Iridium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Iridium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -8357,6 +8338,7 @@ namespace VirtualChem.Forms
             // 
             // Osmium_Button
             // 
+            this.Osmium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Osmium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Osmium_Button.FlatAppearance.BorderSize = 0;
             this.Osmium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -8375,6 +8357,7 @@ namespace VirtualChem.Forms
             // 
             // Osmium_Label
             // 
+            this.Osmium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Osmium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Osmium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Osmium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -8437,6 +8420,7 @@ namespace VirtualChem.Forms
             // 
             // Rhenium_Button
             // 
+            this.Rhenium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Rhenium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Rhenium_Button.FlatAppearance.BorderSize = 0;
             this.Rhenium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -8455,6 +8439,7 @@ namespace VirtualChem.Forms
             // 
             // Rhenium_Label
             // 
+            this.Rhenium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Rhenium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Rhenium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Rhenium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -8517,6 +8502,7 @@ namespace VirtualChem.Forms
             // 
             // Tungsten_Button
             // 
+            this.Tungsten_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Tungsten_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Tungsten_Button.FlatAppearance.BorderSize = 0;
             this.Tungsten_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -8535,6 +8521,7 @@ namespace VirtualChem.Forms
             // 
             // Tungsten_Label
             // 
+            this.Tungsten_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Tungsten_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Tungsten_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Tungsten_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -8597,6 +8584,7 @@ namespace VirtualChem.Forms
             // 
             // Tantalum_Button
             // 
+            this.Tantalum_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Tantalum_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Tantalum_Button.FlatAppearance.BorderSize = 0;
             this.Tantalum_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -8615,6 +8603,7 @@ namespace VirtualChem.Forms
             // 
             // Tantalum_Label
             // 
+            this.Tantalum_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Tantalum_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Tantalum_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Tantalum_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -8677,6 +8666,7 @@ namespace VirtualChem.Forms
             // 
             // Hafnium_Button
             // 
+            this.Hafnium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Hafnium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Hafnium_Button.FlatAppearance.BorderSize = 0;
             this.Hafnium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -8695,6 +8685,7 @@ namespace VirtualChem.Forms
             // 
             // Hafnium_Label
             // 
+            this.Hafnium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Hafnium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Hafnium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Hafnium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -8757,6 +8748,7 @@ namespace VirtualChem.Forms
             // 
             // Lant_Button
             // 
+            this.Lant_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Lant_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Lant_Button.FlatAppearance.BorderSize = 0;
             this.Lant_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -8775,6 +8767,7 @@ namespace VirtualChem.Forms
             // 
             // Lant_Label
             // 
+            this.Lant_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Lant_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Lant_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Lant_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -8837,6 +8830,7 @@ namespace VirtualChem.Forms
             // 
             // Barium_Button
             // 
+            this.Barium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Barium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Barium_Button.FlatAppearance.BorderSize = 0;
             this.Barium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -8855,6 +8849,7 @@ namespace VirtualChem.Forms
             // 
             // Barium_Label
             // 
+            this.Barium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Barium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Barium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Barium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -8917,6 +8912,7 @@ namespace VirtualChem.Forms
             // 
             // Caesium_Button
             // 
+            this.Caesium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Caesium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Caesium_Button.FlatAppearance.BorderSize = 0;
             this.Caesium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -8935,6 +8931,7 @@ namespace VirtualChem.Forms
             // 
             // Caesium_Label
             // 
+            this.Caesium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Caesium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Caesium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Caesium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -9023,6 +9020,7 @@ namespace VirtualChem.Forms
             // 
             // Oganesson_Button
             // 
+            this.Oganesson_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Oganesson_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Oganesson_Button.FlatAppearance.BorderSize = 0;
             this.Oganesson_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -9041,6 +9039,7 @@ namespace VirtualChem.Forms
             // 
             // Oganesson_Label
             // 
+            this.Oganesson_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Oganesson_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Oganesson_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Oganesson_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -9103,6 +9102,7 @@ namespace VirtualChem.Forms
             // 
             // Tennessine_Button
             // 
+            this.Tennessine_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Tennessine_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Tennessine_Button.FlatAppearance.BorderSize = 0;
             this.Tennessine_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -9121,6 +9121,7 @@ namespace VirtualChem.Forms
             // 
             // Tennessine_Label
             // 
+            this.Tennessine_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Tennessine_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Tennessine_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Tennessine_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -9183,6 +9184,7 @@ namespace VirtualChem.Forms
             // 
             // Livermorium_Button
             // 
+            this.Livermorium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Livermorium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Livermorium_Button.FlatAppearance.BorderSize = 0;
             this.Livermorium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -9201,6 +9203,7 @@ namespace VirtualChem.Forms
             // 
             // Livermorium_Label
             // 
+            this.Livermorium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Livermorium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Livermorium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Livermorium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -9263,6 +9266,7 @@ namespace VirtualChem.Forms
             // 
             // Moscovium_Button
             // 
+            this.Moscovium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Moscovium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Moscovium_Button.FlatAppearance.BorderSize = 0;
             this.Moscovium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -9281,6 +9285,7 @@ namespace VirtualChem.Forms
             // 
             // Moscovium_Label
             // 
+            this.Moscovium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Moscovium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Moscovium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Moscovium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -9343,6 +9348,7 @@ namespace VirtualChem.Forms
             // 
             // Flerovium_Button
             // 
+            this.Flerovium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Flerovium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Flerovium_Button.FlatAppearance.BorderSize = 0;
             this.Flerovium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -9361,6 +9367,7 @@ namespace VirtualChem.Forms
             // 
             // Flerovium_Label
             // 
+            this.Flerovium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Flerovium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Flerovium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Flerovium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -9423,6 +9430,7 @@ namespace VirtualChem.Forms
             // 
             // Nihonium_Button
             // 
+            this.Nihonium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Nihonium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Nihonium_Button.FlatAppearance.BorderSize = 0;
             this.Nihonium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -9441,6 +9449,7 @@ namespace VirtualChem.Forms
             // 
             // Nihonium_Label
             // 
+            this.Nihonium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Nihonium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Nihonium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Nihonium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -9503,6 +9512,7 @@ namespace VirtualChem.Forms
             // 
             // Copernicium_Button
             // 
+            this.Copernicium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Copernicium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Copernicium_Button.FlatAppearance.BorderSize = 0;
             this.Copernicium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -9521,6 +9531,7 @@ namespace VirtualChem.Forms
             // 
             // Copernicium_Label
             // 
+            this.Copernicium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Copernicium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Copernicium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Copernicium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -9583,6 +9594,7 @@ namespace VirtualChem.Forms
             // 
             // Roentgenium_Button
             // 
+            this.Roentgenium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Roentgenium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Roentgenium_Button.FlatAppearance.BorderSize = 0;
             this.Roentgenium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -9601,6 +9613,7 @@ namespace VirtualChem.Forms
             // 
             // Roentgenium_Label
             // 
+            this.Roentgenium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Roentgenium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Roentgenium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Roentgenium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -9663,6 +9676,7 @@ namespace VirtualChem.Forms
             // 
             // Darmstadtium_Button
             // 
+            this.Darmstadtium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Darmstadtium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Darmstadtium_Button.FlatAppearance.BorderSize = 0;
             this.Darmstadtium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -9681,6 +9695,7 @@ namespace VirtualChem.Forms
             // 
             // Darmstadtium_Label
             // 
+            this.Darmstadtium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Darmstadtium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Darmstadtium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Darmstadtium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -9743,6 +9758,7 @@ namespace VirtualChem.Forms
             // 
             // Meitnerium_Button
             // 
+            this.Meitnerium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Meitnerium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Meitnerium_Button.FlatAppearance.BorderSize = 0;
             this.Meitnerium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -9761,6 +9777,7 @@ namespace VirtualChem.Forms
             // 
             // Meitnerium_Label
             // 
+            this.Meitnerium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Meitnerium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Meitnerium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Meitnerium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -9823,6 +9840,7 @@ namespace VirtualChem.Forms
             // 
             // Hassium_Button
             // 
+            this.Hassium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Hassium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Hassium_Button.FlatAppearance.BorderSize = 0;
             this.Hassium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -9841,6 +9859,7 @@ namespace VirtualChem.Forms
             // 
             // Hassium_Label
             // 
+            this.Hassium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Hassium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Hassium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Hassium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -9903,6 +9922,7 @@ namespace VirtualChem.Forms
             // 
             // Bohrium_Button
             // 
+            this.Bohrium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Bohrium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Bohrium_Button.FlatAppearance.BorderSize = 0;
             this.Bohrium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -9921,6 +9941,7 @@ namespace VirtualChem.Forms
             // 
             // Bohrium_Label
             // 
+            this.Bohrium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Bohrium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Bohrium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Bohrium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -9983,6 +10004,7 @@ namespace VirtualChem.Forms
             // 
             // Seaborgium_Button
             // 
+            this.Seaborgium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Seaborgium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Seaborgium_Button.FlatAppearance.BorderSize = 0;
             this.Seaborgium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -10001,6 +10023,7 @@ namespace VirtualChem.Forms
             // 
             // Seaborgium_Label
             // 
+            this.Seaborgium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Seaborgium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Seaborgium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Seaborgium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -10063,6 +10086,7 @@ namespace VirtualChem.Forms
             // 
             // Dubnium_Button
             // 
+            this.Dubnium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Dubnium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Dubnium_Button.FlatAppearance.BorderSize = 0;
             this.Dubnium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -10081,6 +10105,7 @@ namespace VirtualChem.Forms
             // 
             // Dubnium_Label
             // 
+            this.Dubnium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Dubnium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Dubnium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Dubnium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -10143,6 +10168,7 @@ namespace VirtualChem.Forms
             // 
             // Rutherfordium_Button
             // 
+            this.Rutherfordium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Rutherfordium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Rutherfordium_Button.FlatAppearance.BorderSize = 0;
             this.Rutherfordium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -10161,6 +10187,7 @@ namespace VirtualChem.Forms
             // 
             // Rutherfordium_Label
             // 
+            this.Rutherfordium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Rutherfordium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Rutherfordium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Rutherfordium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -10223,6 +10250,7 @@ namespace VirtualChem.Forms
             // 
             // Act_Button
             // 
+            this.Act_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Act_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Act_Button.FlatAppearance.BorderSize = 0;
             this.Act_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -10241,6 +10269,7 @@ namespace VirtualChem.Forms
             // 
             // Act_Label
             // 
+            this.Act_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Act_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Act_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Act_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -10303,6 +10332,7 @@ namespace VirtualChem.Forms
             // 
             // Radium_Button
             // 
+            this.Radium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Radium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Radium_Button.FlatAppearance.BorderSize = 0;
             this.Radium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -10321,6 +10351,7 @@ namespace VirtualChem.Forms
             // 
             // Radium_Label
             // 
+            this.Radium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Radium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Radium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Radium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -10383,6 +10414,7 @@ namespace VirtualChem.Forms
             // 
             // Francium_Button
             // 
+            this.Francium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Francium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Francium_Button.FlatAppearance.BorderSize = 0;
             this.Francium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -10401,6 +10433,7 @@ namespace VirtualChem.Forms
             // 
             // Francium_Label
             // 
+            this.Francium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Francium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Francium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Francium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -10546,6 +10579,7 @@ namespace VirtualChem.Forms
             // 
             // Lutetium_Button
             // 
+            this.Lutetium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Lutetium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Lutetium_Button.FlatAppearance.BorderSize = 0;
             this.Lutetium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -10564,6 +10598,7 @@ namespace VirtualChem.Forms
             // 
             // Lutetium_Label
             // 
+            this.Lutetium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Lutetium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Lutetium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Lutetium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -10626,6 +10661,7 @@ namespace VirtualChem.Forms
             // 
             // Ytterbium_Button
             // 
+            this.Ytterbium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Ytterbium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Ytterbium_Button.FlatAppearance.BorderSize = 0;
             this.Ytterbium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -10644,6 +10680,7 @@ namespace VirtualChem.Forms
             // 
             // Ytterbium_Label
             // 
+            this.Ytterbium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Ytterbium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Ytterbium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Ytterbium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -10706,6 +10743,7 @@ namespace VirtualChem.Forms
             // 
             // Thulium_Button
             // 
+            this.Thulium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Thulium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Thulium_Button.FlatAppearance.BorderSize = 0;
             this.Thulium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -10724,6 +10762,7 @@ namespace VirtualChem.Forms
             // 
             // Thulium_Label
             // 
+            this.Thulium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Thulium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Thulium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Thulium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -10786,6 +10825,7 @@ namespace VirtualChem.Forms
             // 
             // Erbium_Button
             // 
+            this.Erbium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Erbium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Erbium_Button.FlatAppearance.BorderSize = 0;
             this.Erbium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -10804,6 +10844,7 @@ namespace VirtualChem.Forms
             // 
             // Erbium_Label
             // 
+            this.Erbium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Erbium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Erbium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Erbium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -10866,6 +10907,7 @@ namespace VirtualChem.Forms
             // 
             // Holmium_Button
             // 
+            this.Holmium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Holmium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Holmium_Button.FlatAppearance.BorderSize = 0;
             this.Holmium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -10884,6 +10926,7 @@ namespace VirtualChem.Forms
             // 
             // Holmium_Label
             // 
+            this.Holmium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Holmium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Holmium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Holmium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -10946,6 +10989,7 @@ namespace VirtualChem.Forms
             // 
             // Dysprosium_Button
             // 
+            this.Dysprosium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Dysprosium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Dysprosium_Button.FlatAppearance.BorderSize = 0;
             this.Dysprosium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -10964,6 +11008,7 @@ namespace VirtualChem.Forms
             // 
             // Dysprosium_Label
             // 
+            this.Dysprosium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Dysprosium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Dysprosium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Dysprosium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -11026,6 +11071,7 @@ namespace VirtualChem.Forms
             // 
             // Terbium_Button
             // 
+            this.Terbium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Terbium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Terbium_Button.FlatAppearance.BorderSize = 0;
             this.Terbium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -11044,6 +11090,7 @@ namespace VirtualChem.Forms
             // 
             // Terbium_Label
             // 
+            this.Terbium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Terbium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Terbium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Terbium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -11106,6 +11153,7 @@ namespace VirtualChem.Forms
             // 
             // Gadolinium_Button
             // 
+            this.Gadolinium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Gadolinium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Gadolinium_Button.FlatAppearance.BorderSize = 0;
             this.Gadolinium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -11124,6 +11172,7 @@ namespace VirtualChem.Forms
             // 
             // Gadolinium_Label
             // 
+            this.Gadolinium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Gadolinium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Gadolinium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Gadolinium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -11186,6 +11235,7 @@ namespace VirtualChem.Forms
             // 
             // Europium_Button
             // 
+            this.Europium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Europium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Europium_Button.FlatAppearance.BorderSize = 0;
             this.Europium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -11204,6 +11254,7 @@ namespace VirtualChem.Forms
             // 
             // Europium_Label
             // 
+            this.Europium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Europium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Europium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Europium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -11266,6 +11317,7 @@ namespace VirtualChem.Forms
             // 
             // Samarium_Button
             // 
+            this.Samarium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Samarium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Samarium_Button.FlatAppearance.BorderSize = 0;
             this.Samarium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -11284,6 +11336,7 @@ namespace VirtualChem.Forms
             // 
             // Samarium_Label
             // 
+            this.Samarium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Samarium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Samarium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Samarium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -11346,6 +11399,7 @@ namespace VirtualChem.Forms
             // 
             // Promethium_Button
             // 
+            this.Promethium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Promethium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Promethium_Button.FlatAppearance.BorderSize = 0;
             this.Promethium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -11364,6 +11418,7 @@ namespace VirtualChem.Forms
             // 
             // Promethium_Label
             // 
+            this.Promethium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Promethium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Promethium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Promethium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -11426,6 +11481,7 @@ namespace VirtualChem.Forms
             // 
             // Neodymium_Button
             // 
+            this.Neodymium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Neodymium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Neodymium_Button.FlatAppearance.BorderSize = 0;
             this.Neodymium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -11444,6 +11500,7 @@ namespace VirtualChem.Forms
             // 
             // Neodymium_Label
             // 
+            this.Neodymium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Neodymium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Neodymium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Neodymium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -11506,6 +11563,7 @@ namespace VirtualChem.Forms
             // 
             // Praseodymium_Button
             // 
+            this.Praseodymium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Praseodymium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Praseodymium_Button.FlatAppearance.BorderSize = 0;
             this.Praseodymium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -11524,6 +11582,7 @@ namespace VirtualChem.Forms
             // 
             // Praseodymium_Label
             // 
+            this.Praseodymium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Praseodymium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Praseodymium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Praseodymium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -11586,6 +11645,7 @@ namespace VirtualChem.Forms
             // 
             // Cerium_Button
             // 
+            this.Cerium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Cerium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Cerium_Button.FlatAppearance.BorderSize = 0;
             this.Cerium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -11604,6 +11664,7 @@ namespace VirtualChem.Forms
             // 
             // Cerium_Label
             // 
+            this.Cerium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Cerium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Cerium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Cerium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -11666,6 +11727,7 @@ namespace VirtualChem.Forms
             // 
             // Lanthanum_Button
             // 
+            this.Lanthanum_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Lanthanum_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Lanthanum_Button.FlatAppearance.BorderSize = 0;
             this.Lanthanum_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -11684,6 +11746,7 @@ namespace VirtualChem.Forms
             // 
             // Lanthanum_Label
             // 
+            this.Lanthanum_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Lanthanum_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Lanthanum_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Lanthanum_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -11919,6 +11982,7 @@ namespace VirtualChem.Forms
             // 
             // Lawrencium_Button
             // 
+            this.Lawrencium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Lawrencium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Lawrencium_Button.FlatAppearance.BorderSize = 0;
             this.Lawrencium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -11937,6 +12001,7 @@ namespace VirtualChem.Forms
             // 
             // Lawrencium_Label
             // 
+            this.Lawrencium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Lawrencium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Lawrencium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Lawrencium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -11999,6 +12064,7 @@ namespace VirtualChem.Forms
             // 
             // Nobelium_Button
             // 
+            this.Nobelium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Nobelium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Nobelium_Button.FlatAppearance.BorderSize = 0;
             this.Nobelium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -12017,6 +12083,7 @@ namespace VirtualChem.Forms
             // 
             // Nobelium_Label
             // 
+            this.Nobelium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Nobelium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Nobelium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Nobelium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -12079,6 +12146,7 @@ namespace VirtualChem.Forms
             // 
             // Mendelevium_Button
             // 
+            this.Mendelevium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Mendelevium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Mendelevium_Button.FlatAppearance.BorderSize = 0;
             this.Mendelevium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -12097,6 +12165,7 @@ namespace VirtualChem.Forms
             // 
             // Mendelevium_Label
             // 
+            this.Mendelevium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Mendelevium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Mendelevium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Mendelevium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -12159,6 +12228,7 @@ namespace VirtualChem.Forms
             // 
             // Fermium_Button
             // 
+            this.Fermium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Fermium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Fermium_Button.FlatAppearance.BorderSize = 0;
             this.Fermium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -12177,6 +12247,7 @@ namespace VirtualChem.Forms
             // 
             // Fermium_Label
             // 
+            this.Fermium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Fermium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Fermium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Fermium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -12239,6 +12310,7 @@ namespace VirtualChem.Forms
             // 
             // Einsteinium_Button
             // 
+            this.Einsteinium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Einsteinium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Einsteinium_Button.FlatAppearance.BorderSize = 0;
             this.Einsteinium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -12257,6 +12329,7 @@ namespace VirtualChem.Forms
             // 
             // Einsteinium_Label
             // 
+            this.Einsteinium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Einsteinium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Einsteinium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Einsteinium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -12319,6 +12392,7 @@ namespace VirtualChem.Forms
             // 
             // Californium_Button
             // 
+            this.Californium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Californium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Californium_Button.FlatAppearance.BorderSize = 0;
             this.Californium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -12337,6 +12411,7 @@ namespace VirtualChem.Forms
             // 
             // Californium_Label
             // 
+            this.Californium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Californium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Californium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Californium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -12399,6 +12474,7 @@ namespace VirtualChem.Forms
             // 
             // Berkelium_Button
             // 
+            this.Berkelium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Berkelium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Berkelium_Button.FlatAppearance.BorderSize = 0;
             this.Berkelium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -12417,6 +12493,7 @@ namespace VirtualChem.Forms
             // 
             // Berkelium_Label
             // 
+            this.Berkelium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Berkelium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Berkelium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Berkelium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -12479,6 +12556,7 @@ namespace VirtualChem.Forms
             // 
             // Curium_Button
             // 
+            this.Curium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Curium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Curium_Button.FlatAppearance.BorderSize = 0;
             this.Curium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -12497,6 +12575,7 @@ namespace VirtualChem.Forms
             // 
             // Curium_Label
             // 
+            this.Curium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Curium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Curium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Curium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -12559,6 +12638,7 @@ namespace VirtualChem.Forms
             // 
             // Americium_Button
             // 
+            this.Americium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Americium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Americium_Button.FlatAppearance.BorderSize = 0;
             this.Americium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -12577,6 +12657,7 @@ namespace VirtualChem.Forms
             // 
             // Americium_Label
             // 
+            this.Americium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Americium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Americium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Americium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -12639,6 +12720,7 @@ namespace VirtualChem.Forms
             // 
             // Plutonium_Button
             // 
+            this.Plutonium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Plutonium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Plutonium_Button.FlatAppearance.BorderSize = 0;
             this.Plutonium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -12657,6 +12739,7 @@ namespace VirtualChem.Forms
             // 
             // Plutonium_Label
             // 
+            this.Plutonium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Plutonium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Plutonium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Plutonium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -12719,6 +12802,7 @@ namespace VirtualChem.Forms
             // 
             // Neptunium_Button
             // 
+            this.Neptunium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Neptunium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Neptunium_Button.FlatAppearance.BorderSize = 0;
             this.Neptunium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -12737,6 +12821,7 @@ namespace VirtualChem.Forms
             // 
             // Neptunium_Label
             // 
+            this.Neptunium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Neptunium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Neptunium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Neptunium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -12799,6 +12884,7 @@ namespace VirtualChem.Forms
             // 
             // Uranium_Button
             // 
+            this.Uranium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Uranium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Uranium_Button.FlatAppearance.BorderSize = 0;
             this.Uranium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -12817,6 +12903,7 @@ namespace VirtualChem.Forms
             // 
             // Uranium_Label
             // 
+            this.Uranium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Uranium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Uranium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Uranium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -12879,6 +12966,7 @@ namespace VirtualChem.Forms
             // 
             // Protactinium_Button
             // 
+            this.Protactinium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Protactinium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Protactinium_Button.FlatAppearance.BorderSize = 0;
             this.Protactinium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -12897,6 +12985,7 @@ namespace VirtualChem.Forms
             // 
             // Protactinium_Label
             // 
+            this.Protactinium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Protactinium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Protactinium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Protactinium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -12959,6 +13048,7 @@ namespace VirtualChem.Forms
             // 
             // Thorium_Button
             // 
+            this.Thorium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Thorium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Thorium_Button.FlatAppearance.BorderSize = 0;
             this.Thorium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -12977,6 +13067,7 @@ namespace VirtualChem.Forms
             // 
             // Thorium_Label
             // 
+            this.Thorium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Thorium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Thorium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Thorium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -13039,6 +13130,7 @@ namespace VirtualChem.Forms
             // 
             // Actinium_Button
             // 
+            this.Actinium_Button.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Actinium_Button.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Actinium_Button.FlatAppearance.BorderSize = 0;
             this.Actinium_Button.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
@@ -13057,6 +13149,7 @@ namespace VirtualChem.Forms
             // 
             // Actinium_Label
             // 
+            this.Actinium_Label.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Actinium_Label.Dock = System.Windows.Forms.DockStyle.Top;
             this.Actinium_Label.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Actinium_Label.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
@@ -13268,6 +13361,153 @@ namespace VirtualChem.Forms
             this.RightBorder_Panel.Size = new System.Drawing.Size(2, 700);
             this.RightBorder_Panel.TabIndex = 4;
             // 
+            // panel706
+            // 
+            this.panel706.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
+            this.panel706.Dock = System.Windows.Forms.DockStyle.Right;
+            this.panel706.Location = new System.Drawing.Point(53, 0);
+            this.panel706.Name = "panel706";
+            this.panel706.Size = new System.Drawing.Size(2, 65);
+            this.panel706.TabIndex = 0;
+            // 
+            // panel705
+            // 
+            this.panel705.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
+            this.panel705.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel705.Location = new System.Drawing.Point(0, 0);
+            this.panel705.Name = "panel705";
+            this.panel705.Size = new System.Drawing.Size(2, 65);
+            this.panel705.TabIndex = 1;
+            // 
+            // panel704
+            // 
+            this.panel704.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
+            this.panel704.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel704.Location = new System.Drawing.Point(2, 0);
+            this.panel704.Name = "panel704";
+            this.panel704.Size = new System.Drawing.Size(51, 2);
+            this.panel704.TabIndex = 2;
+            // 
+            // panel703
+            // 
+            this.panel703.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
+            this.panel703.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.panel703.Location = new System.Drawing.Point(2, 63);
+            this.panel703.Name = "panel703";
+            this.panel703.Size = new System.Drawing.Size(51, 2);
+            this.panel703.TabIndex = 3;
+            // 
+            // panel702
+            // 
+            this.panel702.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
+            this.panel702.Controls.Add(this.panel703);
+            this.panel702.Controls.Add(this.panel704);
+            this.panel702.Controls.Add(this.panel705);
+            this.panel702.Controls.Add(this.panel706);
+            this.panel702.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel702.Location = new System.Drawing.Point(165, 0);
+            this.panel702.Name = "panel702";
+            this.panel702.Size = new System.Drawing.Size(55, 65);
+            this.panel702.TabIndex = 39;
+            // 
+            // panel711
+            // 
+            this.panel711.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
+            this.panel711.Dock = System.Windows.Forms.DockStyle.Right;
+            this.panel711.Location = new System.Drawing.Point(53, 0);
+            this.panel711.Name = "panel711";
+            this.panel711.Size = new System.Drawing.Size(2, 65);
+            this.panel711.TabIndex = 0;
+            // 
+            // panel710
+            // 
+            this.panel710.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
+            this.panel710.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel710.Location = new System.Drawing.Point(0, 0);
+            this.panel710.Name = "panel710";
+            this.panel710.Size = new System.Drawing.Size(2, 65);
+            this.panel710.TabIndex = 1;
+            // 
+            // panel709
+            // 
+            this.panel709.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
+            this.panel709.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel709.Location = new System.Drawing.Point(2, 0);
+            this.panel709.Name = "panel709";
+            this.panel709.Size = new System.Drawing.Size(51, 2);
+            this.panel709.TabIndex = 2;
+            // 
+            // panel708
+            // 
+            this.panel708.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
+            this.panel708.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.panel708.Location = new System.Drawing.Point(2, 63);
+            this.panel708.Name = "panel708";
+            this.panel708.Size = new System.Drawing.Size(51, 2);
+            this.panel708.TabIndex = 3;
+            // 
+            // panel707
+            // 
+            this.panel707.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
+            this.panel707.Controls.Add(this.panel708);
+            this.panel707.Controls.Add(this.panel709);
+            this.panel707.Controls.Add(this.panel710);
+            this.panel707.Controls.Add(this.panel711);
+            this.panel707.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel707.Location = new System.Drawing.Point(110, 0);
+            this.panel707.Name = "panel707";
+            this.panel707.Size = new System.Drawing.Size(55, 65);
+            this.panel707.TabIndex = 38;
+            // 
+            // panel701
+            // 
+            this.panel701.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
+            this.panel701.Dock = System.Windows.Forms.DockStyle.Right;
+            this.panel701.Location = new System.Drawing.Point(53, 0);
+            this.panel701.Name = "panel701";
+            this.panel701.Size = new System.Drawing.Size(2, 65);
+            this.panel701.TabIndex = 0;
+            // 
+            // panel700
+            // 
+            this.panel700.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
+            this.panel700.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel700.Location = new System.Drawing.Point(0, 0);
+            this.panel700.Name = "panel700";
+            this.panel700.Size = new System.Drawing.Size(2, 65);
+            this.panel700.TabIndex = 1;
+            // 
+            // panel699
+            // 
+            this.panel699.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
+            this.panel699.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel699.Location = new System.Drawing.Point(2, 0);
+            this.panel699.Name = "panel699";
+            this.panel699.Size = new System.Drawing.Size(51, 2);
+            this.panel699.TabIndex = 2;
+            // 
+            // panel698
+            // 
+            this.panel698.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
+            this.panel698.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.panel698.Location = new System.Drawing.Point(2, 63);
+            this.panel698.Name = "panel698";
+            this.panel698.Size = new System.Drawing.Size(51, 2);
+            this.panel698.TabIndex = 3;
+            // 
+            // panel697
+            // 
+            this.panel697.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
+            this.panel697.Controls.Add(this.panel698);
+            this.panel697.Controls.Add(this.panel699);
+            this.panel697.Controls.Add(this.panel700);
+            this.panel697.Controls.Add(this.panel701);
+            this.panel697.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel697.Location = new System.Drawing.Point(220, 0);
+            this.panel697.Name = "panel697";
+            this.panel697.Size = new System.Drawing.Size(55, 65);
+            this.panel697.TabIndex = 40;
+            // 
             // VirtualChem_MainMenu
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
@@ -13313,9 +13553,6 @@ namespace VirtualChem.Forms
             this.panel682.ResumeLayout(false);
             this.panel687.ResumeLayout(false);
             this.panel692.ResumeLayout(false);
-            this.panel697.ResumeLayout(false);
-            this.panel702.ResumeLayout(false);
-            this.panel707.ResumeLayout(false);
             this.panel712.ResumeLayout(false);
             this.panel717.ResumeLayout(false);
             this.ThirdRow_Panel.ResumeLayout(false);
@@ -13451,6 +13688,9 @@ namespace VirtualChem.Forms
             this.panel12.ResumeLayout(false);
             this.panel6.ResumeLayout(false);
             this.panel11.ResumeLayout(false);
+            this.panel702.ResumeLayout(false);
+            this.panel707.ResumeLayout(false);
+            this.panel697.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -13721,21 +13961,6 @@ namespace VirtualChem.Forms
         private System.Windows.Forms.Panel panel694;
         private System.Windows.Forms.Panel panel695;
         private System.Windows.Forms.Panel panel696;
-        private System.Windows.Forms.Panel panel697;
-        private System.Windows.Forms.Panel panel698;
-        private System.Windows.Forms.Panel panel699;
-        private System.Windows.Forms.Panel panel700;
-        private System.Windows.Forms.Panel panel701;
-        private System.Windows.Forms.Panel panel702;
-        private System.Windows.Forms.Panel panel703;
-        private System.Windows.Forms.Panel panel704;
-        private System.Windows.Forms.Panel panel705;
-        private System.Windows.Forms.Panel panel706;
-        private System.Windows.Forms.Panel panel707;
-        private System.Windows.Forms.Panel panel708;
-        private System.Windows.Forms.Panel panel709;
-        private System.Windows.Forms.Panel panel710;
-        private System.Windows.Forms.Panel panel711;
         private System.Windows.Forms.Panel panel712;
         private System.Windows.Forms.Panel panel713;
         private System.Windows.Forms.Panel panel714;
@@ -14526,5 +14751,20 @@ namespace VirtualChem.Forms
         private System.Windows.Forms.Label Thorium_Label;
         private System.Windows.Forms.Button Actinium_Button;
         private System.Windows.Forms.Label Actinium_Label;
+        private System.Windows.Forms.Panel panel697;
+        private System.Windows.Forms.Panel panel698;
+        private System.Windows.Forms.Panel panel699;
+        private System.Windows.Forms.Panel panel700;
+        private System.Windows.Forms.Panel panel701;
+        private System.Windows.Forms.Panel panel702;
+        private System.Windows.Forms.Panel panel703;
+        private System.Windows.Forms.Panel panel704;
+        private System.Windows.Forms.Panel panel705;
+        private System.Windows.Forms.Panel panel706;
+        private System.Windows.Forms.Panel panel707;
+        private System.Windows.Forms.Panel panel708;
+        private System.Windows.Forms.Panel panel709;
+        private System.Windows.Forms.Panel panel710;
+        private System.Windows.Forms.Panel panel711;
     }
 }
