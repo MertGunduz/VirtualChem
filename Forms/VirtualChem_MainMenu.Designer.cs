@@ -10060,7 +10060,7 @@ namespace VirtualChem.Forms
             this.button11.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button11.Size = new System.Drawing.Size(51, 46);
             this.button11.TabIndex = 7;
-            this.button11.Text = "H";
+            this.button11.Text = "Na";
             this.button11.UseVisualStyleBackColor = true;
             // 
             // label11
@@ -10072,7 +10072,7 @@ namespace VirtualChem.Forms
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(51, 15);
             this.label11.TabIndex = 6;
-            this.label11.Text = "1";
+            this.label11.Text = "11";
             // 
             // button12
             // 
@@ -10086,7 +10086,7 @@ namespace VirtualChem.Forms
             this.button12.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button12.Size = new System.Drawing.Size(51, 46);
             this.button12.TabIndex = 7;
-            this.button12.Text = "H";
+            this.button12.Text = "Mg";
             this.button12.UseVisualStyleBackColor = true;
             // 
             // label12
@@ -10098,7 +10098,7 @@ namespace VirtualChem.Forms
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(51, 15);
             this.label12.TabIndex = 6;
-            this.label12.Text = "1";
+            this.label12.Text = "12";
             // 
             // button13
             // 
@@ -10112,7 +10112,7 @@ namespace VirtualChem.Forms
             this.button13.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button13.Size = new System.Drawing.Size(51, 46);
             this.button13.TabIndex = 7;
-            this.button13.Text = "H";
+            this.button13.Text = "Ca";
             this.button13.UseVisualStyleBackColor = true;
             // 
             // label13
@@ -10124,7 +10124,7 @@ namespace VirtualChem.Forms
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(51, 15);
             this.label13.TabIndex = 6;
-            this.label13.Text = "1";
+            this.label13.Text = "20";
             // 
             // button14
             // 
@@ -10138,7 +10138,7 @@ namespace VirtualChem.Forms
             this.button14.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button14.Size = new System.Drawing.Size(51, 46);
             this.button14.TabIndex = 7;
-            this.button14.Text = "H";
+            this.button14.Text = "K";
             this.button14.UseVisualStyleBackColor = true;
             // 
             // label14
@@ -10150,7 +10150,7 @@ namespace VirtualChem.Forms
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(51, 15);
             this.label14.TabIndex = 6;
-            this.label14.Text = "1";
+            this.label14.Text = "19";
             // 
             // button15
             // 
@@ -10164,7 +10164,7 @@ namespace VirtualChem.Forms
             this.button15.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button15.Size = new System.Drawing.Size(51, 46);
             this.button15.TabIndex = 7;
-            this.button15.Text = "H";
+            this.button15.Text = "Rb";
             this.button15.UseVisualStyleBackColor = true;
             // 
             // label15
@@ -10176,7 +10176,7 @@ namespace VirtualChem.Forms
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(51, 15);
             this.label15.TabIndex = 6;
-            this.label15.Text = "1";
+            this.label15.Text = "37";
             // 
             // button16
             // 
@@ -10190,7 +10190,7 @@ namespace VirtualChem.Forms
             this.button16.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button16.Size = new System.Drawing.Size(51, 46);
             this.button16.TabIndex = 7;
-            this.button16.Text = "H";
+            this.button16.Text = "Sr";
             this.button16.UseVisualStyleBackColor = true;
             // 
             // label16
@@ -10202,7 +10202,7 @@ namespace VirtualChem.Forms
             this.label16.Name = "label16";
             this.label16.Size = new System.Drawing.Size(51, 15);
             this.label16.TabIndex = 6;
-            this.label16.Text = "1";
+            this.label16.Text = "38";
             // 
             // button17
             // 
@@ -10216,7 +10216,7 @@ namespace VirtualChem.Forms
             this.button17.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button17.Size = new System.Drawing.Size(51, 46);
             this.button17.TabIndex = 7;
-            this.button17.Text = "H";
+            this.button17.Text = "Ba";
             this.button17.UseVisualStyleBackColor = true;
             // 
             // label17
@@ -10228,7 +10228,7 @@ namespace VirtualChem.Forms
             this.label17.Name = "label17";
             this.label17.Size = new System.Drawing.Size(51, 15);
             this.label17.TabIndex = 6;
-            this.label17.Text = "1";
+            this.label17.Text = "56";
             // 
             // button18
             // 
@@ -10242,7 +10242,7 @@ namespace VirtualChem.Forms
             this.button18.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button18.Size = new System.Drawing.Size(51, 46);
             this.button18.TabIndex = 7;
-            this.button18.Text = "H";
+            this.button18.Text = "Cs";
             this.button18.UseVisualStyleBackColor = true;
             // 
             // label18
@@ -10254,7 +10254,7 @@ namespace VirtualChem.Forms
             this.label18.Name = "label18";
             this.label18.Size = new System.Drawing.Size(51, 15);
             this.label18.TabIndex = 6;
-            this.label18.Text = "1";
+            this.label18.Text = "55";
             // 
             // button19
             // 
@@ -10268,7 +10268,7 @@ namespace VirtualChem.Forms
             this.button19.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button19.Size = new System.Drawing.Size(51, 46);
             this.button19.TabIndex = 7;
-            this.button19.Text = "H";
+            this.button19.Text = "Fr";
             this.button19.UseVisualStyleBackColor = true;
             // 
             // label19
@@ -10280,7 +10280,7 @@ namespace VirtualChem.Forms
             this.label19.Name = "label19";
             this.label19.Size = new System.Drawing.Size(51, 15);
             this.label19.TabIndex = 6;
-            this.label19.Text = "1";
+            this.label19.Text = "87";
             // 
             // button20
             // 
@@ -10294,7 +10294,7 @@ namespace VirtualChem.Forms
             this.button20.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button20.Size = new System.Drawing.Size(51, 46);
             this.button20.TabIndex = 7;
-            this.button20.Text = "H";
+            this.button20.Text = "Ra";
             this.button20.UseVisualStyleBackColor = true;
             // 
             // label20
@@ -10306,7 +10306,7 @@ namespace VirtualChem.Forms
             this.label20.Name = "label20";
             this.label20.Size = new System.Drawing.Size(51, 15);
             this.label20.TabIndex = 6;
-            this.label20.Text = "1";
+            this.label20.Text = "88";
             // 
             // button21
             // 
@@ -10320,7 +10320,7 @@ namespace VirtualChem.Forms
             this.button21.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button21.Size = new System.Drawing.Size(51, 46);
             this.button21.TabIndex = 7;
-            this.button21.Text = "H";
+            this.button21.Text = "La";
             this.button21.UseVisualStyleBackColor = true;
             // 
             // label21
@@ -10332,7 +10332,7 @@ namespace VirtualChem.Forms
             this.label21.Name = "label21";
             this.label21.Size = new System.Drawing.Size(51, 15);
             this.label21.TabIndex = 6;
-            this.label21.Text = "1";
+            this.label21.Text = "57";
             // 
             // button22
             // 
@@ -10346,7 +10346,7 @@ namespace VirtualChem.Forms
             this.button22.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button22.Size = new System.Drawing.Size(51, 46);
             this.button22.TabIndex = 7;
-            this.button22.Text = "H";
+            this.button22.Text = "Ac";
             this.button22.UseVisualStyleBackColor = true;
             // 
             // label22
@@ -10358,7 +10358,7 @@ namespace VirtualChem.Forms
             this.label22.Name = "label22";
             this.label22.Size = new System.Drawing.Size(51, 15);
             this.label22.TabIndex = 6;
-            this.label22.Text = "1";
+            this.label22.Text = "89";
             // 
             // button23
             // 
@@ -10372,7 +10372,7 @@ namespace VirtualChem.Forms
             this.button23.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button23.Size = new System.Drawing.Size(51, 46);
             this.button23.TabIndex = 7;
-            this.button23.Text = "H";
+            this.button23.Text = "Th";
             this.button23.UseVisualStyleBackColor = true;
             // 
             // label23
@@ -10384,7 +10384,7 @@ namespace VirtualChem.Forms
             this.label23.Name = "label23";
             this.label23.Size = new System.Drawing.Size(51, 15);
             this.label23.TabIndex = 6;
-            this.label23.Text = "1";
+            this.label23.Text = "90";
             // 
             // button24
             // 
@@ -10398,7 +10398,7 @@ namespace VirtualChem.Forms
             this.button24.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button24.Size = new System.Drawing.Size(51, 46);
             this.button24.TabIndex = 7;
-            this.button24.Text = "H";
+            this.button24.Text = "Ce";
             this.button24.UseVisualStyleBackColor = true;
             // 
             // label24
@@ -10410,7 +10410,7 @@ namespace VirtualChem.Forms
             this.label24.Name = "label24";
             this.label24.Size = new System.Drawing.Size(51, 15);
             this.label24.TabIndex = 6;
-            this.label24.Text = "1";
+            this.label24.Text = "58";
             // 
             // button25
             // 
@@ -10424,7 +10424,7 @@ namespace VirtualChem.Forms
             this.button25.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button25.Size = new System.Drawing.Size(51, 46);
             this.button25.TabIndex = 7;
-            this.button25.Text = "H";
+            this.button25.Text = "Pr";
             this.button25.UseVisualStyleBackColor = true;
             // 
             // label25
@@ -10436,7 +10436,7 @@ namespace VirtualChem.Forms
             this.label25.Name = "label25";
             this.label25.Size = new System.Drawing.Size(51, 15);
             this.label25.TabIndex = 6;
-            this.label25.Text = "1";
+            this.label25.Text = "59";
             // 
             // button26
             // 
@@ -10450,7 +10450,7 @@ namespace VirtualChem.Forms
             this.button26.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button26.Size = new System.Drawing.Size(51, 46);
             this.button26.TabIndex = 7;
-            this.button26.Text = "H";
+            this.button26.Text = "Pa";
             this.button26.UseVisualStyleBackColor = true;
             // 
             // label26
@@ -10462,7 +10462,7 @@ namespace VirtualChem.Forms
             this.label26.Name = "label26";
             this.label26.Size = new System.Drawing.Size(51, 15);
             this.label26.TabIndex = 6;
-            this.label26.Text = "1";
+            this.label26.Text = "91";
             // 
             // button27
             // 
@@ -10476,7 +10476,7 @@ namespace VirtualChem.Forms
             this.button27.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button27.Size = new System.Drawing.Size(51, 46);
             this.button27.TabIndex = 7;
-            this.button27.Text = "H";
+            this.button27.Text = "U";
             this.button27.UseVisualStyleBackColor = true;
             // 
             // label27
@@ -10488,7 +10488,7 @@ namespace VirtualChem.Forms
             this.label27.Name = "label27";
             this.label27.Size = new System.Drawing.Size(51, 15);
             this.label27.TabIndex = 6;
-            this.label27.Text = "1";
+            this.label27.Text = "92";
             // 
             // button28
             // 
@@ -10502,7 +10502,7 @@ namespace VirtualChem.Forms
             this.button28.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button28.Size = new System.Drawing.Size(51, 46);
             this.button28.TabIndex = 7;
-            this.button28.Text = "H";
+            this.button28.Text = "Nd";
             this.button28.UseVisualStyleBackColor = true;
             // 
             // label28
@@ -10514,7 +10514,7 @@ namespace VirtualChem.Forms
             this.label28.Name = "label28";
             this.label28.Size = new System.Drawing.Size(51, 15);
             this.label28.TabIndex = 6;
-            this.label28.Text = "1";
+            this.label28.Text = "60";
             // 
             // button29
             // 
@@ -10528,7 +10528,7 @@ namespace VirtualChem.Forms
             this.button29.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button29.Size = new System.Drawing.Size(51, 46);
             this.button29.TabIndex = 7;
-            this.button29.Text = "H";
+            this.button29.Text = "Pm";
             this.button29.UseVisualStyleBackColor = true;
             // 
             // label29
@@ -10540,7 +10540,7 @@ namespace VirtualChem.Forms
             this.label29.Name = "label29";
             this.label29.Size = new System.Drawing.Size(51, 15);
             this.label29.TabIndex = 6;
-            this.label29.Text = "1";
+            this.label29.Text = "61";
             // 
             // button30
             // 
@@ -10554,7 +10554,7 @@ namespace VirtualChem.Forms
             this.button30.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button30.Size = new System.Drawing.Size(51, 46);
             this.button30.TabIndex = 7;
-            this.button30.Text = "H";
+            this.button30.Text = "Np";
             this.button30.UseVisualStyleBackColor = true;
             // 
             // label30
@@ -10566,7 +10566,7 @@ namespace VirtualChem.Forms
             this.label30.Name = "label30";
             this.label30.Size = new System.Drawing.Size(51, 15);
             this.label30.TabIndex = 6;
-            this.label30.Text = "1";
+            this.label30.Text = "93";
             // 
             // button31
             // 
@@ -10580,7 +10580,7 @@ namespace VirtualChem.Forms
             this.button31.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button31.Size = new System.Drawing.Size(51, 46);
             this.button31.TabIndex = 7;
-            this.button31.Text = "H";
+            this.button31.Text = "Pu";
             this.button31.UseVisualStyleBackColor = true;
             // 
             // label31
@@ -10592,7 +10592,7 @@ namespace VirtualChem.Forms
             this.label31.Name = "label31";
             this.label31.Size = new System.Drawing.Size(51, 15);
             this.label31.TabIndex = 6;
-            this.label31.Text = "1";
+            this.label31.Text = "94";
             // 
             // button32
             // 
@@ -10606,7 +10606,7 @@ namespace VirtualChem.Forms
             this.button32.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button32.Size = new System.Drawing.Size(51, 46);
             this.button32.TabIndex = 7;
-            this.button32.Text = "H";
+            this.button32.Text = "Sm";
             this.button32.UseVisualStyleBackColor = true;
             // 
             // label32
@@ -10618,7 +10618,7 @@ namespace VirtualChem.Forms
             this.label32.Name = "label32";
             this.label32.Size = new System.Drawing.Size(51, 15);
             this.label32.TabIndex = 6;
-            this.label32.Text = "1";
+            this.label32.Text = "62";
             // 
             // button33
             // 
@@ -10632,7 +10632,7 @@ namespace VirtualChem.Forms
             this.button33.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button33.Size = new System.Drawing.Size(51, 46);
             this.button33.TabIndex = 7;
-            this.button33.Text = "H";
+            this.button33.Text = "Eu";
             this.button33.UseVisualStyleBackColor = true;
             // 
             // label33
@@ -10644,7 +10644,7 @@ namespace VirtualChem.Forms
             this.label33.Name = "label33";
             this.label33.Size = new System.Drawing.Size(51, 15);
             this.label33.TabIndex = 6;
-            this.label33.Text = "1";
+            this.label33.Text = "63";
             // 
             // button34
             // 
@@ -10658,7 +10658,7 @@ namespace VirtualChem.Forms
             this.button34.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button34.Size = new System.Drawing.Size(51, 46);
             this.button34.TabIndex = 7;
-            this.button34.Text = "H";
+            this.button34.Text = "Am";
             this.button34.UseVisualStyleBackColor = true;
             // 
             // label34
@@ -10670,7 +10670,7 @@ namespace VirtualChem.Forms
             this.label34.Name = "label34";
             this.label34.Size = new System.Drawing.Size(51, 15);
             this.label34.TabIndex = 6;
-            this.label34.Text = "1";
+            this.label34.Text = "95";
             // 
             // button35
             // 
@@ -10684,7 +10684,7 @@ namespace VirtualChem.Forms
             this.button35.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button35.Size = new System.Drawing.Size(51, 46);
             this.button35.TabIndex = 7;
-            this.button35.Text = "H";
+            this.button35.Text = "Cm";
             this.button35.UseVisualStyleBackColor = true;
             // 
             // label35
@@ -10696,7 +10696,7 @@ namespace VirtualChem.Forms
             this.label35.Name = "label35";
             this.label35.Size = new System.Drawing.Size(51, 15);
             this.label35.TabIndex = 6;
-            this.label35.Text = "1";
+            this.label35.Text = "96";
             // 
             // button36
             // 
@@ -10710,7 +10710,7 @@ namespace VirtualChem.Forms
             this.button36.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button36.Size = new System.Drawing.Size(51, 46);
             this.button36.TabIndex = 7;
-            this.button36.Text = "H";
+            this.button36.Text = "Gd";
             this.button36.UseVisualStyleBackColor = true;
             // 
             // label36
@@ -10722,7 +10722,7 @@ namespace VirtualChem.Forms
             this.label36.Name = "label36";
             this.label36.Size = new System.Drawing.Size(51, 15);
             this.label36.TabIndex = 6;
-            this.label36.Text = "1";
+            this.label36.Text = "64";
             // 
             // button37
             // 
@@ -10736,7 +10736,7 @@ namespace VirtualChem.Forms
             this.button37.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button37.Size = new System.Drawing.Size(51, 46);
             this.button37.TabIndex = 7;
-            this.button37.Text = "H";
+            this.button37.Text = "Tb";
             this.button37.UseVisualStyleBackColor = true;
             // 
             // label37
@@ -10748,7 +10748,7 @@ namespace VirtualChem.Forms
             this.label37.Name = "label37";
             this.label37.Size = new System.Drawing.Size(51, 15);
             this.label37.TabIndex = 6;
-            this.label37.Text = "1";
+            this.label37.Text = "65";
             // 
             // button38
             // 
@@ -10762,7 +10762,7 @@ namespace VirtualChem.Forms
             this.button38.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button38.Size = new System.Drawing.Size(51, 46);
             this.button38.TabIndex = 7;
-            this.button38.Text = "H";
+            this.button38.Text = "Bk";
             this.button38.UseVisualStyleBackColor = true;
             // 
             // label38
@@ -10774,7 +10774,7 @@ namespace VirtualChem.Forms
             this.label38.Name = "label38";
             this.label38.Size = new System.Drawing.Size(51, 15);
             this.label38.TabIndex = 6;
-            this.label38.Text = "1";
+            this.label38.Text = "97";
             // 
             // button39
             // 
@@ -10788,7 +10788,7 @@ namespace VirtualChem.Forms
             this.button39.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button39.Size = new System.Drawing.Size(51, 46);
             this.button39.TabIndex = 7;
-            this.button39.Text = "H";
+            this.button39.Text = "Dy";
             this.button39.UseVisualStyleBackColor = true;
             // 
             // label39
@@ -10800,7 +10800,7 @@ namespace VirtualChem.Forms
             this.label39.Name = "label39";
             this.label39.Size = new System.Drawing.Size(51, 15);
             this.label39.TabIndex = 6;
-            this.label39.Text = "1";
+            this.label39.Text = "66";
             // 
             // button40
             // 
@@ -10814,7 +10814,7 @@ namespace VirtualChem.Forms
             this.button40.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button40.Size = new System.Drawing.Size(51, 46);
             this.button40.TabIndex = 7;
-            this.button40.Text = "H";
+            this.button40.Text = "Cf";
             this.button40.UseVisualStyleBackColor = true;
             // 
             // label40
@@ -10826,7 +10826,7 @@ namespace VirtualChem.Forms
             this.label40.Name = "label40";
             this.label40.Size = new System.Drawing.Size(51, 15);
             this.label40.TabIndex = 6;
-            this.label40.Text = "1";
+            this.label40.Text = "98";
             // 
             // button41
             // 
@@ -10840,7 +10840,7 @@ namespace VirtualChem.Forms
             this.button41.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button41.Size = new System.Drawing.Size(51, 46);
             this.button41.TabIndex = 7;
-            this.button41.Text = "H";
+            this.button41.Text = "Es";
             this.button41.UseVisualStyleBackColor = true;
             // 
             // label41
@@ -10852,7 +10852,7 @@ namespace VirtualChem.Forms
             this.label41.Name = "label41";
             this.label41.Size = new System.Drawing.Size(51, 15);
             this.label41.TabIndex = 6;
-            this.label41.Text = "1";
+            this.label41.Text = "99";
             // 
             // button42
             // 
@@ -10866,7 +10866,7 @@ namespace VirtualChem.Forms
             this.button42.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button42.Size = new System.Drawing.Size(51, 46);
             this.button42.TabIndex = 7;
-            this.button42.Text = "H";
+            this.button42.Text = "Ho";
             this.button42.UseVisualStyleBackColor = true;
             // 
             // label42
@@ -10878,7 +10878,7 @@ namespace VirtualChem.Forms
             this.label42.Name = "label42";
             this.label42.Size = new System.Drawing.Size(51, 15);
             this.label42.TabIndex = 6;
-            this.label42.Text = "1";
+            this.label42.Text = "67";
             // 
             // button43
             // 
@@ -10892,7 +10892,7 @@ namespace VirtualChem.Forms
             this.button43.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button43.Size = new System.Drawing.Size(51, 46);
             this.button43.TabIndex = 7;
-            this.button43.Text = "H";
+            this.button43.Text = "Er";
             this.button43.UseVisualStyleBackColor = true;
             // 
             // label43
@@ -10904,7 +10904,7 @@ namespace VirtualChem.Forms
             this.label43.Name = "label43";
             this.label43.Size = new System.Drawing.Size(51, 15);
             this.label43.TabIndex = 6;
-            this.label43.Text = "1";
+            this.label43.Text = "68";
             // 
             // button44
             // 
@@ -10918,7 +10918,7 @@ namespace VirtualChem.Forms
             this.button44.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button44.Size = new System.Drawing.Size(51, 46);
             this.button44.TabIndex = 7;
-            this.button44.Text = "H";
+            this.button44.Text = "Fm";
             this.button44.UseVisualStyleBackColor = true;
             // 
             // label44
@@ -10930,7 +10930,7 @@ namespace VirtualChem.Forms
             this.label44.Name = "label44";
             this.label44.Size = new System.Drawing.Size(51, 15);
             this.label44.TabIndex = 6;
-            this.label44.Text = "1";
+            this.label44.Text = "100";
             // 
             // button45
             // 
@@ -10944,7 +10944,7 @@ namespace VirtualChem.Forms
             this.button45.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button45.Size = new System.Drawing.Size(51, 46);
             this.button45.TabIndex = 7;
-            this.button45.Text = "H";
+            this.button45.Text = "Tm";
             this.button45.UseVisualStyleBackColor = true;
             // 
             // label45
@@ -10956,7 +10956,7 @@ namespace VirtualChem.Forms
             this.label45.Name = "label45";
             this.label45.Size = new System.Drawing.Size(51, 15);
             this.label45.TabIndex = 6;
-            this.label45.Text = "1";
+            this.label45.Text = "69";
             // 
             // button46
             // 
@@ -10970,7 +10970,7 @@ namespace VirtualChem.Forms
             this.button46.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button46.Size = new System.Drawing.Size(51, 46);
             this.button46.TabIndex = 7;
-            this.button46.Text = "H";
+            this.button46.Text = "Md";
             this.button46.UseVisualStyleBackColor = true;
             // 
             // label46
@@ -10982,7 +10982,7 @@ namespace VirtualChem.Forms
             this.label46.Name = "label46";
             this.label46.Size = new System.Drawing.Size(51, 15);
             this.label46.TabIndex = 6;
-            this.label46.Text = "1";
+            this.label46.Text = "101";
             // 
             // button47
             // 
@@ -10996,7 +10996,7 @@ namespace VirtualChem.Forms
             this.button47.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button47.Size = new System.Drawing.Size(51, 46);
             this.button47.TabIndex = 7;
-            this.button47.Text = "H";
+            this.button47.Text = "Yb";
             this.button47.UseVisualStyleBackColor = true;
             // 
             // label47
@@ -11008,7 +11008,7 @@ namespace VirtualChem.Forms
             this.label47.Name = "label47";
             this.label47.Size = new System.Drawing.Size(51, 15);
             this.label47.TabIndex = 6;
-            this.label47.Text = "1";
+            this.label47.Text = "70";
             // 
             // button48
             // 
@@ -11022,7 +11022,7 @@ namespace VirtualChem.Forms
             this.button48.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button48.Size = new System.Drawing.Size(51, 46);
             this.button48.TabIndex = 7;
-            this.button48.Text = "H";
+            this.button48.Text = "No";
             this.button48.UseVisualStyleBackColor = true;
             // 
             // label48
@@ -11034,7 +11034,7 @@ namespace VirtualChem.Forms
             this.label48.Name = "label48";
             this.label48.Size = new System.Drawing.Size(51, 15);
             this.label48.TabIndex = 6;
-            this.label48.Text = "1";
+            this.label48.Text = "102";
             // 
             // button49
             // 
@@ -11048,7 +11048,7 @@ namespace VirtualChem.Forms
             this.button49.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button49.Size = new System.Drawing.Size(51, 46);
             this.button49.TabIndex = 7;
-            this.button49.Text = "H";
+            this.button49.Text = "Lu";
             this.button49.UseVisualStyleBackColor = true;
             // 
             // label49
@@ -11060,7 +11060,7 @@ namespace VirtualChem.Forms
             this.label49.Name = "label49";
             this.label49.Size = new System.Drawing.Size(51, 15);
             this.label49.TabIndex = 6;
-            this.label49.Text = "1";
+            this.label49.Text = "71";
             // 
             // button50
             // 
@@ -11074,7 +11074,7 @@ namespace VirtualChem.Forms
             this.button50.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button50.Size = new System.Drawing.Size(51, 46);
             this.button50.TabIndex = 7;
-            this.button50.Text = "H";
+            this.button50.Text = "Lr";
             this.button50.UseVisualStyleBackColor = true;
             // 
             // label50
@@ -11086,7 +11086,7 @@ namespace VirtualChem.Forms
             this.label50.Name = "label50";
             this.label50.Size = new System.Drawing.Size(51, 15);
             this.label50.TabIndex = 6;
-            this.label50.Text = "1";
+            this.label50.Text = "103";
             // 
             // button51
             // 
@@ -11100,7 +11100,7 @@ namespace VirtualChem.Forms
             this.button51.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button51.Size = new System.Drawing.Size(51, 46);
             this.button51.TabIndex = 7;
-            this.button51.Text = "H";
+            this.button51.Text = "Ar";
             this.button51.UseVisualStyleBackColor = true;
             // 
             // label51
@@ -11112,7 +11112,7 @@ namespace VirtualChem.Forms
             this.label51.Name = "label51";
             this.label51.Size = new System.Drawing.Size(51, 15);
             this.label51.TabIndex = 6;
-            this.label51.Text = "1";
+            this.label51.Text = "18";
             // 
             // button52
             // 
@@ -11126,7 +11126,7 @@ namespace VirtualChem.Forms
             this.button52.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button52.Size = new System.Drawing.Size(51, 46);
             this.button52.TabIndex = 7;
-            this.button52.Text = "H";
+            this.button52.Text = "Kr";
             this.button52.UseVisualStyleBackColor = true;
             // 
             // label52
@@ -11138,7 +11138,7 @@ namespace VirtualChem.Forms
             this.label52.Name = "label52";
             this.label52.Size = new System.Drawing.Size(51, 15);
             this.label52.TabIndex = 6;
-            this.label52.Text = "1";
+            this.label52.Text = "36";
             // 
             // button53
             // 
@@ -11152,7 +11152,7 @@ namespace VirtualChem.Forms
             this.button53.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button53.Size = new System.Drawing.Size(51, 46);
             this.button53.TabIndex = 7;
-            this.button53.Text = "H";
+            this.button53.Text = "Xe";
             this.button53.UseVisualStyleBackColor = true;
             // 
             // label53
@@ -11164,7 +11164,7 @@ namespace VirtualChem.Forms
             this.label53.Name = "label53";
             this.label53.Size = new System.Drawing.Size(51, 15);
             this.label53.TabIndex = 6;
-            this.label53.Text = "1";
+            this.label53.Text = "54";
             // 
             // button54
             // 
@@ -11178,7 +11178,7 @@ namespace VirtualChem.Forms
             this.button54.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button54.Size = new System.Drawing.Size(51, 46);
             this.button54.TabIndex = 7;
-            this.button54.Text = "H";
+            this.button54.Text = "Rn";
             this.button54.UseVisualStyleBackColor = true;
             // 
             // label54
@@ -11190,7 +11190,7 @@ namespace VirtualChem.Forms
             this.label54.Name = "label54";
             this.label54.Size = new System.Drawing.Size(51, 15);
             this.label54.TabIndex = 6;
-            this.label54.Text = "1";
+            this.label54.Text = "86";
             // 
             // button55
             // 
@@ -11204,7 +11204,7 @@ namespace VirtualChem.Forms
             this.button55.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button55.Size = new System.Drawing.Size(51, 46);
             this.button55.TabIndex = 7;
-            this.button55.Text = "H";
+            this.button55.Text = "Og";
             this.button55.UseVisualStyleBackColor = true;
             // 
             // label55
@@ -11216,7 +11216,7 @@ namespace VirtualChem.Forms
             this.label55.Name = "label55";
             this.label55.Size = new System.Drawing.Size(51, 15);
             this.label55.TabIndex = 6;
-            this.label55.Text = "1";
+            this.label55.Text = "118";
             // 
             // button56
             // 
@@ -11230,7 +11230,7 @@ namespace VirtualChem.Forms
             this.button56.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button56.Size = new System.Drawing.Size(51, 46);
             this.button56.TabIndex = 7;
-            this.button56.Text = "H";
+            this.button56.Text = "Al";
             this.button56.UseVisualStyleBackColor = true;
             // 
             // label56
@@ -11242,7 +11242,7 @@ namespace VirtualChem.Forms
             this.label56.Name = "label56";
             this.label56.Size = new System.Drawing.Size(51, 15);
             this.label56.TabIndex = 6;
-            this.label56.Text = "1";
+            this.label56.Text = "13";
             // 
             // button57
             // 
@@ -11256,7 +11256,7 @@ namespace VirtualChem.Forms
             this.button57.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button57.Size = new System.Drawing.Size(51, 46);
             this.button57.TabIndex = 7;
-            this.button57.Text = "H";
+            this.button57.Text = "Si";
             this.button57.UseVisualStyleBackColor = true;
             // 
             // label57
@@ -11268,7 +11268,7 @@ namespace VirtualChem.Forms
             this.label57.Name = "label57";
             this.label57.Size = new System.Drawing.Size(51, 15);
             this.label57.TabIndex = 6;
-            this.label57.Text = "1";
+            this.label57.Text = "14";
             // 
             // button58
             // 
@@ -11282,7 +11282,7 @@ namespace VirtualChem.Forms
             this.button58.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button58.Size = new System.Drawing.Size(51, 46);
             this.button58.TabIndex = 7;
-            this.button58.Text = "H";
+            this.button58.Text = "P";
             this.button58.UseVisualStyleBackColor = true;
             // 
             // label58
@@ -11294,7 +11294,7 @@ namespace VirtualChem.Forms
             this.label58.Name = "label58";
             this.label58.Size = new System.Drawing.Size(51, 15);
             this.label58.TabIndex = 6;
-            this.label58.Text = "1";
+            this.label58.Text = "15";
             // 
             // button59
             // 
@@ -11308,7 +11308,7 @@ namespace VirtualChem.Forms
             this.button59.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button59.Size = new System.Drawing.Size(51, 46);
             this.button59.TabIndex = 7;
-            this.button59.Text = "H";
+            this.button59.Text = "S";
             this.button59.UseVisualStyleBackColor = true;
             // 
             // label59
@@ -11320,7 +11320,7 @@ namespace VirtualChem.Forms
             this.label59.Name = "label59";
             this.label59.Size = new System.Drawing.Size(51, 15);
             this.label59.TabIndex = 6;
-            this.label59.Text = "1";
+            this.label59.Text = "16";
             // 
             // button60
             // 
@@ -11334,7 +11334,7 @@ namespace VirtualChem.Forms
             this.button60.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button60.Size = new System.Drawing.Size(51, 46);
             this.button60.TabIndex = 7;
-            this.button60.Text = "H";
+            this.button60.Text = "Cl";
             this.button60.UseVisualStyleBackColor = true;
             // 
             // label60
@@ -11346,7 +11346,7 @@ namespace VirtualChem.Forms
             this.label60.Name = "label60";
             this.label60.Size = new System.Drawing.Size(51, 15);
             this.label60.TabIndex = 6;
-            this.label60.Text = "1";
+            this.label60.Text = "17";
             // 
             // button61
             // 
@@ -11360,7 +11360,7 @@ namespace VirtualChem.Forms
             this.button61.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button61.Size = new System.Drawing.Size(51, 46);
             this.button61.TabIndex = 7;
-            this.button61.Text = "H";
+            this.button61.Text = "Br";
             this.button61.UseVisualStyleBackColor = true;
             // 
             // label61
@@ -11372,7 +11372,7 @@ namespace VirtualChem.Forms
             this.label61.Name = "label61";
             this.label61.Size = new System.Drawing.Size(51, 15);
             this.label61.TabIndex = 6;
-            this.label61.Text = "1";
+            this.label61.Text = "35";
             // 
             // button62
             // 
@@ -11386,7 +11386,7 @@ namespace VirtualChem.Forms
             this.button62.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button62.Size = new System.Drawing.Size(51, 46);
             this.button62.TabIndex = 7;
-            this.button62.Text = "H";
+            this.button62.Text = "Se";
             this.button62.UseVisualStyleBackColor = true;
             // 
             // label62
@@ -11398,7 +11398,7 @@ namespace VirtualChem.Forms
             this.label62.Name = "label62";
             this.label62.Size = new System.Drawing.Size(51, 15);
             this.label62.TabIndex = 6;
-            this.label62.Text = "1";
+            this.label62.Text = "34";
             // 
             // button63
             // 
@@ -11412,7 +11412,7 @@ namespace VirtualChem.Forms
             this.button63.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button63.Size = new System.Drawing.Size(51, 46);
             this.button63.TabIndex = 7;
-            this.button63.Text = "H";
+            this.button63.Text = "As";
             this.button63.UseVisualStyleBackColor = true;
             // 
             // label63
@@ -11424,7 +11424,7 @@ namespace VirtualChem.Forms
             this.label63.Name = "label63";
             this.label63.Size = new System.Drawing.Size(51, 15);
             this.label63.TabIndex = 6;
-            this.label63.Text = "1";
+            this.label63.Text = "33";
             // 
             // button64
             // 
@@ -11438,7 +11438,7 @@ namespace VirtualChem.Forms
             this.button64.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button64.Size = new System.Drawing.Size(51, 46);
             this.button64.TabIndex = 7;
-            this.button64.Text = "H";
+            this.button64.Text = "Ge";
             this.button64.UseVisualStyleBackColor = true;
             // 
             // label64
@@ -11450,7 +11450,7 @@ namespace VirtualChem.Forms
             this.label64.Name = "label64";
             this.label64.Size = new System.Drawing.Size(51, 15);
             this.label64.TabIndex = 6;
-            this.label64.Text = "1";
+            this.label64.Text = "32";
             // 
             // button65
             // 
@@ -11464,7 +11464,7 @@ namespace VirtualChem.Forms
             this.button65.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button65.Size = new System.Drawing.Size(51, 46);
             this.button65.TabIndex = 7;
-            this.button65.Text = "H";
+            this.button65.Text = "Ga";
             this.button65.UseVisualStyleBackColor = true;
             // 
             // label65
@@ -11476,7 +11476,7 @@ namespace VirtualChem.Forms
             this.label65.Name = "label65";
             this.label65.Size = new System.Drawing.Size(51, 15);
             this.label65.TabIndex = 6;
-            this.label65.Text = "1";
+            this.label65.Text = "31";
             // 
             // button66
             // 
@@ -11490,7 +11490,7 @@ namespace VirtualChem.Forms
             this.button66.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button66.Size = new System.Drawing.Size(51, 46);
             this.button66.TabIndex = 7;
-            this.button66.Text = "H";
+            this.button66.Text = "In";
             this.button66.UseVisualStyleBackColor = true;
             // 
             // label66
@@ -11502,7 +11502,7 @@ namespace VirtualChem.Forms
             this.label66.Name = "label66";
             this.label66.Size = new System.Drawing.Size(51, 15);
             this.label66.TabIndex = 6;
-            this.label66.Text = "1";
+            this.label66.Text = "49";
             // 
             // button67
             // 
@@ -11516,7 +11516,7 @@ namespace VirtualChem.Forms
             this.button67.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button67.Size = new System.Drawing.Size(51, 46);
             this.button67.TabIndex = 7;
-            this.button67.Text = "H";
+            this.button67.Text = "Sn";
             this.button67.UseVisualStyleBackColor = true;
             // 
             // label67
@@ -11528,7 +11528,7 @@ namespace VirtualChem.Forms
             this.label67.Name = "label67";
             this.label67.Size = new System.Drawing.Size(51, 15);
             this.label67.TabIndex = 6;
-            this.label67.Text = "1";
+            this.label67.Text = "50";
             // 
             // button68
             // 
@@ -11542,7 +11542,7 @@ namespace VirtualChem.Forms
             this.button68.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button68.Size = new System.Drawing.Size(51, 46);
             this.button68.TabIndex = 7;
-            this.button68.Text = "H";
+            this.button68.Text = "Pb";
             this.button68.UseVisualStyleBackColor = true;
             // 
             // label68
@@ -11554,7 +11554,7 @@ namespace VirtualChem.Forms
             this.label68.Name = "label68";
             this.label68.Size = new System.Drawing.Size(51, 15);
             this.label68.TabIndex = 6;
-            this.label68.Text = "1";
+            this.label68.Text = "82";
             // 
             // button69
             // 
@@ -11568,7 +11568,7 @@ namespace VirtualChem.Forms
             this.button69.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button69.Size = new System.Drawing.Size(51, 46);
             this.button69.TabIndex = 7;
-            this.button69.Text = "H";
+            this.button69.Text = "Tl";
             this.button69.UseVisualStyleBackColor = true;
             // 
             // label69
@@ -11580,7 +11580,7 @@ namespace VirtualChem.Forms
             this.label69.Name = "label69";
             this.label69.Size = new System.Drawing.Size(51, 15);
             this.label69.TabIndex = 6;
-            this.label69.Text = "1";
+            this.label69.Text = "81";
             // 
             // button70
             // 
@@ -11594,7 +11594,7 @@ namespace VirtualChem.Forms
             this.button70.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button70.Size = new System.Drawing.Size(51, 46);
             this.button70.TabIndex = 7;
-            this.button70.Text = "H";
+            this.button70.Text = "Nh";
             this.button70.UseVisualStyleBackColor = true;
             // 
             // label70
@@ -11606,7 +11606,7 @@ namespace VirtualChem.Forms
             this.label70.Name = "label70";
             this.label70.Size = new System.Drawing.Size(51, 15);
             this.label70.TabIndex = 6;
-            this.label70.Text = "1";
+            this.label70.Text = "113";
             // 
             // button71
             // 
@@ -11620,7 +11620,7 @@ namespace VirtualChem.Forms
             this.button71.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button71.Size = new System.Drawing.Size(51, 46);
             this.button71.TabIndex = 7;
-            this.button71.Text = "H";
+            this.button71.Text = "Fl";
             this.button71.UseVisualStyleBackColor = true;
             // 
             // label71
@@ -11632,7 +11632,7 @@ namespace VirtualChem.Forms
             this.label71.Name = "label71";
             this.label71.Size = new System.Drawing.Size(51, 15);
             this.label71.TabIndex = 6;
-            this.label71.Text = "1";
+            this.label71.Text = "114";
             // 
             // button72
             // 
@@ -11646,7 +11646,7 @@ namespace VirtualChem.Forms
             this.button72.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button72.Size = new System.Drawing.Size(51, 46);
             this.button72.TabIndex = 7;
-            this.button72.Text = "H";
+            this.button72.Text = "Mc";
             this.button72.UseVisualStyleBackColor = true;
             // 
             // label72
@@ -11658,7 +11658,7 @@ namespace VirtualChem.Forms
             this.label72.Name = "label72";
             this.label72.Size = new System.Drawing.Size(51, 15);
             this.label72.TabIndex = 6;
-            this.label72.Text = "1";
+            this.label72.Text = "115";
             // 
             // button73
             // 
@@ -11672,7 +11672,7 @@ namespace VirtualChem.Forms
             this.button73.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button73.Size = new System.Drawing.Size(51, 46);
             this.button73.TabIndex = 7;
-            this.button73.Text = "H";
+            this.button73.Text = "Bi";
             this.button73.UseVisualStyleBackColor = true;
             // 
             // label73
@@ -11684,7 +11684,7 @@ namespace VirtualChem.Forms
             this.label73.Name = "label73";
             this.label73.Size = new System.Drawing.Size(51, 15);
             this.label73.TabIndex = 6;
-            this.label73.Text = "1";
+            this.label73.Text = "83";
             // 
             // button74
             // 
@@ -11698,7 +11698,7 @@ namespace VirtualChem.Forms
             this.button74.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button74.Size = new System.Drawing.Size(51, 46);
             this.button74.TabIndex = 7;
-            this.button74.Text = "H";
+            this.button74.Text = "Sb";
             this.button74.UseVisualStyleBackColor = true;
             // 
             // label74
@@ -11710,7 +11710,7 @@ namespace VirtualChem.Forms
             this.label74.Name = "label74";
             this.label74.Size = new System.Drawing.Size(51, 15);
             this.label74.TabIndex = 6;
-            this.label74.Text = "1";
+            this.label74.Text = "51";
             // 
             // button75
             // 
@@ -11724,7 +11724,7 @@ namespace VirtualChem.Forms
             this.button75.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button75.Size = new System.Drawing.Size(51, 46);
             this.button75.TabIndex = 7;
-            this.button75.Text = "H";
+            this.button75.Text = "Te";
             this.button75.UseVisualStyleBackColor = true;
             // 
             // label75
@@ -11736,7 +11736,7 @@ namespace VirtualChem.Forms
             this.label75.Name = "label75";
             this.label75.Size = new System.Drawing.Size(51, 15);
             this.label75.TabIndex = 6;
-            this.label75.Text = "1";
+            this.label75.Text = "52";
             // 
             // button76
             // 
@@ -11750,7 +11750,7 @@ namespace VirtualChem.Forms
             this.button76.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button76.Size = new System.Drawing.Size(51, 46);
             this.button76.TabIndex = 7;
-            this.button76.Text = "H";
+            this.button76.Text = "Po";
             this.button76.UseVisualStyleBackColor = true;
             // 
             // label76
@@ -11762,7 +11762,7 @@ namespace VirtualChem.Forms
             this.label76.Name = "label76";
             this.label76.Size = new System.Drawing.Size(51, 15);
             this.label76.TabIndex = 6;
-            this.label76.Text = "1";
+            this.label76.Text = "84";
             // 
             // button77
             // 
@@ -11776,7 +11776,7 @@ namespace VirtualChem.Forms
             this.button77.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button77.Size = new System.Drawing.Size(51, 46);
             this.button77.TabIndex = 7;
-            this.button77.Text = "H";
+            this.button77.Text = "I";
             this.button77.UseVisualStyleBackColor = true;
             // 
             // label77
@@ -11788,7 +11788,7 @@ namespace VirtualChem.Forms
             this.label77.Name = "label77";
             this.label77.Size = new System.Drawing.Size(51, 15);
             this.label77.TabIndex = 6;
-            this.label77.Text = "1";
+            this.label77.Text = "53";
             // 
             // button78
             // 
@@ -11802,7 +11802,7 @@ namespace VirtualChem.Forms
             this.button78.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button78.Size = new System.Drawing.Size(51, 46);
             this.button78.TabIndex = 7;
-            this.button78.Text = "H";
+            this.button78.Text = "At";
             this.button78.UseVisualStyleBackColor = true;
             // 
             // label78
@@ -11814,7 +11814,7 @@ namespace VirtualChem.Forms
             this.label78.Name = "label78";
             this.label78.Size = new System.Drawing.Size(51, 15);
             this.label78.TabIndex = 6;
-            this.label78.Text = "1";
+            this.label78.Text = "85";
             // 
             // button79
             // 
@@ -11828,7 +11828,7 @@ namespace VirtualChem.Forms
             this.button79.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button79.Size = new System.Drawing.Size(51, 46);
             this.button79.TabIndex = 7;
-            this.button79.Text = "H";
+            this.button79.Text = "Ts";
             this.button79.UseVisualStyleBackColor = true;
             // 
             // label79
@@ -11840,7 +11840,7 @@ namespace VirtualChem.Forms
             this.label79.Name = "label79";
             this.label79.Size = new System.Drawing.Size(51, 15);
             this.label79.TabIndex = 6;
-            this.label79.Text = "1";
+            this.label79.Text = "117";
             // 
             // button80
             // 
@@ -11854,7 +11854,7 @@ namespace VirtualChem.Forms
             this.button80.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button80.Size = new System.Drawing.Size(51, 46);
             this.button80.TabIndex = 7;
-            this.button80.Text = "H";
+            this.button80.Text = "Lv";
             this.button80.UseVisualStyleBackColor = true;
             // 
             // label80
@@ -11866,7 +11866,7 @@ namespace VirtualChem.Forms
             this.label80.Name = "label80";
             this.label80.Size = new System.Drawing.Size(51, 15);
             this.label80.TabIndex = 6;
-            this.label80.Text = "1";
+            this.label80.Text = "116";
             // 
             // button81
             // 
@@ -11880,7 +11880,7 @@ namespace VirtualChem.Forms
             this.button81.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button81.Size = new System.Drawing.Size(51, 46);
             this.button81.TabIndex = 7;
-            this.button81.Text = "H";
+            this.button81.Text = "Zn";
             this.button81.UseVisualStyleBackColor = true;
             // 
             // label81
@@ -11892,7 +11892,7 @@ namespace VirtualChem.Forms
             this.label81.Name = "label81";
             this.label81.Size = new System.Drawing.Size(51, 15);
             this.label81.TabIndex = 6;
-            this.label81.Text = "1";
+            this.label81.Text = "30";
             // 
             // button82
             // 
@@ -11906,7 +11906,7 @@ namespace VirtualChem.Forms
             this.button82.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button82.Size = new System.Drawing.Size(51, 46);
             this.button82.TabIndex = 7;
-            this.button82.Text = "H";
+            this.button82.Text = "Cu";
             this.button82.UseVisualStyleBackColor = true;
             // 
             // label82
@@ -11918,7 +11918,7 @@ namespace VirtualChem.Forms
             this.label82.Name = "label82";
             this.label82.Size = new System.Drawing.Size(51, 15);
             this.label82.TabIndex = 6;
-            this.label82.Text = "1";
+            this.label82.Text = "29";
             // 
             // button83
             // 
@@ -11932,7 +11932,7 @@ namespace VirtualChem.Forms
             this.button83.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button83.Size = new System.Drawing.Size(51, 46);
             this.button83.TabIndex = 7;
-            this.button83.Text = "H";
+            this.button83.Text = "Ni";
             this.button83.UseVisualStyleBackColor = true;
             // 
             // label83
@@ -11944,7 +11944,7 @@ namespace VirtualChem.Forms
             this.label83.Name = "label83";
             this.label83.Size = new System.Drawing.Size(51, 15);
             this.label83.TabIndex = 6;
-            this.label83.Text = "1";
+            this.label83.Text = "28";
             // 
             // button84
             // 
@@ -11958,7 +11958,7 @@ namespace VirtualChem.Forms
             this.button84.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button84.Size = new System.Drawing.Size(51, 46);
             this.button84.TabIndex = 7;
-            this.button84.Text = "H";
+            this.button84.Text = "Co";
             this.button84.UseVisualStyleBackColor = true;
             // 
             // label84
@@ -11970,7 +11970,7 @@ namespace VirtualChem.Forms
             this.label84.Name = "label84";
             this.label84.Size = new System.Drawing.Size(51, 15);
             this.label84.TabIndex = 6;
-            this.label84.Text = "1";
+            this.label84.Text = "27";
             // 
             // button85
             // 
@@ -11984,7 +11984,7 @@ namespace VirtualChem.Forms
             this.button85.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button85.Size = new System.Drawing.Size(51, 46);
             this.button85.TabIndex = 7;
-            this.button85.Text = "H";
+            this.button85.Text = "Fe";
             this.button85.UseVisualStyleBackColor = true;
             // 
             // label85
@@ -11996,7 +11996,7 @@ namespace VirtualChem.Forms
             this.label85.Name = "label85";
             this.label85.Size = new System.Drawing.Size(51, 15);
             this.label85.TabIndex = 6;
-            this.label85.Text = "1";
+            this.label85.Text = "26";
             // 
             // button86
             // 
@@ -12010,7 +12010,7 @@ namespace VirtualChem.Forms
             this.button86.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button86.Size = new System.Drawing.Size(51, 46);
             this.button86.TabIndex = 7;
-            this.button86.Text = "H";
+            this.button86.Text = "Mn";
             this.button86.UseVisualStyleBackColor = true;
             // 
             // label86
@@ -12022,7 +12022,7 @@ namespace VirtualChem.Forms
             this.label86.Name = "label86";
             this.label86.Size = new System.Drawing.Size(51, 15);
             this.label86.TabIndex = 6;
-            this.label86.Text = "1";
+            this.label86.Text = "25";
             // 
             // button87
             // 
@@ -12036,7 +12036,7 @@ namespace VirtualChem.Forms
             this.button87.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button87.Size = new System.Drawing.Size(51, 46);
             this.button87.TabIndex = 7;
-            this.button87.Text = "H";
+            this.button87.Text = "Cr";
             this.button87.UseVisualStyleBackColor = true;
             // 
             // label87
@@ -12048,7 +12048,7 @@ namespace VirtualChem.Forms
             this.label87.Name = "label87";
             this.label87.Size = new System.Drawing.Size(51, 15);
             this.label87.TabIndex = 6;
-            this.label87.Text = "1";
+            this.label87.Text = "24";
             // 
             // button88
             // 
@@ -12062,7 +12062,7 @@ namespace VirtualChem.Forms
             this.button88.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button88.Size = new System.Drawing.Size(51, 46);
             this.button88.TabIndex = 7;
-            this.button88.Text = "H";
+            this.button88.Text = "V";
             this.button88.UseVisualStyleBackColor = true;
             // 
             // label88
@@ -12074,7 +12074,7 @@ namespace VirtualChem.Forms
             this.label88.Name = "label88";
             this.label88.Size = new System.Drawing.Size(51, 15);
             this.label88.TabIndex = 6;
-            this.label88.Text = "1";
+            this.label88.Text = "23";
             // 
             // button89
             // 
@@ -12088,7 +12088,7 @@ namespace VirtualChem.Forms
             this.button89.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button89.Size = new System.Drawing.Size(51, 46);
             this.button89.TabIndex = 7;
-            this.button89.Text = "H";
+            this.button89.Text = "Ti";
             this.button89.UseVisualStyleBackColor = true;
             // 
             // label89
@@ -12100,7 +12100,7 @@ namespace VirtualChem.Forms
             this.label89.Name = "label89";
             this.label89.Size = new System.Drawing.Size(51, 15);
             this.label89.TabIndex = 6;
-            this.label89.Text = "1";
+            this.label89.Text = "22";
             // 
             // button90
             // 
@@ -12114,7 +12114,7 @@ namespace VirtualChem.Forms
             this.button90.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button90.Size = new System.Drawing.Size(51, 46);
             this.button90.TabIndex = 7;
-            this.button90.Text = "H";
+            this.button90.Text = "Sc";
             this.button90.UseVisualStyleBackColor = true;
             // 
             // label90
@@ -12126,7 +12126,7 @@ namespace VirtualChem.Forms
             this.label90.Name = "label90";
             this.label90.Size = new System.Drawing.Size(51, 15);
             this.label90.TabIndex = 6;
-            this.label90.Text = "1";
+            this.label90.Text = "21";
             // 
             // button91
             // 
@@ -12140,7 +12140,7 @@ namespace VirtualChem.Forms
             this.button91.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button91.Size = new System.Drawing.Size(51, 46);
             this.button91.TabIndex = 7;
-            this.button91.Text = "H";
+            this.button91.Text = "Y";
             this.button91.UseVisualStyleBackColor = true;
             // 
             // label91
@@ -12152,7 +12152,7 @@ namespace VirtualChem.Forms
             this.label91.Name = "label91";
             this.label91.Size = new System.Drawing.Size(51, 15);
             this.label91.TabIndex = 6;
-            this.label91.Text = "1";
+            this.label91.Text = "39";
             // 
             // button92
             // 
@@ -12166,7 +12166,7 @@ namespace VirtualChem.Forms
             this.button92.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button92.Size = new System.Drawing.Size(51, 46);
             this.button92.TabIndex = 7;
-            this.button92.Text = "H";
+            this.button92.Text = "Zr";
             this.button92.UseVisualStyleBackColor = true;
             // 
             // label92
@@ -12178,7 +12178,7 @@ namespace VirtualChem.Forms
             this.label92.Name = "label92";
             this.label92.Size = new System.Drawing.Size(51, 15);
             this.label92.TabIndex = 6;
-            this.label92.Text = "1";
+            this.label92.Text = "40";
             // 
             // button93
             // 
@@ -12192,7 +12192,7 @@ namespace VirtualChem.Forms
             this.button93.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button93.Size = new System.Drawing.Size(51, 46);
             this.button93.TabIndex = 7;
-            this.button93.Text = "H";
+            this.button93.Text = "Nb";
             this.button93.UseVisualStyleBackColor = true;
             // 
             // label93
@@ -12204,7 +12204,7 @@ namespace VirtualChem.Forms
             this.label93.Name = "label93";
             this.label93.Size = new System.Drawing.Size(51, 15);
             this.label93.TabIndex = 6;
-            this.label93.Text = "1";
+            this.label93.Text = "41";
             // 
             // button94
             // 
@@ -12218,7 +12218,7 @@ namespace VirtualChem.Forms
             this.button94.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button94.Size = new System.Drawing.Size(51, 46);
             this.button94.TabIndex = 7;
-            this.button94.Text = "H";
+            this.button94.Text = "Mo";
             this.button94.UseVisualStyleBackColor = true;
             // 
             // label94
@@ -12230,7 +12230,7 @@ namespace VirtualChem.Forms
             this.label94.Name = "label94";
             this.label94.Size = new System.Drawing.Size(51, 15);
             this.label94.TabIndex = 6;
-            this.label94.Text = "1";
+            this.label94.Text = "42";
             // 
             // button95
             // 
@@ -12244,7 +12244,7 @@ namespace VirtualChem.Forms
             this.button95.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button95.Size = new System.Drawing.Size(51, 46);
             this.button95.TabIndex = 7;
-            this.button95.Text = "H";
+            this.button95.Text = "Tc";
             this.button95.UseVisualStyleBackColor = true;
             // 
             // label95
@@ -12256,7 +12256,7 @@ namespace VirtualChem.Forms
             this.label95.Name = "label95";
             this.label95.Size = new System.Drawing.Size(51, 15);
             this.label95.TabIndex = 6;
-            this.label95.Text = "1";
+            this.label95.Text = "43";
             // 
             // button96
             // 
@@ -12270,7 +12270,7 @@ namespace VirtualChem.Forms
             this.button96.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button96.Size = new System.Drawing.Size(51, 46);
             this.button96.TabIndex = 7;
-            this.button96.Text = "H";
+            this.button96.Text = "Ru";
             this.button96.UseVisualStyleBackColor = true;
             // 
             // label96
@@ -12282,7 +12282,7 @@ namespace VirtualChem.Forms
             this.label96.Name = "label96";
             this.label96.Size = new System.Drawing.Size(51, 15);
             this.label96.TabIndex = 6;
-            this.label96.Text = "1";
+            this.label96.Text = "44";
             // 
             // button97
             // 
@@ -12296,7 +12296,7 @@ namespace VirtualChem.Forms
             this.button97.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button97.Size = new System.Drawing.Size(51, 46);
             this.button97.TabIndex = 7;
-            this.button97.Text = "H";
+            this.button97.Text = "Rh";
             this.button97.UseVisualStyleBackColor = true;
             // 
             // label97
@@ -12308,7 +12308,7 @@ namespace VirtualChem.Forms
             this.label97.Name = "label97";
             this.label97.Size = new System.Drawing.Size(51, 15);
             this.label97.TabIndex = 6;
-            this.label97.Text = "1";
+            this.label97.Text = "45";
             // 
             // button98
             // 
@@ -12322,7 +12322,7 @@ namespace VirtualChem.Forms
             this.button98.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button98.Size = new System.Drawing.Size(51, 46);
             this.button98.TabIndex = 7;
-            this.button98.Text = "H";
+            this.button98.Text = "Pd";
             this.button98.UseVisualStyleBackColor = true;
             // 
             // label98
@@ -12334,7 +12334,7 @@ namespace VirtualChem.Forms
             this.label98.Name = "label98";
             this.label98.Size = new System.Drawing.Size(51, 15);
             this.label98.TabIndex = 6;
-            this.label98.Text = "1";
+            this.label98.Text = "46";
             // 
             // button99
             // 
@@ -12348,7 +12348,7 @@ namespace VirtualChem.Forms
             this.button99.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button99.Size = new System.Drawing.Size(51, 46);
             this.button99.TabIndex = 7;
-            this.button99.Text = "H";
+            this.button99.Text = "Ag";
             this.button99.UseVisualStyleBackColor = true;
             // 
             // label99
@@ -12360,7 +12360,7 @@ namespace VirtualChem.Forms
             this.label99.Name = "label99";
             this.label99.Size = new System.Drawing.Size(51, 15);
             this.label99.TabIndex = 6;
-            this.label99.Text = "1";
+            this.label99.Text = "47";
             // 
             // button100
             // 
@@ -12374,7 +12374,7 @@ namespace VirtualChem.Forms
             this.button100.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button100.Size = new System.Drawing.Size(51, 46);
             this.button100.TabIndex = 7;
-            this.button100.Text = "H";
+            this.button100.Text = "Cd";
             this.button100.UseVisualStyleBackColor = true;
             // 
             // label100
@@ -12386,7 +12386,7 @@ namespace VirtualChem.Forms
             this.label100.Name = "label100";
             this.label100.Size = new System.Drawing.Size(51, 15);
             this.label100.TabIndex = 6;
-            this.label100.Text = "1";
+            this.label100.Text = "48";
             // 
             // button101
             // 
@@ -12400,7 +12400,7 @@ namespace VirtualChem.Forms
             this.button101.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button101.Size = new System.Drawing.Size(51, 46);
             this.button101.TabIndex = 7;
-            this.button101.Text = "H";
+            this.button101.Text = "Hg";
             this.button101.UseVisualStyleBackColor = true;
             // 
             // label101
@@ -12412,7 +12412,7 @@ namespace VirtualChem.Forms
             this.label101.Name = "label101";
             this.label101.Size = new System.Drawing.Size(51, 15);
             this.label101.TabIndex = 6;
-            this.label101.Text = "1";
+            this.label101.Text = "80";
             // 
             // button102
             // 
@@ -12426,7 +12426,7 @@ namespace VirtualChem.Forms
             this.button102.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button102.Size = new System.Drawing.Size(51, 46);
             this.button102.TabIndex = 7;
-            this.button102.Text = "H";
+            this.button102.Text = "Au";
             this.button102.UseVisualStyleBackColor = true;
             // 
             // label102
@@ -12438,7 +12438,7 @@ namespace VirtualChem.Forms
             this.label102.Name = "label102";
             this.label102.Size = new System.Drawing.Size(51, 15);
             this.label102.TabIndex = 6;
-            this.label102.Text = "1";
+            this.label102.Text = "79";
             // 
             // button103
             // 
@@ -12452,7 +12452,7 @@ namespace VirtualChem.Forms
             this.button103.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button103.Size = new System.Drawing.Size(51, 46);
             this.button103.TabIndex = 7;
-            this.button103.Text = "H";
+            this.button103.Text = "Pt";
             this.button103.UseVisualStyleBackColor = true;
             // 
             // label103
@@ -12464,7 +12464,7 @@ namespace VirtualChem.Forms
             this.label103.Name = "label103";
             this.label103.Size = new System.Drawing.Size(51, 15);
             this.label103.TabIndex = 6;
-            this.label103.Text = "1";
+            this.label103.Text = "78";
             // 
             // button104
             // 
@@ -12478,7 +12478,7 @@ namespace VirtualChem.Forms
             this.button104.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button104.Size = new System.Drawing.Size(51, 46);
             this.button104.TabIndex = 7;
-            this.button104.Text = "H";
+            this.button104.Text = "Ir";
             this.button104.UseVisualStyleBackColor = true;
             // 
             // label104
@@ -12490,7 +12490,7 @@ namespace VirtualChem.Forms
             this.label104.Name = "label104";
             this.label104.Size = new System.Drawing.Size(51, 15);
             this.label104.TabIndex = 6;
-            this.label104.Text = "1";
+            this.label104.Text = "77";
             // 
             // button105
             // 
@@ -12504,7 +12504,7 @@ namespace VirtualChem.Forms
             this.button105.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button105.Size = new System.Drawing.Size(51, 46);
             this.button105.TabIndex = 7;
-            this.button105.Text = "H";
+            this.button105.Text = "Os";
             this.button105.UseVisualStyleBackColor = true;
             // 
             // label105
@@ -12516,7 +12516,7 @@ namespace VirtualChem.Forms
             this.label105.Name = "label105";
             this.label105.Size = new System.Drawing.Size(51, 15);
             this.label105.TabIndex = 6;
-            this.label105.Text = "1";
+            this.label105.Text = "76";
             // 
             // button106
             // 
@@ -12530,7 +12530,7 @@ namespace VirtualChem.Forms
             this.button106.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button106.Size = new System.Drawing.Size(51, 46);
             this.button106.TabIndex = 7;
-            this.button106.Text = "H";
+            this.button106.Text = "Re";
             this.button106.UseVisualStyleBackColor = true;
             // 
             // label106
@@ -12542,7 +12542,7 @@ namespace VirtualChem.Forms
             this.label106.Name = "label106";
             this.label106.Size = new System.Drawing.Size(51, 15);
             this.label106.TabIndex = 6;
-            this.label106.Text = "1";
+            this.label106.Text = "75";
             // 
             // button107
             // 
@@ -12556,7 +12556,7 @@ namespace VirtualChem.Forms
             this.button107.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button107.Size = new System.Drawing.Size(51, 46);
             this.button107.TabIndex = 7;
-            this.button107.Text = "H";
+            this.button107.Text = "W";
             this.button107.UseVisualStyleBackColor = true;
             // 
             // label107
@@ -12568,7 +12568,7 @@ namespace VirtualChem.Forms
             this.label107.Name = "label107";
             this.label107.Size = new System.Drawing.Size(51, 15);
             this.label107.TabIndex = 6;
-            this.label107.Text = "1";
+            this.label107.Text = "74";
             // 
             // button108
             // 
@@ -12582,7 +12582,7 @@ namespace VirtualChem.Forms
             this.button108.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button108.Size = new System.Drawing.Size(51, 46);
             this.button108.TabIndex = 7;
-            this.button108.Text = "H";
+            this.button108.Text = "Ta";
             this.button108.UseVisualStyleBackColor = true;
             // 
             // label108
@@ -12594,7 +12594,7 @@ namespace VirtualChem.Forms
             this.label108.Name = "label108";
             this.label108.Size = new System.Drawing.Size(51, 15);
             this.label108.TabIndex = 6;
-            this.label108.Text = "1";
+            this.label108.Text = "73";
             // 
             // button109
             // 
@@ -12608,7 +12608,7 @@ namespace VirtualChem.Forms
             this.button109.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button109.Size = new System.Drawing.Size(51, 46);
             this.button109.TabIndex = 7;
-            this.button109.Text = "H";
+            this.button109.Text = "Hf";
             this.button109.UseVisualStyleBackColor = true;
             // 
             // label109
@@ -12620,21 +12620,21 @@ namespace VirtualChem.Forms
             this.label109.Name = "label109";
             this.label109.Size = new System.Drawing.Size(51, 15);
             this.label109.TabIndex = 6;
-            this.label109.Text = "1";
+            this.label109.Text = "72";
             // 
             // button110
             // 
             this.button110.Dock = System.Windows.Forms.DockStyle.Fill;
             this.button110.FlatAppearance.BorderSize = 0;
             this.button110.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button110.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.button110.Font = new System.Drawing.Font("Century Gothic", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
             this.button110.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
             this.button110.Location = new System.Drawing.Point(2, 17);
             this.button110.Name = "button110";
             this.button110.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button110.Size = new System.Drawing.Size(51, 46);
             this.button110.TabIndex = 7;
-            this.button110.Text = "H";
+            this.button110.Text = "Lant.";
             this.button110.UseVisualStyleBackColor = true;
             // 
             // label110
@@ -12646,21 +12646,21 @@ namespace VirtualChem.Forms
             this.label110.Name = "label110";
             this.label110.Size = new System.Drawing.Size(51, 15);
             this.label110.TabIndex = 6;
-            this.label110.Text = "1";
+            this.label110.Text = "57-71";
             // 
             // button111
             // 
             this.button111.Dock = System.Windows.Forms.DockStyle.Fill;
             this.button111.FlatAppearance.BorderSize = 0;
             this.button111.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button111.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.button111.Font = new System.Drawing.Font("Century Gothic", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
             this.button111.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(150)))), ((int)(((byte)(239)))));
             this.button111.Location = new System.Drawing.Point(2, 17);
             this.button111.Name = "button111";
             this.button111.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button111.Size = new System.Drawing.Size(51, 46);
             this.button111.TabIndex = 7;
-            this.button111.Text = "H";
+            this.button111.Text = "Act.";
             this.button111.UseVisualStyleBackColor = true;
             // 
             // label111
@@ -12672,7 +12672,7 @@ namespace VirtualChem.Forms
             this.label111.Name = "label111";
             this.label111.Size = new System.Drawing.Size(51, 15);
             this.label111.TabIndex = 6;
-            this.label111.Text = "1";
+            this.label111.Text = "89-103";
             // 
             // button112
             // 
@@ -12686,7 +12686,7 @@ namespace VirtualChem.Forms
             this.button112.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button112.Size = new System.Drawing.Size(51, 46);
             this.button112.TabIndex = 7;
-            this.button112.Text = "H";
+            this.button112.Text = "Rf";
             this.button112.UseVisualStyleBackColor = true;
             // 
             // label112
@@ -12698,7 +12698,7 @@ namespace VirtualChem.Forms
             this.label112.Name = "label112";
             this.label112.Size = new System.Drawing.Size(51, 15);
             this.label112.TabIndex = 6;
-            this.label112.Text = "1";
+            this.label112.Text = "104";
             // 
             // button113
             // 
@@ -12712,7 +12712,7 @@ namespace VirtualChem.Forms
             this.button113.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button113.Size = new System.Drawing.Size(51, 46);
             this.button113.TabIndex = 7;
-            this.button113.Text = "H";
+            this.button113.Text = "Db";
             this.button113.UseVisualStyleBackColor = true;
             // 
             // label113
@@ -12724,7 +12724,7 @@ namespace VirtualChem.Forms
             this.label113.Name = "label113";
             this.label113.Size = new System.Drawing.Size(51, 15);
             this.label113.TabIndex = 6;
-            this.label113.Text = "1";
+            this.label113.Text = "105";
             // 
             // button114
             // 
@@ -12738,7 +12738,7 @@ namespace VirtualChem.Forms
             this.button114.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button114.Size = new System.Drawing.Size(51, 46);
             this.button114.TabIndex = 7;
-            this.button114.Text = "H";
+            this.button114.Text = "Sg";
             this.button114.UseVisualStyleBackColor = true;
             // 
             // label114
@@ -12750,7 +12750,7 @@ namespace VirtualChem.Forms
             this.label114.Name = "label114";
             this.label114.Size = new System.Drawing.Size(51, 15);
             this.label114.TabIndex = 6;
-            this.label114.Text = "1";
+            this.label114.Text = "106";
             // 
             // button115
             // 
@@ -12764,7 +12764,7 @@ namespace VirtualChem.Forms
             this.button115.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button115.Size = new System.Drawing.Size(51, 46);
             this.button115.TabIndex = 7;
-            this.button115.Text = "H";
+            this.button115.Text = "Bh";
             this.button115.UseVisualStyleBackColor = true;
             // 
             // label115
@@ -12776,7 +12776,7 @@ namespace VirtualChem.Forms
             this.label115.Name = "label115";
             this.label115.Size = new System.Drawing.Size(51, 15);
             this.label115.TabIndex = 6;
-            this.label115.Text = "1";
+            this.label115.Text = "107";
             // 
             // button116
             // 
@@ -12790,7 +12790,7 @@ namespace VirtualChem.Forms
             this.button116.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button116.Size = new System.Drawing.Size(51, 46);
             this.button116.TabIndex = 7;
-            this.button116.Text = "H";
+            this.button116.Text = "Hs";
             this.button116.UseVisualStyleBackColor = true;
             // 
             // label116
@@ -12802,7 +12802,7 @@ namespace VirtualChem.Forms
             this.label116.Name = "label116";
             this.label116.Size = new System.Drawing.Size(51, 15);
             this.label116.TabIndex = 6;
-            this.label116.Text = "1";
+            this.label116.Text = "108";
             // 
             // button117
             // 
@@ -12816,7 +12816,7 @@ namespace VirtualChem.Forms
             this.button117.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button117.Size = new System.Drawing.Size(51, 46);
             this.button117.TabIndex = 7;
-            this.button117.Text = "H";
+            this.button117.Text = "Mt";
             this.button117.UseVisualStyleBackColor = true;
             // 
             // label117
@@ -12828,7 +12828,7 @@ namespace VirtualChem.Forms
             this.label117.Name = "label117";
             this.label117.Size = new System.Drawing.Size(51, 15);
             this.label117.TabIndex = 6;
-            this.label117.Text = "1";
+            this.label117.Text = "109";
             // 
             // button118
             // 
@@ -12842,7 +12842,7 @@ namespace VirtualChem.Forms
             this.button118.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button118.Size = new System.Drawing.Size(51, 46);
             this.button118.TabIndex = 7;
-            this.button118.Text = "H";
+            this.button118.Text = "Ds";
             this.button118.UseVisualStyleBackColor = true;
             // 
             // label118
@@ -12854,7 +12854,7 @@ namespace VirtualChem.Forms
             this.label118.Name = "label118";
             this.label118.Size = new System.Drawing.Size(51, 15);
             this.label118.TabIndex = 6;
-            this.label118.Text = "1";
+            this.label118.Text = "110";
             // 
             // button119
             // 
@@ -12868,7 +12868,7 @@ namespace VirtualChem.Forms
             this.button119.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button119.Size = new System.Drawing.Size(51, 46);
             this.button119.TabIndex = 7;
-            this.button119.Text = "H";
+            this.button119.Text = "Rg";
             this.button119.UseVisualStyleBackColor = true;
             // 
             // label119
@@ -12880,7 +12880,7 @@ namespace VirtualChem.Forms
             this.label119.Name = "label119";
             this.label119.Size = new System.Drawing.Size(51, 15);
             this.label119.TabIndex = 6;
-            this.label119.Text = "1";
+            this.label119.Text = "111";
             // 
             // button120
             // 
@@ -12894,7 +12894,7 @@ namespace VirtualChem.Forms
             this.button120.Padding = new System.Windows.Forms.Padding(0, 0, 0, 8);
             this.button120.Size = new System.Drawing.Size(51, 46);
             this.button120.TabIndex = 7;
-            this.button120.Text = "H";
+            this.button120.Text = "Cn";
             this.button120.UseVisualStyleBackColor = true;
             // 
             // label120
@@ -12906,7 +12906,7 @@ namespace VirtualChem.Forms
             this.label120.Name = "label120";
             this.label120.Size = new System.Drawing.Size(51, 15);
             this.label120.TabIndex = 6;
-            this.label120.Text = "1";
+            this.label120.Text = "112";
             // 
             // VirtualChem_MainMenu
             // 
