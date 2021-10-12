@@ -137,6 +137,12 @@ namespace VirtualChem.Forms
 
         public static Element SelectedElement;
 
+        private void ShowElement_Button_Click(object sender, EventArgs e)
+        {
+            VirtualChem_ElementMenu virtualChem_ElementMenu = new VirtualChem_ElementMenu();
+            virtualChem_ElementMenu.Show();
+        }
+
         private void Minimize_Button_Click(object sender, EventArgs e)
         {
             WindowState = FormWindowState.Minimized;
@@ -468,6 +474,108 @@ namespace VirtualChem.Forms
         private void Xenon_Label_Click(object sender, EventArgs e)
         {
             SelectedElement = Element.Xenon;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Caesium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Caesium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Barium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Barium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Hafnium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Hafnium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Tantalum_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Tantalum;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Tungsten_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Tungsten;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Rhenium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Rhenium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Osmium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Osmium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Iridium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Iridium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Platinum_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Platinum;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Gold_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Gold;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Mercury_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Mercury;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Thallium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Thallium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Lead_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Lead;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Bismuth_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Bismuth;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Polonium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Polonium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Astatine_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Astatine;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Radon_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Radon;
             ShowElement_Button.Text = $"Show {SelectedElement}";
         }
     }

@@ -4,6 +4,9 @@
     <Compile Update="Forms\VirtualChem_AwakeMenu.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Forms\VirtualChem_ElementMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Forms\VirtualChem_MainMenu.cs">
       <SubType>Form</SubType>
     </Compile>
