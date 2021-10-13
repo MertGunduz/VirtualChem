@@ -103,6 +103,8 @@ namespace VirtualChem.Forms
             Polonium,
             Astatine,
             Radon,
+            Francium,
+            Radium,
             Actinium,
             Thorium,
             Protactinium,
@@ -576,6 +578,108 @@ namespace VirtualChem.Forms
         private void Radon_Label_Click(object sender, EventArgs e)
         {
             SelectedElement = Element.Radon;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Francium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Francium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Radium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Radium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Rutherfordium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Rutherfordium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Dubnium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Dubnium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Seaborgium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Seaborgium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Bohrium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Bohrium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Hassium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Hassium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Meitnerium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Meitnerium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Darmstadtium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Darmstadtium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Roentgenium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Roentgenium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Copernicium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Copernicium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Nihonium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Nihonium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Flerovium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Flerovium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Moscovium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Moscovium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Livermorium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Livermorium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Tennessine_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Tennessine;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Oganesson_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Oganesson;
             ShowElement_Button.Text = $"Show {SelectedElement}";
         }
     }
