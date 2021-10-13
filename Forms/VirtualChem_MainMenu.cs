@@ -682,5 +682,185 @@ namespace VirtualChem.Forms
             SelectedElement = Element.Oganesson;
             ShowElement_Button.Text = $"Show {SelectedElement}";
         }
+
+        private void Lanthanum_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Lanthanum;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Cerium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Cerium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Praseodymium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Praseodymium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Neodymium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Neodymium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Promethium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Promethium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Samarium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Samarium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Europium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Europium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Gadolinium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Gadolinium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Terbium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Terbium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Dysprosium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Dysprosium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Holmium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Holmium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Erbium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Erbium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Thulium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Thulium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Ytterbium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Ytterbium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Lutetium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Lutetium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Actinium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Actinium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Thorium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Thorium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Protactinium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Protactinium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Uranium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Uranium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Neptunium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Neptunium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Plutonium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Plutonium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Americium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Americium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Curium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Curium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Berkelium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Berkelium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Californium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Californium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Einsteinium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Einsteinium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Fermium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Fermium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Mendelevium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Mendelevium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Nobelium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Nobelium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
+
+        private void Lawrencium_Label_Click(object sender, EventArgs e)
+        {
+            SelectedElement = Element.Lawrencium;
+            ShowElement_Button.Text = $"Show {SelectedElement}";
+        }
     }
 }

@@ -9228,6 +9228,7 @@ namespace VirtualChem.Forms
             this.Lutetium_Button.TabIndex = 7;
             this.Lutetium_Button.Text = "Lu";
             this.Lutetium_Button.UseVisualStyleBackColor = true;
+            this.Lutetium_Button.Click += new System.EventHandler(this.Lutetium_Label_Click);
             // 
             // Lutetium_Label
             // 
@@ -9240,6 +9241,7 @@ namespace VirtualChem.Forms
             this.Lutetium_Label.Size = new System.Drawing.Size(51, 15);
             this.Lutetium_Label.TabIndex = 6;
             this.Lutetium_Label.Text = "71";
+            this.Lutetium_Label.Click += new System.EventHandler(this.Lutetium_Label_Click);
             // 
             // panel98
             // 
@@ -9310,6 +9312,7 @@ namespace VirtualChem.Forms
             this.Ytterbium_Button.TabIndex = 7;
             this.Ytterbium_Button.Text = "Yb";
             this.Ytterbium_Button.UseVisualStyleBackColor = true;
+            this.Ytterbium_Button.Click += new System.EventHandler(this.Ytterbium_Label_Click);
             // 
             // Ytterbium_Label
             // 
@@ -9322,6 +9325,7 @@ namespace VirtualChem.Forms
             this.Ytterbium_Label.Size = new System.Drawing.Size(51, 15);
             this.Ytterbium_Label.TabIndex = 6;
             this.Ytterbium_Label.Text = "70";
+            this.Ytterbium_Label.Click += new System.EventHandler(this.Ytterbium_Label_Click);
             // 
             // panel103
             // 
@@ -9392,6 +9396,7 @@ namespace VirtualChem.Forms
             this.Thulium_Button.TabIndex = 7;
             this.Thulium_Button.Text = "Tm";
             this.Thulium_Button.UseVisualStyleBackColor = true;
+            this.Thulium_Button.Click += new System.EventHandler(this.Thulium_Label_Click);
             // 
             // Thulium_Label
             // 
@@ -9404,6 +9409,7 @@ namespace VirtualChem.Forms
             this.Thulium_Label.Size = new System.Drawing.Size(51, 15);
             this.Thulium_Label.TabIndex = 6;
             this.Thulium_Label.Text = "69";
+            this.Thulium_Label.Click += new System.EventHandler(this.Thulium_Label_Click);
             // 
             // panel108
             // 
@@ -9474,6 +9480,7 @@ namespace VirtualChem.Forms
             this.Erbium_Button.TabIndex = 7;
             this.Erbium_Button.Text = "Er";
             this.Erbium_Button.UseVisualStyleBackColor = true;
+            this.Erbium_Button.Click += new System.EventHandler(this.Erbium_Label_Click);
             // 
             // Erbium_Label
             // 
@@ -9486,6 +9493,7 @@ namespace VirtualChem.Forms
             this.Erbium_Label.Size = new System.Drawing.Size(51, 15);
             this.Erbium_Label.TabIndex = 6;
             this.Erbium_Label.Text = "68";
+            this.Erbium_Label.Click += new System.EventHandler(this.Erbium_Label_Click);
             // 
             // panel113
             // 
@@ -9556,6 +9564,7 @@ namespace VirtualChem.Forms
             this.Holmium_Button.TabIndex = 7;
             this.Holmium_Button.Text = "Ho";
             this.Holmium_Button.UseVisualStyleBackColor = true;
+            this.Holmium_Button.Click += new System.EventHandler(this.Holmium_Label_Click);
             // 
             // Holmium_Label
             // 
@@ -9568,6 +9577,7 @@ namespace VirtualChem.Forms
             this.Holmium_Label.Size = new System.Drawing.Size(51, 15);
             this.Holmium_Label.TabIndex = 6;
             this.Holmium_Label.Text = "67";
+            this.Holmium_Label.Click += new System.EventHandler(this.Holmium_Label_Click);
             // 
             // panel118
             // 
@@ -9638,6 +9648,7 @@ namespace VirtualChem.Forms
             this.Dysprosium_Button.TabIndex = 7;
             this.Dysprosium_Button.Text = "Dy";
             this.Dysprosium_Button.UseVisualStyleBackColor = true;
+            this.Dysprosium_Button.Click += new System.EventHandler(this.Dysprosium_Label_Click);
             // 
             // Dysprosium_Label
             // 
@@ -9650,6 +9661,7 @@ namespace VirtualChem.Forms
             this.Dysprosium_Label.Size = new System.Drawing.Size(51, 15);
             this.Dysprosium_Label.TabIndex = 6;
             this.Dysprosium_Label.Text = "66";
+            this.Dysprosium_Label.Click += new System.EventHandler(this.Dysprosium_Label_Click);
             // 
             // panel123
             // 
@@ -9720,6 +9732,7 @@ namespace VirtualChem.Forms
             this.Terbium_Button.TabIndex = 7;
             this.Terbium_Button.Text = "Tb";
             this.Terbium_Button.UseVisualStyleBackColor = true;
+            this.Terbium_Button.Click += new System.EventHandler(this.Terbium_Label_Click);
             // 
             // Terbium_Label
             // 
@@ -9732,6 +9745,7 @@ namespace VirtualChem.Forms
             this.Terbium_Label.Size = new System.Drawing.Size(51, 15);
             this.Terbium_Label.TabIndex = 6;
             this.Terbium_Label.Text = "65";
+            this.Terbium_Label.Click += new System.EventHandler(this.Terbium_Label_Click);
             // 
             // panel128
             // 
@@ -9802,6 +9816,7 @@ namespace VirtualChem.Forms
             this.Gadolinium_Button.TabIndex = 7;
             this.Gadolinium_Button.Text = "Gd";
             this.Gadolinium_Button.UseVisualStyleBackColor = true;
+            this.Gadolinium_Button.Click += new System.EventHandler(this.Gadolinium_Label_Click);
             // 
             // Gadolinium_Label
             // 
@@ -9814,6 +9829,7 @@ namespace VirtualChem.Forms
             this.Gadolinium_Label.Size = new System.Drawing.Size(51, 15);
             this.Gadolinium_Label.TabIndex = 6;
             this.Gadolinium_Label.Text = "64";
+            this.Gadolinium_Label.Click += new System.EventHandler(this.Gadolinium_Label_Click);
             // 
             // panel133
             // 
@@ -9884,6 +9900,7 @@ namespace VirtualChem.Forms
             this.Europium_Button.TabIndex = 7;
             this.Europium_Button.Text = "Eu";
             this.Europium_Button.UseVisualStyleBackColor = true;
+            this.Europium_Button.Click += new System.EventHandler(this.Europium_Label_Click);
             // 
             // Europium_Label
             // 
@@ -9896,6 +9913,7 @@ namespace VirtualChem.Forms
             this.Europium_Label.Size = new System.Drawing.Size(51, 15);
             this.Europium_Label.TabIndex = 6;
             this.Europium_Label.Text = "63";
+            this.Europium_Label.Click += new System.EventHandler(this.Europium_Label_Click);
             // 
             // panel138
             // 
@@ -9966,6 +9984,7 @@ namespace VirtualChem.Forms
             this.Samarium_Button.TabIndex = 7;
             this.Samarium_Button.Text = "Sm";
             this.Samarium_Button.UseVisualStyleBackColor = true;
+            this.Samarium_Button.Click += new System.EventHandler(this.Samarium_Label_Click);
             // 
             // Samarium_Label
             // 
@@ -9978,6 +9997,7 @@ namespace VirtualChem.Forms
             this.Samarium_Label.Size = new System.Drawing.Size(51, 15);
             this.Samarium_Label.TabIndex = 6;
             this.Samarium_Label.Text = "62";
+            this.Samarium_Label.Click += new System.EventHandler(this.Samarium_Label_Click);
             // 
             // panel143
             // 
@@ -10048,6 +10068,7 @@ namespace VirtualChem.Forms
             this.Promethium_Button.TabIndex = 7;
             this.Promethium_Button.Text = "Pm";
             this.Promethium_Button.UseVisualStyleBackColor = true;
+            this.Promethium_Button.Click += new System.EventHandler(this.Promethium_Label_Click);
             // 
             // Promethium_Label
             // 
@@ -10060,6 +10081,7 @@ namespace VirtualChem.Forms
             this.Promethium_Label.Size = new System.Drawing.Size(51, 15);
             this.Promethium_Label.TabIndex = 6;
             this.Promethium_Label.Text = "61";
+            this.Promethium_Label.Click += new System.EventHandler(this.Promethium_Label_Click);
             // 
             // panel148
             // 
@@ -10130,6 +10152,7 @@ namespace VirtualChem.Forms
             this.Neodymium_Button.TabIndex = 7;
             this.Neodymium_Button.Text = "Nd";
             this.Neodymium_Button.UseVisualStyleBackColor = true;
+            this.Neodymium_Button.Click += new System.EventHandler(this.Neodymium_Label_Click);
             // 
             // Neodymium_Label
             // 
@@ -10142,6 +10165,7 @@ namespace VirtualChem.Forms
             this.Neodymium_Label.Size = new System.Drawing.Size(51, 15);
             this.Neodymium_Label.TabIndex = 6;
             this.Neodymium_Label.Text = "60";
+            this.Neodymium_Label.Click += new System.EventHandler(this.Neodymium_Label_Click);
             // 
             // panel153
             // 
@@ -10212,6 +10236,7 @@ namespace VirtualChem.Forms
             this.Praseodymium_Button.TabIndex = 7;
             this.Praseodymium_Button.Text = "Pr";
             this.Praseodymium_Button.UseVisualStyleBackColor = true;
+            this.Praseodymium_Button.Click += new System.EventHandler(this.Praseodymium_Label_Click);
             // 
             // Praseodymium_Label
             // 
@@ -10224,6 +10249,7 @@ namespace VirtualChem.Forms
             this.Praseodymium_Label.Size = new System.Drawing.Size(51, 15);
             this.Praseodymium_Label.TabIndex = 6;
             this.Praseodymium_Label.Text = "59";
+            this.Praseodymium_Label.Click += new System.EventHandler(this.Praseodymium_Label_Click);
             // 
             // panel158
             // 
@@ -10294,6 +10320,7 @@ namespace VirtualChem.Forms
             this.Cerium_Button.TabIndex = 7;
             this.Cerium_Button.Text = "Ce";
             this.Cerium_Button.UseVisualStyleBackColor = true;
+            this.Cerium_Button.Click += new System.EventHandler(this.Cerium_Label_Click);
             // 
             // Cerium_Label
             // 
@@ -10306,6 +10333,7 @@ namespace VirtualChem.Forms
             this.Cerium_Label.Size = new System.Drawing.Size(51, 15);
             this.Cerium_Label.TabIndex = 6;
             this.Cerium_Label.Text = "58";
+            this.Cerium_Label.Click += new System.EventHandler(this.Cerium_Label_Click);
             // 
             // panel163
             // 
@@ -10376,6 +10404,7 @@ namespace VirtualChem.Forms
             this.Lanthanum_Button.TabIndex = 7;
             this.Lanthanum_Button.Text = "La";
             this.Lanthanum_Button.UseVisualStyleBackColor = true;
+            this.Lanthanum_Button.Click += new System.EventHandler(this.Lanthanum_Label_Click);
             // 
             // Lanthanum_Label
             // 
@@ -10388,6 +10417,7 @@ namespace VirtualChem.Forms
             this.Lanthanum_Label.Size = new System.Drawing.Size(51, 15);
             this.Lanthanum_Label.TabIndex = 6;
             this.Lanthanum_Label.Text = "57";
+            this.Lanthanum_Label.Click += new System.EventHandler(this.Lanthanum_Label_Click);
             // 
             // panel168
             // 
@@ -10631,6 +10661,7 @@ namespace VirtualChem.Forms
             this.Lawrencium_Button.TabIndex = 7;
             this.Lawrencium_Button.Text = "Lr";
             this.Lawrencium_Button.UseVisualStyleBackColor = true;
+            this.Lawrencium_Button.Click += new System.EventHandler(this.Lawrencium_Label_Click);
             // 
             // Lawrencium_Label
             // 
@@ -10643,6 +10674,7 @@ namespace VirtualChem.Forms
             this.Lawrencium_Label.Size = new System.Drawing.Size(51, 15);
             this.Lawrencium_Label.TabIndex = 6;
             this.Lawrencium_Label.Text = "103";
+            this.Lawrencium_Label.Click += new System.EventHandler(this.Lawrencium_Label_Click);
             // 
             // panel83
             // 
@@ -10713,6 +10745,7 @@ namespace VirtualChem.Forms
             this.Nobelium_Button.TabIndex = 7;
             this.Nobelium_Button.Text = "No";
             this.Nobelium_Button.UseVisualStyleBackColor = true;
+            this.Nobelium_Button.Click += new System.EventHandler(this.Nobelium_Label_Click);
             // 
             // Nobelium_Label
             // 
@@ -10725,6 +10758,7 @@ namespace VirtualChem.Forms
             this.Nobelium_Label.Size = new System.Drawing.Size(51, 15);
             this.Nobelium_Label.TabIndex = 6;
             this.Nobelium_Label.Text = "102";
+            this.Nobelium_Label.Click += new System.EventHandler(this.Nobelium_Label_Click);
             // 
             // panel78
             // 
@@ -10795,6 +10829,7 @@ namespace VirtualChem.Forms
             this.Mendelevium_Button.TabIndex = 7;
             this.Mendelevium_Button.Text = "Md";
             this.Mendelevium_Button.UseVisualStyleBackColor = true;
+            this.Mendelevium_Button.Click += new System.EventHandler(this.Mendelevium_Label_Click);
             // 
             // Mendelevium_Label
             // 
@@ -10807,6 +10842,7 @@ namespace VirtualChem.Forms
             this.Mendelevium_Label.Size = new System.Drawing.Size(51, 15);
             this.Mendelevium_Label.TabIndex = 6;
             this.Mendelevium_Label.Text = "101";
+            this.Mendelevium_Label.Click += new System.EventHandler(this.Mendelevium_Label_Click);
             // 
             // panel73
             // 
@@ -10877,6 +10913,7 @@ namespace VirtualChem.Forms
             this.Fermium_Button.TabIndex = 7;
             this.Fermium_Button.Text = "Fm";
             this.Fermium_Button.UseVisualStyleBackColor = true;
+            this.Fermium_Button.Click += new System.EventHandler(this.Fermium_Label_Click);
             // 
             // Fermium_Label
             // 
@@ -10889,6 +10926,7 @@ namespace VirtualChem.Forms
             this.Fermium_Label.Size = new System.Drawing.Size(51, 15);
             this.Fermium_Label.TabIndex = 6;
             this.Fermium_Label.Text = "100";
+            this.Fermium_Label.Click += new System.EventHandler(this.Fermium_Label_Click);
             // 
             // panel68
             // 
@@ -10959,6 +10997,7 @@ namespace VirtualChem.Forms
             this.Einsteinium_Button.TabIndex = 7;
             this.Einsteinium_Button.Text = "Es";
             this.Einsteinium_Button.UseVisualStyleBackColor = true;
+            this.Einsteinium_Button.Click += new System.EventHandler(this.Einsteinium_Label_Click);
             // 
             // Einsteinium_Label
             // 
@@ -10971,6 +11010,7 @@ namespace VirtualChem.Forms
             this.Einsteinium_Label.Size = new System.Drawing.Size(51, 15);
             this.Einsteinium_Label.TabIndex = 6;
             this.Einsteinium_Label.Text = "99";
+            this.Einsteinium_Label.Click += new System.EventHandler(this.Einsteinium_Label_Click);
             // 
             // panel63
             // 
@@ -11041,6 +11081,7 @@ namespace VirtualChem.Forms
             this.Californium_Button.TabIndex = 7;
             this.Californium_Button.Text = "Cf";
             this.Californium_Button.UseVisualStyleBackColor = true;
+            this.Californium_Button.Click += new System.EventHandler(this.Californium_Label_Click);
             // 
             // Californium_Label
             // 
@@ -11053,6 +11094,7 @@ namespace VirtualChem.Forms
             this.Californium_Label.Size = new System.Drawing.Size(51, 15);
             this.Californium_Label.TabIndex = 6;
             this.Californium_Label.Text = "98";
+            this.Californium_Label.Click += new System.EventHandler(this.Californium_Label_Click);
             // 
             // panel58
             // 
@@ -11123,6 +11165,7 @@ namespace VirtualChem.Forms
             this.Berkelium_Button.TabIndex = 7;
             this.Berkelium_Button.Text = "Bk";
             this.Berkelium_Button.UseVisualStyleBackColor = true;
+            this.Berkelium_Button.Click += new System.EventHandler(this.Berkelium_Label_Click);
             // 
             // Berkelium_Label
             // 
@@ -11135,6 +11178,7 @@ namespace VirtualChem.Forms
             this.Berkelium_Label.Size = new System.Drawing.Size(51, 15);
             this.Berkelium_Label.TabIndex = 6;
             this.Berkelium_Label.Text = "97";
+            this.Berkelium_Label.Click += new System.EventHandler(this.Berkelium_Label_Click);
             // 
             // panel53
             // 
@@ -11205,6 +11249,7 @@ namespace VirtualChem.Forms
             this.Curium_Button.TabIndex = 7;
             this.Curium_Button.Text = "Cm";
             this.Curium_Button.UseVisualStyleBackColor = true;
+            this.Curium_Button.Click += new System.EventHandler(this.Curium_Label_Click);
             // 
             // Curium_Label
             // 
@@ -11217,6 +11262,7 @@ namespace VirtualChem.Forms
             this.Curium_Label.Size = new System.Drawing.Size(51, 15);
             this.Curium_Label.TabIndex = 6;
             this.Curium_Label.Text = "96";
+            this.Curium_Label.Click += new System.EventHandler(this.Curium_Label_Click);
             // 
             // panel48
             // 
@@ -11287,6 +11333,7 @@ namespace VirtualChem.Forms
             this.Americium_Button.TabIndex = 7;
             this.Americium_Button.Text = "Am";
             this.Americium_Button.UseVisualStyleBackColor = true;
+            this.Americium_Button.Click += new System.EventHandler(this.Americium_Label_Click);
             // 
             // Americium_Label
             // 
@@ -11299,6 +11346,7 @@ namespace VirtualChem.Forms
             this.Americium_Label.Size = new System.Drawing.Size(51, 15);
             this.Americium_Label.TabIndex = 6;
             this.Americium_Label.Text = "95";
+            this.Americium_Label.Click += new System.EventHandler(this.Americium_Label_Click);
             // 
             // panel43
             // 
@@ -11369,6 +11417,7 @@ namespace VirtualChem.Forms
             this.Plutonium_Button.TabIndex = 7;
             this.Plutonium_Button.Text = "Pu";
             this.Plutonium_Button.UseVisualStyleBackColor = true;
+            this.Plutonium_Button.Click += new System.EventHandler(this.Plutonium_Label_Click);
             // 
             // Plutonium_Label
             // 
@@ -11381,6 +11430,7 @@ namespace VirtualChem.Forms
             this.Plutonium_Label.Size = new System.Drawing.Size(51, 15);
             this.Plutonium_Label.TabIndex = 6;
             this.Plutonium_Label.Text = "94";
+            this.Plutonium_Label.Click += new System.EventHandler(this.Plutonium_Label_Click);
             // 
             // panel38
             // 
@@ -11451,6 +11501,7 @@ namespace VirtualChem.Forms
             this.Neptunium_Button.TabIndex = 7;
             this.Neptunium_Button.Text = "Np";
             this.Neptunium_Button.UseVisualStyleBackColor = true;
+            this.Neptunium_Button.Click += new System.EventHandler(this.Neptunium_Label_Click);
             // 
             // Neptunium_Label
             // 
@@ -11463,6 +11514,7 @@ namespace VirtualChem.Forms
             this.Neptunium_Label.Size = new System.Drawing.Size(51, 15);
             this.Neptunium_Label.TabIndex = 6;
             this.Neptunium_Label.Text = "93";
+            this.Neptunium_Label.Click += new System.EventHandler(this.Neptunium_Label_Click);
             // 
             // panel33
             // 
@@ -11533,6 +11585,7 @@ namespace VirtualChem.Forms
             this.Uranium_Button.TabIndex = 7;
             this.Uranium_Button.Text = "U";
             this.Uranium_Button.UseVisualStyleBackColor = true;
+            this.Uranium_Button.Click += new System.EventHandler(this.Uranium_Label_Click);
             // 
             // Uranium_Label
             // 
@@ -11545,6 +11598,7 @@ namespace VirtualChem.Forms
             this.Uranium_Label.Size = new System.Drawing.Size(51, 15);
             this.Uranium_Label.TabIndex = 6;
             this.Uranium_Label.Text = "92";
+            this.Uranium_Label.Click += new System.EventHandler(this.Uranium_Label_Click);
             // 
             // panel28
             // 
@@ -11615,6 +11669,7 @@ namespace VirtualChem.Forms
             this.Protactinium_Button.TabIndex = 7;
             this.Protactinium_Button.Text = "Pa";
             this.Protactinium_Button.UseVisualStyleBackColor = true;
+            this.Protactinium_Button.Click += new System.EventHandler(this.Protactinium_Label_Click);
             // 
             // Protactinium_Label
             // 
@@ -11627,6 +11682,7 @@ namespace VirtualChem.Forms
             this.Protactinium_Label.Size = new System.Drawing.Size(51, 15);
             this.Protactinium_Label.TabIndex = 6;
             this.Protactinium_Label.Text = "91";
+            this.Protactinium_Label.Click += new System.EventHandler(this.Protactinium_Label_Click);
             // 
             // panel23
             // 
@@ -11697,6 +11753,7 @@ namespace VirtualChem.Forms
             this.Thorium_Button.TabIndex = 7;
             this.Thorium_Button.Text = "Th";
             this.Thorium_Button.UseVisualStyleBackColor = true;
+            this.Thorium_Button.Click += new System.EventHandler(this.Thorium_Label_Click);
             // 
             // Thorium_Label
             // 
@@ -11709,6 +11766,7 @@ namespace VirtualChem.Forms
             this.Thorium_Label.Size = new System.Drawing.Size(51, 15);
             this.Thorium_Label.TabIndex = 6;
             this.Thorium_Label.Text = "90";
+            this.Thorium_Label.Click += new System.EventHandler(this.Thorium_Label_Click);
             // 
             // panel18
             // 
@@ -11779,6 +11837,7 @@ namespace VirtualChem.Forms
             this.Actinium_Button.TabIndex = 7;
             this.Actinium_Button.Text = "Ac";
             this.Actinium_Button.UseVisualStyleBackColor = true;
+            this.Actinium_Button.Click += new System.EventHandler(this.Actinium_Label_Click);
             // 
             // Actinium_Label
             // 
@@ -11791,6 +11850,7 @@ namespace VirtualChem.Forms
             this.Actinium_Label.Size = new System.Drawing.Size(51, 15);
             this.Actinium_Label.TabIndex = 6;
             this.Actinium_Label.Text = "89";
+            this.Actinium_Label.Click += new System.EventHandler(this.Actinium_Label_Click);
             // 
             // panel13
             // 
