@@ -141,6 +141,30 @@ namespace VirtualChem.Forms
                     Radius_TextBox.Text += " 98pm";
                     Discovered_TextBox.Text += " 1669";
                     break;
+                case VirtualChem_MainMenu.Element.Sulfur:
+                    Series_TextBox.Text += " Reactive Nonmetals";
+                    Weight_TextBox.Text += " 32.06u";
+                    MeltingPoint_TextBox.Text += " 115.21 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 444.72 Degree Celcius";
+                    Radius_TextBox.Text += " 88pm";
+                    Discovered_TextBox.Text += " 500 BCE";
+                    break;
+                case VirtualChem_MainMenu.Element.Chlorine:
+                    Series_TextBox.Text += " Reactive Nonmetals";
+                    Weight_TextBox.Text += " 35.45u";
+                    MeltingPoint_TextBox.Text += " -101.5 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " -34.04 Degree Celcius";
+                    Radius_TextBox.Text += " 79pm";
+                    Discovered_TextBox.Text += " 1774";
+                    break;
+                case VirtualChem_MainMenu.Element.Argon:
+                    Series_TextBox.Text += " Noble Gases";
+                    Weight_TextBox.Text += " 39.948u";
+                    MeltingPoint_TextBox.Text += " -189 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " -186 Degree Celcius";
+                    Radius_TextBox.Text += " 71pm";
+                    Discovered_TextBox.Text += " 1894";
+                    break;
             }
         }
 
