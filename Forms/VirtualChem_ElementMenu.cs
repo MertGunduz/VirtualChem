@@ -589,6 +589,142 @@ namespace VirtualChem.Forms
                     Radius_TextBox.Text += " 120pm";
                     Discovered_TextBox.Text += " 1900";
                     break;
+                case VirtualChem_MainMenu.Element.Francium:
+                    Series_TextBox.Text += " Alkali Metals";
+                    Weight_TextBox.Text += " 223u";
+                    MeltingPoint_TextBox.Text += " 20.9 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 650 Degree Celcius";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1939";
+                    break;
+                case VirtualChem_MainMenu.Element.Radium:
+                    Series_TextBox.Text += " Alkaline Earth Metals";
+                    Weight_TextBox.Text += " 226u";
+                    MeltingPoint_TextBox.Text += " 700 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 1,737 Degree Celcius";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1898";
+                    break;
+                case VirtualChem_MainMenu.Element.Rutherfordium:
+                    Series_TextBox.Text += " Transition Metals";
+                    Weight_TextBox.Text += " 267u";
+                    MeltingPoint_TextBox.Text += " N/A";
+                    BoilingPoint_TextBox.Text += " N/A";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1964";
+                    break;
+                case VirtualChem_MainMenu.Element.Dubnium:
+                    Series_TextBox.Text += " Transition Metals";
+                    Weight_TextBox.Text += " 268u";
+                    MeltingPoint_TextBox.Text += " N/A";
+                    BoilingPoint_TextBox.Text += " N/A";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1967";
+                    break;
+                case VirtualChem_MainMenu.Element.Seaborgium:
+                    Series_TextBox.Text += " Transition Metals";
+                    Weight_TextBox.Text += " 269u";
+                    MeltingPoint_TextBox.Text += " N/A";
+                    BoilingPoint_TextBox.Text += " N/A";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1974";
+                    break;
+                case VirtualChem_MainMenu.Element.Bohrium:
+                    Series_TextBox.Text += " Transition Metals";
+                    Weight_TextBox.Text += " 270u";
+                    MeltingPoint_TextBox.Text += " N/A";
+                    BoilingPoint_TextBox.Text += " N/A";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1981";
+                    break;
+                case VirtualChem_MainMenu.Element.Hassium:
+                    Series_TextBox.Text += " Transition Metals";
+                    Weight_TextBox.Text += " 270u";
+                    MeltingPoint_TextBox.Text += " N/A";
+                    BoilingPoint_TextBox.Text += " N/A";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1984";
+                    break;
+                case VirtualChem_MainMenu.Element.Meitnerium:
+                    Series_TextBox.Text += " N/A";
+                    Weight_TextBox.Text += " 278u";
+                    MeltingPoint_TextBox.Text += " N/A";
+                    BoilingPoint_TextBox.Text += " N/A";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1982";
+                    break;
+                case VirtualChem_MainMenu.Element.Darmstadtium:
+                    Series_TextBox.Text += " N/A";
+                    Weight_TextBox.Text += " 281u";
+                    MeltingPoint_TextBox.Text += " N/A";
+                    BoilingPoint_TextBox.Text += " N/A";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1994";
+                    break;
+                case VirtualChem_MainMenu.Element.Roentgenium:
+                    Series_TextBox.Text += " N/A";
+                    Weight_TextBox.Text += " 282u";
+                    MeltingPoint_TextBox.Text += " N/A";
+                    BoilingPoint_TextBox.Text += " N/A";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1994";
+                    break;
+                case VirtualChem_MainMenu.Element.Copernicium:
+                    Series_TextBox.Text += " N/A";
+                    Weight_TextBox.Text += " 285u";
+                    MeltingPoint_TextBox.Text += " N/A";
+                    BoilingPoint_TextBox.Text += " N/A";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1996";
+                    break;
+                case VirtualChem_MainMenu.Element.Nihonium:
+                    Series_TextBox.Text += " N/A";
+                    Weight_TextBox.Text += " 286u";
+                    MeltingPoint_TextBox.Text += " N/A";
+                    BoilingPoint_TextBox.Text += " N/A";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 2004";
+                    break;
+                case VirtualChem_MainMenu.Element.Flerovium:
+                    Series_TextBox.Text += " N/A";
+                    Weight_TextBox.Text += " 289u";
+                    MeltingPoint_TextBox.Text += " N/A";
+                    BoilingPoint_TextBox.Text += " N/A";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1998";
+                    break;
+                case VirtualChem_MainMenu.Element.Moscovium:
+                    Series_TextBox.Text += " N/A";
+                    Weight_TextBox.Text += " 290u";
+                    MeltingPoint_TextBox.Text += " N/A";
+                    BoilingPoint_TextBox.Text += " N/A";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 2004";
+                    break;
+                case VirtualChem_MainMenu.Element.Livermorium:
+                    Series_TextBox.Text += " N/A";
+                    Weight_TextBox.Text += " 293u";
+                    MeltingPoint_TextBox.Text += " N/A";
+                    BoilingPoint_TextBox.Text += " N/A";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 2000";
+                    break;
+                case VirtualChem_MainMenu.Element.Tennessine:
+                    Series_TextBox.Text += " N/A";
+                    Weight_TextBox.Text += " 294u";
+                    MeltingPoint_TextBox.Text += " N/A";
+                    BoilingPoint_TextBox.Text += " N/A";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 2010";
+                    break;
+                case VirtualChem_MainMenu.Element.Oganesson:
+                    Series_TextBox.Text += " N/A";
+                    Weight_TextBox.Text += " 294u";
+                    MeltingPoint_TextBox.Text += " N/A";
+                    BoilingPoint_TextBox.Text += " N/A";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 2006";
+                    break;
             }
         }
 
