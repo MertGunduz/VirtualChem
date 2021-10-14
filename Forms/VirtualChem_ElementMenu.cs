@@ -845,6 +845,126 @@ namespace VirtualChem.Forms
                     Radius_TextBox.Text += " 217pm";
                     Discovered_TextBox.Text += " 1907";
                     break;
+                case VirtualChem_MainMenu.Element.Actinium:
+                    Series_TextBox.Text += " Actinoids";
+                    Weight_TextBox.Text += " 227u";
+                    MeltingPoint_TextBox.Text += " 1,050 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 3,200 Degree Celcius";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1899";
+                    break;
+                case VirtualChem_MainMenu.Element.Thorium:
+                    Series_TextBox.Text += " Actinoids";
+                    Weight_TextBox.Text += " 232.0377u";
+                    MeltingPoint_TextBox.Text += " 1,750 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 4,820 Degree Celcius";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1829";
+                    break;
+                case VirtualChem_MainMenu.Element.Protactinium:
+                    Series_TextBox.Text += " Actinoids";
+                    Weight_TextBox.Text += " 231.03588u";
+                    MeltingPoint_TextBox.Text += " 1,572 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 4,000 Degree Celcius";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1913";
+                    break;
+                case VirtualChem_MainMenu.Element.Uranium:
+                    Series_TextBox.Text += " Actinoids";
+                    Weight_TextBox.Text += " 238.02891u";
+                    MeltingPoint_TextBox.Text += " 1,135 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 3,900 Degree Celcius";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1789";
+                    break;
+                case VirtualChem_MainMenu.Element.Neptunium:
+                    Series_TextBox.Text += " Actinoids";
+                    Weight_TextBox.Text += " 237u";
+                    MeltingPoint_TextBox.Text += " 644 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 4,000 Degree Celcius";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1940";
+                    break;
+                case VirtualChem_MainMenu.Element.Plutonium:
+                    Series_TextBox.Text += " Actinoids";
+                    Weight_TextBox.Text += " 244u";
+                    MeltingPoint_TextBox.Text += " 640 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 3,230 Degree Celcius";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1940";
+                    break;
+                case VirtualChem_MainMenu.Element.Americium:
+                    Series_TextBox.Text += " Actinoids";
+                    Weight_TextBox.Text += " 243u";
+                    MeltingPoint_TextBox.Text += " 1,176 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 2,011 Degree Celcius";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1944";
+                    break;
+                case VirtualChem_MainMenu.Element.Curium:
+                    Series_TextBox.Text += " Actinoids";
+                    Weight_TextBox.Text += " 247u";
+                    MeltingPoint_TextBox.Text += " 1,345 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 3,110 Degree Celcius";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1944";
+                    break;
+                case VirtualChem_MainMenu.Element.Berkelium:
+                    Series_TextBox.Text += " Actinoids";
+                    Weight_TextBox.Text += " 247u";
+                    MeltingPoint_TextBox.Text += " 1,050 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " N/A";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1949";
+                    break;
+                case VirtualChem_MainMenu.Element.Californium:
+                    Series_TextBox.Text += " Actinoids";
+                    Weight_TextBox.Text += " 251u";
+                    MeltingPoint_TextBox.Text += " 899.9 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " N/A";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1950";
+                    break;
+                case VirtualChem_MainMenu.Element.Einsteinium:
+                    Series_TextBox.Text += " Actinoids";
+                    Weight_TextBox.Text += " 252u";
+                    MeltingPoint_TextBox.Text += " 859.9 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " N/A";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1952";
+                    break;
+                case VirtualChem_MainMenu.Element.Fermium:
+                    Series_TextBox.Text += " Actinoids";
+                    Weight_TextBox.Text += " 257u";
+                    MeltingPoint_TextBox.Text += " 1,500 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " N/A";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1952";
+                    break;
+                case VirtualChem_MainMenu.Element.Mendelevium:
+                    Series_TextBox.Text += " Actinoids";
+                    Weight_TextBox.Text += " 258u";
+                    MeltingPoint_TextBox.Text += " 830 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " N/A";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1955";
+                    break;
+                case VirtualChem_MainMenu.Element.Nobelium:
+                    Series_TextBox.Text += " Actinoids";
+                    Weight_TextBox.Text += " 259u";
+                    MeltingPoint_TextBox.Text += " 830 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " N/A";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1958";
+                    break;
+                case VirtualChem_MainMenu.Element.Lawrencium:
+                    Series_TextBox.Text += " Actinoids";
+                    Weight_TextBox.Text += " 266u";
+                    MeltingPoint_TextBox.Text += " 1,600 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " N/A";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1961";
+                    break;
             }
         }
 
