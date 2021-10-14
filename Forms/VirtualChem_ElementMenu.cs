@@ -477,7 +477,118 @@ namespace VirtualChem.Forms
                     Radius_TextBox.Text += " 208pm";
                     Discovered_TextBox.Text += " 1923";
                     break;
-
+                case VirtualChem_MainMenu.Element.Tantalum:
+                    Series_TextBox.Text += " Transition Metals";
+                    Weight_TextBox.Text += " 180.94788u";
+                    MeltingPoint_TextBox.Text += " 3,017 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 5,458 Degree Celcius";
+                    Radius_TextBox.Text += " 200pm";
+                    Discovered_TextBox.Text += " 1802";
+                    break;
+                case VirtualChem_MainMenu.Element.Tungsten:
+                    Series_TextBox.Text += " Transition Metals";
+                    Weight_TextBox.Text += " 183.84u";
+                    MeltingPoint_TextBox.Text += " 3,422 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 5,555 Degree Celcius";
+                    Radius_TextBox.Text += " 193pm";
+                    Discovered_TextBox.Text += " 1783";
+                    break;
+                case VirtualChem_MainMenu.Element.Rhenium:
+                    Series_TextBox.Text += " Transition Metals";
+                    Weight_TextBox.Text += " 186.207u";
+                    MeltingPoint_TextBox.Text += " 3,186 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 5,596 Degree Celcius";
+                    Radius_TextBox.Text += " 188pm";
+                    Discovered_TextBox.Text += " 1925";
+                    break;
+                case VirtualChem_MainMenu.Element.Osmium:
+                    Series_TextBox.Text += " Transition Metals";
+                    Weight_TextBox.Text += " 190.23u";
+                    MeltingPoint_TextBox.Text += " 3,033 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 5,012 Degree Celcius";
+                    Radius_TextBox.Text += " 185pm";
+                    Discovered_TextBox.Text += " 1803";
+                    break;
+                case VirtualChem_MainMenu.Element.Iridium:
+                    Series_TextBox.Text += " Transition Metals";
+                    Weight_TextBox.Text += " 192.217u";
+                    MeltingPoint_TextBox.Text += " 2,466 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 4,428 Degree Celcius";
+                    Radius_TextBox.Text += " 180pm";
+                    Discovered_TextBox.Text += " 1803";
+                    break;
+                case VirtualChem_MainMenu.Element.Platinum:
+                    Series_TextBox.Text += " Transition Metals";
+                    Weight_TextBox.Text += " 195.084u";
+                    MeltingPoint_TextBox.Text += " 1,768 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 3,825 Degree Celcius";
+                    Radius_TextBox.Text += " 177pm";
+                    Discovered_TextBox.Text += " 1735";
+                    break;
+                case VirtualChem_MainMenu.Element.Gold:
+                    Series_TextBox.Text += " Transition Metals";
+                    Weight_TextBox.Text += " 196.966569u";
+                    MeltingPoint_TextBox.Text += " 1,064 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 2,856 Degree Celcius";
+                    Radius_TextBox.Text += " 174pm";
+                    Discovered_TextBox.Text += " 2500 BCE";
+                    break;
+                case VirtualChem_MainMenu.Element.Mercury:
+                    Series_TextBox.Text += " Transition Metals";
+                    Weight_TextBox.Text += " 200.59u";
+                    MeltingPoint_TextBox.Text += " -38.830 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 356.73 Degree Celcius";
+                    Radius_TextBox.Text += " 171pm";
+                    Discovered_TextBox.Text += " 1500 BCE";
+                    break;
+                case VirtualChem_MainMenu.Element.Thallium:
+                    Series_TextBox.Text += " Post-Transition Metals";
+                    Weight_TextBox.Text += " 204.38u";
+                    MeltingPoint_TextBox.Text += " 304 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 1,473 Degree Celcius";
+                    Radius_TextBox.Text += " 156pm";
+                    Discovered_TextBox.Text += " 1861";
+                    break;
+                case VirtualChem_MainMenu.Element.Lead:
+                    Series_TextBox.Text += " Post-Transition Metals";
+                    Weight_TextBox.Text += " 207.2u";
+                    MeltingPoint_TextBox.Text += " 327 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 1,749 Degree Celcius";
+                    Radius_TextBox.Text += " 154pm";
+                    Discovered_TextBox.Text += " 4000 BCE";
+                    break;
+                case VirtualChem_MainMenu.Element.Bismuth:
+                    Series_TextBox.Text += " Post-Transition Metals";
+                    Weight_TextBox.Text += " 208.98040u";
+                    MeltingPoint_TextBox.Text += " 271.3 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 1,564 Degree Celcius";
+                    Radius_TextBox.Text += " 143pm";
+                    Discovered_TextBox.Text += " 1400";
+                    break;
+                case VirtualChem_MainMenu.Element.Polonium:
+                    Series_TextBox.Text += " Post-Transition Metals";
+                    Weight_TextBox.Text += " 209u";
+                    MeltingPoint_TextBox.Text += " 255 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 961.9 Degree Celcius";
+                    Radius_TextBox.Text += " 135pm";
+                    Discovered_TextBox.Text += " 1898";
+                    break;
+                case VirtualChem_MainMenu.Element.Astatine:
+                    Series_TextBox.Text += " Metalloids";
+                    Weight_TextBox.Text += " 210u";
+                    MeltingPoint_TextBox.Text += " 302 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 350 Degree Celcius";
+                    Radius_TextBox.Text += " 127pm";
+                    Discovered_TextBox.Text += " 1940";
+                    break;
+                case VirtualChem_MainMenu.Element.Radon:
+                    Series_TextBox.Text += " Noble Gases";
+                    Weight_TextBox.Text += " 222u";
+                    MeltingPoint_TextBox.Text += " -71.1 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " -61.85 Degree Celcius";
+                    Radius_TextBox.Text += " 120pm";
+                    Discovered_TextBox.Text += " 1900";
+                    break;
             }
         }
 
