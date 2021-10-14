@@ -725,6 +725,126 @@ namespace VirtualChem.Forms
                     Radius_TextBox.Text += " N/A";
                     Discovered_TextBox.Text += " 2006";
                     break;
+                case VirtualChem_MainMenu.Element.Lanthanum:
+                    Series_TextBox.Text += " Lanthanoids";
+                    Weight_TextBox.Text += " 138.90547u";
+                    MeltingPoint_TextBox.Text += " 919.9 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 3,646 Degree Celcius";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1839";
+                    break;
+                case VirtualChem_MainMenu.Element.Cerium:
+                    Series_TextBox.Text += " Lanthanoids";
+                    Weight_TextBox.Text += " 140.116u";
+                    MeltingPoint_TextBox.Text += " 797.9 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 3,360 Degree Celcius";
+                    Radius_TextBox.Text += " N/A";
+                    Discovered_TextBox.Text += " 1803";
+                    break;
+                case VirtualChem_MainMenu.Element.Praseodymium:
+                    Series_TextBox.Text += " Lanthanoids";
+                    Weight_TextBox.Text += " 140.90766u";
+                    MeltingPoint_TextBox.Text += " 930.9 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 3,290 Degree Celcius";
+                    Radius_TextBox.Text += " 247pm";
+                    Discovered_TextBox.Text += " 1885";
+                    break;
+                case VirtualChem_MainMenu.Element.Neodymium:
+                    Series_TextBox.Text += " Lanthanoids";
+                    Weight_TextBox.Text += " 144.242u";
+                    MeltingPoint_TextBox.Text += " 1,021 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 3,100 Degree Celcius";
+                    Radius_TextBox.Text += " 206pm";
+                    Discovered_TextBox.Text += " 1885";
+                    break;
+                case VirtualChem_MainMenu.Element.Promethium:
+                    Series_TextBox.Text += " Lanthanoids";
+                    Weight_TextBox.Text += " 145u";
+                    MeltingPoint_TextBox.Text += " 1,100 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 3,000 Degree Celcius";
+                    Radius_TextBox.Text += " 205pm";
+                    Discovered_TextBox.Text += " 1945";
+                    break;
+                case VirtualChem_MainMenu.Element.Samarium:
+                    Series_TextBox.Text += " Lanthanoids";
+                    Weight_TextBox.Text += " 150.36u";
+                    MeltingPoint_TextBox.Text += " 1,072 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 1,803 Degree Celcius";
+                    Radius_TextBox.Text += " 238pm";
+                    Discovered_TextBox.Text += " 1879";
+                    break;
+                case VirtualChem_MainMenu.Element.Europium:
+                    Series_TextBox.Text += " Lanthanoids";
+                    Weight_TextBox.Text += " 151.964u";
+                    MeltingPoint_TextBox.Text += " 821 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 1,500 Degree Celcius";
+                    Radius_TextBox.Text += " 231pm";
+                    Discovered_TextBox.Text += " 1901";
+                    break;
+                case VirtualChem_MainMenu.Element.Gadolinium:
+                    Series_TextBox.Text += " Lanthanoids";
+                    Weight_TextBox.Text += " 157.25u";
+                    MeltingPoint_TextBox.Text += " 1,313 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 3,250 Degree Celcius";
+                    Radius_TextBox.Text += " 233pm";
+                    Discovered_TextBox.Text += " 1880";
+                    break;
+                case VirtualChem_MainMenu.Element.Terbium:
+                    Series_TextBox.Text += " Lanthanoids";
+                    Weight_TextBox.Text += " 158.92535u";
+                    MeltingPoint_TextBox.Text += " 1,356 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 3,230 Degree Celcius";
+                    Radius_TextBox.Text += " 225pm";
+                    Discovered_TextBox.Text += " 1843";
+                    break;
+                case VirtualChem_MainMenu.Element.Dysprosium:
+                    Series_TextBox.Text += " Lanthanoids";
+                    Weight_TextBox.Text += " 162.500u";
+                    MeltingPoint_TextBox.Text += " 1,412 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 2,567 Degree Celcius";
+                    Radius_TextBox.Text += " 228pm";
+                    Discovered_TextBox.Text += " 1886";
+                    break;
+                case VirtualChem_MainMenu.Element.Holmium:
+                    Series_TextBox.Text += " Lanthanoids";
+                    Weight_TextBox.Text += " 164.93033u";
+                    MeltingPoint_TextBox.Text += " 1,474 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 2,700 Degree Celcius";
+                    Radius_TextBox.Text += " 226pm";
+                    Discovered_TextBox.Text += " 1878";
+                    break;
+                case VirtualChem_MainMenu.Element.Erbium:
+                    Series_TextBox.Text += " Lanthanoids";
+                    Weight_TextBox.Text += " 167.259u";
+                    MeltingPoint_TextBox.Text += " 1,497 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 2,868 Degree Celcius";
+                    Radius_TextBox.Text += " 226pm";
+                    Discovered_TextBox.Text += " 1842";
+                    break;
+                case VirtualChem_MainMenu.Element.Thulium:
+                    Series_TextBox.Text += " Lanthanoids";
+                    Weight_TextBox.Text += " 168.93422u";
+                    MeltingPoint_TextBox.Text += " 1,545 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 1,950 Degree Celcius";
+                    Radius_TextBox.Text += " 222pm";
+                    Discovered_TextBox.Text += " 1879";
+                    break;
+                case VirtualChem_MainMenu.Element.Ytterbium:
+                    Series_TextBox.Text += " Lanthanoids";
+                    Weight_TextBox.Text += " 173.045u";
+                    MeltingPoint_TextBox.Text += " 818 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 1,196 Degree Celcius";
+                    Radius_TextBox.Text += " 222pm";
+                    Discovered_TextBox.Text += " 1878";
+                    break;
+                case VirtualChem_MainMenu.Element.Lutetium:
+                    Series_TextBox.Text += " Lanthanoids";
+                    Weight_TextBox.Text += " 174.9668u";
+                    MeltingPoint_TextBox.Text += " 1,663 Degree Celcius";
+                    BoilingPoint_TextBox.Text += " 3,402 Degree Celcius";
+                    Radius_TextBox.Text += " 217pm";
+                    Discovered_TextBox.Text += " 1907";
+                    break;
             }
         }
 
