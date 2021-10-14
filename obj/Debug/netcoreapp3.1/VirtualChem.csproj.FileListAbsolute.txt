@@ -1,4 +1,3 @@
-C:\Users\u\source\repos\VirtualChem\obj\Debug\netcoreapp3.1\VirtualChem.csproj.AssemblyReference.cache
 C:\Users\u\source\repos\VirtualChem\obj\Debug\netcoreapp3.1\VirtualChem.Forms.VirtualChem_AwakeMenu.resources
 C:\Users\u\source\repos\VirtualChem\obj\Debug\netcoreapp3.1\VirtualChem.csproj.GenerateResource.cache
 C:\Users\u\source\repos\VirtualChem\obj\Debug\netcoreapp3.1\VirtualChem.GeneratedMSBuildEditorConfig.editorconfig
